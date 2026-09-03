@@ -567,7 +567,7 @@
     <div class="card commission-card">
       <div class="chart-head">
         <h2>Tabela de comissionamento</h2>
-        <div class="brand-sub" style="margin:0;">Total vendido por vendedora + 1/3 da venda do Site Oficial em cada mês</div>
+        <div class="brand-sub" style="margin:0;">Total vendido por vendedora + 1/3 do Site Direto em cada mês</div>
       </div>
       <div class="table-scroll">
         <table class="commission-table" id="commissionTable"></table>
@@ -1975,8 +1975,9 @@
 
   // Tabela de comissionamento: para cada mês do ano selecionado (mesmo
   // seletor do gráfico "Vendas por mês"), soma o total vendido por cada
-  // vendedora (todas as origens, Pago) mais 1/3 do valor cadastrado em
-  // "Vendas do Site" naquele mês (dividido igualmente entre as três).
+  // vendedora (todas as origens, Pago) mais 1/3 do "Site Direto" daquele mês
+  // (o valor do site já descontado do que foi atribuído às vendedoras via
+  // origem diferente de "Evento" — mesmo cálculo do KPI "Vendas do Site").
   function renderCommissionTable(){
     var host = document.getElementById("commissionTable");
     if(!host) return;
@@ -1987,7 +1988,10 @@
     for(var m=1; m<=12; m++){
       var totals = vendorTotals(year, m);
       var site = siteVendaTotal(year, m);
-      var siteShare = site / 3;
+      var outros = vendorOutrosTotals(year, m);
+      var outrosSum = VENDORS.reduce(function(sum, v){ return sum + outros[v.key]; }, 0);
+      var siteDireto = site - outrosSum;
+      var siteShare = siteDireto / 3;
       var rowVals = {};
       var rowTotal = 0;
       VENDORS.forEach(function(v){
