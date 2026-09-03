@@ -18,7 +18,23 @@
       "updatedAt": "2026-09-03T17:04:12.319Z",
       "compartilhado": true,
       "vendedoraFinalizou": "gisele"
+    },
+    {
+      "id": "rmtls0geqpmbba3",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-03T17:05:38.066Z",
+      "dataAtendimento": "2026-09-03",
+      "nomeCliente": "jorge",
+      "contatoCliente": "54991064961",
+      "origem": "Instagram",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "ferrari modena",
+      "dataVenda": "2026-09-03",
+      "valorVenda": "200",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
-  "updatedAt": "2026-09-03T17:05:12.729Z"
+  "updatedAt": "2026-09-03T17:05:38.501Z"
 }
