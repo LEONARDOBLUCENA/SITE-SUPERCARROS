@@ -2,7 +2,7 @@
   "records": [
     {
       "id": "rmtlrjlptie7ylo",
-      "vendedora": "bruna",
+      "vendedora": "gisele",
       "createdAt": "2026-09-03T16:52:31.793Z",
       "dataAtendimento": "2026-09-03",
       "nomeCliente": "leonardo",
@@ -13,12 +13,12 @@
       "dataVenda": "2026-09-03",
       "valorVenda": "500",
       "numeroPedido": "4365y6",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "compartilhado": true,
       "vendedoraFinalizou": "gisele",
-      "updatedAt": "2026-09-03T16:52:54.087Z"
+      "updatedAt": "2026-09-03T16:55:36.759Z"
     }
   ],
-  "updatedAt": "2026-09-03T16:52:54.088Z"
+  "updatedAt": "2026-09-03T16:55:36.759Z"
 }
