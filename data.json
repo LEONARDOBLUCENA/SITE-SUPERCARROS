@@ -8,15 +8,15 @@
       "nomeCliente": "leonardo",
       "contatoCliente": "54991064961",
       "origem": "Instagram",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "ferrari modena",
       "dataVenda": "2026-09-03",
       "valorVenda": "1000",
       "numeroPedido": "4365y6",
       "statusPagamento": "Pendente",
       "observacao": "",
-      "updatedAt": "2026-09-03T13:32:52.670Z"
+      "updatedAt": "2026-09-03T13:59:08.714Z"
     }
   ],
-  "updatedAt": "2026-09-03T13:32:52.670Z"
+  "updatedAt": "2026-09-03T13:59:08.714Z"
 }
