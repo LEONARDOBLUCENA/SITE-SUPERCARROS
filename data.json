@@ -1,24 +1,4 @@
 {
-  "records": [
-    {
-      "id": "rmtlke56agr87co",
-      "vendedora": "gisele",
-      "createdAt": "2026-09-03T13:32:19.762Z",
-      "dataAtendimento": "2026-09-03",
-      "nomeCliente": "leonardo",
-      "contatoCliente": "54991064961",
-      "origem": "Instagram",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "ferrari modena",
-      "dataVenda": "2026-09-03",
-      "valorVenda": "1000",
-      "numeroPedido": "4365y6",
-      "statusPagamento": "Pago",
-      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
-      "updatedAt": "2026-09-03T16:50:01.304Z",
-      "compartilhado": true,
-      "vendedoraFinalizou": "gisele"
-    }
-  ],
-  "updatedAt": "2026-09-03T16:50:01.305Z"
+  "records": [],
+  "updatedAt": "2026-09-03T16:50:50.776Z"
 }
