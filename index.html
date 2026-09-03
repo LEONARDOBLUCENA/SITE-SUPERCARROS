@@ -310,7 +310,7 @@
   .filter-label{ font-size:11px; color:var(--text-muted); text-transform:uppercase; letter-spacing:.04em; font-weight:700; margin-right:2px;}
 
   .kpi-row{ display:grid; grid-template-columns:repeat(3, 1fr); gap:14px; margin-bottom:20px; }
-  .kpi-row-secondary{ display:grid; grid-template-columns:1fr 2fr; gap:14px; margin-bottom:20px; }
+  .kpi-row-secondary{ display:grid; grid-template-columns:1fr 1.4fr 1fr; gap:14px; margin-bottom:20px; }
   .site-kpi-card{
     background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:18px 18px 16px;
     box-shadow:var(--shadow); position:relative; overflow:hidden;
@@ -544,9 +544,9 @@
       </div>
     </div>
 
-    <div class="kpi-row" id="kpiRow"></div>
-
     <div class="kpi-row-secondary" id="kpiRowSecondary"></div>
+
+    <div class="kpi-row" id="kpiRow"></div>
 
     <div class="card rank-strip" id="rankStrip"></div>
 
@@ -1850,12 +1850,13 @@
     var outrosSum = VENDORS.reduce(function(sum, v){ return sum + outros[v.key]; }, 0);
     var siteDireto = siteTotal - outrosSum;
     var negativo = siteDireto < 0;
+    var vendaTotal = siteTotal + eventos;
 
-    var eventosCard =
+    var vendaTotalCard =
       '<div class="site-kpi-card">' +
-        '<div class="site-kpi-top"><span class="site-kpi-title">Eventos</span></div>' +
-        '<div class="site-kpi-value num">' + fmtBRL(eventos) + '</div>' +
-        '<div class="brand-sub" style="margin-top:4px;">Soma das vendas das vendedoras com origem "Evento"</div>' +
+        '<div class="site-kpi-top"><span class="site-kpi-title">Venda Total</span></div>' +
+        '<div class="site-kpi-value num">' + fmtBRL(vendaTotal) + '</div>' +
+        '<div class="brand-sub" style="margin-top:4px;">Vendas do Site + Eventos</div>' +
       '</div>';
 
     var siteCard =
@@ -1871,7 +1872,14 @@
         (negativo ? '<div class="site-kpi-warn">⚠ As vendas das vendedoras (origem "Outros") somam mais do que o valor cadastrado para o site neste período — confira os lançamentos ou o cadastro de vendas do site.</div>' : '') +
       '</div>';
 
-    host.innerHTML = eventosCard + siteCard;
+    var eventosCard =
+      '<div class="site-kpi-card">' +
+        '<div class="site-kpi-top"><span class="site-kpi-title">Eventos</span></div>' +
+        '<div class="site-kpi-value num">' + fmtBRL(eventos) + '</div>' +
+        '<div class="brand-sub" style="margin-top:4px;">Soma das vendas das vendedoras com origem "Evento"</div>' +
+      '</div>';
+
+    host.innerHTML = vendaTotalCard + siteCard + eventosCard;
   }
 
   function monthlySeries(year){
