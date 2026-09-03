@@ -24,17 +24,17 @@
       "nomeCliente": "jorge",
       "contatoCliente": "54991064961",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "ferrari modena",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-09-03",
+      "valorVenda": "1000",
       "numeroPedido": "",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "compartilhado": true,
       "vendedoraFinalizou": "gisele",
-      "updatedAt": "2026-09-03T17:42:11.792Z"
+      "updatedAt": "2026-09-03T17:43:15.975Z"
     }
   ],
-  "updatedAt": "2026-09-03T17:42:11.792Z"
+  "updatedAt": "2026-09-03T17:43:15.975Z"
 }
