@@ -185,7 +185,18 @@
   .record{
     background:var(--surface); border:1px solid var(--border); border-radius:12px;
     padding:13px 15px; display:grid; grid-template-columns: 1.2fr .9fr .9fr .85fr .85fr auto; gap:12px; align-items:center;
+    position:relative;
   }
+  .record.shared{ padding-left:20px; }
+  .record.shared::before{
+    content:""; position:absolute; left:0; top:9px; bottom:9px; width:4px; border-radius:3px;
+    background:linear-gradient(to bottom, var(--c1) 0 50%, var(--c2) 50% 100%);
+  }
+  .shared-badge{
+    font-size:10px; font-weight:700; padding:2px 8px; border-radius:999px; margin-left:5px;
+    background:var(--surface-3); color:var(--text-soft); white-space:nowrap; display:inline-flex; align-items:center; gap:3px;
+  }
+  .share-note{ display:block; font-size:10.5px; color:var(--text-muted); margin-top:3px; text-align:right; }
   .record .primary{ min-width:0; }
   .record .cliente{ font-weight:700; font-size:13.5px; }
   .record .sub{ font-size:12px; color:var(--text-muted); margin-top:2px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
@@ -333,6 +344,27 @@
   .token-note{ font-size:11px; color:var(--text-muted); margin-top:12px; line-height:1.5; }
   .token-note code{ background:var(--surface-2); padding:1px 5px; border-radius:4px; font-family:"IBM Plex Mono", monospace; }
 
+  .share-card{
+    width:100%; max-width:640px; max-height:82vh; display:flex; flex-direction:column;
+    padding:22px 22px 18px;
+  }
+  .share-head{ display:flex; align-items:flex-start; justify-content:space-between; gap:14px; margin-bottom:14px; }
+  .share-head h3{ font-size:16px; font-weight:700; margin:0 0 3px; }
+  .share-head p{ font-size:12px; color:var(--text-muted); margin:0; max-width:440px; line-height:1.5; }
+  .share-list{ overflow-y:auto; display:flex; flex-direction:column; gap:9px; padding-right:2px; }
+  .share-item{
+    display:grid; grid-template-columns:auto 1fr auto auto; gap:12px; align-items:center;
+    background:var(--surface-2); border:1px solid var(--border); border-radius:11px; padding:11px 13px;
+  }
+  .share-item .who{ display:flex; align-items:center; gap:8px; min-width:0; }
+  .share-item .who-dot{ width:10px; height:10px; border-radius:50%; flex:none; }
+  .share-item .who-name{ font-weight:700; font-size:12.5px; white-space:nowrap; }
+  .share-item .info{ min-width:0; }
+  .share-item .info .cliente{ font-weight:700; font-size:13px; }
+  .share-item .info .sub{ font-size:11.5px; color:var(--text-muted); margin-top:1px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .share-item .valor{ font-weight:700; font-size:13px; white-space:nowrap; }
+  .share-empty{ text-align:center; padding:34px 20px; color:var(--text-muted); font-size:13px; }
+
   .lock-gate{
     display:flex; align-items:center; justify-content:center; min-height:340px;
   }
@@ -409,6 +441,21 @@
       <button type="submit" class="btn btn-primary">Conectar</button>
       <div class="token-note">Precisa de permissão de escrita em <code>Contents</code> no repositório <code>LEONARDOBLUCENA/SITE-SUPERCARROS</code>. Gere em Settings → Developer settings → Personal access tokens.</div>
     </form>
+  </div>
+
+  <div class="token-overlay" id="shareOverlay">
+    <div class="card share-card">
+      <div class="share-head">
+        <div>
+          <h3 data-role="share-title">Atendimento Compartilhado</h3>
+          <p data-role="share-subtitle">Lançamentos de outras vendedoras que ainda não estão com status "Pedido finalizado".</p>
+        </div>
+        <button type="button" class="icon-btn" id="shareCloseBtn" title="Fechar">
+          <svg viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+      <div class="share-list" data-role="share-list"></div>
+    </div>
   </div>
 
   <div id="banners"></div>
@@ -752,6 +799,96 @@
     });
   }
 
+  // ---------------------------------------------------------------------
+  // Atendimento Compartilhado
+  // ---------------------------------------------------------------------
+  var shareContextVendor = null;
+
+  function openShareModal(vendorKey){
+    shareContextVendor = vendorKey;
+    var overlay = document.getElementById("shareOverlay");
+    var v = VENDORS.filter(function(x){ return x.key === vendorKey; })[0];
+    document.querySelector('#shareOverlay [data-role="share-title"]').textContent =
+      "Atendimento Compartilhado — " + (v ? v.name : "");
+    renderShareList();
+    overlay.style.display = "flex";
+  }
+  function closeShareModal(){
+    document.getElementById("shareOverlay").style.display = "none";
+    shareContextVendor = null;
+  }
+
+  function eligibleSharedRecords(vendorKey){
+    return state.records
+      .filter(function(r){
+        return r.vendedora !== vendorKey &&
+          !r.compartilhado &&
+          r.statusAtendimento !== "Pedido finalizado";
+      })
+      .sort(function(a,b){
+        var da = a.dataAtendimento || "", db = b.dataAtendimento || "";
+        return da < db ? 1 : -1;
+      });
+  }
+
+  function renderShareList(){
+    var host = document.querySelector('#shareOverlay [data-role="share-list"]');
+    if(!shareContextVendor){ host.innerHTML = ""; return; }
+    var list = eligibleSharedRecords(shareContextVendor);
+    if(list.length === 0){
+      host.innerHTML = '<div class="share-empty">Nenhum atendimento em aberto de outras vendedoras no momento.</div>';
+      return;
+    }
+    host.innerHTML = list.map(function(r){
+      return (
+      '<div class="share-item" data-id="' + r.id + '">' +
+        '<span class="who-dot" style="background:var(' + vendorVar(r.vendedora) + ')"></span>' +
+        '<div class="info">' +
+          '<div class="cliente">' + escapeHtml(r.nomeCliente || "Sem nome") + '</div>' +
+          '<div class="sub">' + escapeHtml(vendorName(r.vendedora)) + ' · ' + escapeHtml(r.produtoInteresse || "sem produto") + ' · ' +
+            '<span class="status-pill ' + statusAtdClass(r.statusAtendimento) + '" style="padding:1px 6px;font-size:9.5px;">' + escapeHtml(r.statusAtendimento || STATUS_ATENDIMENTO[0]) + '</span>' +
+          '</div>' +
+        '</div>' +
+        '<div class="valor">' + fmtBRL(r.valorVenda) + '</div>' +
+        '<button type="button" class="btn btn-primary" data-action="claim" style="padding:7px 12px;">Assumir</button>' +
+      '</div>');
+    }).join("");
+  }
+
+  function attachShareModal(){
+    document.getElementById("shareCloseBtn").addEventListener("click", closeShareModal);
+    document.getElementById("shareOverlay").addEventListener("click", function(ev){
+      if(ev.target.id === "shareOverlay") closeShareModal();
+    });
+    document.querySelector('#shareOverlay [data-role="share-list"]').addEventListener("click", function(ev){
+      var btn = ev.target.closest('[data-action="claim"]');
+      if(!btn || !shareContextVendor) return;
+      var id = btn.closest(".share-item").getAttribute("data-id");
+      var record = state.records.filter(function(r){ return r.id === id; })[0];
+      if(!record) return;
+      var byKey = shareContextVendor;
+      var byName = vendorName(byKey);
+      var fromName = vendorName(record.vendedora);
+      if(!confirm('Assumir o atendimento de "' + (record.nomeCliente || "cliente") + '" (iniciado por ' + fromName + ')?\n\nO valor será dividido: 40% ' + fromName + ' · 60% ' + byName + '.')) return;
+
+      saveMutation(function(records){
+        return records.map(function(r){
+          if(r.id !== id) return r;
+          var note = "[Compartilhado] " + fromName + " iniciou; " + byName + " finalizou.";
+          return Object.assign({}, r, {
+            compartilhado: true,
+            vendedoraFinalizou: byKey,
+            statusAtendimento: "Pedido finalizado",
+            observacao: r.observacao ? (r.observacao + "\n" + note) : note,
+            updatedAt: new Date().toISOString()
+          });
+        });
+      }, "Atendimento compartilhado: " + fromName + " → " + byName + " (" + (record.nomeCliente||"") + ")").then(function(){
+        closeShareModal();
+      });
+    });
+  }
+
   function disableForms(disabled){
     document.querySelectorAll("form.vendor-form button[type=submit]").forEach(function(b){ b.disabled = disabled; });
   }
@@ -802,6 +939,7 @@
         '<div class="list-head">' +
           '<h2>Lançamentos — ' + v.name + '</h2>' +
           '<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">' +
+            '<button type="button" class="btn btn-secondary" data-role="share-btn">🔗 Atendimento Compartilhado</button>' +
             '<span class="list-count" data-role="count"></span>' +
             '<select class="dash-filters-select" data-role="filter-year"><option value="">Todo o período</option></select>' +
             '<select class="dash-filters-select" data-role="filter-month"><option value="">Todos os meses</option></select>' +
@@ -861,10 +999,34 @@
 
   // Registros do período selecionado (ano/mês) para uma vendedora — usado
   // tanto na lista de lançamentos quanto no resumo por status.
+  function vendorName(key){
+    var v = VENDORS.filter(function(x){ return x.key === key; })[0];
+    return v ? v.name : key;
+  }
+  function vendorVar(key){
+    var v = VENDORS.filter(function(x){ return x.key === key; })[0];
+    return v ? v.varc : "--text-muted";
+  }
+
+  // Valor do lançamento atribuído a uma vendedora — considera a divisão de
+  // Atendimento Compartilhado (40% quem iniciou / 60% quem finalizou).
+  function valorForVendor(r, key){
+    var v = Number(r.valorVenda) || 0;
+    if(!r.compartilhado) return key === r.vendedora ? v : 0;
+    if(key === r.vendedora) return v * 0.4;
+    if(key === r.vendedoraFinalizou) return v * 0.6;
+    return 0;
+  }
+  // Um registro pertence à aba de uma vendedora se ela foi quem iniciou OU,
+  // em caso de atendimento compartilhado, quem finalizou.
+  function belongsToVendor(r, key){
+    return r.vendedora === key || (r.compartilhado && r.vendedoraFinalizou === key);
+  }
+
   function vendorRecordsPeriod(key){
     var f = state.filters[key] || {};
     return state.records.filter(function(r){
-      if(r.vendedora !== key) return false;
+      if(!belongsToVendor(r, key)) return false;
       var d = r.dataVenda || r.dataAtendimento;
       if(f.year){
         if(!d || d.slice(0,4) !== String(f.year)) return false;
@@ -972,18 +1134,27 @@
       return;
     }
     recordsHost.innerHTML = list.map(function(r){
+      var shared = !!(r.compartilhado && r.vendedoraFinalizou);
+      var c1 = vendorVar(r.vendedora);
+      var c2 = shared ? vendorVar(r.vendedoraFinalizou) : c1;
+      var yourPart = "";
+      if(shared){
+        if(v.key === r.vendedora) yourPart = '<span class="share-note">Sua parte (40% · iniciou): ' + fmtBRL(valorForVendor(r, v.key)) + '</span>';
+        else if(v.key === r.vendedoraFinalizou) yourPart = '<span class="share-note">Sua parte (60% · finalizou): ' + fmtBRL(valorForVendor(r, v.key)) + '</span>';
+      }
       return (
-      '<div class="record" data-id="' + r.id + '">' +
+      '<div class="record' + (shared ? ' shared' : '') + '" data-id="' + r.id + '" style="--c1:var(' + c1 + ');--c2:var(' + c2 + ')">' +
         '<div class="primary">' +
-          '<div class="cliente">' + escapeHtml(r.nomeCliente || "Sem nome") + '</div>' +
+          '<div class="cliente">' + escapeHtml(r.nomeCliente || "Sem nome") + (shared ? ' <span class="shared-badge">🔗 Compartilhado</span>' : '') + '</div>' +
           '<div class="sub">' + escapeHtml(r.contatoCliente || "—") + (r.origem ? " · " + escapeHtml(r.origem) : "") + '</div>' +
+          (shared ? '<div class="sub">' + escapeHtml(vendorName(r.vendedora)) + ' iniciou · ' + escapeHtml(vendorName(r.vendedoraFinalizou)) + ' finalizou</div>' : '') +
         '</div>' +
         '<div class="kv"><span class="k">Produto</span><br>' + escapeHtml(r.produtoInteresse || "—") + '</div>' +
         '<div class="kv"><span class="k">Atend. ' + fmtDateBR(r.dataAtendimento) + '</span><br>Pedido ' + escapeHtml(r.numeroPedido || "—") + '</div>' +
         '<span class="status-pill ' + statusAtdClass(r.statusAtendimento) + '">' + escapeHtml(r.statusAtendimento || STATUS_ATENDIMENTO[0]) + '</span>' +
         '<span class="status-pill ' + statusClass(r.statusPagamento) + '">' + escapeHtml(r.statusPagamento || "Pendente") + '</span>' +
         '<div style="display:flex;align-items:center;gap:16px;">' +
-          '<div class="valor">' + fmtBRL(r.valorVenda) + '<span class="d">' + fmtDateBR(r.dataVenda) + '</span></div>' +
+          '<div class="valor">' + fmtBRL(r.valorVenda) + '<span class="d">' + fmtDateBR(r.dataVenda) + '</span>' + yourPart + '</div>' +
           '<div class="record-actions">' +
             '<button type="button" class="icon-btn" data-action="edit" title="Editar">' +
               '<svg viewBox="0 0 24 24" fill="none"><path d="M4 20h4L18.5 9.5a2.1 2.1 0 0 0-3-3L5 17v3Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></svg>' +
@@ -1117,6 +1288,10 @@
         renderVendorPanel(v);
       });
 
+      panel.querySelector('[data-role="share-btn"]').addEventListener("click", function(){
+        openShareModal(v.key);
+      });
+
       setFormDefaults(form);
     });
   }
@@ -1223,9 +1398,12 @@
       var y = d.slice(0,4), m = parseInt(d.slice(5,7),10);
       if(year && y !== String(year)) return;
       if(month && m !== Number(month)) return;
-      if(!totals[r.vendedora]) return;
-      totals[r.vendedora].total += Number(r.valorVenda) || 0;
-      totals[r.vendedora].count += 1;
+      var keys = r.compartilhado ? [r.vendedora, r.vendedoraFinalizou] : [r.vendedora];
+      keys.forEach(function(key){
+        if(!key || !totals[key]) return;
+        totals[key].total += valorForVendor(r, key);
+        totals[key].count += 1;
+      });
     });
     return totals;
   }
@@ -1273,8 +1451,12 @@
       var d = r.dataVenda || r.dataAtendimento;
       if(!d || d.slice(0,4) !== String(year)) return;
       var m = parseInt(d.slice(5,7),10) - 1;
-      if(m < 0 || m > 11 || !series[r.vendedora]) return;
-      series[r.vendedora][m] += Number(r.valorVenda) || 0;
+      if(m < 0 || m > 11) return;
+      var keys = r.compartilhado ? [r.vendedora, r.vendedoraFinalizou] : [r.vendedora];
+      keys.forEach(function(key){
+        if(!key || !series[key]) return;
+        series[key][m] += valorForVendor(r, key);
+      });
     });
     return series;
   }
@@ -1386,6 +1568,7 @@
   attachDashboardHandlers();
   attachLockGates();
   attachTokenGate();
+  attachShareModal();
   refreshLockUI();
   populateDashboardFilters();
 
