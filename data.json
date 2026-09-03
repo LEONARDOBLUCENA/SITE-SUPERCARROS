@@ -31,8 +31,11 @@
       "valorVenda": "",
       "numeroPedido": "OJKHIOJLK",
       "statusPagamento": "Pendente",
-      "observacao": ""
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "compartilhado": true,
+      "vendedoraFinalizou": "gisele",
+      "updatedAt": "2026-09-03T17:10:30.468Z"
     }
   ],
-  "updatedAt": "2026-09-03T17:10:02.255Z"
+  "updatedAt": "2026-09-03T17:10:30.469Z"
 }
