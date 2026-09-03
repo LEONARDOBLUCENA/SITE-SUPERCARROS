@@ -354,6 +354,18 @@
   }
   .rank-chip .dot{ width:9px; height:9px; border-radius:50%; }
 
+  .commission-card{ padding:20px 20px 16px; margin-bottom:20px; }
+  .table-scroll{ overflow-x:auto; margin-top:10px; }
+  .commission-table{ width:100%; border-collapse:collapse; font-size:13px; min-width:520px; }
+  .commission-table th, .commission-table td{ padding:9px 12px; text-align:right; border-bottom:1px solid var(--border); white-space:nowrap; }
+  .commission-table th:first-child, .commission-table td:first-child{ text-align:left; }
+  .commission-table thead th{ font-size:11.5px; font-weight:700; color:var(--text-muted); text-transform:uppercase; letter-spacing:.03em; border-bottom:1px solid var(--border); }
+  .commission-table td.period-cell{ font-weight:600; }
+  .commission-table td.num{ font-variant-numeric:tabular-nums; }
+  .commission-table td.total-cell{ font-weight:800; }
+  .commission-table tfoot td{ border-bottom:none; border-top:2px solid var(--border); font-weight:700; padding-top:11px; }
+  .commission-table td.empty-cell{ text-align:center; color:var(--text-muted); padding:18px 12px; }
+
   .chart-card{ padding:20px 20px 12px; margin-bottom:20px; }
   .chart-head{ display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:6px; flex-wrap:wrap; }
   .chart-head h2{ font-size:14.5px; font-weight:700; margin:0; }
@@ -549,6 +561,16 @@
       <div class="chart-wrap">
         <div class="chart-scroll"><svg class="chart-svg" id="chartSvg" viewBox="0 0 900 300"></svg></div>
         <div class="bar-tooltip" id="barTooltip"></div>
+      </div>
+    </div>
+
+    <div class="card commission-card">
+      <div class="chart-head">
+        <h2>Tabela de comissionamento</h2>
+        <div class="brand-sub" style="margin:0;">Total vendido por vendedora + 1/3 da venda do Site Oficial em cada mês</div>
+      </div>
+      <div class="table-scroll">
+        <table class="commission-table" id="commissionTable"></table>
       </div>
     </div>
   </div>
@@ -1951,16 +1973,74 @@
     return "R$ " + Math.round(v);
   }
 
+  // Tabela de comissionamento: para cada mês do ano selecionado (mesmo
+  // seletor do gráfico "Vendas por mês"), soma o total vendido por cada
+  // vendedora (todas as origens, Pago) mais 1/3 do valor cadastrado em
+  // "Vendas do Site" naquele mês (dividido igualmente entre as três).
+  function renderCommissionTable(){
+    var host = document.getElementById("commissionTable");
+    if(!host) return;
+    var year = document.getElementById("chartYear").value;
+
+    var rows = [];
+    var colTotals = { bruna:0, gisele:0, thabata:0, total:0 };
+    for(var m=1; m<=12; m++){
+      var totals = vendorTotals(year, m);
+      var site = siteVendaTotal(year, m);
+      var siteShare = site / 3;
+      var rowVals = {};
+      var rowTotal = 0;
+      VENDORS.forEach(function(v){
+        var val = totals[v.key].total + siteShare;
+        rowVals[v.key] = val;
+        rowTotal += val;
+      });
+      if(totals.bruna.total === 0 && totals.gisele.total === 0 && totals.thabata.total === 0 && site === 0) continue;
+      rows.push({ mes: m, vals: rowVals, total: rowTotal });
+      VENDORS.forEach(function(v){ colTotals[v.key] += rowVals[v.key]; });
+      colTotals.total += rowTotal;
+    }
+
+    if(!rows.length){
+      host.innerHTML = '<tbody><tr><td class="empty-cell" colspan="5">Nenhum valor lançado para ' + year + '.</td></tr></tbody>';
+      return;
+    }
+
+    var head =
+      '<thead><tr><th>Mês/Ano</th>' +
+      VENDORS.map(function(v){ return '<th>' + v.name + '</th>'; }).join("") +
+      '<th>Total</th></tr></thead>';
+
+    var body = '<tbody>' + rows.map(function(row){
+      return (
+        '<tr><td class="period-cell">' + MESES_LONG[row.mes-1] + '/' + year + '</td>' +
+        VENDORS.map(function(v){ return '<td class="num">' + fmtBRL(row.vals[v.key]) + '</td>'; }).join("") +
+        '<td class="num total-cell">' + fmtBRL(row.total) + '</td></tr>'
+      );
+    }).join("") + '</tbody>';
+
+    var foot =
+      '<tfoot><tr><td>Total ' + year + '</td>' +
+      VENDORS.map(function(v){ return '<td class="num">' + fmtBRL(colTotals[v.key]) + '</td>'; }).join("") +
+      '<td class="num total-cell">' + fmtBRL(colTotals.total) + '</td></tr></tfoot>';
+
+    host.innerHTML = head + body + foot;
+  }
+
   function renderDashboard(){
     populateDashboardFilters();
     renderKpis();
     renderChart();
+    renderCommissionTable();
   }
 
   function attachDashboardHandlers(){
     document.getElementById("kpiYear").addEventListener("change", renderKpis);
     document.getElementById("kpiMonth").addEventListener("change", renderKpis);
-    document.getElementById("chartYear").addEventListener("change", renderChart);
+    document.getElementById("chartYear").addEventListener("change", function(){
+      renderChart();
+      renderCommissionTable();
+    });
   }
 
   // ---------------------------------------------------------------------
