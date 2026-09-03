@@ -1241,10 +1241,12 @@
       '<div class="record' + (shared ? ' shared' : '') + '" data-id="' + r.id + '" style="--c1:var(' + c1 + ');--c2:var(' + c2 + ')">' +
         '<div class="primary">' +
           '<div class="cliente">' + escapeHtml(r.nomeCliente || "Sem nome") + (shared ? ' <span class="shared-badge">🔗 Compartilhado</span>' : '') + '</div>' +
-          '<div class="sub">' + escapeHtml(r.contatoCliente || "—") + (r.origem ? " · " + escapeHtml(r.origem) : "") + '</div>' +
+          '<div class="sub">' + escapeHtml(r.contatoCliente || "—") + '</div>' +
           (shared ? '<div class="sub">' + escapeHtml(vendorName(r.vendedora)) + ' iniciou · ' + escapeHtml(vendorName(r.vendedoraFinalizou)) + ' finalizou</div>' : '') +
         '</div>' +
-        '<div class="kv"><span class="k">Produto</span><br>' + escapeHtml(r.produtoInteresse || "—") + '</div>' +
+        '<div class="kv"><span class="k">Produto</span><br>' + escapeHtml(r.produtoInteresse || "—") +
+          '<br><span class="k" style="margin-top:3px;display:inline-block;">Origem</span> ' + escapeHtml(r.origem || "—") +
+        '</div>' +
         '<div class="kv"><span class="k">Atend. ' + fmtDateBR(r.dataAtendimento) + '</span><br>Pedido ' + escapeHtml(r.numeroPedido || "—") + '</div>' +
         '<span class="status-pill ' + statusAtdClass(r.statusAtendimento) + '">' + escapeHtml(r.statusAtendimento || STATUS_ATENDIMENTO[0]) + '</span>' +
         '<span class="status-pill ' + statusClass(r.statusPagamento) + '">' + escapeHtml(r.statusPagamento || "Pendente") + '</span>' +
