@@ -80,7 +80,7 @@
   button{ font: inherit; }
   input, select, textarea{ font: inherit; color:var(--text); }
 
-  .app{ max-width:1180px; margin:0 auto; padding:22px 20px 64px; }
+  .app{ max-width:1560px; margin:0 auto; padding:22px 20px 64px; }
 
   .topbar{
     display:flex; align-items:center; justify-content:space-between; gap:16px;
@@ -130,6 +130,13 @@
 
   .panel{ display:none; }
   .panel.active{ display:block; }
+  #panel-dashboard.panel.active{ max-width:1180px; margin:0 auto; }
+
+  .vendor-layout{ display:grid; grid-template-columns:1fr 360px; gap:20px; align-items:start; }
+  .vendor-side{ display:flex; flex-direction:column; gap:20px; }
+  @media (max-width:980px){
+    .vendor-layout{ grid-template-columns:1fr; }
+  }
 
   .card{
     background:var(--surface); border:1px solid var(--border); border-radius:14px;
@@ -249,6 +256,21 @@
   .status-tile::before{ content:""; position:absolute; left:0; top:0; bottom:0; width:4px; background:var(--vc); }
   .status-tile .n{ font-family:"Manrope"; font-weight:800; font-size:19px; line-height:1.1; }
   .status-tile .l{ font-size:10.5px; color:var(--text-muted); margin-top:3px; line-height:1.3; }
+
+  .origin-chart-card{ padding:18px 18px 16px; }
+  .origin-toggle{ display:flex; gap:3px; background:var(--surface-2); padding:3px; border-radius:8px; border:1px solid var(--border); flex:none; }
+  .origin-toggle button{
+    padding:5px 10px; border-radius:6px; font-size:11px; font-weight:700; border:1px solid transparent;
+    background:transparent; color:var(--text-soft); cursor:pointer;
+  }
+  .origin-toggle button.active{ background:var(--surface); color:var(--text); box-shadow:var(--shadow); border-color:var(--border); }
+  .origin-rows{ display:flex; flex-direction:column; gap:11px; }
+  .origin-row .top{ display:flex; justify-content:space-between; align-items:baseline; font-size:11.5px; margin-bottom:4px; }
+  .origin-row .label{ color:var(--text-soft); font-weight:600; }
+  .origin-row .value{ font-weight:700; font-variant-numeric:tabular-nums; color:var(--text); }
+  .origin-bar-track{ height:8px; border-radius:5px; background:var(--surface-2); overflow:hidden; }
+  .origin-bar-fill{ height:100%; border-radius:5px; }
+  .origin-empty{ text-align:center; color:var(--text-muted); font-size:12px; padding:14px 0; }
 
   .dash-filters-select{
     background:var(--surface); border:1px solid var(--border-strong); border-radius:8px;
@@ -461,17 +483,17 @@
   <div id="banners"></div>
 
   <div class="tabs" role="tablist">
-    <div class="tab active" data-tab="bruna" role="tab"><span class="swatch" style="background:var(--bruna)"></span>Vendas Bruna</div>
+    <div class="tab" data-tab="bruna" role="tab"><span class="swatch" style="background:var(--bruna)"></span>Vendas Bruna</div>
     <div class="tab" data-tab="gisele" role="tab"><span class="swatch" style="background:var(--gisele)"></span>Vendas Gisele</div>
     <div class="tab" data-tab="thabata" role="tab"><span class="swatch" style="background:var(--thabata)"></span>Vendas Thabata</div>
-    <div class="tab" data-tab="dashboard" role="tab"><span class="swatch" style="background:var(--text-muted)"></span>Dashboard</div>
+    <div class="tab active" data-tab="dashboard" role="tab"><span class="swatch" style="background:var(--text-muted)"></span>Dashboard</div>
   </div>
 
   <!-- VENDOR PANELS (template rendered 3x by JS) -->
   <div id="vendorPanels"></div>
 
   <!-- DASHBOARD -->
-  <div class="panel" id="panel-dashboard">
+  <div class="panel active" id="panel-dashboard">
     <div class="dash-head">
       <div>
         <h1 class="display" style="font-size:18px;font-weight:800;margin:0;">Painel geral</h1>
@@ -542,6 +564,7 @@
     { key:"gisele",  name:"Gisele",  varc:"--gisele",  initials:"G" },
     { key:"thabata", name:"Thabata", varc:"--thabata", initials:"T" }
   ];
+  var ORIGENS = ["Prime Gourmet","Cara de Mau","Hard Rock","Carrinho Abandonado","Evento","Upgrade Site","Outro"];
   var STATUS_ATENDIMENTO = [
     "Primeiro atendimento",
     "Em negociação",
@@ -560,7 +583,8 @@
     loaded: false,
     editing: {}, // vendorKey -> record id being edited
     search: {},  // vendorKey -> search string
-    filters: {}  // vendorKey -> { year, month }
+    filters: {}, // vendorKey -> { year, month, origem }
+    originMetric: {} // vendorKey -> "count" | "valor"
   };
 
   // ---------------------------------------------------------------------
@@ -902,7 +926,7 @@
     var host = document.getElementById("vendorPanels");
     var html = VENDORS.map(function(v){
       return (
-      '<div class="panel' + (v.key === VENDORS[0].key ? " active" : "") + '" id="panel-' + v.key + '">' +
+      '<div class="panel" id="panel-' + v.key + '">' +
         lockGateHtml(v.key, "Vendas " + v.name, "Digite a senha da aba de " + v.name + " para ver e lançar as vendas.") +
         '<div data-role="content" style="display:none;">' +
         '<form class="card form-card vendor-form" data-vendor="' + v.key + '">' +
@@ -914,7 +938,7 @@
             field("Data de atendimento", "dataAtendimento", "date", true) +
             field("Nome do cliente", "nomeCliente", "text", true, "Ex: Marcos Ribeiro", "span-2") +
             field("Contato do cliente", "contatoCliente", "text", true, "(54) 9 9999-0000") +
-            selectField("Origem", "origem", ["Instagram","Facebook","WhatsApp","Indicação","Site","Loja física","OLX","Webmotors","iCarros","Outro"], false, "span-2") +
+            selectField("Origem", "origem", ORIGENS, false, "span-2") +
             selectField("Status do atendimento", "statusAtendimento", STATUS_ATENDIMENTO, false, "span-2") +
             field("Produto de interesse", "produtoInteresse", "text", false, "Ex: HB20 2022", "span-2") +
             field("Data da venda", "dataVenda", "date", false) +
@@ -931,24 +955,41 @@
             '</button>' +
           '</div>' +
         '</form>' +
-        '<div class="card summary-card">' +
-          '<div class="list-head" style="margin-bottom:12px;">' +
-            '<h2>Atendimentos por status — ' + v.name + '</h2>' +
-            '<span class="list-count" data-role="summary-period"></span>' +
+        '<div class="vendor-layout">' +
+          '<div class="vendor-main">' +
+            '<div class="list-head">' +
+              '<h2>Lançamentos — ' + v.name + '</h2>' +
+              '<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">' +
+                '<button type="button" class="btn btn-secondary" data-role="share-btn">🔗 Atendimento Compartilhado</button>' +
+                '<span class="list-count" data-role="count"></span>' +
+                '<select class="dash-filters-select" data-role="filter-year"><option value="">Todo o período</option></select>' +
+                '<select class="dash-filters-select" data-role="filter-month"><option value="">Todos os meses</option></select>' +
+                '<select class="dash-filters-select" data-role="filter-origem"><option value="">Todas as origens</option></select>' +
+                '<input class="search" type="search" placeholder="Buscar cliente, pedido, produto…" data-role="search">' +
+              '</div>' +
+            '</div>' +
+            '<div class="records" data-role="records"></div>' +
           '</div>' +
-          '<div class="status-tiles" data-role="status-tiles"></div>' +
-        '</div>' +
-        '<div class="list-head">' +
-          '<h2>Lançamentos — ' + v.name + '</h2>' +
-          '<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">' +
-            '<button type="button" class="btn btn-secondary" data-role="share-btn">🔗 Atendimento Compartilhado</button>' +
-            '<span class="list-count" data-role="count"></span>' +
-            '<select class="dash-filters-select" data-role="filter-year"><option value="">Todo o período</option></select>' +
-            '<select class="dash-filters-select" data-role="filter-month"><option value="">Todos os meses</option></select>' +
-            '<input class="search" type="search" placeholder="Buscar cliente, pedido, produto…" data-role="search">' +
+          '<div class="vendor-side">' +
+            '<div class="card summary-card">' +
+              '<div class="list-head" style="margin-bottom:12px;">' +
+                '<h2>Atendimentos por status</h2>' +
+                '<span class="list-count" data-role="summary-period"></span>' +
+              '</div>' +
+              '<div class="status-tiles" data-role="status-tiles"></div>' +
+            '</div>' +
+            '<div class="card origin-chart-card">' +
+              '<div class="list-head" style="margin-bottom:10px;">' +
+                '<h2>Lançamentos por origem</h2>' +
+                '<div class="origin-toggle" data-role="origin-toggle">' +
+                  '<button type="button" data-metric="count" class="active">Qtd.</button>' +
+                  '<button type="button" data-metric="valor">R$</button>' +
+                '</div>' +
+              '</div>' +
+              '<div class="origin-rows" data-role="origin-rows"></div>' +
+            '</div>' +
           '</div>' +
         '</div>' +
-        '<div class="records" data-role="records"></div>' +
         '</div>' +
       '</div>'
       );
@@ -1036,6 +1077,9 @@
       if(f.month){
         if(!d || parseInt(d.slice(5,7),10) !== Number(f.month)) return false;
       }
+      if(f.origem){
+        if((r.origem || "") !== f.origem) return false;
+      }
       return true;
     });
   }
@@ -1072,6 +1116,7 @@
     var panel = document.getElementById("panel-" + v.key);
     var yearSel = panel.querySelector('[data-role="filter-year"]');
     var monthSel = panel.querySelector('[data-role="filter-month"]');
+    var origemSel = panel.querySelector('[data-role="filter-origem"]');
     var f = state.filters[v.key] || {};
     var years = vendorAvailableYears(v.key);
 
@@ -1081,8 +1126,12 @@
     monthSel.innerHTML = '<option value="">Todos os meses</option>' + MESES_LONG.map(function(m,i){
       return '<option value="'+(i+1)+'">'+m+'</option>';
     }).join("");
+    origemSel.innerHTML = '<option value="">Todas as origens</option>' + ORIGENS.map(function(o){
+      return '<option value="'+escapeHtml(o)+'">'+escapeHtml(o)+'</option>';
+    }).join("");
     yearSel.value = f.year || "";
     monthSel.value = f.month || "";
+    origemSel.value = f.origem || "";
   }
 
   function statusClass(s){
@@ -1122,10 +1171,54 @@
     }).join("");
   }
 
+  function renderOriginChart(v){
+    var panel = document.getElementById("panel-" + v.key);
+    var host = panel.querySelector('[data-role="origin-rows"]');
+    var records = vendorRecordsPeriod(v.key);
+    var metric = state.originMetric[v.key] || "count";
+
+    var counts = {}, values = {};
+    ORIGENS.forEach(function(o){ counts[o] = 0; values[o] = 0; });
+    var semOrigemCount = 0, semOrigemValor = 0;
+    records.forEach(function(r){
+      var val = valorForVendor(r, v.key);
+      if(r.origem && ORIGENS.indexOf(r.origem) !== -1){
+        counts[r.origem]++;
+        values[r.origem] += val;
+      } else {
+        semOrigemCount++;
+        semOrigemValor += val;
+      }
+    });
+
+    var rows = ORIGENS.map(function(o){ return { label:o, count:counts[o], valor:values[o] }; });
+    if(semOrigemCount > 0) rows.push({ label:"Sem origem", count:semOrigemCount, valor:semOrigemValor });
+
+    if(records.length === 0){
+      host.innerHTML = '<div class="origin-empty">Nenhum lançamento no período/filtro selecionado.</div>';
+      return;
+    }
+
+    var max = Math.max.apply(null, rows.map(function(r){ return metric === "count" ? r.count : r.valor; }).concat([1]));
+
+    host.innerHTML = rows.map(function(r){
+      var val = metric === "count" ? r.count : r.valor;
+      var pct = max > 0 ? Math.max((val / max) * 100, val > 0 ? 3 : 0) : 0;
+      var display = metric === "count" ? String(r.count) : fmtBRL(r.valor);
+      return (
+        '<div class="origin-row">' +
+          '<div class="top"><span class="label">' + escapeHtml(r.label) + '</span><span class="value num">' + display + '</span></div>' +
+          '<div class="origin-bar-track"><div class="origin-bar-fill" style="width:' + pct + '%;background:var(' + v.varc + ')"></div></div>' +
+        '</div>'
+      );
+    }).join("");
+  }
+
   function renderVendorPanel(v){
     var panel = document.getElementById("panel-" + v.key);
     populateVendorFilters(v);
     renderStatusSummary(v);
+    renderOriginChart(v);
     var list = recordsForVendor(v.key);
     panel.querySelector('[data-role="count"]').textContent =
       list.length + (list.length === 1 ? " lançamento" : " lançamentos");
@@ -1291,6 +1384,21 @@
         state.filters[v.key] = state.filters[v.key] || {};
         state.filters[v.key].month = ev.target.value;
         renderVendorPanel(v);
+      });
+      panel.querySelector('[data-role="filter-origem"]').addEventListener("change", function(ev){
+        state.filters[v.key] = state.filters[v.key] || {};
+        state.filters[v.key].origem = ev.target.value;
+        renderVendorPanel(v);
+      });
+
+      panel.querySelector('[data-role="origin-toggle"]').addEventListener("click", function(ev){
+        var btn = ev.target.closest("button[data-metric]");
+        if(!btn) return;
+        state.originMetric[v.key] = btn.dataset.metric;
+        panel.querySelectorAll('[data-role="origin-toggle"] button').forEach(function(b){
+          b.classList.toggle("active", b === btn);
+        });
+        renderOriginChart(v);
       });
 
       panel.querySelector('[data-role="share-btn"]').addEventListener("click", function(){
