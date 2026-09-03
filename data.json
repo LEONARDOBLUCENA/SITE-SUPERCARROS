@@ -25,7 +25,7 @@
       "nomeCliente": "jorge",
       "contatoCliente": "54991064961",
       "origem": "Facebook",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "cLIFORNIA",
       "dataVenda": "2026-09-03",
       "valorVenda": "1000",
@@ -34,8 +34,8 @@
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "compartilhado": true,
       "vendedoraFinalizou": "gisele",
-      "updatedAt": "2026-09-03T17:11:11.545Z"
+      "updatedAt": "2026-09-03T17:11:20.363Z"
     }
   ],
-  "updatedAt": "2026-09-03T17:11:11.545Z"
+  "updatedAt": "2026-09-03T17:11:20.363Z"
 }
