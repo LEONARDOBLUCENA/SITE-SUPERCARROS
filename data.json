@@ -33,9 +33,11 @@
       "valorVenda": "1000",
       "numeroPedido": "",
       "statusPagamento": "Pendente",
-      "observacao": "",
-      "updatedAt": "2026-09-03T17:03:21.629Z"
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "updatedAt": "2026-09-03T17:03:51.110Z",
+      "compartilhado": true,
+      "vendedoraFinalizou": "gisele"
     }
   ],
-  "updatedAt": "2026-09-03T17:03:21.629Z"
+  "updatedAt": "2026-09-03T17:03:51.110Z"
 }
