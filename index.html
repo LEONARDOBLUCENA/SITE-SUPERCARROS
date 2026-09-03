@@ -875,10 +875,12 @@
         return records.map(function(r){
           if(r.id !== id) return r;
           var note = "[Compartilhado] " + fromName + " iniciou; " + byName + " finalizou.";
+          // O status do atendimento NÃO muda automaticamente — continua exatamente
+          // como estava com a vendedora original; quem assumiu altera manualmente
+          // quando fizer sentido.
           return Object.assign({}, r, {
             compartilhado: true,
             vendedoraFinalizou: byKey,
-            statusAtendimento: "Pedido finalizado",
             observacao: r.observacao ? (r.observacao + "\n" + note) : note,
             updatedAt: new Date().toISOString()
           });
@@ -1211,7 +1213,10 @@
           saveMutation(function(records){
             return records.map(function(r){
               if(r.id !== editingId) return r;
-              return Object.assign({}, r, data, { vendedora: v.key, updatedAt: new Date().toISOString() });
+              // Preserva "vendedora" (dono original) e "vendedoraFinalizou"/"compartilhado" —
+              // editar um lançamento não deve trocar a quem ele pertence, mesmo quando
+              // quem edita é a vendedora que assumiu um atendimento compartilhado.
+              return Object.assign({}, r, data, { updatedAt: new Date().toISOString() });
             });
           }, "Edita venda de " + v.name + " (" + (data.nomeCliente||"") + ")").then(function(){
             state.editing[v.key] = null;
