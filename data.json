@@ -16,26 +16,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "updatedAt": "2026-09-03T17:09:13.961Z"
-    },
-    {
-      "id": "rmtls63gc3jhae9",
-      "vendedora": "bruna",
-      "createdAt": "2026-09-03T17:10:01.212Z",
-      "dataAtendimento": "2026-09-03",
-      "nomeCliente": "jorge",
-      "contatoCliente": "54991064961",
-      "origem": "Facebook",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "cLIFORNIA",
-      "dataVenda": "2026-09-03",
-      "valorVenda": "1000",
-      "numeroPedido": "OJKHIOJLK",
-      "statusPagamento": "Pago",
-      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
-      "compartilhado": true,
-      "vendedoraFinalizou": "gisele",
-      "updatedAt": "2026-09-03T17:11:20.363Z"
     }
   ],
-  "updatedAt": "2026-09-03T17:11:20.363Z"
+  "updatedAt": "2026-09-03T17:33:48.473Z"
 }
