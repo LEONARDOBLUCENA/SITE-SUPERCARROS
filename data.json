@@ -13,10 +13,10 @@
       "dataVenda": "2026-09-03",
       "valorVenda": "1000",
       "numeroPedido": "4365y6",
-      "statusPagamento": "Pago",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "updatedAt": "2026-09-03T13:32:42.122Z"
+      "updatedAt": "2026-09-03T13:32:52.670Z"
     }
   ],
-  "updatedAt": "2026-09-03T13:32:42.122Z"
+  "updatedAt": "2026-09-03T13:32:52.670Z"
 }
