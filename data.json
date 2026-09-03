@@ -30,11 +30,12 @@
       "statusAtendimento": "Em negociação",
       "produtoInteresse": "ferrari modena",
       "dataVenda": "2026-09-03",
-      "valorVenda": "900",
+      "valorVenda": "1000",
       "numeroPedido": "",
       "statusPagamento": "Pendente",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-03T17:03:21.629Z"
     }
   ],
-  "updatedAt": "2026-09-03T17:03:02.642Z"
+  "updatedAt": "2026-09-03T17:03:21.629Z"
 }
