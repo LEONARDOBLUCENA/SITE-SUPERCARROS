@@ -1,4 +1,21 @@
 {
-  "records": [],
-  "updatedAt": "2026-09-03T16:50:50.776Z"
+  "records": [
+    {
+      "id": "rmtlrhxiqwi3wdm",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-03T16:51:13.778Z",
+      "dataAtendimento": "2026-09-03",
+      "nomeCliente": "leonardo",
+      "contatoCliente": "54991064961",
+      "origem": "Instagram",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "ferrari modena",
+      "dataVenda": "2026-09-03",
+      "valorVenda": "500",
+      "numeroPedido": "4365y6",
+      "statusPagamento": "Pendente",
+      "observacao": ""
+    }
+  ],
+  "updatedAt": "2026-09-03T16:51:14.362Z"
 }
