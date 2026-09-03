@@ -229,6 +229,21 @@
   .icon-btn.danger:hover{ background:var(--bad-soft); color:var(--bad-ink); border-color:transparent; }
   .icon-btn svg{ width:15px; height:15px; }
 
+  .summary-card{ padding:18px 18px 16px; margin-bottom:22px; }
+  .status-tiles{ display:grid; grid-template-columns:repeat(auto-fit, minmax(128px, 1fr)); gap:10px; }
+  .status-tile{
+    background:var(--surface-2); border:1px solid var(--border); border-radius:11px;
+    padding:11px 13px; position:relative; overflow:hidden; padding-left:16px;
+  }
+  .status-tile::before{ content:""; position:absolute; left:0; top:0; bottom:0; width:4px; background:var(--vc); }
+  .status-tile .n{ font-family:"Manrope"; font-weight:800; font-size:19px; line-height:1.1; }
+  .status-tile .l{ font-size:10.5px; color:var(--text-muted); margin-top:3px; line-height:1.3; }
+
+  .dash-filters-select{
+    background:var(--surface); border:1px solid var(--border-strong); border-radius:8px;
+    padding:7px 9px; font-size:12px; font-weight:600; color:var(--text-soft);
+  }
+
   .empty{
     text-align:center; padding:38px 20px; color:var(--text-muted); font-size:13px;
     border:1px dashed var(--border-strong); border-radius:12px;
@@ -411,7 +426,10 @@
   <!-- DASHBOARD -->
   <div class="panel" id="panel-dashboard">
     <div class="dash-head">
-      <h1 class="display" style="font-size:18px;font-weight:800;margin:0;">Painel geral</h1>
+      <div>
+        <h1 class="display" style="font-size:18px;font-weight:800;margin:0;">Painel geral</h1>
+        <div class="brand-sub" style="margin-top:3px;">Contabiliza somente vendas com status de pagamento <b>Pago</b></div>
+      </div>
       <div class="dash-filters">
         <span class="filter-label">Período dos KPIs</span>
         <select id="kpiYear"></select>
@@ -494,7 +512,8 @@
     sha: null,
     loaded: false,
     editing: {}, // vendorKey -> record id being edited
-    search: {}   // vendorKey -> search string
+    search: {},  // vendorKey -> search string
+    filters: {}  // vendorKey -> { year, month }
   };
 
   // ---------------------------------------------------------------------
@@ -744,7 +763,7 @@
     var host = document.getElementById("vendorPanels");
     var html = VENDORS.map(function(v){
       return (
-      '<div class="panel" id="panel-' + v.key + '">' +
+      '<div class="panel' + (v.key === VENDORS[0].key ? " active" : "") + '" id="panel-' + v.key + '">' +
         lockGateHtml(v.key, "Vendas " + v.name, "Digite a senha da aba de " + v.name + " para ver e lançar as vendas.") +
         '<div data-role="content" style="display:none;">' +
         '<form class="card form-card vendor-form" data-vendor="' + v.key + '">' +
@@ -773,10 +792,19 @@
             '</button>' +
           '</div>' +
         '</form>' +
+        '<div class="card summary-card">' +
+          '<div class="list-head" style="margin-bottom:12px;">' +
+            '<h2>Atendimentos por status — ' + v.name + '</h2>' +
+            '<span class="list-count" data-role="summary-period"></span>' +
+          '</div>' +
+          '<div class="status-tiles" data-role="status-tiles"></div>' +
+        '</div>' +
         '<div class="list-head">' +
           '<h2>Lançamentos — ' + v.name + '</h2>' +
-          '<div style="display:flex;align-items:center;gap:10px;">' +
+          '<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">' +
             '<span class="list-count" data-role="count"></span>' +
+            '<select class="dash-filters-select" data-role="filter-year"><option value="">Todo o período</option></select>' +
+            '<select class="dash-filters-select" data-role="filter-month"><option value="">Todos os meses</option></select>' +
             '<input class="search" type="search" placeholder="Buscar cliente, pedido, produto…" data-role="search">' +
           '</div>' +
         '</div>' +
@@ -831,10 +859,26 @@
     '</div>';
   }
 
+  // Registros do período selecionado (ano/mês) para uma vendedora — usado
+  // tanto na lista de lançamentos quanto no resumo por status.
+  function vendorRecordsPeriod(key){
+    var f = state.filters[key] || {};
+    return state.records.filter(function(r){
+      if(r.vendedora !== key) return false;
+      var d = r.dataVenda || r.dataAtendimento;
+      if(f.year){
+        if(!d || d.slice(0,4) !== String(f.year)) return false;
+      }
+      if(f.month){
+        if(!d || parseInt(d.slice(5,7),10) !== Number(f.month)) return false;
+      }
+      return true;
+    });
+  }
+
   function recordsForVendor(key){
     var q = (state.search[key] || "").toLowerCase().trim();
-    return state.records
-      .filter(function(r){ return r.vendedora === key; })
+    return vendorRecordsPeriod(key)
       .filter(function(r){
         if(!q) return true;
         return [r.nomeCliente, r.numeroPedido, r.produtoInteresse, r.contatoCliente].join(" ").toLowerCase().indexOf(q) !== -1;
@@ -847,6 +891,36 @@
       });
   }
 
+  function vendorAvailableYears(key){
+    var years = {};
+    state.records.forEach(function(r){
+      if(r.vendedora !== key) return;
+      var d = r.dataVenda || r.dataAtendimento;
+      if(d) years[d.slice(0,4)] = true;
+    });
+    var arr = Object.keys(years);
+    var currentYear = String(new Date().getFullYear());
+    if(arr.indexOf(currentYear) === -1) arr.push(currentYear);
+    return arr.sort();
+  }
+
+  function populateVendorFilters(v){
+    var panel = document.getElementById("panel-" + v.key);
+    var yearSel = panel.querySelector('[data-role="filter-year"]');
+    var monthSel = panel.querySelector('[data-role="filter-month"]');
+    var f = state.filters[v.key] || {};
+    var years = vendorAvailableYears(v.key);
+
+    yearSel.innerHTML = '<option value="">Todo o período</option>' + years.map(function(y){
+      return '<option value="'+y+'">'+y+'</option>';
+    }).join("");
+    monthSel.innerHTML = '<option value="">Todos os meses</option>' + MESES_LONG.map(function(m,i){
+      return '<option value="'+(i+1)+'">'+m+'</option>';
+    }).join("");
+    yearSel.value = f.year || "";
+    monthSel.value = f.month || "";
+  }
+
   function statusClass(s){
     if(s === "Pago") return "status-pago";
     if(s === "Cancelado") return "status-cancelado";
@@ -857,9 +931,37 @@
     var i = STATUS_ATENDIMENTO.indexOf(s);
     return "status-atd-" + (i === -1 ? 1 : i + 1);
   }
+  var STATUS_ATD_VARS = ["--bruna","--violet","--pending","--good","--magenta","--bad","--slate"];
+
+  function renderStatusSummary(v){
+    var panel = document.getElementById("panel-" + v.key);
+    var host = panel.querySelector('[data-role="status-tiles"]');
+    var periodEl = panel.querySelector('[data-role="summary-period"]');
+    var records = vendorRecordsPeriod(v.key);
+    var f = state.filters[v.key] || {};
+
+    periodEl.textContent = records.length + (records.length === 1 ? " atendimento" : " atendimentos") +
+      (f.year ? " · " + (f.month ? MESES_LONG[Number(f.month)-1] + " de " : "") + f.year : " · todo o período");
+
+    var counts = {};
+    STATUS_ATENDIMENTO.forEach(function(s){ counts[s] = 0; });
+    records.forEach(function(r){
+      var s = r.statusAtendimento && STATUS_ATENDIMENTO.indexOf(r.statusAtendimento) !== -1 ? r.statusAtendimento : STATUS_ATENDIMENTO[0];
+      counts[s]++;
+    });
+
+    host.innerHTML = STATUS_ATENDIMENTO.map(function(s, i){
+      return '<div class="status-tile" style="--vc:var(' + STATUS_ATD_VARS[i] + ')">' +
+        '<div class="n num">' + counts[s] + '</div>' +
+        '<div class="l">' + escapeHtml(s) + '</div>' +
+      '</div>';
+    }).join("");
+  }
 
   function renderVendorPanel(v){
     var panel = document.getElementById("panel-" + v.key);
+    populateVendorFilters(v);
+    renderStatusSummary(v);
     var list = recordsForVendor(v.key);
     panel.querySelector('[data-role="count"]').textContent =
       list.length + (list.length === 1 ? " lançamento" : " lançamentos");
@@ -1004,6 +1106,17 @@
         renderVendorPanel(v);
       });
 
+      panel.querySelector('[data-role="filter-year"]').addEventListener("change", function(ev){
+        state.filters[v.key] = state.filters[v.key] || {};
+        state.filters[v.key].year = ev.target.value;
+        renderVendorPanel(v);
+      });
+      panel.querySelector('[data-role="filter-month"]').addEventListener("change", function(ev){
+        state.filters[v.key] = state.filters[v.key] || {};
+        state.filters[v.key].month = ev.target.value;
+        renderVendorPanel(v);
+      });
+
       setFormDefaults(form);
     });
   }
@@ -1104,7 +1217,7 @@
     var totals = {};
     VENDORS.forEach(function(v){ totals[v.key] = { total:0, count:0 }; });
     state.records.forEach(function(r){
-      if(r.statusPagamento === "Cancelado") return;
+      if(r.statusPagamento !== "Pago") return;
       var d = r.dataVenda || r.dataAtendimento;
       if(!d) return;
       var y = d.slice(0,4), m = parseInt(d.slice(5,7),10);
@@ -1156,7 +1269,7 @@
     var series = {};
     VENDORS.forEach(function(v){ series[v.key] = new Array(12).fill(0); });
     state.records.forEach(function(r){
-      if(r.statusPagamento === "Cancelado") return;
+      if(r.statusPagamento !== "Pago") return;
       var d = r.dataVenda || r.dataAtendimento;
       if(!d || d.slice(0,4) !== String(year)) return;
       var m = parseInt(d.slice(5,7),10) - 1;
