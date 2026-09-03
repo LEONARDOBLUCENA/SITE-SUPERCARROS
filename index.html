@@ -417,7 +417,7 @@
     repo: "SITE-SUPERCARROS",
     branch: "main",
     path: "data.json",
-    token: "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"
+    token: "COLE_SEU_TOKEN_AQUI"
   };
   var API = "https://api.github.com/repos/" + GH.owner + "/" + GH.repo + "/contents/" + GH.path;
 
@@ -602,6 +602,11 @@
   // localmente e grava — assim várias máquinas escrevendo não se perdem.
   function saveMutation(mutatorFn, message){
     clearBanners();
+    if(GH.token === "COLE_SEU_TOKEN_AQUI"){
+      setSync("err", "Token do GitHub não configurado");
+      showBanner('Abra este index.html no editor do GitHub, procure "COLE_SEU_TOKEN_AQUI" no código e substitua pelo seu token pessoal antes de usar.');
+      return Promise.reject(new Error("token não configurado"));
+    }
     setSync("busy", "Salvando…");
     disableForms(true);
     return fetchLatest().then(function(latest){
@@ -626,6 +631,11 @@
   }
 
   function loadInitial(){
+    if(GH.token === "COLE_SEU_TOKEN_AQUI"){
+      setSync("err", "Token do GitHub não configurado");
+      showBanner('Abra este index.html no editor do GitHub, procure "COLE_SEU_TOKEN_AQUI" no código e substitua pelo seu token pessoal antes de usar.');
+      return;
+    }
     setSync("busy", "Carregando dados…");
     fetchLatest().then(function(latest){
       state.records = latest.records;
