@@ -27,15 +27,15 @@
       "origem": "Facebook",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "cLIFORNIA",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-09-03",
+      "valorVenda": "1000",
       "numeroPedido": "OJKHIOJLK",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "compartilhado": true,
       "vendedoraFinalizou": "gisele",
-      "updatedAt": "2026-09-03T17:10:30.468Z"
+      "updatedAt": "2026-09-03T17:11:11.545Z"
     }
   ],
-  "updatedAt": "2026-09-03T17:10:30.469Z"
+  "updatedAt": "2026-09-03T17:11:11.545Z"
 }
