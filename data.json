@@ -15,7 +15,23 @@
       "numeroPedido": "4365y6",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtltb9j7ey3ekj",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-03T17:42:01.987Z",
+      "dataAtendimento": "2026-09-03",
+      "nomeCliente": "jorge",
+      "contatoCliente": "54991064961",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "ferrari modena",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "Pendente",
+      "observacao": ""
     }
   ],
-  "updatedAt": "2026-09-03T17:41:26.096Z"
+  "updatedAt": "2026-09-03T17:42:02.811Z"
 }
