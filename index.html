@@ -297,6 +297,27 @@
   .bar-tooltip.show{ opacity:1; }
   .chart-wrap{ position:relative; }
 
+  .token-overlay{
+    position:fixed; inset:0; background:rgba(10,10,8,.6); backdrop-filter:blur(2px);
+    display:none; align-items:center; justify-content:center; z-index:100; padding:20px;
+  }
+  .token-card{
+    background:var(--surface); border:1px solid var(--border); border-radius:14px;
+    box-shadow:var(--shadow-lg); padding:28px 26px 24px; width:100%; max-width:380px;
+  }
+  .token-card .lock-icon{ margin:0 0 14px; }
+  .token-card h3{ font-size:16px; font-weight:700; margin:0 0 6px; }
+  .token-card p{ font-size:12.5px; color:var(--text-muted); margin:0 0 16px; line-height:1.5; }
+  .token-card label{ font-size:11.5px; font-weight:600; color:var(--text-soft); text-transform:uppercase; letter-spacing:.03em; display:block; margin-bottom:6px; }
+  .token-card input{
+    width:100%; background:var(--surface-2); border:1px solid var(--border); border-radius:8px;
+    padding:10px 12px; font-size:13px; margin-bottom:12px; color:var(--text); font-family:"IBM Plex Mono", monospace;
+  }
+  .token-card input:focus{ background:var(--surface); border-color:var(--accent); outline:none; }
+  .token-card .btn{ width:100%; justify-content:center; }
+  .token-note{ font-size:11px; color:var(--text-muted); margin-top:12px; line-height:1.5; }
+  .token-note code{ background:var(--surface-2); padding:1px 5px; border-radius:4px; font-family:"IBM Plex Mono", monospace; }
+
   .lock-gate{
     display:flex; align-items:center; justify-content:center; min-height:340px;
   }
@@ -354,7 +375,25 @@
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none"><path d="M20 11a8 8 0 1 0-2.3 5.7M20 4v6h-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
         Atualizar
       </button>
+      <button class="btn-ghost" id="tokenChangeBtn" title="Trocar o token de acesso ao GitHub salvo neste navegador">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none"><rect x="5" y="11" width="14" height="9" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M8 11V8a4 4 0 0 1 8 0v3" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+        Token
+      </button>
     </div>
+  </div>
+
+  <div class="token-overlay" id="tokenOverlay">
+    <form class="card token-card" id="tokenForm">
+      <div class="lock-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><rect x="5" y="11" width="14" height="9" rx="2" stroke="currentColor" stroke-width="1.7"/><path d="M8 11V8a4 4 0 0 1 8 0v3" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+      </div>
+      <h3>Conectar ao GitHub</h3>
+      <p>Cole seu token pessoal do GitHub para carregar e salvar os lançamentos. Ele fica guardado só neste navegador (nunca é salvo no repositório) — em cada computador novo, cole o token uma vez.</p>
+      <label for="tokenInput">Token de acesso pessoal</label>
+      <input type="password" id="tokenInput" placeholder="ghp_… ou github_pat_…" autocomplete="off" required>
+      <button type="submit" class="btn btn-primary">Conectar</button>
+      <div class="token-note">Precisa de permissão de escrita em <code>Contents</code> no repositório <code>LEONARDOBLUCENA/SITE-SUPERCARROS</code>. Gere em Settings → Developer settings → Personal access tokens.</div>
+    </form>
   </div>
 
   <div id="banners"></div>
@@ -417,8 +456,10 @@
     repo: "SITE-SUPERCARROS",
     branch: "main",
     path: "data.json",
-    token: "COLE_SEU_TOKEN_AQUI"
+    token: null
   };
+  var GH_TOKEN_KEY = "scg_gh_token";
+  try{ GH.token = localStorage.getItem(GH_TOKEN_KEY) || null; } catch(e){ GH.token = null; }
   var API = "https://api.github.com/repos/" + GH.owner + "/" + GH.repo + "/contents/" + GH.path;
 
   // Senhas de acesso por aba (proteção simples de tela — não é segurança real:
@@ -562,7 +603,9 @@
         }
         if(!res.ok){
           return res.json().catch(function(){ return {}; }).then(function(body){
-            throw new Error("GitHub respondeu " + res.status + (body && body.message ? (": " + body.message) : ""));
+            var err = new Error("GitHub respondeu " + res.status + (body && body.message ? (": " + body.message) : ""));
+            err.status = res.status;
+            throw err;
           });
         }
         return res.json().then(function(body){
@@ -602,9 +645,8 @@
   // localmente e grava — assim várias máquinas escrevendo não se perdem.
   function saveMutation(mutatorFn, message){
     clearBanners();
-    if(GH.token === "COLE_SEU_TOKEN_AQUI"){
-      setSync("err", "Token do GitHub não configurado");
-      showBanner('Abra este index.html no editor do GitHub, procure "COLE_SEU_TOKEN_AQUI" no código e substitua pelo seu token pessoal antes de usar.');
+    if(!GH.token){
+      openTokenGate();
       return Promise.reject(new Error("token não configurado"));
     }
     setSync("busy", "Salvando…");
@@ -620,6 +662,10 @@
         renderAll();
       });
     }).catch(function(err){
+      if(err.status === 401){
+        invalidateToken("O token salvo neste navegador foi rejeitado pelo GitHub (401). Cole um token novo abaixo.");
+        return;
+      }
       setSync("err", "Falha ao salvar");
       showBanner("Não foi possível salvar no GitHub (" + err.message + "). Nada foi perdido na tela — verifique a conexão/token e tente novamente.", {
         retry: function(){ saveMutation(mutatorFn, message); }
@@ -631,9 +677,8 @@
   }
 
   function loadInitial(){
-    if(GH.token === "COLE_SEU_TOKEN_AQUI"){
-      setSync("err", "Token do GitHub não configurado");
-      showBanner('Abra este index.html no editor do GitHub, procure "COLE_SEU_TOKEN_AQUI" no código e substitua pelo seu token pessoal antes de usar.');
+    if(!GH.token){
+      openTokenGate();
       return;
     }
     setSync("busy", "Carregando dados…");
@@ -644,10 +689,47 @@
       setSync("ok", latest.sha ? "Sincronizado" : "Arquivo novo — nenhuma venda salva ainda");
       renderAll();
     }).catch(function(err){
+      if(err.status === 401){
+        invalidateToken("O token salvo neste navegador foi rejeitado pelo GitHub (401). Cole um token novo abaixo.");
+        return;
+      }
       setSync("err", "Sem conexão com o GitHub");
       showBanner("Não foi possível carregar o data.json do GitHub (" + err.message + "). Verifique a conexão e tente novamente.", {
         retry: loadInitial
       });
+    });
+  }
+
+  function invalidateToken(reason){
+    GH.token = null;
+    try{ localStorage.removeItem(GH_TOKEN_KEY); } catch(e){}
+    setSync("err", "Token inválido");
+    if(reason) showBanner(reason);
+    openTokenGate();
+  }
+
+  function openTokenGate(){
+    document.getElementById("tokenOverlay").style.display = "flex";
+    var input = document.getElementById("tokenInput");
+    input.value = "";
+    setTimeout(function(){ input.focus(); }, 30);
+  }
+  function closeTokenGate(){
+    document.getElementById("tokenOverlay").style.display = "none";
+  }
+  function attachTokenGate(){
+    document.getElementById("tokenForm").addEventListener("submit", function(ev){
+      ev.preventDefault();
+      var val = document.getElementById("tokenInput").value.trim();
+      if(!val) return;
+      GH.token = val;
+      try{ localStorage.setItem(GH_TOKEN_KEY, val); } catch(e){}
+      closeTokenGate();
+      clearBanners();
+      loadInitial();
+    });
+    document.getElementById("tokenChangeBtn").addEventListener("click", function(){
+      openTokenGate();
     });
   }
 
@@ -1190,6 +1272,7 @@
   attachVendorHandlers();
   attachDashboardHandlers();
   attachLockGates();
+  attachTokenGate();
   refreshLockUI();
   populateDashboardFilters();
 
