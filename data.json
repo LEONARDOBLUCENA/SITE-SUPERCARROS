@@ -1,4 +1,21 @@
 {
-  "records": [],
-  "updatedAt": "2026-09-03T17:06:33.434Z"
+  "records": [
+    {
+      "id": "rmtls4rn6ok8ull",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-03T17:08:59.250Z",
+      "dataAtendimento": "2026-09-03",
+      "nomeCliente": "leonardo",
+      "contatoCliente": "54991064961",
+      "origem": "Instagram",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "ferrari modena",
+      "dataVenda": "2026-09-03",
+      "valorVenda": "1000",
+      "numeroPedido": "4365y6",
+      "statusPagamento": "Pago",
+      "observacao": ""
+    }
+  ],
+  "updatedAt": "2026-09-03T17:09:00.216Z"
 }
