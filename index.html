@@ -819,7 +819,7 @@
     form.reset();
   }
   function setFormDefaults(form){
-    setFormDefaults(form);
+    form.elements.namedItem("dataAtendimento").value = todayISO();
     var statusEl = form.elements.namedItem("statusAtendimento");
     if(statusEl) statusEl.value = STATUS_ATENDIMENTO[0];
   }
