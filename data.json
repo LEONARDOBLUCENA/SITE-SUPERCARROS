@@ -84,6 +84,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "updatedAt": "2026-09-04T18:42:40.398Z"
+    },
+    {
+      "id": "rmtnb0is2x3z4tf",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-04T18:45:20.018Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "marcos",
+      "contatoCliente": "54991064961",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Recuperação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -95,5 +111,5 @@
       "createdAt": "2026-09-03T18:13:05.519Z"
     }
   ],
-  "updatedAt": "2026-09-04T18:42:40.398Z"
+  "updatedAt": "2026-09-04T18:45:20.627Z"
 }
