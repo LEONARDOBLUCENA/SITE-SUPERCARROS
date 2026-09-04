@@ -52,23 +52,6 @@
       "observacao": ""
     },
     {
-      "id": "rmtmx76om6seixx",
-      "vendedora": "bruna",
-      "createdAt": "2026-09-04T12:18:36.310Z",
-      "dataAtendimento": "2026-09-10",
-      "nomeCliente": "Fulano de tal",
-      "contatoCliente": "54 99999999",
-      "origem": "Evento",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "casamento",
-      "dataVenda": "",
-      "valorVenda": "10000",
-      "numeroPedido": "",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "updatedAt": "2026-09-04T12:20:14.445Z"
-    },
-    {
       "id": "rmtnaw66wk7hfc2",
       "vendedora": "bruna",
       "createdAt": "2026-09-04T18:41:57.080Z",
@@ -114,5 +97,5 @@
       "createdAt": "2026-09-03T18:13:05.519Z"
     }
   ],
-  "updatedAt": "2026-09-04T18:46:16.657Z"
+  "updatedAt": "2026-09-04T18:49:25.588Z"
 }
