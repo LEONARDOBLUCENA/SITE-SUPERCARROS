@@ -34,22 +34,6 @@
       "compartilhado": true,
       "vendedoraFinalizou": "gisele",
       "updatedAt": "2026-09-03T17:43:15.975Z"
-    },
-    {
-      "id": "rmtlugjmzph3j4t",
-      "vendedora": "bruna",
-      "createdAt": "2026-09-03T18:14:07.979Z",
-      "dataAtendimento": "2026-09-03",
-      "nomeCliente": "luca",
-      "contatoCliente": "54991064961",
-      "origem": "Evento",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "718",
-      "dataVenda": "2026-09-03",
-      "valorVenda": "500",
-      "numeroPedido": "4365y6fsd",
-      "statusPagamento": "Pago",
-      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -61,5 +45,5 @@
       "createdAt": "2026-09-03T18:13:05.519Z"
     }
   ],
-  "updatedAt": "2026-09-04T18:54:59.451Z"
+  "updatedAt": "2026-09-04T18:55:01.482Z"
 }
