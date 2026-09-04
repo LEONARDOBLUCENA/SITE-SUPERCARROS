@@ -15,25 +15,6 @@
       "numeroPedido": "4365y6",
       "statusPagamento": "Pago",
       "observacao": ""
-    },
-    {
-      "id": "rmtltb9j7ey3ekj",
-      "vendedora": "bruna",
-      "createdAt": "2026-09-03T17:42:01.987Z",
-      "dataAtendimento": "2026-09-03",
-      "nomeCliente": "jorge",
-      "contatoCliente": "54991064961",
-      "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "ferrari modena",
-      "dataVenda": "2026-09-03",
-      "valorVenda": "1000",
-      "numeroPedido": "",
-      "statusPagamento": "Pago",
-      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
-      "compartilhado": true,
-      "vendedoraFinalizou": "gisele",
-      "updatedAt": "2026-09-03T17:43:15.975Z"
     }
   ],
   "siteVendas": [
@@ -45,5 +26,5 @@
       "createdAt": "2026-09-03T18:13:05.519Z"
     }
   ],
-  "updatedAt": "2026-09-04T18:55:03.435Z"
+  "updatedAt": "2026-09-04T18:55:05.919Z"
 }
