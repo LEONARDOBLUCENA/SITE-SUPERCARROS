@@ -50,23 +50,6 @@
       "numeroPedido": "4365y6fsd",
       "statusPagamento": "Pago",
       "observacao": ""
-    },
-    {
-      "id": "rmtnaw66wk7hfc2",
-      "vendedora": "bruna",
-      "createdAt": "2026-09-04T18:41:57.080Z",
-      "dataAtendimento": "2026-09-04",
-      "nomeCliente": "leonardo 2",
-      "contatoCliente": "54991064961",
-      "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-09-04",
-      "valorVenda": "1000",
-      "numeroPedido": "",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "updatedAt": "2026-09-04T18:42:40.398Z"
     }
   ],
   "siteVendas": [
@@ -78,5 +61,5 @@
       "createdAt": "2026-09-03T18:13:05.519Z"
     }
   ],
-  "updatedAt": "2026-09-04T18:52:02.833Z"
+  "updatedAt": "2026-09-04T18:54:57.098Z"
 }
