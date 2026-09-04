@@ -67,6 +67,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "updatedAt": "2026-09-04T12:20:14.445Z"
+    },
+    {
+      "id": "rmtnaw66wk7hfc2",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-04T18:41:57.080Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "leonardo 2",
+      "contatoCliente": "54991064961",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -78,5 +94,5 @@
       "createdAt": "2026-09-03T18:13:05.519Z"
     }
   ],
-  "updatedAt": "2026-09-04T12:20:14.445Z"
+  "updatedAt": "2026-09-04T18:41:57.669Z"
 }
