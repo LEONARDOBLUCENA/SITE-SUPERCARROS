@@ -93,16 +93,16 @@
       "nomeCliente": "marcos",
       "contatoCliente": "54991064961",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Recuperação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-09-04",
+      "valorVenda": "500",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "compartilhado": true,
       "vendedoraFinalizou": "bruna",
-      "updatedAt": "2026-09-04T18:45:47.573Z"
+      "updatedAt": "2026-09-04T18:46:16.657Z"
     }
   ],
   "siteVendas": [
@@ -114,5 +114,5 @@
       "createdAt": "2026-09-03T18:13:05.519Z"
     }
   ],
-  "updatedAt": "2026-09-04T18:45:47.573Z"
+  "updatedAt": "2026-09-04T18:46:16.657Z"
 }
