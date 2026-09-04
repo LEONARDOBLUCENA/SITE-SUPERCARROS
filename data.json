@@ -59,13 +59,14 @@
       "nomeCliente": "Fulano de tal",
       "contatoCliente": "54 99999999",
       "origem": "Evento",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "casamento",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "10000",
       "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-04T12:20:14.445Z"
     }
   ],
   "siteVendas": [
@@ -77,5 +78,5 @@
       "createdAt": "2026-09-03T18:13:05.519Z"
     }
   ],
-  "updatedAt": "2026-09-04T12:18:37.047Z"
+  "updatedAt": "2026-09-04T12:20:14.445Z"
 }
