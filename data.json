@@ -813,12 +813,13 @@
       "contatoCliente": "+55 51 9254-0778",
       "origem": "Outro",
       "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "up carona",
-      "dataVenda": "2026-09-08",
+      "produtoInteresse": "",
+      "dataVenda": "",
       "valorVenda": "",
-      "numeroPedido": "",
+      "numeroPedido": "18607",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "finalizou no site",
+      "updatedAt": "2026-09-08T18:31:48.594Z"
     },
     {
       "id": "rmtsylse8otx25w",
@@ -879,5 +880,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T18:13:57.383Z"
+  "updatedAt": "2026-09-08T18:31:48.594Z"
 }
