@@ -1414,9 +1414,10 @@
       "produtoInteresse": "",
       "dataVenda": "2026-09-01",
       "valorVenda": "1370.00",
-      "numeroPedido": " (51) 98503-6291 ",
+      "numeroPedido": "18325",
       "statusPagamento": "Pago",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-08T20:05:44.210Z"
     }
   ],
   "siteVendas": [
@@ -1429,5 +1430,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T20:05:26.158Z"
+  "updatedAt": "2026-09-08T20:05:44.210Z"
 }
