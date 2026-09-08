@@ -79,8 +79,24 @@
       "numeroPedido": "18547",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtssa5herah2s9",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T14:47:33.698Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Talita Duarte Barbosa De Castro Dutra",
+      "contatoCliente": " (61) 99628-4530 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "prime + ingressos",
+      "dataVenda": "2026-09-06",
+      "valorVenda": "285.50",
+      "numeroPedido": "18549",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T14:46:20.701Z"
+  "updatedAt": "2026-09-08T14:47:34.091Z"
 }
