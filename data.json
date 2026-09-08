@@ -697,15 +697,16 @@
       "nomeCliente": "Bruna Falcão Dublasievicz",
       "contatoCliente": "21 97001-1917",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "18575",
       "statusPagamento": "Pago",
-      "observacao": "compra site - agendamento"
+      "observacao": "compra site - agendamento",
+      "updatedAt": "2026-09-08T16:24:07.141Z"
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T16:23:50.560Z"
+  "updatedAt": "2026-09-08T16:24:07.141Z"
 }
