@@ -688,8 +688,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtsvpyncxulgod",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T16:23:50.184Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "Bruna Falcão Dublasievicz",
+      "contatoCliente": "21 97001-1917",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "18575",
+      "statusPagamento": "Pago",
+      "observacao": "compra site - agendamento"
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T16:22:36.156Z"
+  "updatedAt": "2026-09-08T16:23:50.560Z"
 }
