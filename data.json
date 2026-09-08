@@ -432,8 +432,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtstvew08ufywy",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:32:05.280Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Diego",
+      "contatoCliente": "+55 68 9940-1635",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:31:13.139Z"
+  "updatedAt": "2026-09-08T15:32:05.665Z"
 }
