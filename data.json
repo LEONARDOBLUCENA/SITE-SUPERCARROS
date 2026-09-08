@@ -1352,6 +1352,22 @@
       "numeroPedido": "18389",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtt39gkr5s1k5t",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:54:57.195Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "Nayane Ellen Gomes De Souza",
+      "contatoCliente": " (31) 99623-9984 ",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "drive camaro",
+      "dataVenda": "2026-09-02",
+      "valorVenda": "300.00",
+      "numeroPedido": "18371",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1364,5 +1380,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:51:58.655Z"
+  "updatedAt": "2026-09-08T19:54:57.603Z"
 }
