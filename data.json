@@ -934,6 +934,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtt1hz7r24ayhl",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:05:35.367Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~Marília Diniz",
+      "contatoCliente": "+55 61 8428-4776",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -946,5 +962,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:05:07.242Z"
+  "updatedAt": "2026-09-08T19:05:35.754Z"
 }
