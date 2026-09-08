@@ -47,8 +47,24 @@
       "numeroPedido": "18473",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtss5agc8eu39c",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T14:43:46.860Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Tiago Luís Wirth",
+      "contatoCliente": "(54) 99110-5050",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "carona lamborghini + combo 2 ingressos",
+      "dataVenda": "2026-09-04",
+      "valorVenda": "727.00",
+      "numeroPedido": "18455",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T14:41:54.512Z"
+  "updatedAt": "2026-09-08T14:43:47.264Z"
 }
