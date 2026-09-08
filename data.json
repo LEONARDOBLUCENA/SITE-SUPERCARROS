@@ -868,6 +868,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "duvida videos"
+    },
+    {
+      "id": "rmtt1b3fy9nxb6h",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:00:14.254Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~José Simas",
+      "contatoCliente": "+55 48 9935-8787",
+      "origem": "Outro",
+      "statusAtendimento": "",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "video"
     }
   ],
   "siteVendas": [
@@ -880,5 +896,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T18:56:01.284Z"
+  "updatedAt": "2026-09-08T19:00:14.658Z"
 }
