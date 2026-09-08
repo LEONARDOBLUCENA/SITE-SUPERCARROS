@@ -480,8 +480,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Realizar apenas o drive do voucher"
+    },
+    {
+      "id": "rmtstz04jrp0zco",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:34:52.771Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Claudia",
+      "contatoCliente": "+55 47 9903-0715",
+      "origem": "Outro",
+      "statusAtendimento": "",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "duvida videos"
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:34:28.416Z"
+  "updatedAt": "2026-09-08T15:34:53.187Z"
 }
