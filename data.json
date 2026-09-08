@@ -656,8 +656,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtsvnweu3ov64f",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T16:22:13.974Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~Edson Teles",
+      "contatoCliente": "+55 11 97214-3932",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T16:21:14.765Z"
+  "updatedAt": "2026-09-08T16:22:14.370Z"
 }
