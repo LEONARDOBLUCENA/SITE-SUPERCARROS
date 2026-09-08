@@ -31,8 +31,24 @@
       "numeroPedido": "18471",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtss2vhdxkp2hm",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T14:41:54.145Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Fernando Barp",
+      "contatoCliente": "(49) 99961-7022",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "drive 718 + drive lamborghini",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "1520.00",
+      "numeroPedido": "18473",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T14:39:51.676Z"
+  "updatedAt": "2026-09-08T14:41:54.512Z"
 }
