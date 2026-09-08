@@ -448,8 +448,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtstxia9ibcff1",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:33:42.993Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "~Thaila Espinola",
+      "contatoCliente": "+55 67 9122-8008",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "ia vir direto ao sc sem agendamento"
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:32:05.665Z"
+  "updatedAt": "2026-09-08T15:33:43.392Z"
 }
