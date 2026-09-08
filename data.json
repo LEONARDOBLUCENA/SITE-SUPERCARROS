@@ -1,5 +1,22 @@
 {
-  "records": [],
+  "records": [
+    {
+      "id": "rmtsrvwqhnsrjkx",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T14:36:29.177Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Luiz Koempfer",
+      "contatoCliente": "+55 51 9736-6208",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "Combo Tesla + Combo 2 ingressos",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "736.00",
+      "numeroPedido": "18463",
+      "statusPagamento": "Pago",
+      "observacao": ""
+    }
+  ],
   "siteVendas": [],
-  "updatedAt": "2026-09-04T19:00:17.363Z"
+  "updatedAt": "2026-09-08T14:36:29.832Z"
 }
