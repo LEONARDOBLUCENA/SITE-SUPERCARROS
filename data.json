@@ -544,8 +544,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Não virá à Gramado"
+    },
+    {
+      "id": "rmtsvb13ill0ky9",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T16:12:13.518Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "~Herbert Nunes",
+      "contatoCliente": "+55 21 99211-5929",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T16:09:31.235Z"
+  "updatedAt": "2026-09-08T16:12:14.068Z"
 }
