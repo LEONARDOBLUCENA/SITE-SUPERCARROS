@@ -271,8 +271,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Duvidas cnh vencida"
+    },
+    {
+      "id": "rmtst9g5phr3z0t",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:15:00.493Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "~Eduardo Martins",
+      "contatoCliente": "+55 61 9833-8060",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "dúvidas"
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:12:32.454Z"
+  "updatedAt": "2026-09-08T15:15:01.023Z"
 }
