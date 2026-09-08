@@ -175,8 +175,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtssy4ifo7m62x",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:06:12.183Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Raquel Faioli",
+      "contatoCliente": "+55 31 8694-9631",
+      "origem": "Outro",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "California, Carrera, Dodge, Mustang Ecoboost",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:03:40.472Z"
+  "updatedAt": "2026-09-08T15:06:12.587Z"
 }
