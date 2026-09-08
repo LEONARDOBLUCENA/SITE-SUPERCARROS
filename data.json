@@ -1272,6 +1272,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtt2srn4u9icc4",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:41:58.384Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~Kerin Santos",
+      "contatoCliente": "+55 27 99825-2244",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "99.00",
+      "numeroPedido": "18471",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1284,5 +1300,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:40:52.797Z"
+  "updatedAt": "2026-09-08T19:41:58.803Z"
 }
