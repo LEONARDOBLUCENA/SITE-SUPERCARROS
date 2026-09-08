@@ -821,6 +821,14 @@
       "observacao": ""
     }
   ],
-  "siteVendas": [],
-  "updatedAt": "2026-09-08T17:20:37.431Z"
+  "siteVendas": [
+    {
+      "id": "rmtsxr4bvbyn3iv",
+      "ano": "2026",
+      "mes": 9,
+      "valorTotal": "4177488",
+      "createdAt": "2026-09-08T17:20:43.435Z"
+    }
+  ],
+  "updatedAt": "2026-09-08T17:20:43.833Z"
 }
