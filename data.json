@@ -127,8 +127,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtssmatm222rvr",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T14:57:00.490Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Lays Duarte",
+      "contatoCliente": "+55 11 93462-2540",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "saber como era feito drive",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T14:54:15.656Z"
+  "updatedAt": "2026-09-08T14:57:00.916Z"
 }
