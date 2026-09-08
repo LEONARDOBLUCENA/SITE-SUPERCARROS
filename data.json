@@ -608,8 +608,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "duvida videos"
+    },
+    {
+      "id": "rmtsvdozeo4m3vy",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T16:14:17.786Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Mauro aragão",
+      "contatoCliente": "+55 86 9946-4317",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T16:13:52.143Z"
+  "updatedAt": "2026-09-08T16:14:18.418Z"
 }
