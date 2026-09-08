@@ -576,8 +576,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtsvcic1s8a4an",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T16:13:22.513Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Ygor Coutinho",
+      "contatoCliente": "+55 51 9326-8790",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "duvida videos"
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T16:12:48.618Z"
+  "updatedAt": "2026-09-08T16:13:22.994Z"
 }
