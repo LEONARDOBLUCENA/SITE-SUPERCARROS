@@ -1127,6 +1127,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "duvida voucher"
+    },
+    {
+      "id": "rmtt1yicjg6nkkz",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:18:26.659Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~Airton Souza",
+      "contatoCliente": "+55 11 98138-6508",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1139,5 +1155,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:17:13.451Z"
+  "updatedAt": "2026-09-08T19:18:27.044Z"
 }
