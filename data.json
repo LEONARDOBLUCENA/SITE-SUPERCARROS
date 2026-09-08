@@ -512,8 +512,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtsu1zeo71dfcv",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:37:11.808Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Felipe Galvão",
+      "contatoCliente": "+55 82 9367-1818",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:35:34.876Z"
+  "updatedAt": "2026-09-08T15:37:12.326Z"
 }
