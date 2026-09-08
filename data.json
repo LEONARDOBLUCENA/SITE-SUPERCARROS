@@ -496,8 +496,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "duvida videos"
+    },
+    {
+      "id": "rmtstzwb0b779s2",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:35:34.476Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "~Thiago Sanches",
+      "contatoCliente": "+55 21 99907-3939",
+      "origem": "Outro",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:34:53.187Z"
+  "updatedAt": "2026-09-08T15:35:34.876Z"
 }
