@@ -239,8 +239,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Videos"
+    },
+    {
+      "id": "rmtst5r0pbjozmw",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:12:07.945Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Larissa",
+      "contatoCliente": "+55 11 98275-1006",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:10:35.636Z"
+  "updatedAt": "2026-09-08T15:12:08.326Z"
 }
