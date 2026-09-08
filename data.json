@@ -752,7 +752,8 @@
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-08T17:20:37.431Z"
     },
     {
       "id": "rmtsw27afveqipa",
@@ -821,5 +822,5 @@
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T16:39:58.617Z"
+  "updatedAt": "2026-09-08T17:20:37.431Z"
 }
