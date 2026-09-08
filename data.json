@@ -528,8 +528,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtsv7jgrwochqs",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T16:09:30.699Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Davi ",
+      "contatoCliente": "+55 98 9106-0102",
+      "origem": "Outro",
+      "statusAtendimento": "Cliente desistiu",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Não virá à Gramado"
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:37:12.326Z"
+  "updatedAt": "2026-09-08T16:09:31.235Z"
 }
