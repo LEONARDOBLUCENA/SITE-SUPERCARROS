@@ -1063,6 +1063,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "duvida videos"
+    },
+    {
+      "id": "rmtt1u4ac56sba0",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:15:01.812Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~Carolina Barbosa",
+      "contatoCliente": "+55 17 99714-3610",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1075,5 +1091,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:14:26.913Z"
+  "updatedAt": "2026-09-08T19:15:02.208Z"
 }
