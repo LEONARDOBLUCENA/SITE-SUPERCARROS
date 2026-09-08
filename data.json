@@ -817,9 +817,9 @@
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "18607",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "finalizou no site",
-      "updatedAt": "2026-09-08T18:31:48.594Z"
+      "updatedAt": "2026-09-08T18:56:01.283Z"
     },
     {
       "id": "rmtsylse8otx25w",
@@ -880,5 +880,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T18:31:48.594Z"
+  "updatedAt": "2026-09-08T18:56:01.284Z"
 }
