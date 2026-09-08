@@ -143,8 +143,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtssro6imugrlw",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:01:11.082Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Thais Rodrigues",
+      "contatoCliente": "+55 19 99283-2890",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "drive para presente",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T14:57:00.916Z"
+  "updatedAt": "2026-09-08T15:01:11.494Z"
 }
