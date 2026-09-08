@@ -998,6 +998,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Recomendação sobre gasolina podium"
+    },
+    {
+      "id": "rmtt1mb6cli9upo",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:08:57.492Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "🇧🇷🇵🇹",
+      "contatoCliente": "+55 53 9969-8498",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1010,5 +1026,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:08:23.495Z"
+  "updatedAt": "2026-09-08T19:08:58.170Z"
 }
