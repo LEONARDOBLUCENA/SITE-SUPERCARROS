@@ -63,8 +63,24 @@
       "numeroPedido": "18455",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtss8ku0kybauo",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T14:46:20.280Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Daniel Costa Feitosa",
+      "contatoCliente": " (54) 98147-7997 ",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "drive + carona mustang conv",
+      "dataVenda": "2026-09-06",
+      "valorVenda": "680.00",
+      "numeroPedido": "18547",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T14:43:47.264Z"
+  "updatedAt": "2026-09-08T14:46:20.701Z"
 }
