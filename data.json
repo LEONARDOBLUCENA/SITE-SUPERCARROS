@@ -1368,6 +1368,22 @@
       "numeroPedido": "18371",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtt3c6yei99v39",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:57:04.694Z",
+      "dataAtendimento": "2026-09-02",
+      "nomeCliente": "Gabriella Silva Campos",
+      "contatoCliente": " (62) 99112-2121 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-02",
+      "valorVenda": "369.00",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1380,5 +1396,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:54:57.603Z"
+  "updatedAt": "2026-09-08T19:57:05.072Z"
 }
