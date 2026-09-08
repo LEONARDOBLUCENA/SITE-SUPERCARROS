@@ -1336,6 +1336,22 @@
       "numeroPedido": "18393",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtt35mhyaoxehb",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:51:58.246Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "Giovana Rolim Corrêa",
+      "contatoCliente": " (51) 99445-3053 ",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-03",
+      "valorVenda": "360.00",
+      "numeroPedido": "18389",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1348,5 +1364,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:49:55.607Z"
+  "updatedAt": "2026-09-08T19:51:58.655Z"
 }
