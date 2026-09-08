@@ -1111,6 +1111,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "video"
+    },
+    {
+      "id": "rmtt1wxja8nk25a",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:17:13.030Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~Naiara Ferreira",
+      "contatoCliente": "+55 34 8403-8237",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "duvida voucher"
     }
   ],
   "siteVendas": [
@@ -1123,5 +1139,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:16:28.084Z"
+  "updatedAt": "2026-09-08T19:17:13.451Z"
 }
