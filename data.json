@@ -1450,6 +1450,22 @@
       "numeroPedido": "18331",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtt3voyedaz84g",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T20:12:14.486Z",
+      "dataAtendimento": "2026-09-01",
+      "nomeCliente": "Ana Schwab Eltz",
+      "contatoCliente": " (51) 99292-0030 ",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-01",
+      "valorVenda": "290.00",
+      "numeroPedido": "18345",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1462,5 +1478,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T20:07:59.873Z"
+  "updatedAt": "2026-09-08T20:12:15.020Z"
 }
