@@ -368,8 +368,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtstr7gqu508o6",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:28:49.034Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Henrique Afonso Maiate",
+      "contatoCliente": " (48) 99908-4125 ",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "drive + carona mustang",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "360.0",
+      "numeroPedido": "18487",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:26:00.839Z"
+  "updatedAt": "2026-09-08T15:28:49.551Z"
 }
