@@ -1482,6 +1482,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtt45jvm8cyav8",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T20:19:54.466Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~Sarah Rogeri",
+      "contatoCliente": "+55 11 97612-7726",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1494,5 +1510,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T20:19:12.574Z"
+  "updatedAt": "2026-09-08T20:19:54.906Z"
 }
