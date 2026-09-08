@@ -592,8 +592,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "duvida videos"
+    },
+    {
+      "id": "rmtsvd4siuyvqhk",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T16:13:51.618Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Viviane",
+      "contatoCliente": "Viviane",
+      "origem": "Outro",
+      "statusAtendimento": "",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "duvida videos"
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T16:13:22.994Z"
+  "updatedAt": "2026-09-08T16:13:52.143Z"
 }
