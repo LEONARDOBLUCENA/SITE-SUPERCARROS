@@ -1382,8 +1382,9 @@
       "dataVenda": "2026-09-02",
       "valorVenda": "369.00",
       "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-08T19:57:17.654Z"
     }
   ],
   "siteVendas": [
@@ -1396,5 +1397,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:57:05.072Z"
+  "updatedAt": "2026-09-08T19:57:17.654Z"
 }
