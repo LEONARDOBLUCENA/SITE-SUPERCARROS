@@ -878,13 +878,14 @@
       "nomeCliente": "~José Simas",
       "contatoCliente": "+55 48 9935-8787",
       "origem": "Outro",
-      "statusAtendimento": "",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "video"
+      "observacao": "video",
+      "updatedAt": "2026-09-08T19:01:48.141Z"
     }
   ],
   "siteVendas": [
@@ -897,5 +898,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:01:24.794Z"
+  "updatedAt": "2026-09-08T19:01:48.141Z"
 }
