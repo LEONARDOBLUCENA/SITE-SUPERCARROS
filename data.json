@@ -384,8 +384,24 @@
       "numeroPedido": "18487",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtstsdvg3bjawt",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:29:43.996Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 51 9171-2899",
+      "origem": "Outro",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:28:49.551Z"
+  "updatedAt": "2026-09-08T15:29:44.381Z"
 }
