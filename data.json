@@ -705,8 +705,24 @@
       "statusPagamento": "Pago",
       "observacao": "compra site - agendamento",
       "updatedAt": "2026-09-08T16:24:30.640Z"
+    },
+    {
+      "id": "rmtsvsb6khy9riq",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T16:25:39.741Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~Luh Dias",
+      "contatoCliente": "+55 51 9206-3701",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "combo",
+      "dataVenda": "2026-09-08",
+      "valorVenda": "137.00",
+      "numeroPedido": "18591",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T16:24:30.640Z"
+  "updatedAt": "2026-09-08T16:25:40.253Z"
 }
