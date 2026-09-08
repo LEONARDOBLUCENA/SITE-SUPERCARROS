@@ -1255,6 +1255,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "duvidas"
+    },
+    {
+      "id": "rmtt2apoagq5ftd",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:27:56.026Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~Bianca Costa",
+      "contatoCliente": "+55 51 8929-7575",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1267,5 +1283,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:25:54.180Z"
+  "updatedAt": "2026-09-08T19:27:56.694Z"
 }
