@@ -207,8 +207,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Videos"
+    },
+    {
+      "id": "rmtst1ti5obd8uo",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:09:04.541Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "~Miguel Da Silva",
+      "contatoCliente": "+55 54 9966-9995",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:07:03.114Z"
+  "updatedAt": "2026-09-08T15:09:05.214Z"
 }
