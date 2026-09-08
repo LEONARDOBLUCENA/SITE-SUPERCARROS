@@ -835,6 +835,22 @@
       "numeroPedido": "18605",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtszkf4htdstxi",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T18:11:30.065Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "~Luiz Henrique Oliveira",
+      "contatoCliente": "+55 19 99778-7168",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -847,5 +863,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T17:44:34.704Z"
+  "updatedAt": "2026-09-08T18:11:30.447Z"
 }
