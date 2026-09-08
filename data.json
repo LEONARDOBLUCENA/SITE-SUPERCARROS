@@ -111,8 +111,24 @@
       "numeroPedido": "18589",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtssir4dxbou85",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T14:54:14.989Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 21 98107-2808",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "Drive para familia",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T14:48:31.275Z"
+  "updatedAt": "2026-09-08T14:54:15.656Z"
 }
