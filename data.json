@@ -851,6 +851,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtsznkdpmvluk2",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T18:13:56.845Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "Dra Heloisa Russ",
+      "contatoCliente": "+55 41 9937-9807",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "duvida videos"
     }
   ],
   "siteVendas": [
@@ -863,5 +879,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T18:11:30.447Z"
+  "updatedAt": "2026-09-08T18:13:57.383Z"
 }
