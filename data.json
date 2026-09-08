@@ -352,8 +352,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Veio direto ao salão"
+    },
+    {
+      "id": "rmtstnleeohh72h",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:26:00.470Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "~Renata Braga",
+      "contatoCliente": "+55 21 98711-9700",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:22:51.993Z"
+  "updatedAt": "2026-09-08T15:26:00.839Z"
 }
