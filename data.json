@@ -464,8 +464,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "ia vir direto ao sc sem agendamento"
+    },
+    {
+      "id": "rmtstygzn2p97xk",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:34:27.971Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "R F",
+      "contatoCliente": "+55 67 9224-5151",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Realizar apenas o drive do voucher"
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:33:43.392Z"
+  "updatedAt": "2026-09-08T15:34:28.416Z"
 }
