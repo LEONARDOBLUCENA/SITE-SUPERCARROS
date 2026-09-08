@@ -1175,6 +1175,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtt20ue5n4qbcd",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T19:20:15.581Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "Gustavo Dutra",
+      "contatoCliente": "+55 51 8433-4488",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1187,5 +1203,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-08T19:19:55.194Z"
+  "updatedAt": "2026-09-08T19:20:16.247Z"
 }
