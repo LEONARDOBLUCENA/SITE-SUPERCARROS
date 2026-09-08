@@ -336,8 +336,24 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtstjjgyjo6hxl",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-08T15:22:51.346Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Fabiane Almeida",
+      "contatoCliente": "+55 33 9960-2598",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Veio direto ao salão"
     }
   ],
   "siteVendas": [],
-  "updatedAt": "2026-09-08T15:21:15.951Z"
+  "updatedAt": "2026-09-08T15:22:51.993Z"
 }
