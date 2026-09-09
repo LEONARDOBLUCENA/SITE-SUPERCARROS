@@ -1965,6 +1965,22 @@
       "numeroPedido": "18471",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu88oy5zdlmju",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T15:02:05.645Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Gideão Cruz Da Silva",
+      "contatoCliente": "(47) 99931-4625",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "1282.50",
+      "numeroPedido": "18479",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1977,5 +1993,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:59:52.942Z"
+  "updatedAt": "2026-09-09T15:02:06.232Z"
 }
