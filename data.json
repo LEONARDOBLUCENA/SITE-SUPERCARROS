@@ -3736,6 +3736,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuju9b2tammbt",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:26:47.582Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Danaisis ",
+      "contatoCliente": "+55 51 9662-2956",
+      "origem": "Evento",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3748,5 +3764,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:26:22.135Z"
+  "updatedAt": "2026-09-09T20:26:48.508Z"
 }
