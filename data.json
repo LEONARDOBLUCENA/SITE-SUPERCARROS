@@ -2450,6 +2450,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtufdjfxgp859e",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T18:21:49.101Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Naldo",
+      "contatoCliente": "+55 64 9626-3468",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2462,5 +2478,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:20:54.043Z"
+  "updatedAt": "2026-09-09T18:21:49.660Z"
 }
