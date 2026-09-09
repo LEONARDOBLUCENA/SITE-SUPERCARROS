@@ -1867,6 +1867,22 @@
       "numeroPedido": "18435",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu735k1r2s6cz",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T14:29:47.617Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Giseli S Mendes",
+      "contatoCliente": "(41) 99941-9698",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "297.00",
+      "numeroPedido": "18441",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1879,5 +1895,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:26:03.172Z"
+  "updatedAt": "2026-09-09T14:29:48.350Z"
 }
