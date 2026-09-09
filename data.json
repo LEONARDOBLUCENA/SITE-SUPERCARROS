@@ -2700,13 +2700,14 @@
       "nomeCliente": "Gabriella Silva Campos",
       "contatoCliente": "(62) 99112-2121",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "369.00",
       "numeroPedido": "18389",
-      "statusPagamento": "",
-      "observacao": ""
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-09T19:11:05.206Z"
     }
   ],
   "siteVendas": [
@@ -2719,5 +2720,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:10:48.063Z"
+  "updatedAt": "2026-09-09T19:11:05.206Z"
 }
