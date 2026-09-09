@@ -3640,6 +3640,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujqdj9ril7dp",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:23:46.437Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Douglas Mendes ",
+      "contatoCliente": "+55 63 9946-7010",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3652,5 +3668,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:22:35.709Z"
+  "updatedAt": "2026-09-09T20:23:46.974Z"
 }
