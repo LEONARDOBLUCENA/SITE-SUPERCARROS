@@ -3271,6 +3271,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Contato de uma Criança que queria entrar de graça "
+    },
+    {
+      "id": "rmtuizfs989f3md",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:02:49.641Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Amanda Mueller",
+      "contatoCliente": "+55 54 8125-0232",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3283,5 +3299,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:01:47.650Z"
+  "updatedAt": "2026-09-09T20:02:50.068Z"
 }
