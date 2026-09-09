@@ -3512,6 +3512,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujjfxazb10cs",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:18:22.942Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Rara Sinfonia ",
+      "contatoCliente": "+55 31 9685-3115",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3524,5 +3540,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:17:42.172Z"
+  "updatedAt": "2026-09-09T20:18:24.582Z"
 }
