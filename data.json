@@ -1885,6 +1885,22 @@
       "numeroPedido": "18441",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu78o4e1lw3nu",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T14:34:04.958Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Tiago Luís Wirth",
+      "contatoCliente": "(54) 99110-5050",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "654.30",
+      "numeroPedido": "18455",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1897,5 +1913,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:30:10.729Z"
+  "updatedAt": "2026-09-09T14:34:05.498Z"
 }
