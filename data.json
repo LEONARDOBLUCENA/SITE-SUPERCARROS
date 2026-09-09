@@ -3383,6 +3383,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujatl95v3vwp",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:11:40.749Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Cristian Tiliake",
+      "contatoCliente": "+55 41 8843-6502",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3395,5 +3411,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:11:03.732Z"
+  "updatedAt": "2026-09-09T20:11:41.383Z"
 }
