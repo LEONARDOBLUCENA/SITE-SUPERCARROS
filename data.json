@@ -3448,6 +3448,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujfmv607d6qy",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:15:25.314Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Tamires ",
+      "contatoCliente": "+ 55 51 8245-9575",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3460,5 +3476,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:14:49.895Z"
+  "updatedAt": "2026-09-09T20:15:26.175Z"
 }
