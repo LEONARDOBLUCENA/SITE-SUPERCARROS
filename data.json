@@ -2885,6 +2885,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtui06e1ookry1",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:35:24.505Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "Gustavo ",
+      "contatoCliente": "+55 38 9841-2248",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2897,5 +2913,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:34:49.736Z"
+  "updatedAt": "2026-09-09T19:35:24.989Z"
 }
