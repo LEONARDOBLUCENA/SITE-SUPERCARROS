@@ -2013,6 +2013,22 @@
       "numeroPedido": "18487",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu8eq17wcf0f0",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T15:06:46.988Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Vanessa Fátima Korschner",
+      "contatoCliente": "(51) 99234-3569",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-06",
+      "valorVenda": "177.17",
+      "numeroPedido": "18495",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2025,5 +2041,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:04:47.943Z"
+  "updatedAt": "2026-09-09T15:06:47.725Z"
 }
