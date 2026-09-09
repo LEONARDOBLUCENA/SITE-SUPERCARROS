@@ -3480,6 +3480,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujhr7dz3r2p2",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:17:04.249Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 41 9872-9941",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3492,5 +3508,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:15:58.063Z"
+  "updatedAt": "2026-09-09T20:17:04.942Z"
 }
