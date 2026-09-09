@@ -1981,6 +1981,22 @@
       "numeroPedido": "18479",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu8agfzwj0xzo",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T15:03:27.935Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Vinicius Naveira",
+      "contatoCliente": "(53) 99926-6510",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "360.00",
+      "numeroPedido": "18483",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1993,5 +2009,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:02:06.232Z"
+  "updatedAt": "2026-09-09T15:03:28.376Z"
 }
