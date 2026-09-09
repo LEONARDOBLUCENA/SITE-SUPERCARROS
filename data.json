@@ -2813,13 +2813,14 @@
       "nomeCliente": "William",
       "contatoCliente": "+55 51 9275-9342",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "Boxster  ou 911 ",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-09T19:32:19.097Z"
     }
   ],
   "siteVendas": [
@@ -2832,5 +2833,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:31:42.266Z"
+  "updatedAt": "2026-09-09T19:32:19.097Z"
 }
