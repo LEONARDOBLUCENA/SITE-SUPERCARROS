@@ -3704,6 +3704,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujsvpn2098wp",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:25:43.307Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Gui Gonzales ",
+      "contatoCliente": "+55 51 8169-9608",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3716,5 +3732,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:25:21.938Z"
+  "updatedAt": "2026-09-09T20:25:44.396Z"
 }
