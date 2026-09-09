@@ -2498,6 +2498,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtufgxo37wgk1b",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T18:24:27.507Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Jessica Gregoski",
+      "contatoCliente": "+55 54 9652-1434",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2510,5 +2526,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:23:32.299Z"
+  "updatedAt": "2026-09-09T18:24:28.264Z"
 }
