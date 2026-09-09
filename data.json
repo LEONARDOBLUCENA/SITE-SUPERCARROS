@@ -2143,6 +2143,22 @@
       "numeroPedido": "18557",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu9b2rtgxm52i",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T15:31:56.489Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Bruna Doubek Cavet Javorouski",
+      "contatoCliente": "(41) 98402-2042",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-07",
+      "valorVenda": "167.85",
+      "numeroPedido": "18561",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2155,5 +2171,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:30:25.973Z"
+  "updatedAt": "2026-09-09T15:31:57.151Z"
 }
