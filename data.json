@@ -1815,11 +1815,12 @@
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-09-09",
+      "valorVenda": "316.00",
       "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "dúvidas"
+      "statusPagamento": "Pago",
+      "observacao": "dúvidas",
+      "updatedAt": "2026-09-09T16:09:38.385Z"
     },
     {
       "id": "rmtu6pkpslpp5oc",
@@ -2188,5 +2189,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T16:05:30.719Z"
+  "updatedAt": "2026-09-09T16:09:38.385Z"
 }
