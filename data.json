@@ -2821,6 +2821,22 @@
       "statusPagamento": "",
       "observacao": "",
       "updatedAt": "2026-09-09T19:32:19.097Z"
+    },
+    {
+      "id": "rmtuhwvrsd72a2r",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:32:50.776Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 98 7009-7888",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2833,5 +2849,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:32:19.097Z"
+  "updatedAt": "2026-09-09T19:32:51.684Z"
 }
