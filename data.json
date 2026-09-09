@@ -3768,6 +3768,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujwc6rqtlmae",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:28:24.627Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Anie Ribeiro ",
+      "contatoCliente": "+ 55 51 9575-6012",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3780,5 +3796,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:27:28.424Z"
+  "updatedAt": "2026-09-09T20:28:25.261Z"
 }
