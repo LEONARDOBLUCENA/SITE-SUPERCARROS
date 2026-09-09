@@ -3367,6 +3367,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Não quis o upgrade e trocamos o passeio pela segunda entrada "
+    },
+    {
+      "id": "rmtuja0p0n84ued",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:11:03.300Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Cardoso Neto ",
+      "contatoCliente": "+55 88 8144-3184",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3379,5 +3395,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:10:08.169Z"
+  "updatedAt": "2026-09-09T20:11:03.732Z"
 }
