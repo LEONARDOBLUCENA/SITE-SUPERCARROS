@@ -2321,6 +2321,22 @@
       "numeroPedido": "18577",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtucsssfyfnc82",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T17:09:42.207Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Andriw Dos Anjos Costa Cazé Barros",
+      "contatoCliente": "(62) 98280-9457",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-08",
+      "valorVenda": "297.00",
+      "numeroPedido": "18595",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2333,5 +2349,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T17:05:48.491Z"
+  "updatedAt": "2026-09-09T17:09:42.953Z"
 }
