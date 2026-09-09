@@ -3464,6 +3464,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujgb6v4who65",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:15:56.839Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Letícia ",
+      "contatoCliente": "+55 61 8109-5100",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3476,5 +3492,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:15:26.175Z"
+  "updatedAt": "2026-09-09T20:15:58.063Z"
 }
