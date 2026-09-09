@@ -3833,6 +3833,22 @@
       "numeroPedido": "18583",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtul0pz2tbqvcg",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:59:48.734Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Cap Lisiane",
+      "contatoCliente": "+55 54 9688-6149",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3845,5 +3861,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:53:50.037Z"
+  "updatedAt": "2026-09-09T20:59:49.312Z"
 }
