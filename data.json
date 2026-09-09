@@ -2305,6 +2305,22 @@
       "numeroPedido": "18569",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtucnrvv4j1tok",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T17:05:47.755Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Lucas Scarpioni Moreno",
+      "contatoCliente": "(19) 98203-6806",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "346.50",
+      "numeroPedido": "18577",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2317,5 +2333,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T17:04:16.326Z"
+  "updatedAt": "2026-09-09T17:05:48.491Z"
 }
