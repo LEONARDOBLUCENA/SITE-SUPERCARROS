@@ -2466,6 +2466,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtufe7a7vremtc",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T18:22:19.999Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Clara Diniz",
+      "contatoCliente": "+55 98 8855-8858",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2478,5 +2494,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:21:49.660Z"
+  "updatedAt": "2026-09-09T18:22:20.455Z"
 }
