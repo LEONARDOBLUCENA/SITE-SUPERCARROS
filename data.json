@@ -1949,6 +1949,22 @@
       "numeroPedido": "18469",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu85u5flq269e",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T14:59:52.419Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Kerin Santos Vieira",
+      "contatoCliente": "(27) 99825-2244",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "94.05",
+      "numeroPedido": "18471",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1961,5 +1977,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:56:10.740Z"
+  "updatedAt": "2026-09-09T14:59:52.942Z"
 }
