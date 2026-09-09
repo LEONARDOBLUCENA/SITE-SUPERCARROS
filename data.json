@@ -1835,6 +1835,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "duvida videos"
+    },
+    {
+      "id": "rmtu6t2baqpjk6y",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T14:21:56.854Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Pedro Sbardelotto De Souza",
+      "contatoCliente": "(54) 99965-0637",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-04",
+      "valorVenda": "153.04",
+      "numeroPedido": "18417",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1847,5 +1863,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:19:14.675Z"
+  "updatedAt": "2026-09-09T14:21:57.413Z"
 }
