@@ -2369,6 +2369,22 @@
       "numeroPedido": "18353",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtud3f56gv7rt7",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T17:17:57.738Z",
+      "dataAtendimento": "2026-09-01",
+      "nomeCliente": "Cassio Bernardo Toniolo Da Silveira",
+      "contatoCliente": " (51) 98503-6291",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-01",
+      "valorVenda": "1216.00",
+      "numeroPedido": "18325",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2381,5 +2397,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T17:15:40.122Z"
+  "updatedAt": "2026-09-09T17:17:58.375Z"
 }
