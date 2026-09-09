@@ -1659,6 +1659,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "receber voucher"
+    },
+    {
+      "id": "rmtu1imu9qwg5ti",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T11:53:52.161Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 97 8427-4987",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "dúvidas"
     }
   ],
   "siteVendas": [
@@ -1671,5 +1687,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:47:31.741Z"
+  "updatedAt": "2026-09-09T11:53:52.701Z"
 }
