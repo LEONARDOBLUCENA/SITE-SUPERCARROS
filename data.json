@@ -1851,6 +1851,22 @@
       "numeroPedido": "18417",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu6ybru3p176g",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T14:26:02.394Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Thiago Augusto Amaral Ferreira De Assis",
+      "contatoCliente": "(31) 98207-1111",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-04",
+      "valorVenda": "1350.00",
+      "numeroPedido": "18435",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1863,5 +1879,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:21:57.413Z"
+  "updatedAt": "2026-09-09T14:26:03.172Z"
 }
