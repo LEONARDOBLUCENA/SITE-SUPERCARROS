@@ -3062,6 +3062,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuim1cgutynjr",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:52:24.400Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Júlia Ziroldo ",
+      "contatoCliente": "+55 43 8855-4955",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3074,5 +3090,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:51:38.852Z"
+  "updatedAt": "2026-09-09T19:52:25.328Z"
 }
