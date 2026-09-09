@@ -3592,6 +3592,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujnh2q6ra4oq",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:21:31.058Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Paulo José ",
+      "contatoCliente": "+55 11 95699-4820",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Queriam andar em 4 na Ferrari "
     }
   ],
   "siteVendas": [
@@ -3604,5 +3620,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:20:46.448Z"
+  "updatedAt": "2026-09-09T20:21:31.842Z"
 }
