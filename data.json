@@ -2353,6 +2353,22 @@
       "numeroPedido": "18389",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtud0gimv9144y",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T17:15:39.550Z",
+      "dataAtendimento": "2026-09-02",
+      "nomeCliente": "Deivid Aleixo De Almeids",
+      "contatoCliente": "(11) 99510-4494",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-02",
+      "valorVenda": "1507.00",
+      "numeroPedido": "18353",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2365,5 +2381,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T17:13:09.922Z"
+  "updatedAt": "2026-09-09T17:15:40.122Z"
 }
