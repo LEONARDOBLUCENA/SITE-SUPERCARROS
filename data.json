@@ -2708,6 +2708,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "updatedAt": "2026-09-09T19:11:05.206Z"
+    },
+    {
+      "id": "rmtuh8rkm7wf228",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:14:05.590Z",
+      "dataAtendimento": "2026-09-01",
+      "nomeCliente": "Gabriel Cauê Vieira Carminatti",
+      "contatoCliente": "(48) 99841-3360",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-01",
+      "valorVenda": "360.00",
+      "numeroPedido": "18343",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2720,5 +2736,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:11:05.206Z"
+  "updatedAt": "2026-09-09T19:14:06.191Z"
 }
