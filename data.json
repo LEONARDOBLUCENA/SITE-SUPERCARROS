@@ -1813,14 +1813,14 @@
       "nomeCliente": "~Brunela Valiatti",
       "contatoCliente": "+55 27 99876-8084",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-09",
       "valorVenda": "316.00",
       "numeroPedido": "",
       "statusPagamento": "Pago",
       "observacao": "dúvidas",
-      "updatedAt": "2026-09-09T16:09:38.385Z"
+      "updatedAt": "2026-09-09T16:09:44.702Z"
     },
     {
       "id": "rmtu6pkpslpp5oc",
@@ -2189,5 +2189,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T16:09:38.385Z"
+  "updatedAt": "2026-09-09T16:09:44.702Z"
 }
