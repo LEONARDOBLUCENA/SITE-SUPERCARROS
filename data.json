@@ -2514,6 +2514,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtufiicacd2zps",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T18:25:40.954Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Gustavo Chalenga ",
+      "contatoCliente": "+55 41 8508-1805",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2526,5 +2542,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:24:28.264Z"
+  "updatedAt": "2026-09-09T18:25:42.159Z"
 }
