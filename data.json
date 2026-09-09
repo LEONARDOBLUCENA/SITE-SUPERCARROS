@@ -2997,6 +2997,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuibwykr9bl7y",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:44:32.156Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Aluizio Freitas ",
+      "contatoCliente": "+55 81 9575-4050",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3009,5 +3025,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:43:58.083Z"
+  "updatedAt": "2026-09-09T19:44:32.791Z"
 }
