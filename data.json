@@ -3078,6 +3078,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuimlf5sbk50w",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:52:50.417Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Jeferson ",
+      "contatoCliente": "+55 48 9903-9499",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3090,5 +3106,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:52:25.328Z"
+  "updatedAt": "2026-09-09T19:52:51.052Z"
 }
