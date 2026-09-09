@@ -2869,6 +2869,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuhzf0anp1fxn",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:34:49.018Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Rocky ",
+      "contatoCliente": "+55 41 9159-2719",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2881,5 +2897,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:33:55.871Z"
+  "updatedAt": "2026-09-09T19:34:49.736Z"
 }
