@@ -2788,6 +2788,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuhutkr533n0q",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:31:14.619Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Laurent Vieira ",
+      "contatoCliente": "+55 48 9601-2124",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2800,5 +2816,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:30:32.546Z"
+  "updatedAt": "2026-09-09T19:31:15.396Z"
 }
