@@ -2659,6 +2659,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtugxhhfy11y13",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T19:05:19.299Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "~Patricia",
+      "contatoCliente": "+55 85 8884-8657",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2671,5 +2687,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:03:54.913Z"
+  "updatedAt": "2026-09-09T19:05:20.107Z"
 }
