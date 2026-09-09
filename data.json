@@ -1803,6 +1803,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtu4i8w66ha68x",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T13:17:32.934Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "~Brunela Valiatti",
+      "contatoCliente": "+55 27 99876-8084",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "dúvidas"
     }
   ],
   "siteVendas": [
@@ -1815,5 +1831,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T13:08:50.812Z"
+  "updatedAt": "2026-09-09T13:17:33.379Z"
 }
