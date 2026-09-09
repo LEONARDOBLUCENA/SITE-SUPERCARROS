@@ -2749,13 +2749,14 @@
       "nomeCliente": "Thaliny ",
       "contatoCliente": "(48) 9 118 4220",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "Já realizou o passeio presencialmente ",
+      "updatedAt": "2026-09-09T20:34:01.517Z"
     },
     {
       "id": "rmtuht0unbuernn",
@@ -3828,5 +3829,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:33:25.824Z"
+  "updatedAt": "2026-09-09T20:34:01.517Z"
 }
