@@ -3576,6 +3576,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujmhwh94g8i6",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:20:45.473Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Paette Imports ",
+      "contatoCliente": "+55 49 9995-3930",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "Combo 2 Ingressos ",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3588,5 +3604,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:20:07.277Z"
+  "updatedAt": "2026-09-09T20:20:46.448Z"
 }
