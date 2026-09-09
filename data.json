@@ -3800,6 +3800,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuk2s7nnt8f1o",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:33:25.331Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+ 55 31 9699-8331",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3812,5 +3828,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:28:47.682Z"
+  "updatedAt": "2026-09-09T20:33:25.824Z"
 }
