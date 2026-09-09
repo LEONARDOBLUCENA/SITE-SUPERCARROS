@@ -2933,6 +2933,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtui44rmojs9vh",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:38:29.026Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Carla Maria Oliveira ",
+      "contatoCliente": "+55 84 9681-3414",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Cliente desistiu",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2945,5 +2961,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:36:49.352Z"
+  "updatedAt": "2026-09-09T19:38:29.616Z"
 }
