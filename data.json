@@ -3142,6 +3142,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuipmxs44y0fq",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:55:12.352Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Robeson Riedel ",
+      "contatoCliente": "+55 51 9524-6782",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3154,5 +3170,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:54:25.516Z"
+  "updatedAt": "2026-09-09T19:55:12.975Z"
 }
