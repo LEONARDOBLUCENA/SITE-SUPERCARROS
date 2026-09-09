@@ -2094,6 +2094,22 @@
       "numeroPedido": "18519",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu8rowsuumive",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T15:16:52.060Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Luiza Rayanna Amorim De Lima",
+      "contatoCliente": "(81) 98716-4586",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "99.00",
+      "numeroPedido": "18527",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2106,5 +2122,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:14:09.278Z"
+  "updatedAt": "2026-09-09T15:16:52.766Z"
 }
