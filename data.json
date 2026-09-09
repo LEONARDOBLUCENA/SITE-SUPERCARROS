@@ -2045,6 +2045,22 @@
       "numeroPedido": "18497",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu8i687x86sep",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T15:09:27.943Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Erik Felix Da Silva",
+      "contatoCliente": "(19) 99295-0349",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "342.00",
+      "numeroPedido": "18503",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2057,5 +2073,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:07:49.015Z"
+  "updatedAt": "2026-09-09T15:09:28.566Z"
 }
