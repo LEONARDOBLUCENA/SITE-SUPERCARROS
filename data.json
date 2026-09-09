@@ -1819,6 +1819,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "dúvidas"
+    },
+    {
+      "id": "rmtu6pkpslpp5oc",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T14:19:14.080Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "55 21 98112-5015",
+      "contatoCliente": "Fabiana Almeida",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "duvida videos"
     }
   ],
   "siteVendas": [
@@ -1831,5 +1847,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T13:17:33.379Z"
+  "updatedAt": "2026-09-09T14:19:14.675Z"
 }
