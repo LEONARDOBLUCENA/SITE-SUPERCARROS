@@ -3849,6 +3849,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtul1u7x3csi6a",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T21:00:40.893Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 21 99774-1289",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3861,5 +3877,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:59:49.312Z"
+  "updatedAt": "2026-09-09T21:00:41.536Z"
 }
