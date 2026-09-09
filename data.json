@@ -3255,6 +3255,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuiy3mmallmvr",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:01:47.230Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Davi Hickmann",
+      "contatoCliente": "+55 51 9520-2605",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Contato de uma Criança que queria entrar de graça "
     }
   ],
   "siteVendas": [
@@ -3267,5 +3283,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:00:44.810Z"
+  "updatedAt": "2026-09-09T20:01:47.650Z"
 }
