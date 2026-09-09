@@ -3287,6 +3287,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuj066pgxdemr",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:03:23.857Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Heryk",
+      "contatoCliente": "+55 41 9522-7377",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3299,5 +3315,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:02:50.068Z"
+  "updatedAt": "2026-09-09T20:03:24.530Z"
 }
