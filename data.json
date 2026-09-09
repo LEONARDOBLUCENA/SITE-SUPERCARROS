@@ -2563,6 +2563,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuflfid3op9yh",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T18:27:57.253Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "LL",
+      "contatoCliente": "+55 41 9510-4433",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2575,5 +2591,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:27:24.712Z"
+  "updatedAt": "2026-09-09T18:27:58.308Z"
 }
