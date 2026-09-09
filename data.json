@@ -3029,6 +3029,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuif225178b6i",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:46:58.733Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Kaik Andrade ",
+      "contatoCliente": "+55 75 9708-4791",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3041,5 +3057,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:45:41.275Z"
+  "updatedAt": "2026-09-09T19:46:59.336Z"
 }
