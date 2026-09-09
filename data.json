@@ -2595,6 +2595,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Optou pela compra presencial "
+    },
+    {
+      "id": "rmtufqnieng0ic3",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T18:32:00.902Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Marina Ottmann Boff",
+      "contatoCliente": "+55 51 9223-8960 ",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "Drive de 911 Carrera + 1 Carona ",
+      "dataVenda": "",
+      "valorVenda": "1150.00",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2607,5 +2623,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:28:57.671Z"
+  "updatedAt": "2026-09-09T18:32:01.693Z"
 }
