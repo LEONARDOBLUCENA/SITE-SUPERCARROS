@@ -2029,6 +2029,22 @@
       "numeroPedido": "18495",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu8g1b2jgs469",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T15:07:48.254Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Diane De Cezaro",
+      "contatoCliente": "(47) 99605-8553",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-06",
+      "valorVenda": "130.15",
+      "numeroPedido": "18497",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2041,5 +2057,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:06:47.725Z"
+  "updatedAt": "2026-09-09T15:07:49.015Z"
 }
