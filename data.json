@@ -3393,12 +3393,13 @@
       "contatoCliente": "+55 41 8843-6502",
       "origem": "",
       "statusAtendimento": "Link enviado",
-      "produtoInteresse": "",
+      "produtoInteresse": "Combo Master ",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-09T20:14:49.895Z"
     },
     {
       "id": "rmtujbut7ii705b",
@@ -3459,5 +3460,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:14:14.452Z"
+  "updatedAt": "2026-09-09T20:14:49.895Z"
 }
