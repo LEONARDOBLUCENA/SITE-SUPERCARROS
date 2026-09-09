@@ -2289,6 +2289,22 @@
       "numeroPedido": "18565",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtuclsz8pprgr5",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T17:04:15.860Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Lucas Vinicius Santos Soares",
+      "contatoCliente": "(62) 99342-5875",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-07",
+      "valorVenda": "1016.50",
+      "numeroPedido": "18569",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2301,5 +2317,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T17:03:20.688Z"
+  "updatedAt": "2026-09-09T17:04:16.326Z"
 }
