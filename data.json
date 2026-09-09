@@ -1625,7 +1625,8 @@
       "valorVenda": "640.00",
       "numeroPedido": "18087 e 18633",
       "statusPagamento": "Pago",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-09T11:45:47.109Z"
     }
   ],
   "siteVendas": [
@@ -1638,5 +1639,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:42:37.453Z"
+  "updatedAt": "2026-09-09T11:45:47.109Z"
 }
