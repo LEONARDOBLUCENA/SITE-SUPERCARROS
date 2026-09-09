@@ -2241,6 +2241,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtubvbvx49d23p",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T16:43:40.653Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "~Daniele Morais",
+      "contatoCliente": "+55 85 8759-8070",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2253,5 +2269,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T16:32:30.592Z"
+  "updatedAt": "2026-09-09T16:43:41.080Z"
 }
