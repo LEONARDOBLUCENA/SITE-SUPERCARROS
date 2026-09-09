@@ -3126,6 +3126,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuiomcxpsc9xh",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:54:24.945Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Paulo Carvalho ",
+      "contatoCliente": "+55 15 99113-2913",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3138,5 +3154,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:53:58.071Z"
+  "updatedAt": "2026-09-09T19:54:25.516Z"
 }
