@@ -3094,6 +3094,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuin01lcvaye8",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:53:09.369Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Thay ",
+      "contatoCliente": "+55 22 99906-9584",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3106,5 +3122,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:52:51.052Z"
+  "updatedAt": "2026-09-09T19:53:09.865Z"
 }
