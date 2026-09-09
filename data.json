@@ -2547,6 +2547,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtufkpmeo31mno",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T18:27:23.702Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Pedro Layola",
+      "contatoCliente": "+55 73 9818-0732",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2559,5 +2575,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:26:37.882Z"
+  "updatedAt": "2026-09-09T18:27:24.712Z"
 }
