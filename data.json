@@ -1723,6 +1723,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "dúvida"
+    },
+    {
+      "id": "rmtu270oeanyt95",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T12:12:49.838Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Gabriel Polito",
+      "contatoCliente": "(43) 99106-5255",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "137.00",
+      "numeroPedido": "18627",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1735,5 +1751,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:59:48.415Z"
+  "updatedAt": "2026-09-09T12:12:50.523Z"
 }
