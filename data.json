@@ -1997,6 +1997,22 @@
       "numeroPedido": "18483",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu8c5kue9a52n",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T15:04:47.166Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Henrique Afonso Maiate",
+      "contatoCliente": "(48) 99908-4125",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "342.00",
+      "numeroPedido": "18487",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2009,5 +2025,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:03:28.376Z"
+  "updatedAt": "2026-09-09T15:04:47.943Z"
 }
