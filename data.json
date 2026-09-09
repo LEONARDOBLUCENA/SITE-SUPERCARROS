@@ -2643,6 +2643,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtugvnvd6m45vu",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T19:03:54.265Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "~Danielli Preve",
+      "contatoCliente": "+55 48 9997-5373",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2655,5 +2671,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:48:50.924Z"
+  "updatedAt": "2026-09-09T19:03:54.913Z"
 }
