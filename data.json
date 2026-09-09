@@ -2611,6 +2611,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtufrdiwr19u5v",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T18:32:34.616Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Aliny",
+      "contatoCliente": "+55 47 9986-7071",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2623,5 +2639,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:32:01.693Z"
+  "updatedAt": "2026-09-09T18:32:35.152Z"
 }
