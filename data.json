@@ -2724,6 +2724,22 @@
       "numeroPedido": "18343",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtuhkuc4m60afy",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:23:29.044Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Pedro ",
+      "contatoCliente": "+55 98 8915-1328",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2736,5 +2752,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:14:06.191Z"
+  "updatedAt": "2026-09-09T19:23:29.838Z"
 }
