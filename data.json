@@ -2756,6 +2756,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuht0unbuernn",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:29:50.735Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Fabricia ",
+      "contatoCliente": "+ 55 11 95230-9935",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2768,5 +2784,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:25:51.447Z"
+  "updatedAt": "2026-09-09T19:29:53.174Z"
 }
