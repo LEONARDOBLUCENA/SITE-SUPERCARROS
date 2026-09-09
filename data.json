@@ -3195,7 +3195,7 @@
       "id": "rmtuisd88i5t4iu",
       "vendedora": "bruna",
       "createdAt": "2026-09-09T19:57:19.736Z",
-      "dataAtendimento": "2026-09-09",
+      "dataAtendimento": "2026-09-07",
       "nomeCliente": "Ana ",
       "contatoCliente": "(54) 9142-9271",
       "origem": "Carrinho Abandonado",
@@ -3205,7 +3205,8 @@
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-09T19:57:29.850Z"
     }
   ],
   "siteVendas": [
@@ -3218,5 +3219,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:57:20.432Z"
+  "updatedAt": "2026-09-09T19:57:29.850Z"
 }
