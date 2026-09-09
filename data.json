@@ -3207,6 +3207,22 @@
       "statusPagamento": "",
       "observacao": "",
       "updatedAt": "2026-09-09T19:57:29.850Z"
+    },
+    {
+      "id": "rmtuiug18reetu8",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:58:56.684Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Rafa ",
+      "contatoCliente": "+55 11 94045-4994",
+      "origem": "",
+      "statusAtendimento": "Cliente desistiu",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Queria fazer o passeio sem o instrutor "
     }
   ],
   "siteVendas": [
@@ -3219,5 +3235,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:57:29.850Z"
+  "updatedAt": "2026-09-09T19:58:57.804Z"
 }
