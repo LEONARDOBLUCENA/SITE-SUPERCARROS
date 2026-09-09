@@ -3560,6 +3560,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujlnkziqpkcy",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:20:06.179Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Leonardo Becker ",
+      "contatoCliente": "+55 54 9925-0464",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3572,5 +3588,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:19:39.376Z"
+  "updatedAt": "2026-09-09T20:20:07.277Z"
 }
