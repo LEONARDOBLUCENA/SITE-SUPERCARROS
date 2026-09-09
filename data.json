@@ -3544,6 +3544,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujl201wff24p",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:19:38.209Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 11 97473-5494",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3556,5 +3572,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:19:04.895Z"
+  "updatedAt": "2026-09-09T20:19:39.376Z"
 }
