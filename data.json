@@ -2177,6 +2177,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtub7ig97nquxb",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T16:25:09.417Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "~Rafaela Sampaio",
+      "contatoCliente": "+55 79 9979-0478",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2189,5 +2205,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T16:09:44.702Z"
+  "updatedAt": "2026-09-09T16:25:10.109Z"
 }
