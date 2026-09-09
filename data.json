@@ -1643,6 +1643,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Duvidas"
+    },
+    {
+      "id": "rmtu1agvyz9hkw9",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T11:47:31.198Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Vitor",
+      "contatoCliente": "+55 82 9919-4166",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "receber voucher"
     }
   ],
   "siteVendas": [
@@ -1655,5 +1671,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:46:33.553Z"
+  "updatedAt": "2026-09-09T11:47:31.741Z"
 }
