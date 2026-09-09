@@ -1860,13 +1860,14 @@
       "nomeCliente": "Thiago Augusto Amaral Ferreira De Assis",
       "contatoCliente": "(31) 98207-1111",
       "origem": "Outro",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-04",
       "valorVenda": "1350.00",
       "numeroPedido": "18435",
       "statusPagamento": "Pago",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-09T14:30:03.323Z"
     },
     {
       "id": "rmtu735k1r2s6cz",
@@ -1895,5 +1896,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:29:48.350Z"
+  "updatedAt": "2026-09-09T14:30:03.323Z"
 }
