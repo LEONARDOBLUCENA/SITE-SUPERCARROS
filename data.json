@@ -2209,6 +2209,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtubfy8zwsa37u",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T16:31:43.139Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "~transportesvargas 2014",
+      "contatoCliente": "+55 51 8306-6133",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2221,5 +2237,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T16:26:08.017Z"
+  "updatedAt": "2026-09-09T16:31:43.615Z"
 }
