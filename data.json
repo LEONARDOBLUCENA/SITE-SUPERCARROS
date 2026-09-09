@@ -2337,6 +2337,22 @@
       "numeroPedido": "18595",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtucx8fp5rrt7d",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T17:13:09.109Z",
+      "dataAtendimento": "2026-09-03",
+      "nomeCliente": "Giovana Rolim Corrêa",
+      "contatoCliente": "(51) 99445-3053",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-03",
+      "valorVenda": "360.00",
+      "numeroPedido": "18389",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2349,5 +2365,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T17:09:42.953Z"
+  "updatedAt": "2026-09-09T17:13:09.922Z"
 }
