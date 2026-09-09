@@ -2423,18 +2423,18 @@
       "id": "rmtufal6pthzpas",
       "vendedora": "bruna",
       "createdAt": "2026-09-09T18:19:31.393Z",
-      "dataAtendimento": "2026-09-09",
+      "dataAtendimento": "2026-09-07",
       "nomeCliente": "Francisco Fernandez",
       "contatoCliente": "+598 93 713 665 ",
       "origem": "Outro",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "Drive de Camaro SS #2 + 1 Carona",
-      "dataVenda": "",
+      "dataVenda": "2026-09-09",
       "valorVenda": "500.00",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "updatedAt": "2026-09-09T18:20:54.043Z"
+      "numeroPedido": "1572 Online ",
+      "statusPagamento": "Pago",
+      "observacao": "Estrangeiro ",
+      "updatedAt": "2026-09-09T18:45:04.831Z"
     },
     {
       "id": "rmtufc3vfoqke4x",
@@ -2639,5 +2639,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:37:10.654Z"
+  "updatedAt": "2026-09-09T18:45:04.832Z"
 }
