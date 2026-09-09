@@ -2159,6 +2159,22 @@
       "numeroPedido": "18561",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtua9d60zyrdgn",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T15:58:36.264Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Nanda",
+      "contatoCliente": "+55 54 9701-6776",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2171,5 +2187,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:31:57.151Z"
+  "updatedAt": "2026-09-09T15:58:36.817Z"
 }
