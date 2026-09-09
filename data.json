@@ -2627,6 +2627,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtugca99k8jby8",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T18:48:50.157Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Mariana Carvalho ",
+      "contatoCliente": "+55 21 99016-6289",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2639,5 +2655,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:45:04.832Z"
+  "updatedAt": "2026-09-09T18:48:50.924Z"
 }
