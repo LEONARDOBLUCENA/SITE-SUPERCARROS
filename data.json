@@ -3399,6 +3399,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujbut7ii705b",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:12:28.987Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Paula Cavalcante ",
+      "contatoCliente": "+55 21 98262-5996",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3411,5 +3427,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:11:41.383Z"
+  "updatedAt": "2026-09-09T20:12:30.071Z"
 }
