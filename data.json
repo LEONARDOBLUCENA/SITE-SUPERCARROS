@@ -1933,6 +1933,22 @@
       "numeroPedido": "18465",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu812mlzw4u14",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T14:56:10.126Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Kauhan Rodrigues De Araujo",
+      "contatoCliente": "(98) 98487-0408",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "1130.00",
+      "numeroPedido": "18469",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1945,5 +1961,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:53:58.977Z"
+  "updatedAt": "2026-09-09T14:56:10.740Z"
 }
