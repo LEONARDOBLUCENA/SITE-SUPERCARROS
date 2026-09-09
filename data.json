@@ -1844,13 +1844,14 @@
       "nomeCliente": "Pedro Sbardelotto De Souza",
       "contatoCliente": "(54) 99965-0637",
       "origem": "Outro",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-04",
       "valorVenda": "153.04",
       "numeroPedido": "18417",
       "statusPagamento": "Pago",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-09T14:30:10.729Z"
     },
     {
       "id": "rmtu6ybru3p176g",
@@ -1896,5 +1897,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:30:03.323Z"
+  "updatedAt": "2026-09-09T14:30:10.729Z"
 }
