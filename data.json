@@ -2061,6 +2061,22 @@
       "numeroPedido": "18503",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu8jrhiir1dul",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T15:10:42.151Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Leandro Marchl Baltussen",
+      "contatoCliente": "(15) 99712-2699",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-06",
+      "valorVenda": "700.00",
+      "numeroPedido": "18507",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2073,5 +2089,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:09:28.566Z"
+  "updatedAt": "2026-09-09T15:10:42.792Z"
 }
