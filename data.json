@@ -1627,6 +1627,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "updatedAt": "2026-09-09T11:45:47.109Z"
+    },
+    {
+      "id": "rmtu197sltkyl68",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-09T11:46:32.757Z",
+      "dataAtendimento": "2026-09-09",
+      "nomeCliente": "Davi Monteiro",
+      "contatoCliente": "+55 75 9954-2609",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Duvidas"
     }
   ],
   "siteVendas": [
@@ -1639,5 +1655,5 @@
       "updatedAt": "2026-09-08T17:23:35.033Z"
     }
   ],
-  "updatedAt": "2026-09-09T11:45:47.109Z"
+  "updatedAt": "2026-09-09T11:46:33.553Z"
 }
