@@ -2078,6 +2078,22 @@
       "numeroPedido": "18507",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu8o6q907zwi8",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T15:14:08.529Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Juliana Favoreto",
+      "contatoCliente": "(21) 99110-4803",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-06",
+      "valorVenda": "655.50",
+      "numeroPedido": "18519",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -2090,5 +2106,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:10:54.994Z"
+  "updatedAt": "2026-09-09T15:14:09.278Z"
 }
