@@ -3496,6 +3496,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujijr10qq6wh",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:17:41.245Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Marcela Santos ",
+      "contatoCliente": "+55 41 9165-7736",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3508,5 +3524,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:17:04.942Z"
+  "updatedAt": "2026-09-09T20:17:42.172Z"
 }
