@@ -1917,6 +1917,22 @@
       "numeroPedido": "18463",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu7y8zz0ixbc8",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T14:53:58.415Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Joyce Mayara Hessler Lamperti",
+      "contatoCliente": "(51) 99186-9129",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "720.00",
+      "numeroPedido": "18465",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1929,5 +1945,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:36:53.787Z"
+  "updatedAt": "2026-09-09T14:53:58.977Z"
 }
