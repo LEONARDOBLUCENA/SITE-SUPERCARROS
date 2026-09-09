@@ -3720,6 +3720,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujtp2jfybo6w",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:26:21.355Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Alessandro ",
+      "contatoCliente": "+55 51 8231-2033",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "Combo 2 Ingressos + 1 Meia entrada ",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3732,5 +3748,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:25:44.396Z"
+  "updatedAt": "2026-09-09T20:26:22.135Z"
 }
