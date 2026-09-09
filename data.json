@@ -3431,6 +3431,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuje3cmzzpu5v",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:14:13.366Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Nicolas Lima ",
+      "contatoCliente": "+55 51 9283-3299",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "Combo 2 Ingressos ",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3443,5 +3459,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:13:10.611Z"
+  "updatedAt": "2026-09-09T20:14:14.452Z"
 }
