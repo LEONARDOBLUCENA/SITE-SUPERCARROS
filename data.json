@@ -1539,14 +1539,14 @@
       "nomeCliente": "Pedro",
       "contatoCliente": "+55 83 8845-2226",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-09",
+      "valorVenda": "80.00",
+      "numeroPedido": "18647",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-09T16:05:30.719Z"
+      "updatedAt": "2026-09-09T18:37:10.654Z"
     },
     {
       "id": "rmtu0522s17k296",
@@ -2639,5 +2639,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:32:35.152Z"
+  "updatedAt": "2026-09-09T18:37:10.654Z"
 }
