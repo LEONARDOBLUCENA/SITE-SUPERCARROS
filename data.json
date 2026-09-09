@@ -2965,6 +2965,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtui7t8eysfb57",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:41:20.702Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Lukas Vitorioso ",
+      "contatoCliente": "+55 11 98397-9115",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Busca nossos serviços em São Paulo "
     }
   ],
   "siteVendas": [
@@ -2977,5 +2993,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:39:16.690Z"
+  "updatedAt": "2026-09-09T19:41:21.361Z"
 }
