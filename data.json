@@ -1901,6 +1901,22 @@
       "numeroPedido": "18455",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtu7c9xkrgcbqd",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T14:36:53.192Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "Luis Henrique Mentz Koempfer",
+      "contatoCliente": "(51) 99736-6208",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-05",
+      "valorVenda": "736.00",
+      "numeroPedido": "18463",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -1913,5 +1929,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T14:34:05.498Z"
+  "updatedAt": "2026-09-09T14:36:53.787Z"
 }
