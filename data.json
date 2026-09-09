@@ -3415,6 +3415,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujcqibq06ghs",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:13:10.067Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Aline Kissel ",
+      "contatoCliente": "+55 54 9159-2658",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3427,5 +3443,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:12:30.071Z"
+  "updatedAt": "2026-09-09T20:13:10.611Z"
 }
