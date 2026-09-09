@@ -2579,6 +2579,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtufmpl1sw5dyk",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T18:28:56.965Z",
+      "dataAtendimento": "2026-09-05",
+      "nomeCliente": "sem nome ",
+      "contatoCliente": "+55 49 8827-4746",
+      "origem": "",
+      "statusAtendimento": "Cliente desistiu",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Optou pela compra presencial "
     }
   ],
   "siteVendas": [
@@ -2591,5 +2607,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T18:27:58.308Z"
+  "updatedAt": "2026-09-09T18:28:57.671Z"
 }
