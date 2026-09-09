@@ -2056,11 +2056,12 @@
       "origem": "Prime Gourmet",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-09-06",
       "valorVenda": "342.00",
       "numeroPedido": "18503",
       "statusPagamento": "Pago",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-09T15:10:54.994Z"
     },
     {
       "id": "rmtu8jrhiir1dul",
@@ -2089,5 +2090,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T15:10:42.792Z"
+  "updatedAt": "2026-09-09T15:10:54.994Z"
 }
