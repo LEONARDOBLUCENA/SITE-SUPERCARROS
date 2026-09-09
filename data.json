@@ -3817,6 +3817,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtukt0nkpg04qu",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:53:49.328Z",
+      "dataAtendimento": "2026-09-08",
+      "nomeCliente": "Bruno Tetsuo Shiguemoto",
+      "contatoCliente": "(66) 98117-6978",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-08",
+      "valorVenda": "290.00",
+      "numeroPedido": "18583",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3829,5 +3845,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:34:01.517Z"
+  "updatedAt": "2026-09-09T20:53:50.037Z"
 }
