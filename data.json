@@ -3110,6 +3110,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuio12fz3akf0",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T19:53:57.351Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Fluvio ",
+      "contatoCliente": "+55 11 97373-6000",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3122,5 +3138,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T19:53:09.865Z"
+  "updatedAt": "2026-09-09T19:53:58.071Z"
 }
