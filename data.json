@@ -3303,6 +3303,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtuj3t6zv3vupe",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:06:13.643Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Helbert ",
+      "contatoCliente": "+ 55 47 9723-8534",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Geramos 2 links de pagamento, mas o cliente não finalizou e nem retorna as mensagens "
     }
   ],
   "siteVendas": [
@@ -3315,5 +3331,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:03:24.530Z"
+  "updatedAt": "2026-09-09T20:06:14.236Z"
 }
