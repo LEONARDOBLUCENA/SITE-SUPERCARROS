@@ -3319,6 +3319,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Geramos 2 links de pagamento, mas o cliente não finalizou e nem retorna as mensagens "
+    },
+    {
+      "id": "rmtuj5xcnwf6w0m",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:07:52.343Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Madu Nascimento ",
+      "contatoCliente": "+55 24 99246-4592",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3331,5 +3347,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:06:14.236Z"
+  "updatedAt": "2026-09-09T20:07:52.945Z"
 }
