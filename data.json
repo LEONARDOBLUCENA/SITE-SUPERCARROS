@@ -3528,6 +3528,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtujkbsl3ik645",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-09T20:19:04.245Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Andreza Alves ",
+      "contatoCliente": "+55 85 8686-1880",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3540,5 +3556,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T20:18:24.582Z"
+  "updatedAt": "2026-09-09T20:19:04.895Z"
 }
