@@ -4464,6 +4464,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "videos"
+    },
+    {
+      "id": "rmtvzw3dcourd1b",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-10T20:43:53.232Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "~Fabiano - Grantour",
+      "contatoCliente": "+55 51 9964-4768",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "revalidação voucher"
     }
   ],
   "siteVendas": [
@@ -4476,5 +4492,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T20:43:12.489Z"
+  "updatedAt": "2026-09-10T20:43:53.629Z"
 }
