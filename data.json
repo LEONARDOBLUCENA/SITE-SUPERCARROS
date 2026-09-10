@@ -4124,6 +4124,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvjz4oo92auy2",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T13:18:21.048Z",
+      "dataAtendimento": "2026-09-03",
+      "nomeCliente": "Elton Moura Do Nascimento",
+      "contatoCliente": "(21) 97472-3425",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-10",
+      "valorVenda": "137.00",
+      "numeroPedido": "18667",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4136,5 +4152,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T13:00:03.871Z"
+  "updatedAt": "2026-09-10T13:18:22.144Z"
 }
