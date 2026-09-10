@@ -3890,14 +3890,15 @@
       "dataAtendimento": "2026-09-10",
       "nomeCliente": "Mateus Leocadio ",
       "contatoCliente": "+55 31 8205-0841",
-      "origem": "",
+      "origem": "Prime Gourmet",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-10T12:42:30.003Z"
     },
     {
       "id": "rmtvhezcwljpay7",
@@ -3942,5 +3943,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T12:42:05.242Z"
+  "updatedAt": "2026-09-10T12:42:30.003Z"
 }
