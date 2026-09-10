@@ -3995,6 +3995,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtviteg8z0fofs",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T12:45:54.152Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Gomes ",
+      "contatoCliente": "+55 19 99293-5313",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4007,5 +4023,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T12:45:31.971Z"
+  "updatedAt": "2026-09-10T12:45:54.909Z"
 }
