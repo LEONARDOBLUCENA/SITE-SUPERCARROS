@@ -3979,6 +3979,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtviswoizshl7p",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T12:45:31.122Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Ana Paula Alves ",
+      "contatoCliente": "+55 62 8204-3979",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3991,5 +4007,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T12:44:59.654Z"
+  "updatedAt": "2026-09-10T12:45:31.971Z"
 }
