@@ -4336,6 +4336,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvtfc07x49ecw",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-10T17:42:53.575Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "~Patrícia Moretti",
+      "contatoCliente": "+55 41 9898-5276",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4348,5 +4364,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T17:16:18.031Z"
+  "updatedAt": "2026-09-10T17:42:54.010Z"
 }
