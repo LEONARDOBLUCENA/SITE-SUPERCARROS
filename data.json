@@ -4480,6 +4480,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "revalidação voucher"
+    },
+    {
+      "id": "rmtw1js4higiy9d",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-10T21:30:18.017Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Geovanna",
+      "contatoCliente": "+55 11 99142-4413",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4492,5 +4508,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T20:43:53.629Z"
+  "updatedAt": "2026-09-10T21:30:18.575Z"
 }
