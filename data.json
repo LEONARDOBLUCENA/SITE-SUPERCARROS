@@ -570,13 +570,14 @@
       "nomeCliente": "andrielly",
       "contatoCliente": "+55 31 9939-5940",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-10T21:38:30.835Z"
     },
     {
       "id": "rmtsvcic1s8a4an",
@@ -4510,5 +4511,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T21:37:56.549Z"
+  "updatedAt": "2026-09-10T21:38:30.836Z"
 }
