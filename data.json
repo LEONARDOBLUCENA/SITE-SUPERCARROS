@@ -3807,16 +3807,17 @@
       "vendedora": "bruna",
       "createdAt": "2026-09-09T20:33:25.331Z",
       "dataAtendimento": "2026-09-09",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": " Márcio Fernandes de Oliveira ",
       "contatoCliente": "+ 55 31 9699-8331",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-09",
+      "valorVenda": "390.00",
+      "numeroPedido": "18649",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-10T10:57:48.245Z"
     },
     {
       "id": "rmtukt0nkpg04qu",
@@ -3877,5 +3878,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-09T21:00:41.536Z"
+  "updatedAt": "2026-09-10T10:57:48.246Z"
 }
