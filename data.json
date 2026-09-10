@@ -3882,6 +3882,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvf5kdzqfl5kg",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T11:03:23.255Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Mateus Leocadio ",
+      "contatoCliente": "+55 31 8205-0841",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3894,5 +3910,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:01:31.323Z"
+  "updatedAt": "2026-09-10T11:03:24.122Z"
 }
