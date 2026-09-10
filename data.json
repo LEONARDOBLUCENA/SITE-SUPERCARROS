@@ -4158,6 +4158,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvlplqc5k4075",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T14:06:55.812Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Agner Moura De Andrade",
+      "contatoCliente": "+55 22 97404-7625",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-10",
+      "valorVenda": "137.00",
+      "numeroPedido": "18671",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4170,5 +4186,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T13:25:49.088Z"
+  "updatedAt": "2026-09-10T14:06:56.583Z"
 }
