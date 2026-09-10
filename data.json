@@ -4174,6 +4174,22 @@
       "numeroPedido": "18671",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtvmeisjnhl7zz",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-10T14:26:18.403Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Iuri Santos",
+      "contatoCliente": "+55 55 9684-9032",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "evento interlagos 2027"
     }
   ],
   "siteVendas": [
@@ -4186,5 +4202,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T14:06:56.583Z"
+  "updatedAt": "2026-09-10T14:26:18.827Z"
 }
