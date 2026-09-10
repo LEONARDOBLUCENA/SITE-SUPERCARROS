@@ -4271,6 +4271,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvr1hid1hjmm5",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T16:36:08.293Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Suellen Neves ",
+      "contatoCliente": "+55 21 98572-9300",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4283,5 +4299,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T16:35:25.929Z"
+  "updatedAt": "2026-09-10T16:36:08.786Z"
 }
