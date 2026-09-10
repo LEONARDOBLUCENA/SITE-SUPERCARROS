@@ -4223,6 +4223,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "updatedAt": "2026-09-10T16:08:59.649Z"
+    },
+    {
+      "id": "rmtvqzdkpbpk7be",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T16:34:29.881Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 75 8255-0509",
+      "origem": "Evento",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4235,5 +4251,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T16:29:52.508Z"
+  "updatedAt": "2026-09-10T16:34:30.556Z"
 }
