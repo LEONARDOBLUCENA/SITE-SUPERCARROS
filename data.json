@@ -4118,13 +4118,14 @@
       "nomeCliente": "Michelle ",
       "contatoCliente": "+55 11 96241-1857",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-10",
+      "valorVenda": "1247.00",
+      "numeroPedido": "18669",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-10T13:25:49.088Z"
     },
     {
       "id": "rmtvjz4oo92auy2",
@@ -4169,5 +4170,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T13:22:39.587Z"
+  "updatedAt": "2026-09-10T13:25:49.088Z"
 }
