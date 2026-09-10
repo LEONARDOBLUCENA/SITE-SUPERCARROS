@@ -4319,6 +4319,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvre1b1648n9x",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T16:45:53.821Z",
+      "dataAtendimento": "2026-09-03",
+      "nomeCliente": "Fabiel Lamperti ",
+      "contatoCliente": "+55 51 9104-9598",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4331,5 +4347,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T16:43:36.210Z"
+  "updatedAt": "2026-09-10T16:45:54.336Z"
 }
