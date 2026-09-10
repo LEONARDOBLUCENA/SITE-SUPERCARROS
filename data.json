@@ -4101,13 +4101,14 @@
       "nomeCliente": "Sem nome ",
       "contatoCliente": "+55 21 98436-0107",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "Já possui o voucher do site ",
+      "updatedAt": "2026-09-10T13:22:39.587Z"
     },
     {
       "id": "rmtvjbclhdjvqse",
@@ -4168,5 +4169,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T13:20:55.592Z"
+  "updatedAt": "2026-09-10T13:22:39.587Z"
 }
