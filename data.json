@@ -4255,6 +4255,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvr0ke04kdfpa",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T16:35:25.368Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Ana Cecília Magalhães ",
+      "contatoCliente": "+55 61 8287-9500",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4267,5 +4283,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T16:34:48.253Z"
+  "updatedAt": "2026-09-10T16:35:25.929Z"
 }
