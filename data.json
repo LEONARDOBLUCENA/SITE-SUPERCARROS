@@ -4384,6 +4384,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvvveswf7mphc",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T18:51:22.928Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 85 9706-1474",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4396,5 +4412,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T18:09:17.972Z"
+  "updatedAt": "2026-09-10T18:51:23.776Z"
 }
