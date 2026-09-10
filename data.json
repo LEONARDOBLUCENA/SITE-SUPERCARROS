@@ -4075,6 +4075,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvj5ucd0ulada",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T12:55:34.621Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Daniela Costa ",
+      "contatoCliente": "+55 34 9148-4202",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Cliente queria 2 Drives de Ferrari California com 2 Caronas cada por 590 reais cada um "
     }
   ],
   "siteVendas": [
@@ -4087,5 +4103,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T12:54:12.440Z"
+  "updatedAt": "2026-09-10T12:55:35.182Z"
 }
