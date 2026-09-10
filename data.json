@@ -4043,6 +4043,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvivc0cjnceld",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T12:47:24.300Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Núbya ",
+      "contatoCliente": "+55 35 9750-5761",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4055,5 +4071,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T12:47:01.896Z"
+  "updatedAt": "2026-09-10T12:47:25.513Z"
 }
