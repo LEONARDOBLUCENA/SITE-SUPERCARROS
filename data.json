@@ -4416,6 +4416,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvy0bni526ys3",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-10T19:51:11.358Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "~Tereza Costa",
+      "contatoCliente": "+55 81 9174-8675",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4428,5 +4444,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T19:50:26.605Z"
+  "updatedAt": "2026-09-10T19:51:11.843Z"
 }
