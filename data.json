@@ -4036,13 +4036,14 @@
       "nomeCliente": "Daia ",
       "contatoCliente": "+55 51 9607-4166",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "Drive + 1 Carona de Camaro SS #1",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-10T13:00:03.871Z"
     },
     {
       "id": "rmtvivc0cjnceld",
@@ -4135,5 +4136,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T12:59:51.969Z"
+  "updatedAt": "2026-09-10T13:00:03.871Z"
 }
