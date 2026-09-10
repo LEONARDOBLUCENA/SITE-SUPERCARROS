@@ -3963,6 +3963,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvis7vg7knpwy",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T12:44:58.972Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Ericarla Souza Muniz ",
+      "contatoCliente": "+55 77 8136-7095",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3975,5 +3991,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T12:43:46.838Z"
+  "updatedAt": "2026-09-10T12:44:59.654Z"
 }
