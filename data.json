@@ -4448,6 +4448,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "duvidas"
+    },
+    {
+      "id": "rmtvzv7lhpqruih",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-10T20:43:12.053Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "~Wagão",
+      "contatoCliente": "+55 67 9994-4791",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "videos"
     }
   ],
   "siteVendas": [
@@ -4460,5 +4476,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T20:42:50.866Z"
+  "updatedAt": "2026-09-10T20:43:12.489Z"
 }
