@@ -1817,10 +1817,10 @@
       "produtoInteresse": "",
       "dataVenda": "2026-09-09",
       "valorVenda": "316.00",
-      "numeroPedido": "",
+      "numeroPedido": "18645",
       "statusPagamento": "Pago",
       "observacao": "dúvidas",
-      "updatedAt": "2026-09-09T16:09:44.702Z"
+      "updatedAt": "2026-09-10T21:32:41.229Z"
     },
     {
       "id": "rmtu6pkpslpp5oc",
@@ -4508,5 +4508,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T21:30:18.575Z"
+  "updatedAt": "2026-09-10T21:32:41.229Z"
 }
