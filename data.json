@@ -3947,6 +3947,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtviqnm60yb3zi",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T12:43:46.062Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Vittor Soares ",
+      "contatoCliente": "+55 84 9190-3520",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3959,5 +3975,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T12:43:16.767Z"
+  "updatedAt": "2026-09-10T12:43:46.838Z"
 }
