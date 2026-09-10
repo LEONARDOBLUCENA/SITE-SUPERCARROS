@@ -3898,6 +3898,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvhezcwljpay7",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T12:06:41.792Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Davi Figueiredo Jr ",
+      "contatoCliente": "+55 21 99920-6320",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-10",
+      "valorVenda": "94.05",
+      "numeroPedido": "18665",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -3910,5 +3926,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T11:03:24.122Z"
+  "updatedAt": "2026-09-10T12:06:42.491Z"
 }
