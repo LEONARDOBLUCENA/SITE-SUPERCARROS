@@ -4011,6 +4011,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvitvxyxwe0zx",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T12:46:16.822Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Wellington Muniz ",
+      "contatoCliente": "+55 35 8876-4105",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4023,5 +4039,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T12:45:54.909Z"
+  "updatedAt": "2026-09-10T12:46:17.523Z"
 }
