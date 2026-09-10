@@ -4400,6 +4400,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvxzcrinp6jt7",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-10T19:50:26.142Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Bianca Monteiro",
+      "contatoCliente": "+55 21 97715-4883",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4412,5 +4428,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T18:51:23.776Z"
+  "updatedAt": "2026-09-10T19:50:26.605Z"
 }
