@@ -4352,6 +4352,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvtikh6g6ge26",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-10T17:45:24.522Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "~Emanuely",
+      "contatoCliente": "+55 47 8426-7616",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4364,5 +4380,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T17:42:54.010Z"
+  "updatedAt": "2026-09-10T17:45:24.961Z"
 }
