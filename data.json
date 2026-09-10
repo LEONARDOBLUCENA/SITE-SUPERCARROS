@@ -704,9 +704,9 @@
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "18575",
-      "statusPagamento": "Pago",
+      "statusPagamento": "",
       "observacao": "compra site - agendamento",
-      "updatedAt": "2026-09-10T21:40:03.677Z"
+      "updatedAt": "2026-09-10T21:40:22.150Z"
     },
     {
       "id": "rmtsvsb6khy9riq",
@@ -4511,5 +4511,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T21:40:03.677Z"
+  "updatedAt": "2026-09-10T21:40:22.150Z"
 }
