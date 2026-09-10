@@ -2896,13 +2896,14 @@
       "nomeCliente": "Gustavo ",
       "contatoCliente": "+55 38 9841-2248",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-10",
+      "valorVenda": "180.50",
+      "numeroPedido": "18679",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-10T17:16:18.030Z"
     },
     {
       "id": "rmtui132rwuzu7b",
@@ -4347,5 +4348,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T16:45:54.336Z"
+  "updatedAt": "2026-09-10T17:16:18.031Z"
 }
