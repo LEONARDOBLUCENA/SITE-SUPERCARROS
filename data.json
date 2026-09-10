@@ -4206,6 +4206,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "videos"
+    },
+    {
+      "id": "rmtvq26zq23cpo2",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T16:08:41.702Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Fabiano Almeida",
+      "contatoCliente": "(85) 99920-5566",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-10",
+      "valorVenda": "130.15",
+      "numeroPedido": "18677",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4218,5 +4234,5 @@
       "updatedAt": "2026-09-09T13:08:50.811Z"
     }
   ],
-  "updatedAt": "2026-09-10T15:12:23.738Z"
+  "updatedAt": "2026-09-10T16:08:42.745Z"
 }
