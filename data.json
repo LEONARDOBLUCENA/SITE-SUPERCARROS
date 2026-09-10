@@ -4239,6 +4239,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvqzqxrzx3m6f",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T16:34:47.199Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Thais ",
+      "contatoCliente": "+55 67 9864-8936",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4251,5 +4267,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T16:34:30.556Z"
+  "updatedAt": "2026-09-10T16:34:48.253Z"
 }
