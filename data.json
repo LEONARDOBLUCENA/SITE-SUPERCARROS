@@ -1733,13 +1733,14 @@
       "nomeCliente": "Gabriel Polito",
       "contatoCliente": "(43) 99106-5255",
       "origem": "",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "137.00",
-      "numeroPedido": "18627",
+      "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-10T21:33:30.631Z"
     },
     {
       "id": "rmtu293y0d779hl",
@@ -4508,5 +4509,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T21:32:41.229Z"
+  "updatedAt": "2026-09-10T21:33:30.631Z"
 }
