@@ -4303,6 +4303,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtvrb2kibflfra",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-10T16:43:35.490Z",
+      "dataAtendimento": "2026-09-04",
+      "nomeCliente": "Hotel San Marino ",
+      "contatoCliente": "+55 42 3135-2777",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4315,5 +4331,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T16:38:18.977Z"
+  "updatedAt": "2026-09-10T16:43:36.210Z"
 }
