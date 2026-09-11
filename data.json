@@ -4903,6 +4903,22 @@
       "numeroPedido": "",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtxacds18f8lmm",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-11T18:24:15.553Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Maicon",
+      "contatoCliente": "+55 48 9631-7433",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "Combo 2 Ingressos ",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4915,5 +4931,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T17:51:10.460Z"
+  "updatedAt": "2026-09-11T18:24:16.540Z"
 }
