@@ -4595,6 +4595,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtwxsbkjnoceqw",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-11T12:32:44.180Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Maria Fernanda ",
+      "contatoCliente": "+55 38 9747-0236",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4607,5 +4623,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T12:31:06.066Z"
+  "updatedAt": "2026-09-11T12:32:44.616Z"
 }
