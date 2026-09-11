@@ -185,13 +185,14 @@
       "nomeCliente": "Raquel Faioli",
       "contatoCliente": "+55 31 8694-9631",
       "origem": "Outro",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "California, Carrera, Dodge, Mustang Ecoboost",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-11T21:15:51.724Z"
     },
     {
       "id": "rmtssz7g7ea4yme",
@@ -5084,5 +5085,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T21:14:33.821Z"
+  "updatedAt": "2026-09-11T21:15:51.724Z"
 }
