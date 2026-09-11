@@ -4861,14 +4861,15 @@
       "dataAtendimento": "2026-09-11",
       "nomeCliente": "~Natália de Lacerda",
       "contatoCliente": "+55 71 9926-1347",
-      "origem": "",
+      "origem": "Prime Gourmet",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-11T17:43:51.607Z"
     },
     {
       "id": "rmtx8vphis286u4",
@@ -4898,5 +4899,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T17:43:26.360Z"
+  "updatedAt": "2026-09-11T17:43:51.607Z"
 }
