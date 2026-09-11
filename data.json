@@ -4643,6 +4643,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtwxum841rmx4i",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-11T12:34:31.300Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Lucas Bartoso ",
+      "contatoCliente": "+55 81 9207-4149",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4655,5 +4671,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T12:34:01.177Z"
+  "updatedAt": "2026-09-11T12:34:31.947Z"
 }
