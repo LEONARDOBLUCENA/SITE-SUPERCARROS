@@ -445,13 +445,14 @@
       "nomeCliente": "Diego",
       "contatoCliente": "+55 68 9940-1635",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-11T18:33:29.195Z"
     },
     {
       "id": "rmtstxia9ibcff1",
@@ -4934,5 +4935,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T18:32:55.063Z"
+  "updatedAt": "2026-09-11T18:33:29.195Z"
 }
