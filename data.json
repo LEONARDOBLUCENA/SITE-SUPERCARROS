@@ -4724,6 +4724,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtx1jfpaqvm5g8",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-11T14:17:48.094Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Pedro Henrique Morais",
+      "contatoCliente": "+55 35 9956-1403",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4736,5 +4752,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T13:43:30.891Z"
+  "updatedAt": "2026-09-11T14:17:48.741Z"
 }
