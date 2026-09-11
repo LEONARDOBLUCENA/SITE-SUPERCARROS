@@ -527,13 +527,14 @@
       "nomeCliente": "Felipe Galvão",
       "contatoCliente": "+55 82 9367-1818",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-11T18:33:57.281Z"
     },
     {
       "id": "rmtsv7jgrwochqs",
@@ -4936,5 +4937,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T18:33:44.196Z"
+  "updatedAt": "2026-09-11T18:33:57.281Z"
 }
