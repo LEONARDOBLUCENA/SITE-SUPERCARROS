@@ -4563,6 +4563,22 @@
       "numeroPedido": "18695",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmtwxpvder1vmvc",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-11T12:30:49.874Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Wilson Aragão ",
+      "contatoCliente": "+55 88 9662-6367",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4575,5 +4591,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T12:27:43.848Z"
+  "updatedAt": "2026-09-11T12:30:50.647Z"
 }
