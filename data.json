@@ -4374,13 +4374,14 @@
       "nomeCliente": "~Emanuely",
       "contatoCliente": "+55 47 8426-7616",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "ingresso + lamborghini + ",
+      "dataVenda": "2026-09-11",
+      "valorVenda": "1079.00",
+      "numeroPedido": "18709 ",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-11T22:01:58.244Z"
     },
     {
       "id": "rmtvuda7iijljui",
@@ -5085,5 +5086,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T21:15:51.724Z"
+  "updatedAt": "2026-09-11T22:01:58.244Z"
 }
