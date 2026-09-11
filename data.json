@@ -2559,13 +2559,14 @@
       "nomeCliente": "Pedro Layola",
       "contatoCliente": "+55 73 9818-0732",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-11",
+      "valorVenda": "1500.00",
+      "numeroPedido": "18689",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "updatedAt": "2026-09-11T12:39:27.963Z"
     },
     {
       "id": "rmtuflfid3op9yh",
@@ -4703,5 +4704,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T12:38:04.416Z"
+  "updatedAt": "2026-09-11T12:39:27.963Z"
 }
