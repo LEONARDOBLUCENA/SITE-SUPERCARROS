@@ -4547,6 +4547,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtwxlva7v3oe8j",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-11T12:27:43.135Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Lucas Soares dos Santos ",
+      "contatoCliente": "+55 66 9915-6695",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-11",
+      "valorVenda": "1425.00",
+      "numeroPedido": "18695",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4559,5 +4575,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-10T22:06:27.806Z"
+  "updatedAt": "2026-09-11T12:27:43.848Z"
 }
