@@ -510,13 +510,14 @@
       "nomeCliente": "~Thiago Sanches",
       "contatoCliente": "+55 21 99907-3939",
       "origem": "Outro",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-11T18:33:44.196Z"
     },
     {
       "id": "rmtsu1zeo71dfcv",
@@ -4935,5 +4936,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T18:33:29.195Z"
+  "updatedAt": "2026-09-11T18:33:44.196Z"
 }
