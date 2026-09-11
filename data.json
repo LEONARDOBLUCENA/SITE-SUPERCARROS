@@ -4926,6 +4926,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtxchdjukccmwi",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-11T19:24:07.770Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Marcel",
+      "contatoCliente": "+55 31 9967-6070",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4938,5 +4954,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T18:34:09.443Z"
+  "updatedAt": "2026-09-11T19:24:08.399Z"
 }
