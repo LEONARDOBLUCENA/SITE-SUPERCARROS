@@ -4837,6 +4837,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtx8cy1sk42hwh",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-11T17:28:42.592Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "~Tamyres Marques",
+      "contatoCliente": "+55 83 9307-1305",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4849,5 +4865,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T17:08:33.486Z"
+  "updatedAt": "2026-09-11T17:28:43.162Z"
 }
