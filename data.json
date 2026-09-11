@@ -4887,6 +4887,22 @@
       "statusPagamento": "",
       "observacao": "",
       "updatedAt": "2026-09-11T17:43:26.360Z"
+    },
+    {
+      "id": "rmtx95tmj6voh3z",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-11T17:51:09.883Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Roberto Socca da Rosa",
+      "contatoCliente": " 55 99601-4850",
+      "origem": "Evento",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-01",
+      "valorVenda": "1450.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4899,5 +4915,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T17:43:51.607Z"
+  "updatedAt": "2026-09-11T17:51:10.460Z"
 }
