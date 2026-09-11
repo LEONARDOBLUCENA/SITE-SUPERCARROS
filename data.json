@@ -4675,6 +4675,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtwxz6abcsn457",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-11T12:38:03.923Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Murillo Henrique ",
+      "contatoCliente": "+55 34 9862-0327",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4687,5 +4703,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T12:34:58.302Z"
+  "updatedAt": "2026-09-11T12:38:04.416Z"
 }
