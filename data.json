@@ -625,13 +625,14 @@
       "nomeCliente": "Mauro aragão",
       "contatoCliente": "+55 86 9946-4317",
       "origem": "",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-11T18:34:09.442Z"
     },
     {
       "id": "rmtsvg1th4u9381",
@@ -4937,5 +4938,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T18:33:57.281Z"
+  "updatedAt": "2026-09-11T18:34:09.443Z"
 }
