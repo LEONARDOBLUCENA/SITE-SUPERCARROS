@@ -428,13 +428,14 @@
       "nomeCliente": "~Irene Ferreira",
       "contatoCliente": "+55 22 99288-3481",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-11T18:32:55.063Z"
     },
     {
       "id": "rmtstvew08ufywy",
@@ -4933,5 +4934,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T18:32:36.357Z"
+  "updatedAt": "2026-09-11T18:32:55.063Z"
 }
