@@ -806,13 +806,14 @@
       "nomeCliente": "Nickolas Henrique Pires Da Silva",
       "contatoCliente": "+55 27 99654-0515",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "troca de  carro",
       "dataVenda": "2026-09-08",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-11T21:14:33.821Z"
     },
     {
       "id": "rmtswaphmnswewe",
@@ -5083,5 +5084,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T21:12:33.617Z"
+  "updatedAt": "2026-09-11T21:14:33.821Z"
 }
