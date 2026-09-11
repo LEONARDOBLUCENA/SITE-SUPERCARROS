@@ -313,13 +313,14 @@
       "nomeCliente": "Sem nome",
       "contatoCliente": "+55 54 9144-7144",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-11T18:31:52.315Z"
     },
     {
       "id": "rmtsthhjqcujwui",
@@ -4931,5 +4932,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T18:24:16.540Z"
+  "updatedAt": "2026-09-11T18:31:52.315Z"
 }
