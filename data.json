@@ -1412,14 +1412,14 @@
       "nomeCliente": "Cassio Bernardo Toniolo Da Silveira",
       "contatoCliente": " (51) 98503-6291 ",
       "origem": "Outro",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-01",
       "valorVenda": "1370.00",
       "numeroPedido": "18325",
       "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-08T20:05:44.210Z"
+      "updatedAt": "2026-09-11T16:52:09.149Z"
     },
     {
       "id": "rmtt3ozi7fpoh4u",
@@ -4833,5 +4833,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T16:51:39.468Z"
+  "updatedAt": "2026-09-11T16:52:09.149Z"
 }
