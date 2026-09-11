@@ -4627,6 +4627,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "Morador "
+    },
+    {
+      "id": "rmtwxtxv95shqyv",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-11T12:33:59.733Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Gabriela ",
+      "contatoCliente": "+55 51 9751-7471",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4639,5 +4655,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T12:33:38.084Z"
+  "updatedAt": "2026-09-11T12:34:01.177Z"
 }
