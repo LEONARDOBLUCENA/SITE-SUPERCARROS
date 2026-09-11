@@ -4821,6 +4821,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtx7n0p4pzjyoz",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-11T17:08:32.968Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "~Thalita Helena Junkes",
+      "contatoCliente": "+55 47 8916-7299",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4833,5 +4849,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T16:58:22.056Z"
+  "updatedAt": "2026-09-11T17:08:33.486Z"
 }
