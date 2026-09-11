@@ -4797,13 +4797,14 @@
       "nomeCliente": "~Gaby✌️",
       "contatoCliente": "+55 91 9397-6677",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "CARONA CAYMAN",
+      "dataVenda": "2026-09-11",
+      "valorVenda": "90.00",
+      "numeroPedido": "18701",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-11T16:51:38.166Z"
     }
   ],
   "siteVendas": [
@@ -4816,5 +4817,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T15:43:04.415Z"
+  "updatedAt": "2026-09-11T16:51:38.166Z"
 }
