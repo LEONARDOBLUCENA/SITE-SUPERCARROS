@@ -5055,6 +5055,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtxgcsws6jprnk",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-11T21:12:32.860Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Aida",
+      "contatoCliente": "55 32 8846-0319",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5067,5 +5083,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T21:12:12.505Z"
+  "updatedAt": "2026-09-11T21:12:33.617Z"
 }
