@@ -4611,6 +4611,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtwxtgtv213nu7",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-11T12:33:37.651Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "Entre Mar e terra ",
+      "contatoCliente": "+55 21 99681-8883",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Morador "
     }
   ],
   "siteVendas": [
@@ -4623,5 +4639,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T12:32:44.616Z"
+  "updatedAt": "2026-09-11T12:33:38.084Z"
 }
