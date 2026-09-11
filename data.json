@@ -4948,7 +4948,7 @@
       "vendedora": "gisele",
       "createdAt": "2026-09-11T19:24:36.380Z",
       "dataAtendimento": "2026-09-11",
-      "nomeCliente": "Jefferson Duna",
+      "nomeCliente": "Jefferson Luna",
       "contatoCliente": "+55 82 9838-1850",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
@@ -4958,7 +4958,7 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "updatedAt": "2026-09-11T19:24:55.742Z"
+      "updatedAt": "2026-09-11T19:25:08.001Z"
     }
   ],
   "siteVendas": [
@@ -4971,5 +4971,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-11T19:24:55.742Z"
+  "updatedAt": "2026-09-11T19:25:08.001Z"
 }
