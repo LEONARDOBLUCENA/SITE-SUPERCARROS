@@ -4788,6 +4788,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtx4l32r5nyrxo",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-11T15:43:03.891Z",
+      "dataAtendimento": "2026-09-11",
+      "nomeCliente": "~Gaby✌️",
+      "contatoCliente": "+55 91 9397-6677",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -4800,5 +4816,5 @@
       "updatedAt": "2026-09-10T16:29:52.507Z"
     }
   ],
-  "updatedAt": "2026-09-11T15:04:31.019Z"
+  "updatedAt": "2026-09-11T15:43:04.415Z"
 }
