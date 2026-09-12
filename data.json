@@ -5443,6 +5443,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtyhpxnimbstx3",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-12T14:38:31.326Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Thais de Souza Figueiredo ",
+      "contatoCliente": "(11) 98948 0661",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5455,5 +5471,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T14:37:06.457Z"
+  "updatedAt": "2026-09-12T14:38:32.032Z"
 }
