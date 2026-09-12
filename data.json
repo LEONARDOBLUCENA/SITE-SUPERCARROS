@@ -5524,6 +5524,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtynixv7j8gch1",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-12T17:21:02.707Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Miguel ",
+      "contatoCliente": "+55 85 8547-6031",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5536,5 +5552,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T16:52:35.885Z"
+  "updatedAt": "2026-09-12T17:21:03.199Z"
 }
