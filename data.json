@@ -5589,6 +5589,22 @@
       "statusPagamento": "",
       "observacao": "",
       "updatedAt": "2026-09-12T18:59:15.130Z"
+    },
+    {
+      "id": "rmtys3uvylc4kc4",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-12T19:29:17.086Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Pedro Henrique ",
+      "contatoCliente": "+55 83 8674-3145",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5601,5 +5617,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T18:59:15.130Z"
+  "updatedAt": "2026-09-12T19:29:17.642Z"
 }
