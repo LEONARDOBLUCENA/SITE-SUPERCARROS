@@ -5460,6 +5460,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtyiffoy6s4395",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-12T14:58:21.106Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Eduardo Calza ",
+      "contatoCliente": "+55 51 8132-8111",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5472,5 +5488,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T14:58:11.344Z"
+  "updatedAt": "2026-09-12T14:58:21.656Z"
 }
