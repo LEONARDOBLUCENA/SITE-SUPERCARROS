@@ -5540,6 +5540,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtypdtv51l2jxf",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-12T18:13:03.473Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "~Fernando Dourado",
+      "contatoCliente": "+55 51 8423-8284",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5552,5 +5568,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T17:21:03.199Z"
+  "updatedAt": "2026-09-12T18:13:04.021Z"
 }
