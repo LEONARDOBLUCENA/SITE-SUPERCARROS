@@ -5331,6 +5331,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtygmxx3pl2e1h",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-12T14:08:12.087Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Hugo Almeida ",
+      "contatoCliente": "+55 79 98105-1851",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5343,5 +5359,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T14:06:30.840Z"
+  "updatedAt": "2026-09-12T14:08:12.652Z"
 }
