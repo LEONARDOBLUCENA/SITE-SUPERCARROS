@@ -5654,6 +5654,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtyy50n274jdfz",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-12T22:18:08.894Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 11 97722-0825",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5666,5 +5682,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T22:13:20.982Z"
+  "updatedAt": "2026-09-12T22:18:09.932Z"
 }
