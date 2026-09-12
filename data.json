@@ -5578,7 +5578,7 @@
       "vendedora": "bruna",
       "createdAt": "2026-09-12T18:58:55.197Z",
       "dataAtendimento": "2026-09-12",
-      "nomeCliente": "Youglas Garcia ",
+      "nomeCliente": "Yuglas Garcia ",
       "contatoCliente": "+55 44 9701-3894",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
@@ -5587,7 +5587,8 @@
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-12T18:59:15.130Z"
     }
   ],
   "siteVendas": [
@@ -5600,5 +5601,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T18:58:55.935Z"
+  "updatedAt": "2026-09-12T18:59:15.130Z"
 }
