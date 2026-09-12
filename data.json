@@ -5404,13 +5404,14 @@
       "nomeCliente": "Eng. Paulo Roberto ",
       "contatoCliente": "+55 96 8114-4717",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-12",
+      "valorVenda": "476.00",
+      "numeroPedido": "18735",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-12T14:58:11.344Z"
     },
     {
       "id": "rmtyhn1mqbqz1lf",
@@ -5471,5 +5472,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T14:38:32.032Z"
+  "updatedAt": "2026-09-12T14:58:11.344Z"
 }
