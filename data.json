@@ -5598,13 +5598,14 @@
       "nomeCliente": "Pedro Henrique ",
       "contatoCliente": "+55 83 8674-3145",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-12",
+      "valorVenda": "130.15",
+      "numeroPedido": "18745",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-12T22:13:20.982Z"
     },
     {
       "id": "rmtys4klqxg5fau",
@@ -5665,5 +5666,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T22:08:13.294Z"
+  "updatedAt": "2026-09-12T22:13:20.982Z"
 }
