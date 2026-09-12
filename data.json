@@ -5644,16 +5644,17 @@
       "vendedora": "bruna",
       "createdAt": "2026-09-12T22:08:11.785Z",
       "dataAtendimento": "2026-09-12",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Carina Giovanella Molinari",
       "contatoCliente": "+55 47 9705-4702",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-12",
+      "valorVenda": "316.00",
+      "numeroPedido": "18747",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-12T22:23:42.747Z"
     },
     {
       "id": "rmtyy50n274jdfz",
@@ -5682,5 +5683,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T22:18:09.932Z"
+  "updatedAt": "2026-09-12T22:23:42.747Z"
 }
