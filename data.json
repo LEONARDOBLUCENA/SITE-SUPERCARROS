@@ -5476,6 +5476,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtyisuez99mmaw",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-12T15:08:46.715Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Thais Rodrigues",
+      "contatoCliente": "+55 48 8809-8434",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5488,5 +5504,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T14:58:30.070Z"
+  "updatedAt": "2026-09-12T15:08:47.380Z"
 }
