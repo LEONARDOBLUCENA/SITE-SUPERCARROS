@@ -5250,6 +5250,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtyd0xlv6zldjh",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-12T12:27:06.403Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "~Victor Novais",
+      "contatoCliente": "+55 85 9750-7438",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5262,5 +5278,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T12:20:49.709Z"
+  "updatedAt": "2026-09-12T12:27:07.040Z"
 }
