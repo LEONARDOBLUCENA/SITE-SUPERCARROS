@@ -5282,6 +5282,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtyejn88sxn8b8",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-12T13:09:39.032Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Stela",
+      "contatoCliente": "+55 33 8705-7195",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5294,5 +5310,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T13:09:17.599Z"
+  "updatedAt": "2026-09-12T13:09:39.776Z"
 }
