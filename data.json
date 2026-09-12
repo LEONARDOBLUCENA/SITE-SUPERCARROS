@@ -5556,6 +5556,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtyqfe4c887q2e",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-12T18:42:15.996Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Esquina Lanche ",
+      "contatoCliente": "+55 51 9502-7937",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5568,5 +5584,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T18:13:04.021Z"
+  "updatedAt": "2026-09-12T18:42:16.777Z"
 }
