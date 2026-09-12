@@ -5299,6 +5299,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "updatedAt": "2026-09-12T13:13:42.258Z"
+    },
+    {
+      "id": "rmtyer5yblylitj",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-12T13:15:29.891Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "~Karol Brioli",
+      "contatoCliente": "+55 64 9951-1780",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5311,5 +5327,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T13:13:42.258Z"
+  "updatedAt": "2026-09-12T13:15:30.955Z"
 }
