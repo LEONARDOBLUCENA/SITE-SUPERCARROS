@@ -5395,6 +5395,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtyhea92ulptyq",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-12T14:29:27.782Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Eng. Paulo Roberto ",
+      "contatoCliente": "+55 96 8114-4717",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5407,5 +5423,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T14:18:18.673Z"
+  "updatedAt": "2026-09-12T14:29:28.631Z"
 }
