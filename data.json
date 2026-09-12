@@ -5621,6 +5621,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "tem interesse no passaporte Dreams "
+    },
+    {
+      "id": "rmtys4zrylnv25t",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-12T19:30:10.078Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Zeus ",
+      "contatoCliente": "+55 51 8300-2795",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5633,5 +5649,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T19:29:51.009Z"
+  "updatedAt": "2026-09-12T19:30:10.662Z"
 }
