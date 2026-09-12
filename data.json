@@ -5427,6 +5427,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtyho3pwawf838",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-12T14:37:05.876Z",
+      "dataAtendimento": "2026-09-12",
+      "nomeCliente": "Nadia Pereira ",
+      "contatoCliente": "(37) 99935 6103",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5439,5 +5455,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-12T14:36:16.998Z"
+  "updatedAt": "2026-09-12T14:37:06.457Z"
 }
