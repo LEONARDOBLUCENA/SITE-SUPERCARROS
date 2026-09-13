@@ -6248,13 +6248,14 @@
       "nomeCliente": "Ederson cardoso",
       "contatoCliente": "+55 34 8888-8013",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-13",
+      "valorVenda": "700.00",
+      "numeroPedido": "18821",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-13T23:56:30.889Z"
     },
     {
       "id": "rmu09qb56ayelw8",
@@ -6396,5 +6397,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T23:38:08.041Z"
+  "updatedAt": "2026-09-13T23:56:30.889Z"
 }
