@@ -5863,6 +5863,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtzsc684hsz4wt",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T12:23:31.204Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Christopher silva",
+      "contatoCliente": "+55 81 9413-7670",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5875,5 +5891,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T12:22:12.307Z"
+  "updatedAt": "2026-09-13T12:23:32.174Z"
 }
