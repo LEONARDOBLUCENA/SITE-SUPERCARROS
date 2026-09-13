@@ -5920,14 +5920,15 @@
       "dataAtendimento": "2026-09-13",
       "nomeCliente": "Millena Tenório",
       "contatoCliente": "+55 21 98260-0283",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-13",
+      "valorVenda": "99.00",
+      "numeroPedido": "#18765",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-13T15:13:27.094Z"
     },
     {
       "id": "rmtzu25m7ncba1o",
@@ -6021,5 +6022,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T14:37:29.134Z"
+  "updatedAt": "2026-09-13T15:13:27.094Z"
 }
