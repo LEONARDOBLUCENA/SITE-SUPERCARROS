@@ -6059,6 +6059,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu00l8nnypbfwu",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T16:14:31.188Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Giliiard",
+      "contatoCliente": "+55 19 99442-3710",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6071,5 +6087,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T15:59:17.353Z"
+  "updatedAt": "2026-09-13T16:14:31.811Z"
 }
