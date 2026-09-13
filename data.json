@@ -6271,6 +6271,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu09srfp98rp68",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T20:32:18.661Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Laurent Vieira",
+      "contatoCliente": "55 48 9601-2124",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-13",
+      "valorVenda": "1469.00",
+      "numeroPedido": "18795",
+      "statusPagamento": "Pago",
+      "observacao": "c bruna"
     }
   ],
   "siteVendas": [
@@ -6283,5 +6299,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T20:30:24.852Z"
+  "updatedAt": "2026-09-13T20:32:19.256Z"
 }
