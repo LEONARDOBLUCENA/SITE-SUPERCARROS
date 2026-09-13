@@ -6026,6 +6026,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtzzqchb0gw8na",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T15:50:29.807Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "~Stephanie Souza",
+      "contatoCliente": "+55 13 99747-3197",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6038,5 +6054,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T15:48:11.163Z"
+  "updatedAt": "2026-09-13T15:50:30.424Z"
 }
