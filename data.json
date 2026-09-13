@@ -6166,14 +6166,15 @@
       "dataAtendimento": "2026-09-13",
       "nomeCliente": "Eduarda",
       "contatoCliente": "+55 93 9207-4057",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
+      "dataVenda": "2026-09-13",
+      "valorVenda": "290.00",
+      "numeroPedido": "18791",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-13T19:22:30.023Z"
     },
     {
       "id": "rmu06cihqtv9uvg",
@@ -6234,5 +6235,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T19:02:45.068Z"
+  "updatedAt": "2026-09-13T19:22:30.023Z"
 }
