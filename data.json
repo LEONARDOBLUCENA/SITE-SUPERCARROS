@@ -6338,22 +6338,6 @@
       "observacao": ""
     },
     {
-      "id": "rmu0b5a3sx1g6sn",
-      "vendedora": "gisele",
-      "createdAt": "2026-09-13T21:10:02.344Z",
-      "dataAtendimento": "2026-09-13",
-      "nomeCliente": "Carol Vieira",
-      "contatoCliente": "+55 13 99701-8198",
-      "origem": "Prime Gourmet",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "0006-09-13",
-      "valorVenda": "99.00",
-      "numeroPedido": "18807",
-      "statusPagamento": "",
-      "observacao": ""
-    },
-    {
       "id": "rmu0ejoc2ydmef7",
       "vendedora": "gisele",
       "createdAt": "2026-09-13T22:45:12.818Z",
@@ -6380,5 +6364,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T22:45:13.855Z"
+  "updatedAt": "2026-09-13T23:05:37.536Z"
 }
