@@ -6010,6 +6010,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtzzncvfo8l9la",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T15:48:10.347Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "elis",
+      "contatoCliente": "+55 51 8655-5985",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6022,5 +6038,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T15:13:27.094Z"
+  "updatedAt": "2026-09-13T15:48:11.163Z"
 }
