@@ -6239,6 +6239,22 @@
       "numeroPedido": "18753 e 18793",
       "statusPagamento": "Pago",
       "observacao": "c bruna"
+    },
+    {
+      "id": "rmu09prepa1i9du",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T20:29:58.657Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Ederson cardoso",
+      "contatoCliente": "+55 34 8888-8013",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6251,5 +6267,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T20:29:00.242Z"
+  "updatedAt": "2026-09-13T20:29:59.579Z"
 }
