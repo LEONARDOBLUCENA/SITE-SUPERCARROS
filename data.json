@@ -4380,9 +4380,9 @@
       "dataVenda": "2026-09-11",
       "valorVenda": "1079.00",
       "numeroPedido": "18709 ",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-11T22:01:58.244Z"
+      "updatedAt": "2026-09-13T23:11:34.187Z"
     },
     {
       "id": "rmtvuda7iijljui",
@@ -6364,5 +6364,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T23:05:37.536Z"
+  "updatedAt": "2026-09-13T23:11:34.187Z"
 }
