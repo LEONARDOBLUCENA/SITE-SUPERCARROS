@@ -5841,14 +5841,14 @@
       "nomeCliente": "Fabio Hartwig",
       "contatoCliente": "55 27 99951-3433",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-13",
       "valorVenda": "4200.00",
       "numeroPedido": "18773",
       "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-13T16:33:45.401Z"
+      "updatedAt": "2026-09-13T16:33:53.129Z"
     },
     {
       "id": "rmtzsagu3p3x3pa",
@@ -6088,5 +6088,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T16:33:45.401Z"
+  "updatedAt": "2026-09-13T16:33:53.129Z"
 }
