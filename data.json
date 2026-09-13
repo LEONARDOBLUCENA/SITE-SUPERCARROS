@@ -6174,6 +6174,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu06cihqtv9uvg",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T18:55:41.726Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "~Giovanna Arruda",
+      "contatoCliente": "+55 12 99132-0854",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6186,5 +6202,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T18:53:45.986Z"
+  "updatedAt": "2026-09-13T18:55:42.372Z"
 }
