@@ -6263,14 +6263,15 @@
       "dataAtendimento": "2026-09-13",
       "nomeCliente": "~Carol Vieira",
       "contatoCliente": "+55 13 99701-8198",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-13",
+      "valorVenda": "99.00",
+      "numeroPedido": "18807",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-13T21:10:31.046Z"
     },
     {
       "id": "rmu09srfp98rp68",
@@ -6363,5 +6364,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T21:10:03.332Z"
+  "updatedAt": "2026-09-13T21:10:31.046Z"
 }
