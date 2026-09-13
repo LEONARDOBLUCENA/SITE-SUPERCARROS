@@ -5984,13 +5984,14 @@
       "nomeCliente": "Pedro",
       "contatoCliente": "55 73 9818-0732",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-13",
       "valorVenda": "1500.00",
       "numeroPedido": "18759",
       "statusPagamento": "Pago",
-      "observacao": "c bruna"
+      "observacao": "c bruna",
+      "updatedAt": "2026-09-13T14:30:16.219Z"
     }
   ],
   "siteVendas": [
@@ -6003,5 +6004,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T14:30:07.029Z"
+  "updatedAt": "2026-09-13T14:30:16.219Z"
 }
