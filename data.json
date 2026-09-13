@@ -5891,11 +5891,12 @@
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-13",
+      "valorVenda": "500.00",
+      "numeroPedido": "18771",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-13T15:59:17.353Z"
     },
     {
       "id": "rmtzt5ekwudzylq",
@@ -6070,5 +6071,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T15:54:59.704Z"
+  "updatedAt": "2026-09-13T15:59:17.353Z"
 }
