@@ -6037,14 +6037,15 @@
       "dataAtendimento": "2026-09-13",
       "nomeCliente": "~Stephanie Souza",
       "contatoCliente": "+55 13 99747-3197",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-13",
+      "valorVenda": "1216.00",
+      "numeroPedido": "18777",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-13T18:37:50.226Z"
     },
     {
       "id": "rmtzzw40f869s6c",
@@ -6185,5 +6186,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T18:31:07.493Z"
+  "updatedAt": "2026-09-13T18:37:50.226Z"
 }
