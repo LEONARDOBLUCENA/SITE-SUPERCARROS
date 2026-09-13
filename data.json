@@ -5831,6 +5831,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtzs5wa4m9q4se",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T12:18:38.380Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Fabio Hartwig",
+      "contatoCliente": "55 27 99951-3433",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5843,5 +5859,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T12:18:11.016Z"
+  "updatedAt": "2026-09-13T12:18:38.998Z"
 }
