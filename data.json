@@ -6352,6 +6352,22 @@
       "numeroPedido": "18807",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu0ejoc2ydmef7",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T22:45:12.818Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Gerusa",
+      "contatoCliente": "+55 22 99777-1176",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6364,5 +6380,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T21:10:31.046Z"
+  "updatedAt": "2026-09-13T22:45:13.855Z"
 }
