@@ -5959,6 +5959,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtzummwoy98ddg",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T13:27:38.616Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Antonio neto",
+      "contatoCliente": "55 51 8054-5418",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5971,5 +5987,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T13:12:01.254Z"
+  "updatedAt": "2026-09-13T13:27:39.165Z"
 }
