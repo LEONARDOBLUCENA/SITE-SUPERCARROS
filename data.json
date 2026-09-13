@@ -5874,15 +5874,15 @@
       "dataAtendimento": "2026-09-13",
       "nomeCliente": "Christopher silva",
       "contatoCliente": "+55 81 9413-7670",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-13",
       "valorVenda": "500.00",
       "numeroPedido": "18771",
       "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-13T15:59:17.353Z"
+      "updatedAt": "2026-09-13T18:40:54.523Z"
     },
     {
       "id": "rmtzt5ekwudzylq",
@@ -6170,5 +6170,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T18:40:45.466Z"
+  "updatedAt": "2026-09-13T18:40:54.523Z"
 }
