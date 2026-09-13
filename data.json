@@ -5911,6 +5911,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtzu0oam44xh59",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T13:10:33.982Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Millena Tenório",
+      "contatoCliente": "+55 21 98260-0283",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5923,5 +5939,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T12:46:15.839Z"
+  "updatedAt": "2026-09-13T13:10:34.518Z"
 }
