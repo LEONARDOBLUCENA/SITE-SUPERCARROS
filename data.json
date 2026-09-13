@@ -6158,6 +6158,22 @@
       "numeroPedido": "",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmu06a0ib04k3f0",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T18:53:45.107Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Eduarda",
+      "contatoCliente": "+55 93 9207-4057",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6170,5 +6186,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T18:45:54.786Z"
+  "updatedAt": "2026-09-13T18:53:45.986Z"
 }
