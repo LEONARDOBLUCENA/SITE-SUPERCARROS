@@ -2181,14 +2181,15 @@
       "dataAtendimento": "2026-09-09",
       "nomeCliente": "Nanda",
       "contatoCliente": "+55 54 9701-6776",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-13",
+      "valorVenda": "240.00",
+      "numeroPedido": "18729",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-13T14:35:06.369Z"
     },
     {
       "id": "rmtub7ig97nquxb",
@@ -6004,5 +6005,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T14:30:16.219Z"
+  "updatedAt": "2026-09-13T14:35:06.369Z"
 }
