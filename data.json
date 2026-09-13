@@ -5847,6 +5847,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmtzsagu3p3x3pa",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T12:22:11.643Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Dimas",
+      "contatoCliente": "+55 11 97726-5981",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -5859,5 +5875,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T12:18:38.998Z"
+  "updatedAt": "2026-09-13T12:22:12.307Z"
 }
