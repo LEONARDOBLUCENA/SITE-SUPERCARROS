@@ -5793,13 +5793,14 @@
       "nomeCliente": "Matheus Car Detail",
       "contatoCliente": " +55 14 99177-8153",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-13",
+      "valorVenda": "727.00",
+      "numeroPedido": "1878,",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-13T18:31:07.493Z"
     },
     {
       "id": "rmtzrzf2tc6knxp",
@@ -6184,5 +6185,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T18:24:21.606Z"
+  "updatedAt": "2026-09-13T18:31:07.493Z"
 }
