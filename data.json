@@ -6223,6 +6223,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu09oi0nrat6ux",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T20:28:59.831Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": " HERYK DOS SANTOS",
+      "contatoCliente": "+55 41 9522-7377",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "carona shelby com combo premium",
+      "dataVenda": "2026-09-13",
+      "valorVenda": "300.00",
+      "numeroPedido": "18753 e 18793",
+      "statusPagamento": "Pago",
+      "observacao": "c bruna"
     }
   ],
   "siteVendas": [
@@ -6235,5 +6251,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T19:22:37.940Z"
+  "updatedAt": "2026-09-13T20:29:00.242Z"
 }
