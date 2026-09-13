@@ -5993,6 +5993,22 @@
       "statusPagamento": "Pago",
       "observacao": "c bruna",
       "updatedAt": "2026-09-13T14:30:16.219Z"
+    },
+    {
+      "id": "rmtzx4fpxnkqkbr",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T14:37:28.341Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Daniel santos",
+      "contatoCliente": "55 13 97416-9080",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6005,5 +6021,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T14:35:06.369Z"
+  "updatedAt": "2026-09-13T14:37:29.134Z"
 }
