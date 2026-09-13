@@ -6319,6 +6319,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu0ajjqedxmkjh",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-13T20:53:08.390Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Daniela Coelho",
+      "contatoCliente": "+55 11 99990-0495",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6331,5 +6347,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-13T20:52:03.279Z"
+  "updatedAt": "2026-09-13T20:53:09.153Z"
 }
