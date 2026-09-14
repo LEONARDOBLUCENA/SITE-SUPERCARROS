@@ -851,7 +851,7 @@
       "numeroPedido": "18305",
       "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-08T20:20:39.919Z"
+      "updatedAt": "2026-09-14T02:04:25.174Z"
     },
     {
       "id": "rmtszkf4htdstxi",
@@ -6467,5 +6467,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T02:01:41.902Z"
+  "updatedAt": "2026-09-14T02:04:25.174Z"
 }
