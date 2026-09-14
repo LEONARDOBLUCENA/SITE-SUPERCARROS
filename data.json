@@ -6433,6 +6433,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu0jbkpu49muvg",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-14T00:58:52.962Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "cb",
+      "contatoCliente": "+55 44 8803-7878",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6445,5 +6461,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T00:41:54.505Z"
+  "updatedAt": "2026-09-14T00:58:53.539Z"
 }
