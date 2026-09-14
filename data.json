@@ -4575,13 +4575,14 @@
       "nomeCliente": "Lucas Soares dos Santos ",
       "contatoCliente": "+55 66 9915-6695",
       "origem": "Outro",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Cliente desistiu",
       "produtoInteresse": "",
       "dataVenda": "2026-09-11",
       "valorVenda": "1425.00",
       "numeroPedido": "18695",
       "statusPagamento": "Pago",
-      "observacao": ""
+      "observacao": "Cliente solicitou estorno no dia 14/09 : Teve a viagem cancelada e quer o estorno, não quer usar em um ano",
+      "updatedAt": "2026-09-14T12:26:09.060Z"
     },
     {
       "id": "rmtwxpvder1vmvc",
@@ -6485,5 +6486,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:12:32.091Z"
+  "updatedAt": "2026-09-14T12:26:09.060Z"
 }
