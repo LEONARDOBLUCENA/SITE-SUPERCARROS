@@ -380,14 +380,14 @@
       "nomeCliente": "Henrique Afonso Maiate",
       "contatoCliente": " (48) 99908-4125 ",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "drive + carona mustang",
       "dataVenda": "2026-09-05",
       "valorVenda": "360.0",
       "numeroPedido": "18487",
       "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-08T19:40:52.797Z"
+      "updatedAt": "2026-09-14T01:55:23.714Z"
     },
     {
       "id": "rmtstsdvg3bjawt",
@@ -6465,5 +6465,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T01:51:29.063Z"
+  "updatedAt": "2026-09-14T01:55:23.715Z"
 }
