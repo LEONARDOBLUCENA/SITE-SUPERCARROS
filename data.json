@@ -6713,16 +6713,17 @@
       "vendedora": "bruna",
       "createdAt": "2026-09-14T16:11:45.874Z",
       "dataAtendimento": "2026-09-14",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Iury Michelin Micas",
       "contatoCliente": "+55 11 97685-6996",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "valorVenda": "94.05",
+      "numeroPedido": "18845",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-14T16:39:21.625Z"
     },
     {
       "id": "rmu1fymkmlvuyp5",
@@ -6783,5 +6784,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T16:37:08.396Z"
+  "updatedAt": "2026-09-14T16:39:21.625Z"
 }
