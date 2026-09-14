@@ -1295,13 +1295,14 @@
       "nomeCliente": "~Kerin Santos",
       "contatoCliente": "+55 27 99825-2244",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-05",
       "valorVenda": "99.00",
       "numeroPedido": "18471",
       "statusPagamento": "Pago",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-14T01:57:37.657Z"
     },
     {
       "id": "rmtt2yzu7461ks7",
@@ -6466,5 +6467,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T01:56:29.779Z"
+  "updatedAt": "2026-09-14T01:57:37.657Z"
 }
