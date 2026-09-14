@@ -5302,10 +5302,10 @@
       "produtoInteresse": "",
       "dataVenda": "2026-09-12",
       "valorVenda": "99.00",
-      "numeroPedido": "18727",
+      "numeroPedido": "18729",
       "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-12T13:13:42.258Z"
+      "updatedAt": "2026-09-14T02:07:17.914Z"
     },
     {
       "id": "rmtyer5yblylitj",
@@ -6467,5 +6467,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T02:04:25.174Z"
+  "updatedAt": "2026-09-14T02:07:17.914Z"
 }
