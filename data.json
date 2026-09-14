@@ -6673,6 +6673,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu1csu58awk2jc",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-14T14:44:07.196Z",
+      "dataAtendimento": "2026-09-14",
+      "nomeCliente": " Dra. Andreina Sant’Ana",
+      "contatoCliente": "+55 71 9710-1224",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6685,5 +6701,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T14:43:13.328Z"
+  "updatedAt": "2026-09-14T14:44:07.794Z"
 }
