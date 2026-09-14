@@ -6788,6 +6788,22 @@
       "numeroPedido": "18805",
       "statusPagamento": "Pago",
       "observacao": ""
+    },
+    {
+      "id": "rmu1iu46c6t8m0t",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-14T17:33:04.548Z",
+      "dataAtendimento": "2026-09-14",
+      "nomeCliente": "Alessandro Fragoso ",
+      "contatoCliente": "+55 49 8415-3587",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6800,5 +6816,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-14T17:17:55.491Z"
+  "updatedAt": "2026-09-14T17:33:05.135Z"
 }
