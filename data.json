@@ -6681,14 +6681,15 @@
       "dataAtendimento": "2026-09-14",
       "nomeCliente": " Dra. Andreina Sant’Ana",
       "contatoCliente": "+55 71 9710-1224",
-      "origem": "",
+      "origem": "Prime Gourmet",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-14T14:54:37.470Z"
     }
   ],
   "siteVendas": [
@@ -6701,5 +6702,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T14:44:07.794Z"
+  "updatedAt": "2026-09-14T14:54:37.470Z"
 }
