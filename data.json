@@ -827,14 +827,14 @@
       "nomeCliente": "Maria Eduarda Schontag",
       "contatoCliente": "+55 51 9254-0778",
       "origem": "Outro",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "18607",
-      "statusPagamento": "Pago",
+      "statusPagamento": "",
       "observacao": "finalizou no site",
-      "updatedAt": "2026-09-10T21:36:03.681Z"
+      "updatedAt": "2026-09-14T02:01:41.902Z"
     },
     {
       "id": "rmtsylse8otx25w",
@@ -6467,5 +6467,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T01:59:57.483Z"
+  "updatedAt": "2026-09-14T02:01:41.902Z"
 }
