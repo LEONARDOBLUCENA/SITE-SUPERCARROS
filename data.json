@@ -6157,13 +6157,14 @@
       "nomeCliente": "Giovanna Arrud",
       "contatoCliente": "+55 12 99132-0854",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
-      "dataVenda": "2026-09-13",
-      "valorVenda": "99.00",
+      "dataVenda": "",
+      "valorVenda": "",
       "numeroPedido": "",
-      "statusPagamento": "Pago",
-      "observacao": ""
+      "statusPagamento": "",
+      "observacao": "",
+      "updatedAt": "2026-09-14T02:13:47.087Z"
     },
     {
       "id": "rmu06a0ib04k3f0",
@@ -6467,5 +6468,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T02:12:54.428Z"
+  "updatedAt": "2026-09-14T02:13:47.087Z"
 }
