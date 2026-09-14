@@ -6417,6 +6417,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu0ipq7cqu1uwo",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-14T00:41:53.640Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Th Cell",
+      "contatoCliente": "+55 31 7516-0470",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6429,5 +6445,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T00:16:33.616Z"
+  "updatedAt": "2026-09-14T00:41:54.505Z"
 }
