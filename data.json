@@ -6804,6 +6804,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu1j7v6bbddwej",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-14T17:43:46.067Z",
+      "dataAtendimento": "2026-09-14",
+      "nomeCliente": "Gloria Sudatti",
+      "contatoCliente": "+55 11 99438-0203",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6816,5 +6832,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-14T17:33:05.135Z"
+  "updatedAt": "2026-09-14T17:43:46.568Z"
 }
