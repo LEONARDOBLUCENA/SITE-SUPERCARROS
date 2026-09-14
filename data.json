@@ -2192,10 +2192,10 @@
       "produtoInteresse": "",
       "dataVenda": "2026-09-13",
       "valorVenda": "240.00",
-      "numeroPedido": "18729",
+      "numeroPedido": "18763",
       "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-13T14:35:06.369Z"
+      "updatedAt": "2026-09-14T02:08:40.659Z"
     },
     {
       "id": "rmtub7ig97nquxb",
@@ -6467,5 +6467,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T02:07:17.914Z"
+  "updatedAt": "2026-09-14T02:08:40.659Z"
 }
