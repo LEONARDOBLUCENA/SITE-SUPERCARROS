@@ -6224,17 +6224,17 @@
       "dataAtendimento": "2026-09-13",
       "nomeCliente": "~Ian Singlan✈️",
       "contatoCliente": "+598 94 411 310",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-14",
+      "valorVenda": "297.00",
+      "numeroPedido": "1575",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "compartilhado": true,
       "vendedoraFinalizou": "bruna",
-      "updatedAt": "2026-09-14T12:33:59.307Z"
+      "updatedAt": "2026-09-14T12:34:35.000Z"
     },
     {
       "id": "rmu09oi0nrat6ux",
@@ -6489,5 +6489,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:33:59.307Z"
+  "updatedAt": "2026-09-14T12:34:35.000Z"
 }
