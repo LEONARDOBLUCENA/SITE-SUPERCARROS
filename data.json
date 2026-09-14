@@ -6649,13 +6649,14 @@
       "nomeCliente": "Thathiana Picoli ",
       "contatoCliente": "+55 21 99312-3891",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-14",
+      "valorVenda": "836.19",
+      "numeroPedido": "18837",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-14T13:58:44.526Z"
     }
   ],
   "siteVendas": [
@@ -6668,5 +6669,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T13:48:51.020Z"
+  "updatedAt": "2026-09-14T13:58:44.526Z"
 }
