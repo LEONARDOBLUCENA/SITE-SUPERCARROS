@@ -6401,6 +6401,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu0ht4qokw29hh",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-14T00:16:32.832Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "~Eumara Meneguelli 🍃",
+      "contatoCliente": "+55 27 99626-0406",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6413,5 +6429,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T00:14:14.397Z"
+  "updatedAt": "2026-09-14T00:16:33.616Z"
 }
