@@ -3318,13 +3318,14 @@
       "nomeCliente": "Heryk",
       "contatoCliente": "+55 41 9522-7377",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-13",
+      "valorVenda": "853.00",
+      "numeroPedido": "18753",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-14T12:08:12.494Z"
     },
     {
       "id": "rmtuj3t6zv3vupe",
@@ -6484,5 +6485,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:05:52.956Z"
+  "updatedAt": "2026-09-14T12:08:12.494Z"
 }
