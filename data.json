@@ -6666,13 +6666,14 @@
       "nomeCliente": "Sérgio ",
       "contatoCliente": "+55 73 9122-4426",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "valorVenda": "137.00",
+      "numeroPedido": "18843",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-14T16:14:53.600Z"
     },
     {
       "id": "rmu1csu58awk2jc",
@@ -6766,5 +6767,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T16:13:27.748Z"
+  "updatedAt": "2026-09-14T16:14:53.600Z"
 }
