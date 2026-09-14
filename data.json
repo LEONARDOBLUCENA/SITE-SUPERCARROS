@@ -6657,6 +6657,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "updatedAt": "2026-09-14T13:58:44.526Z"
+    },
+    {
+      "id": "rmu1crnxtfg8dul",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-14T14:43:12.497Z",
+      "dataAtendimento": "2026-09-14",
+      "nomeCliente": "Sérgio ",
+      "contatoCliente": "+55 73 9122-4426",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6669,5 +6685,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T13:58:44.526Z"
+  "updatedAt": "2026-09-14T14:43:13.328Z"
 }
