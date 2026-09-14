@@ -6543,6 +6543,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu19qt8rij5apb",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-14T13:18:33.867Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "r. m",
+      "contatoCliente": "+55 61 9155-9646",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-14",
+      "valorVenda": "306.00",
+      "numeroPedido": "18833",
+      "statusPagamento": "Pago",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6555,5 +6571,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:55:25.594Z"
+  "updatedAt": "2026-09-14T13:18:34.542Z"
 }
