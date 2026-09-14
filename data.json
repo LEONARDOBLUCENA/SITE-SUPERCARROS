@@ -6624,6 +6624,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu1afrw4938w7o",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-14T13:37:58.516Z",
+      "dataAtendimento": "2026-09-14",
+      "nomeCliente": "Fabio Coelho ",
+      "contatoCliente": "Fabio Coelho ",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6636,5 +6652,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T13:36:07.967Z"
+  "updatedAt": "2026-09-14T13:37:59.114Z"
 }
