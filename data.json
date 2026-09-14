@@ -6852,6 +6852,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu1lzwkab77z78",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-14T19:01:33.466Z",
+      "dataAtendimento": "2026-09-14",
+      "nomeCliente": "Gabriel Campos ",
+      "contatoCliente": "+55 96 9903-8373",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6864,5 +6880,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-14T19:00:26.307Z"
+  "updatedAt": "2026-09-14T19:01:34.393Z"
 }
