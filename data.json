@@ -6597,8 +6597,8 @@
       "vendedora": "bruna",
       "createdAt": "2026-09-14T13:21:26.190Z",
       "dataAtendimento": "2026-09-14",
-      "nomeCliente": "Sem nome ",
-      "contatoCliente": "+55 37 9811-6484",
+      "nomeCliente": "Thais Penha ",
+      "contatoCliente": "+55 37 8812-6484",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
@@ -6606,7 +6606,8 @@
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-14T13:32:44.240Z"
     }
   ],
   "siteVendas": [
@@ -6619,5 +6620,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T13:21:27.182Z"
+  "updatedAt": "2026-09-14T13:32:44.240Z"
 }
