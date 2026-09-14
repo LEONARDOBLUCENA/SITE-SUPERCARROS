@@ -6456,6 +6456,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu0mffh5dklba1",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-14T02:25:51.641Z",
+      "dataAtendimento": "2026-09-13",
+      "nomeCliente": "Leonice",
+      "contatoCliente": "+55 31 8235-3598",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6468,5 +6484,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T02:13:47.087Z"
+  "updatedAt": "2026-09-14T02:25:52.312Z"
 }
