@@ -6519,13 +6519,14 @@
       "nomeCliente": "Ailson Filho ",
       "contatoCliente": "+55 84 9934-2859",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-14T12:50:44.851Z"
     }
   ],
   "siteVendas": [
@@ -6538,5 +6539,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:50:24.069Z"
+  "updatedAt": "2026-09-14T12:50:44.851Z"
 }
