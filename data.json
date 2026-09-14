@@ -6640,6 +6640,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu1aj8dm2vh38a",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-14T13:40:39.850Z",
+      "dataAtendimento": "2026-09-14",
+      "nomeCliente": "Thathiana Picoli ",
+      "contatoCliente": "+55 21 99312-3891",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6652,5 +6668,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T13:37:59.114Z"
+  "updatedAt": "2026-09-14T13:40:40.800Z"
 }
