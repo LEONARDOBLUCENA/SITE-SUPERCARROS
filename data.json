@@ -6599,7 +6599,7 @@
       "dataAtendimento": "2026-09-14",
       "nomeCliente": "Thais Penha ",
       "contatoCliente": "+55 37 8812-6484",
-      "origem": "",
+      "origem": "Prime Gourmet",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -6607,7 +6607,7 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "updatedAt": "2026-09-14T13:32:44.240Z"
+      "updatedAt": "2026-09-14T13:48:51.020Z"
     },
     {
       "id": "rmu1addvmek0sbx",
@@ -6668,5 +6668,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T13:40:40.800Z"
+  "updatedAt": "2026-09-14T13:48:51.020Z"
 }
