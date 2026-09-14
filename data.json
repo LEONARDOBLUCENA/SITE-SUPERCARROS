@@ -6494,6 +6494,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu18q373f8havn",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-14T12:50:00.495Z",
+      "dataAtendimento": "2026-09-14",
+      "nomeCliente": "Tifany Maceda ",
+      "contatoCliente": "+55 11 91342-4585",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6506,5 +6522,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:49:30.858Z"
+  "updatedAt": "2026-09-14T12:50:01.106Z"
 }
