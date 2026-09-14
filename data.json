@@ -6868,6 +6868,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu1m7g409h0kmy",
+      "vendedora": "bruna",
+      "createdAt": "2026-09-14T19:07:25.392Z",
+      "dataAtendimento": "2026-09-14",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 83 8808-7974",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -6880,5 +6896,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-14T19:01:34.393Z"
+  "updatedAt": "2026-09-14T19:07:26.227Z"
 }
