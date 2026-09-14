@@ -2819,13 +2819,14 @@
       "nomeCliente": "Laurent Vieira ",
       "contatoCliente": "+55 48 9601-2124",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-13",
+      "valorVenda": "1469.00",
+      "numeroPedido": "18795",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-14T12:48:57.287Z"
     },
     {
       "id": "rmtuhve5p3zbqwu",
@@ -6489,5 +6490,5 @@
       "updatedAt": "2026-09-14T12:12:32.091Z"
     }
   ],
-  "updatedAt": "2026-09-14T12:34:35.000Z"
+  "updatedAt": "2026-09-14T12:48:57.287Z"
 }
