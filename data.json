@@ -121,13 +121,14 @@
       "nomeCliente": "Sem nome",
       "contatoCliente": "+55 21 98107-2808",
       "origem": "Outro",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "Drive para familia",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-14T01:51:29.062Z"
     },
     {
       "id": "rmtssmatm222rvr",
@@ -6464,5 +6465,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T01:49:50.826Z"
+  "updatedAt": "2026-09-14T01:51:29.063Z"
 }
