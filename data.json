@@ -1487,13 +1487,14 @@
       "nomeCliente": " GABRIEL CARMINATTI",
       "contatoCliente": "+55 48 9841-3360",
       "origem": "Outro",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-01",
       "valorVenda": "360.00",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "numeroPedido": "18343",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-14T01:48:02.834Z"
     },
     {
       "id": "rmtt45jvm8cyav8",
@@ -6462,5 +6463,5 @@
       "updatedAt": "2026-09-11T16:58:22.056Z"
     }
   ],
-  "updatedAt": "2026-09-14T01:43:17.250Z"
+  "updatedAt": "2026-09-14T01:48:02.834Z"
 }
