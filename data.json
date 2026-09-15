@@ -7524,6 +7524,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu2z53w758mclk",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-15T17:57:17.431Z",
+      "dataAtendimento": "2026-09-15",
+      "nomeCliente": "Sol",
+      "contatoCliente": "+55 27 99638-7513",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -7536,5 +7552,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-15T17:55:51.386Z"
+  "updatedAt": "2026-09-15T17:57:18.079Z"
 }
