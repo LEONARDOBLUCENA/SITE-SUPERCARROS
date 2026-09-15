@@ -6471,13 +6471,14 @@
       "nomeCliente": "Leonice",
       "contatoCliente": "+55 31 8235-3598",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-09-15",
+      "valorVenda": "236.00",
       "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-15T19:06:37.936Z"
     },
     {
       "id": "rmu18pfswhzbeob",
@@ -7633,5 +7634,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-15T19:02:17.487Z"
+  "updatedAt": "2026-09-15T19:06:37.936Z"
 }
