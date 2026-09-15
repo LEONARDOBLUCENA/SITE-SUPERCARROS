@@ -7364,6 +7364,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu2ujdqvcofduh",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-15T15:48:25.303Z",
+      "dataAtendimento": "2026-09-15",
+      "nomeCliente": "Thays",
+      "contatoCliente": "+55 51 8357-0052",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -7376,5 +7392,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-15T15:47:12.987Z"
+  "updatedAt": "2026-09-15T15:48:25.983Z"
 }
