@@ -7444,6 +7444,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu2w6arg0myn9s",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-15T16:34:14.140Z",
+      "dataAtendimento": "2026-09-15",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 54 9909-3298",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -7456,5 +7472,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-15T16:33:06.075Z"
+  "updatedAt": "2026-09-15T16:34:14.755Z"
 }
