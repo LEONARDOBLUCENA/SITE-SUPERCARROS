@@ -7124,6 +7124,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu2p3hdl3b6jxq",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-15T13:16:05.433Z",
+      "dataAtendimento": "2026-09-15",
+      "nomeCliente": "Ipojucan Fontes",
+      "contatoCliente": "55 84 9650-9323",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -7136,5 +7152,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-15T13:04:48.605Z"
+  "updatedAt": "2026-09-15T13:16:05.971Z"
 }
