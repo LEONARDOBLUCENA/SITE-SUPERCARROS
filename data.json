@@ -7220,6 +7220,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu2s3kmztmzkgr",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-15T14:40:08.507Z",
+      "dataAtendimento": "2026-09-15",
+      "nomeCliente": "Agnaldo Vitor",
+      "contatoCliente": "55 37 9133-8545",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -7232,5 +7248,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-15T14:27:56.909Z"
+  "updatedAt": "2026-09-15T14:40:09.111Z"
 }
