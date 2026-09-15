@@ -7380,6 +7380,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu2up3gbfcu1sn",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-15T15:52:51.899Z",
+      "dataAtendimento": "2026-09-15",
+      "nomeCliente": "Sool Alvees",
+      "contatoCliente": "+55 55 8446-9794",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -7392,5 +7408,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-15T15:48:25.983Z"
+  "updatedAt": "2026-09-15T15:52:52.663Z"
 }
