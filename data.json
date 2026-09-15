@@ -7181,13 +7181,14 @@
       "nomeCliente": "Matheus",
       "contatoCliente": "+55 41 9103-0236",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-15",
+      "valorVenda": "396.00",
+      "numeroPedido": "18871",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-15T19:02:17.487Z"
     },
     {
       "id": "rmu2qiuxja0jwen",
@@ -7632,5 +7633,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-15T18:34:19.010Z"
+  "updatedAt": "2026-09-15T19:02:17.487Z"
 }
