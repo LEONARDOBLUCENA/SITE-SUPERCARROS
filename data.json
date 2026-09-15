@@ -7460,6 +7460,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu2wf35j2wlffi",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-15T16:41:04.183Z",
+      "dataAtendimento": "2026-09-15",
+      "nomeCliente": "Renata brandão",
+      "contatoCliente": "+55 21 97004-3176",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -7472,5 +7488,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-15T16:34:14.755Z"
+  "updatedAt": "2026-09-15T16:41:05.226Z"
 }
