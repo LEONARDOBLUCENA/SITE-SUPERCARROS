@@ -8086,14 +8086,15 @@
       "nomeCliente": "Aline",
       "contatoCliente": "+55 22 99248-6666",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-09-13",
+      "valorVenda": "186.50",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-16T18:08:10.101Z"
     }
   ],
   "siteVendas": [
@@ -8106,5 +8107,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T18:07:55.684Z"
+  "updatedAt": "2026-09-16T18:08:10.102Z"
 }
