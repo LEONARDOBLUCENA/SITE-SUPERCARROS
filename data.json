@@ -7995,6 +7995,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu4awsz4gsbax0",
+      "createdAt": "2026-09-16T16:14:31.600Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "~Gabrielle Brito",
+      "contatoCliente": "+55 83 8807-1237",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -8007,5 +8023,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T16:08:26.794Z"
+  "updatedAt": "2026-09-16T16:14:32.014Z"
 }
