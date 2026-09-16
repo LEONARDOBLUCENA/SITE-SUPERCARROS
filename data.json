@@ -8050,7 +8050,7 @@
       "dataAtendimento": "2026-09-16",
       "nomeCliente": "Priscila Roldi ",
       "contatoCliente": "+55 11 91926-0194",
-      "origem": "",
+      "origem": "Prime Gourmet",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -8058,7 +8058,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-16T16:55:50.021Z"
     }
   ],
   "siteVendas": [
@@ -8071,5 +8072,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T16:50:01.028Z"
+  "updatedAt": "2026-09-16T16:55:50.021Z"
 }
