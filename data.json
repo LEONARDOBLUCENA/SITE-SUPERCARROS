@@ -7731,14 +7731,15 @@
       "dataAtendimento": "2026-09-16",
       "nomeCliente": "~Vandecleia Oliveira",
       "contatoCliente": "+55 74 9801-5572",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-13",
+      "valorVenda": "209.00",
+      "numeroPedido": "18889 e 18907",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-16T18:29:45.509Z"
     },
     {
       "id": "rmu426ct6qjevb6",
@@ -8123,5 +8124,5 @@
       "updatedAt": "2026-09-16T18:17:24.261Z"
     }
   ],
-  "updatedAt": "2026-09-16T18:24:18.095Z"
+  "updatedAt": "2026-09-16T18:29:45.510Z"
 }
