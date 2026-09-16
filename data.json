@@ -6285,7 +6285,7 @@
       "numeroPedido": "18807",
       "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-13T21:10:31.046Z"
+      "updatedAt": "2026-09-16T12:38:15.560Z"
     },
     {
       "id": "rmu09srfp98rp68",
@@ -7778,5 +7778,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T12:11:10.216Z"
+  "updatedAt": "2026-09-16T12:38:15.560Z"
 }
