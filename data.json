@@ -6846,13 +6846,14 @@
       "nomeCliente": "Thiago Lima ",
       "contatoCliente": "+55 71 9102-4197",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-16",
+      "valorVenda": "1350.00",
+      "numeroPedido": "18903",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-16T14:17:23.758Z"
     },
     {
       "id": "rmu1lzwkab77z78",
@@ -7874,5 +7875,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T13:48:52.065Z"
+  "updatedAt": "2026-09-16T14:17:23.758Z"
 }
