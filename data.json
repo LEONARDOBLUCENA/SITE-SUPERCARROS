@@ -7846,6 +7846,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu45pgtl1vd6tr",
+      "createdAt": "2026-09-16T13:48:51.177Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "Igor Hudson ",
+      "contatoCliente": "+55 98 8209-7339",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -7858,5 +7874,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T13:23:38.262Z"
+  "updatedAt": "2026-09-16T13:48:52.065Z"
 }
