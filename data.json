@@ -8043,6 +8043,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu4c6fjw5hiao1",
+      "createdAt": "2026-09-16T16:50:00.380Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "Priscila Roldi ",
+      "contatoCliente": "+55 11 91926-0194",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8055,5 +8071,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T16:47:27.456Z"
+  "updatedAt": "2026-09-16T16:50:01.028Z"
 }
