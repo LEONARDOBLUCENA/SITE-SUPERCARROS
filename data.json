@@ -7807,15 +7807,16 @@
       "dataAtendimento": "2026-09-16",
       "nomeCliente": "Bruna Lopes",
       "contatoCliente": "+55 69 9905-1993",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-16",
+      "valorVenda": "100.00",
+      "numeroPedido": "18905 e 18841",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-16T15:47:23.971Z"
     },
     {
       "id": "rmu448ekgn4lmai",
@@ -7972,5 +7973,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T15:38:29.097Z"
+  "updatedAt": "2026-09-16T15:47:23.971Z"
 }
