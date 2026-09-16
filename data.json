@@ -7798,6 +7798,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu43imjtywuy2l",
+      "createdAt": "2026-09-16T12:47:32.777Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "Bruna Lopes",
+      "contatoCliente": "+55 69 9905-1993",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -7810,5 +7826,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T12:45:38.189Z"
+  "updatedAt": "2026-09-16T12:47:33.513Z"
 }
