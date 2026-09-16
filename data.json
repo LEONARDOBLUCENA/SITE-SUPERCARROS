@@ -7521,14 +7521,15 @@
       "dataAtendimento": "2026-09-15",
       "nomeCliente": "Carine Varela",
       "contatoCliente": "+55 51 9291-7356",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Outro",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-15",
+      "valorVenda": "480.00",
+      "numeroPedido": "18883",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-16T15:54:46.547Z"
     },
     {
       "id": "rmu2z53w758mclk",
@@ -7974,5 +7975,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T15:49:18.855Z"
+  "updatedAt": "2026-09-16T15:54:46.547Z"
 }
