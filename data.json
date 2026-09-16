@@ -7912,6 +7912,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu48z1qu15e3lh",
+      "createdAt": "2026-09-16T15:20:17.046Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "Pedro Henrique",
+      "contatoCliente": "(37) 99999 2620",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -7924,5 +7940,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T15:15:42.347Z"
+  "updatedAt": "2026-09-16T15:20:18.204Z"
 }
