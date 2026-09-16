@@ -7005,16 +7005,17 @@
       "vendedora": "gisele",
       "createdAt": "2026-09-15T12:34:55.431Z",
       "dataAtendimento": "2026-09-15",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "Antonio Augusto",
       "contatoCliente": "+55 98 8265-2409",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-11-16",
+      "valorVenda": "450.00",
+      "numeroPedido": "18895",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-16T15:49:18.855Z"
     },
     {
       "id": "rmu2np536cp5myf",
@@ -7973,5 +7974,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T15:47:23.971Z"
+  "updatedAt": "2026-09-16T15:49:18.855Z"
 }
