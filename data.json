@@ -7863,6 +7863,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu47dwmduq5ire",
+      "createdAt": "2026-09-16T14:35:51.013Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "F.B.I",
+      "contatoCliente": "+55 93 9161-4742",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -7875,5 +7891,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T14:17:23.758Z"
+  "updatedAt": "2026-09-16T14:35:51.775Z"
 }
