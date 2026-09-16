@@ -8128,6 +8128,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu4fx6pp17mk44",
+      "createdAt": "2026-09-16T18:34:47.485Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "Thamara ",
+      "contatoCliente": "+55 34 9176-6865",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8140,5 +8156,5 @@
       "updatedAt": "2026-09-16T18:17:24.261Z"
     }
   ],
-  "updatedAt": "2026-09-16T18:29:33.771Z"
+  "updatedAt": "2026-09-16T18:34:48.356Z"
 }
