@@ -6634,13 +6634,14 @@
       "nomeCliente": "Fabio Coelho ",
       "contatoCliente": "Fabio Coelho ",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-15",
+      "valorVenda": "137.00",
+      "numeroPedido": "18865",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-16T14:54:58.045Z"
     },
     {
       "id": "rmu1aj8dm2vh38a",
@@ -7907,5 +7908,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T14:48:41.301Z"
+  "updatedAt": "2026-09-16T14:54:58.045Z"
 }
