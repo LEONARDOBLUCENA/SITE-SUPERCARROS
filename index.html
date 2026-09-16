@@ -159,6 +159,15 @@
   .grid-form{ display:grid; grid-template-columns:repeat(4, 1fr); gap:12px; }
   .field{ display:flex; flex-direction:column; gap:5px; min-width:0; }
   .field.span-2{ grid-column:span 2; }
+  .field.span-4{ grid-column:span 4; }
+  .shared-block{ background:var(--surface-2); border:1px solid var(--border); border-radius:10px; padding:11px 14px; }
+  .shared-block .checkbox-label{
+    display:flex; align-items:center; gap:8px; font-size:13px; font-weight:700; color:var(--text);
+    text-transform:none; letter-spacing:normal; cursor:pointer;
+  }
+  .shared-block .checkbox-label input[type="checkbox"]{ width:15px; height:15px; accent-color:var(--accent); cursor:pointer; }
+  .shared-fields-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-top:10px; }
+  @media (max-width:640px){ .shared-fields-grid{ grid-template-columns:1fr; } }
   .field label{ font-size:11.5px; font-weight:600; color:var(--text-soft); text-transform:uppercase; letter-spacing:.03em; }
   .field label .req{ color:var(--accent); }
   .field input, .field select, .field textarea{
@@ -287,6 +296,11 @@
     background:var(--surface); border:1px solid var(--border-strong); border-radius:8px;
     padding:7px 9px; font-size:12px; font-weight:600; color:var(--text-soft);
   }
+  .shared-only-label{
+    display:flex; align-items:center; gap:6px; font-size:12px; font-weight:600; color:var(--text-soft);
+    background:var(--surface); border:1px solid var(--border-strong); border-radius:8px; padding:7px 10px; cursor:pointer; white-space:nowrap;
+  }
+  .shared-only-label input[type="checkbox"]{ width:13px; height:13px; accent-color:var(--accent); cursor:pointer; }
 
   .empty{
     text-align:center; padding:38px 20px; color:var(--text-muted); font-size:13px;
@@ -1009,6 +1023,28 @@
             field("Valor da venda (R$)", "valorVenda", "number", false, "0,00") +
             field("Número do pedido", "numeroPedido", "text", false, "Ex: 2026-0032") +
             selectField("Status de pagamento", "statusPagamento", ["Pago","Pendente","Cancelado"], false) +
+            '<div class="field span-4 shared-block" data-role="shared-block">' +
+              '<label class="checkbox-label"><input type="checkbox" name="compartilhadoFlag" data-role="shared-checkbox" value="1"> Atendimento compartilhado</label>' +
+              '<div class="shared-fields-grid" data-role="shared-fields" style="display:none;">' +
+                '<div class="field">' +
+                  '<label>Seu papel <span class="req">*</span></label>' +
+                  '<select name="papelCompartilhado" data-role="papel-select">' +
+                    '<option value="">Selecione…</option>' +
+                    '<option value="iniciadora">Eu iniciei (a outra vendedora finalizou)</option>' +
+                    '<option value="finalizadora">Eu finalizei (a outra vendedora iniciou)</option>' +
+                  '</select>' +
+                '</div>' +
+                '<div class="field">' +
+                  '<label>Outra vendedora <span class="req">*</span></label>' +
+                  '<select name="outraVendedora" data-role="outra-vendedora-select">' +
+                    '<option value="">Selecione…</option>' +
+                    VENDORS.filter(function(o){ return o.key !== v.key; }).map(function(o){
+                      return '<option value="' + o.key + '">' + o.name + '</option>';
+                    }).join("") +
+                  '</select>' +
+                '</div>' +
+              '</div>' +
+            '</div>' +
             textareaField("Observação", "observacao", "span-2") +
           '</div>' +
           '<div class="form-actions">' +
@@ -1030,6 +1066,8 @@
                 '<select class="dash-filters-select" data-role="filter-year"><option value="">Todo o período</option></select>' +
                 '<select class="dash-filters-select" data-role="filter-month"><option value="">Todos os meses</option></select>' +
                 '<select class="dash-filters-select" data-role="filter-origem"><option value="">Todas as origens</option></select>' +
+                '<select class="dash-filters-select" data-role="filter-status-pagamento"><option value="">Todos os status</option></select>' +
+                '<label class="shared-only-label"><input type="checkbox" data-role="filter-shared-only"> Somente compartilhados</label>' +
                 '<input class="search" type="search" placeholder="Buscar cliente, pedido, produto…" data-role="search">' +
               '</div>' +
             '</div>' +
@@ -1300,6 +1338,12 @@
       if(f.origem){
         if((r.origem || "") !== f.origem) return false;
       }
+      if(f.statusPagamento){
+        if((r.statusPagamento || "") !== f.statusPagamento) return false;
+      }
+      if(f.sharedOnly){
+        if(!r.compartilhado) return false;
+      }
       return true;
     });
   }
@@ -1337,6 +1381,8 @@
     var yearSel = panel.querySelector('[data-role="filter-year"]');
     var monthSel = panel.querySelector('[data-role="filter-month"]');
     var origemSel = panel.querySelector('[data-role="filter-origem"]');
+    var statusSel = panel.querySelector('[data-role="filter-status-pagamento"]');
+    var sharedChk = panel.querySelector('[data-role="filter-shared-only"]');
     var f = state.filters[v.key] || {};
     var years = vendorAvailableYears(v.key);
 
@@ -1349,9 +1395,14 @@
     origemSel.innerHTML = '<option value="">Todas as origens</option>' + ORIGENS.map(function(o){
       return '<option value="'+escapeHtml(o)+'">'+escapeHtml(o)+'</option>';
     }).join("");
+    statusSel.innerHTML = '<option value="">Todos os status</option>' + ["Pago","Pendente","Cancelado"].map(function(s){
+      return '<option value="'+s+'">'+s+'</option>';
+    }).join("");
     yearSel.value = f.year || "";
     monthSel.value = f.month || "";
     origemSel.value = f.origem || "";
+    statusSel.value = f.statusPagamento || "";
+    sharedChk.checked = !!f.sharedOnly;
   }
 
   function statusClass(s){
@@ -1504,6 +1555,12 @@
     form.elements.namedItem("dataAtendimento").value = todayISO();
     var statusEl = form.elements.namedItem("statusAtendimento");
     if(statusEl) statusEl.value = STATUS_ATENDIMENTO[0];
+    var sharedFields = form.querySelector('[data-role="shared-fields"]');
+    if(sharedFields) sharedFields.style.display = "none";
+    var papelSel = form.elements.namedItem("papelCompartilhado");
+    var outraSel = form.elements.namedItem("outraVendedora");
+    if(papelSel) papelSel.required = false;
+    if(outraSel) outraSel.required = false;
   }
 
   function attachVendorHandlers(){
@@ -1514,6 +1571,18 @@
       var editOrderLabel = form.querySelector('[data-role="edit-order"]');
       var cancelBtn = form.querySelector('[data-role="cancel-edit"]');
       var submitBtn = form.querySelector('[data-role="submit-btn"]');
+      var sharedBlock = form.querySelector('[data-role="shared-block"]');
+      var sharedCheckbox = form.querySelector('[data-role="shared-checkbox"]');
+      var sharedFields = form.querySelector('[data-role="shared-fields"]');
+      var papelSel = form.elements.namedItem("papelCompartilhado");
+      var outraSel = form.elements.namedItem("outraVendedora");
+
+      sharedCheckbox.addEventListener("change", function(){
+        var on = sharedCheckbox.checked;
+        sharedFields.style.display = on ? "grid" : "none";
+        papelSel.required = on;
+        outraSel.required = on;
+      });
 
       form.addEventListener("submit", function(ev){
         ev.preventDefault();
@@ -1523,6 +1592,16 @@
           return;
         }
         var editingId = state.editing[v.key];
+
+        // Campos auxiliares só usados no cadastro direto de um atendimento
+        // compartilhado — nunca ficam gravados no registro nem afetam edição
+        // (editar um lançamento nunca reatribui vendedora/vendedoraFinalizou).
+        var isShared = !!data.compartilhadoFlag;
+        var otherKey = data.outraVendedora;
+        var papel = data.papelCompartilhado;
+        delete data.compartilhadoFlag;
+        delete data.outraVendedora;
+        delete data.papelCompartilhado;
 
         if(editingId){
           saveMutation(function(latest){
@@ -1539,15 +1618,33 @@
             editFlag.classList.remove("show");
             cancelBtn.style.display = "none";
             submitBtn.innerHTML = submitIcon() + "Salvar";
+            sharedBlock.style.display = "";
             resetForm(form);
             setFormDefaults(form);
           });
         } else {
+          if(isShared && (!otherKey || !papel)){
+            showBanner("Para lançar como Atendimento Compartilhado, selecione seu papel e a outra vendedora envolvida.");
+            return;
+          }
+
           var rec = Object.assign({
             id: uid(),
-            vendedora: v.key,
             createdAt: new Date().toISOString()
           }, data);
+
+          if(isShared){
+            var iniciadoraKey = papel === "finalizadora" ? otherKey : v.key;
+            var finalizadoraKey = papel === "finalizadora" ? v.key : otherKey;
+            var note = "[Compartilhado] " + vendorName(iniciadoraKey) + " iniciou; " + vendorName(finalizadoraKey) + " finalizou.";
+            rec.vendedora = iniciadoraKey;
+            rec.vendedoraFinalizou = finalizadoraKey;
+            rec.compartilhado = true;
+            rec.observacao = rec.observacao ? (rec.observacao + "\n" + note) : note;
+          } else {
+            rec.vendedora = v.key;
+          }
+
           saveMutation(function(latest){
             var newRecords = latest.records.slice();
             newRecords.push(rec);
@@ -1564,6 +1661,7 @@
         editFlag.classList.remove("show");
         cancelBtn.style.display = "none";
         submitBtn.innerHTML = submitIcon() + "Salvar";
+        sharedBlock.style.display = "";
         resetForm(form);
         setFormDefaults(form);
       });
@@ -1579,6 +1677,10 @@
         if(btn.dataset.action === "edit"){
           state.editing[v.key] = id;
           fillForm(form, record);
+          // O cadastro direto de Atendimento Compartilhado só vale para lançamentos
+          // novos — ao editar, esse bloco fica oculto para não sugerir que dá pra
+          // reatribuir vendedora/vendedoraFinalizou por aqui.
+          sharedBlock.style.display = "none";
           editFlag.classList.add("show");
           editOrderLabel.textContent = record.nomeCliente || record.numeroPedido || "";
           cancelBtn.style.display = "inline-flex";
@@ -1612,6 +1714,16 @@
       panel.querySelector('[data-role="filter-origem"]').addEventListener("change", function(ev){
         state.filters[v.key] = state.filters[v.key] || {};
         state.filters[v.key].origem = ev.target.value;
+        renderVendorPanel(v);
+      });
+      panel.querySelector('[data-role="filter-status-pagamento"]').addEventListener("change", function(ev){
+        state.filters[v.key] = state.filters[v.key] || {};
+        state.filters[v.key].statusPagamento = ev.target.value;
+        renderVendorPanel(v);
+      });
+      panel.querySelector('[data-role="filter-shared-only"]').addEventListener("change", function(ev){
+        state.filters[v.key] = state.filters[v.key] || {};
+        state.filters[v.key].sharedOnly = ev.target.checked;
         renderVendorPanel(v);
       });
 
