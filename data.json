@@ -7896,6 +7896,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu48t57j6k6x0p",
+      "createdAt": "2026-09-16T15:15:41.599Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "Yasmim Mileny",
+      "contatoCliente": "+55 81 98431-7527 ",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -7908,5 +7924,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T14:54:58.045Z"
+  "updatedAt": "2026-09-16T15:15:42.347Z"
 }
