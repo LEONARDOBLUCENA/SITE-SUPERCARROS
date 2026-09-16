@@ -7702,6 +7702,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu422d0zcu1gh2",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-16T12:06:54.323Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "Lucas candine",
+      "contatoCliente": "+55 62 8568-3024",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -7714,5 +7730,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T12:06:38.102Z"
+  "updatedAt": "2026-09-16T12:06:55.225Z"
 }
