@@ -8036,15 +8036,15 @@
       "nomeCliente": "Jade",
       "contatoCliente": "+55 81 9911-9694",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-13",
       "valorVenda": "980.00",
       "numeroPedido": "18919",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-16T17:18:36.670Z"
+      "updatedAt": "2026-09-16T17:25:43.972Z"
     },
     {
       "id": "rmu4c6fjw5hiao1",
@@ -8090,5 +8090,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T17:19:27.706Z"
+  "updatedAt": "2026-09-16T17:25:43.972Z"
 }
