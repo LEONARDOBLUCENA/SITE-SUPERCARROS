@@ -8090,11 +8090,11 @@
       "produtoInteresse": "",
       "dataVenda": "2026-09-13",
       "valorVenda": "186.50",
-      "numeroPedido": "",
+      "numeroPedido": "18923",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-16T18:08:10.101Z"
+      "updatedAt": "2026-09-16T18:08:31.446Z"
     }
   ],
   "siteVendas": [
@@ -8107,5 +8107,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T18:08:10.102Z"
+  "updatedAt": "2026-09-16T18:08:31.446Z"
 }
