@@ -7944,6 +7944,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu49mfk8ftu3ik",
+      "createdAt": "2026-09-16T15:38:28.040Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "João Ribeiro ",
+      "contatoCliente": "+55 41 9805-9786",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -7956,5 +7972,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T15:21:22.850Z"
+  "updatedAt": "2026-09-16T15:38:29.097Z"
 }
