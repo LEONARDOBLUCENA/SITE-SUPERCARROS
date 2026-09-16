@@ -7654,6 +7654,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu41qpjdtdrrk1",
+      "vendedora": "gisele",
+      "createdAt": "2026-09-16T11:57:50.665Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "Eduardo Rodrigues",
+      "contatoCliente": "+55 17 99143-7105",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": ""
     }
   ],
   "siteVendas": [
@@ -7666,5 +7682,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T11:39:20.711Z"
+  "updatedAt": "2026-09-16T11:57:51.099Z"
 }
