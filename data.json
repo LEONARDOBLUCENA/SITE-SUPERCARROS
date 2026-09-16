@@ -7782,6 +7782,22 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": ""
+    },
+    {
+      "id": "rmu43g5fghm6ctn",
+      "createdAt": "2026-09-16T12:45:37.276Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "~Maydja Benicio",
+      "contatoCliente": "+55 13 98824-8830",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -7794,5 +7810,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T12:38:23.194Z"
+  "updatedAt": "2026-09-16T12:45:38.189Z"
 }
