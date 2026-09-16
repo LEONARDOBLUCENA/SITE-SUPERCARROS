@@ -2836,14 +2836,14 @@
       "nomeCliente": "William",
       "contatoCliente": "+55 51 9275-9342",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "Boxster  ou 911 ",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-16",
+      "valorVenda": "513.00",
+      "numeroPedido": "18921",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-09T19:32:19.097Z"
+      "updatedAt": "2026-09-16T18:08:51.101Z"
     },
     {
       "id": "rmtuhwvrsd72a2r",
@@ -8107,5 +8107,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T18:08:31.446Z"
+  "updatedAt": "2026-09-16T18:08:51.101Z"
 }
