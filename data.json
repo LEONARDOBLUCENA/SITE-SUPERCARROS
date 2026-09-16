@@ -8062,6 +8062,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-09-16T16:55:50.021Z"
+    },
+    {
+      "id": "rmu4d8avnnfldub",
+      "createdAt": "2026-09-16T17:19:27.251Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "Bruno Silva",
+      "contatoCliente": "+55 54 9949-4571",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -8074,5 +8090,5 @@
       "updatedAt": "2026-09-14T16:56:00.967Z"
     }
   ],
-  "updatedAt": "2026-09-16T17:18:36.670Z"
+  "updatedAt": "2026-09-16T17:19:27.706Z"
 }
