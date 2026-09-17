@@ -6327,13 +6327,14 @@
       "nomeCliente": "Gustavo",
       "contatoCliente": "+55 54 9691-1517",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-17",
+      "valorVenda": "369.00",
+      "numeroPedido": "18955 ",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-17T18:06:43.898Z"
     },
     {
       "id": "rmu0ajjqedxmkjh",
@@ -8623,5 +8624,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T17:17:25.821Z"
+  "updatedAt": "2026-09-17T18:06:43.898Z"
 }
