@@ -8472,14 +8472,15 @@
       "nomeCliente": "Adriene ",
       "contatoCliente": "+55 21 96630-5903",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-17",
+      "valorVenda": "76.00",
+      "numeroPedido": "18947",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-17T14:23:13.453Z"
     },
     {
       "id": "rmu5k9b7iodb5jq",
@@ -8541,5 +8542,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T14:01:41.313Z"
+  "updatedAt": "2026-09-17T14:23:13.453Z"
 }
