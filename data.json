@@ -8288,6 +8288,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5iwnojmdbo7x",
+      "createdAt": "2026-09-17T12:46:07.843Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Rebeca Romilly ",
+      "contatoCliente": "+55 27 99809-8642",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8300,5 +8316,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T12:45:46.349Z"
+  "updatedAt": "2026-09-17T12:46:08.709Z"
 }
