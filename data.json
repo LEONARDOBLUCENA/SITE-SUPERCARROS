@@ -8320,6 +8320,22 @@
       "statusPagamento": "",
       "observacao": "Tem voucher Decolar e Laçador ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5ixwsk3k744n",
+      "createdAt": "2026-09-17T12:47:06.308Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 21 98322-1068",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8332,5 +8348,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T12:46:43.331Z"
+  "updatedAt": "2026-09-17T12:47:06.957Z"
 }
