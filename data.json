@@ -8563,6 +8563,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu5r0p9eeoh5wl",
+      "createdAt": "2026-09-17T16:33:13.442Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Queli ",
+      "contatoCliente": "+55 51 8305-3743",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Tem voucher da GAV ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8575,5 +8591,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T15:52:11.792Z"
+  "updatedAt": "2026-09-17T16:33:14.063Z"
 }
