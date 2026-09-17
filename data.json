@@ -8531,6 +8531,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-09-17T14:35:53.548Z"
+    },
+    {
+      "id": "rmu5pjb4od89aut",
+      "createdAt": "2026-09-17T15:51:42.360Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "~Pietra Rocha ☠️",
+      "contatoCliente": "+55 31 8100-4524",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -8543,5 +8559,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T14:35:53.549Z"
+  "updatedAt": "2026-09-17T15:51:43.465Z"
 }
