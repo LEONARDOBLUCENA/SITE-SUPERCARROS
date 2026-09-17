@@ -8579,6 +8579,22 @@
       "statusPagamento": "",
       "observacao": "Tem voucher da GAV ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5sksbrw324y1",
+      "createdAt": "2026-09-17T17:16:50.151Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Valeria ",
+      "contatoCliente": "+55 31 9121-5715",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8591,5 +8607,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T16:33:14.063Z"
+  "updatedAt": "2026-09-17T17:16:51.157Z"
 }
