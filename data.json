@@ -8513,6 +8513,22 @@
       "observacao": "Quer o GTR ",
       "vendedora": "bruna",
       "updatedAt": "2026-09-17T13:53:25.053Z"
+    },
+    {
+      "id": "rmu5llt555atagx",
+      "createdAt": "2026-09-17T14:01:40.553Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Lauro Gomes ",
+      "contatoCliente": "+55 11 99635-2961",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8525,5 +8541,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T13:53:25.053Z"
+  "updatedAt": "2026-09-17T14:01:41.313Z"
 }
