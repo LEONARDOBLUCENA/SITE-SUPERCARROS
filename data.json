@@ -8670,12 +8670,13 @@
       "origem": "",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-09-17",
       "valorVenda": "434.00",
       "numeroPedido": "18965",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-17T21:33:10.213Z"
     }
   ],
   "siteVendas": [
@@ -8688,5 +8689,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T21:32:57.312Z"
+  "updatedAt": "2026-09-17T21:33:10.213Z"
 }
