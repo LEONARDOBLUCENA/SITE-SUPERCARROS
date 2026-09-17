@@ -8448,6 +8448,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5j28igrkqjej",
+      "createdAt": "2026-09-17T12:50:28.120Z",
+      "dataAtendimento": "2026-09-16",
+      "nomeCliente": "Matheus Coppola",
+      "contatoCliente": "+55 16 99378-8088",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8460,5 +8476,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T12:49:58.707Z"
+  "updatedAt": "2026-09-17T12:50:28.785Z"
 }
