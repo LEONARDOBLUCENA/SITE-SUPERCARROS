@@ -8496,6 +8496,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5l9gqsvbyu2u",
+      "createdAt": "2026-09-17T13:52:04.612Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Murilo ",
+      "contatoCliente": "+55 51 9913-8518",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8508,5 +8524,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T13:23:59.369Z"
+  "updatedAt": "2026-09-17T13:52:05.121Z"
 }
