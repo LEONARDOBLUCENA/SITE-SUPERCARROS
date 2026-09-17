@@ -8352,6 +8352,22 @@
       "statusPagamento": "",
       "observacao": "Quer somente o GTR ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5iz8x6c2x8t2",
+      "createdAt": "2026-09-17T12:48:08.682Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 62 9658-2509",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Busca nossos serviços em Goiânia ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8364,5 +8380,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T12:47:36.119Z"
+  "updatedAt": "2026-09-17T12:48:09.645Z"
 }
