@@ -8628,6 +8628,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5yivao0hypon",
+      "createdAt": "2026-09-17T20:03:18.384Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Lucas",
+      "contatoCliente": "+598 99 242 011",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -8640,5 +8656,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T18:54:29.804Z"
+  "updatedAt": "2026-09-17T20:03:19.040Z"
 }
