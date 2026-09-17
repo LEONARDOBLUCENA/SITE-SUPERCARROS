@@ -8595,6 +8595,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5slj20bbg6p9",
+      "createdAt": "2026-09-17T17:17:24.792Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Daiana ",
+      "contatoCliente": "+55 51 8119-7993",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8607,5 +8623,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T17:16:51.157Z"
+  "updatedAt": "2026-09-17T17:17:25.821Z"
 }
