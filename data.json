@@ -8661,6 +8661,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-09-17T21:33:10.213Z"
+    },
+    {
+      "id": "rmu62kmtikeox59",
+      "createdAt": "2026-09-17T21:56:39.174Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "~Philippe",
+      "contatoCliente": "+55 48 9208-4517",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -8673,5 +8689,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T21:33:26.545Z"
+  "updatedAt": "2026-09-17T21:56:39.788Z"
 }
