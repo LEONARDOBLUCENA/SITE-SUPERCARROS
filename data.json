@@ -8368,6 +8368,22 @@
       "statusPagamento": "",
       "observacao": "Busca nossos serviços em Goiânia ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5izkp8isq9kk",
+      "createdAt": "2026-09-17T12:48:23.948Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 28 99925-0304",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8380,5 +8396,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T12:48:09.645Z"
+  "updatedAt": "2026-09-17T12:48:25.045Z"
 }
