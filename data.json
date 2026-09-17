@@ -8480,6 +8480,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5k9b7iodb5jq",
+      "createdAt": "2026-09-17T13:23:57.822Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Kenedy Oliveira",
+      "contatoCliente": "(74) 98104 6982",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8492,5 +8508,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T13:09:22.164Z"
+  "updatedAt": "2026-09-17T13:23:59.369Z"
 }
