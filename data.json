@@ -8504,14 +8504,15 @@
       "nomeCliente": "Murilo ",
       "contatoCliente": "+55 51 9913-8518",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "bruna"
+      "observacao": "Quer o GTR ",
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-17T13:53:25.053Z"
     }
   ],
   "siteVendas": [
@@ -8524,5 +8525,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T13:52:05.121Z"
+  "updatedAt": "2026-09-17T13:53:25.053Z"
 }
