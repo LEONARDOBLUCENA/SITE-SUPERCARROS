@@ -8644,6 +8644,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu612frnae9efp",
+      "createdAt": "2026-09-17T21:14:30.611Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "~claudimir chelepa",
+      "contatoCliente": "+55 54 9159-2916",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -8656,5 +8672,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T20:03:19.040Z"
+  "updatedAt": "2026-09-17T21:14:31.197Z"
 }
