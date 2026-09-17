@@ -8522,14 +8522,15 @@
       "nomeCliente": "Lauro Gomes ",
       "contatoCliente": "+55 11 99635-2961",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-17",
+      "valorVenda": "360.00",
+      "numeroPedido": "18949",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-17T14:35:53.548Z"
     }
   ],
   "siteVendas": [
@@ -8542,5 +8543,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T14:23:13.453Z"
+  "updatedAt": "2026-09-17T14:35:53.549Z"
 }
