@@ -8240,6 +8240,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5iv7t9dqf9vl",
+      "createdAt": "2026-09-17T12:45:00.621Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Dr. Paula Tomas ",
+      "contatoCliente": "+55 34 9881-7506",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8252,5 +8268,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T12:44:35.504Z"
+  "updatedAt": "2026-09-17T12:45:01.832Z"
 }
