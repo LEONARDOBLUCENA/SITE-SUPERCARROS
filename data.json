@@ -8668,15 +8668,16 @@
       "dataAtendimento": "2026-09-17",
       "nomeCliente": "~Philippe",
       "contatoCliente": "+55 48 9208-4517",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-17",
+      "valorVenda": "167.00",
+      "numeroPedido": "18975",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-17T22:24:34.234Z"
     }
   ],
   "siteVendas": [
@@ -8689,5 +8690,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T21:56:39.788Z"
+  "updatedAt": "2026-09-17T22:24:34.235Z"
 }
