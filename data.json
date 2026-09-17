@@ -8336,6 +8336,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu5iyj43n8qg3h",
+      "createdAt": "2026-09-17T12:47:35.235Z",
+      "dataAtendimento": "2026-09-17",
+      "nomeCliente": "Oberdan Vitor ",
+      "contatoCliente": "+55 51 9851-2410",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Quer somente o GTR ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8348,5 +8364,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T12:47:06.957Z"
+  "updatedAt": "2026-09-17T12:47:36.119Z"
 }
