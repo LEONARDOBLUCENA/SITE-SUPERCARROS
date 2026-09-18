@@ -8937,6 +8937,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu768vkuqjwkfk",
+      "createdAt": "2026-09-18T16:27:15.294Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 81 9526-1129",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8949,5 +8965,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T15:54:41.046Z"
+  "updatedAt": "2026-09-18T16:27:16.061Z"
 }
