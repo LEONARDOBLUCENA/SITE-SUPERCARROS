@@ -8807,6 +8807,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu6yj7pxqm373q",
+      "createdAt": "2026-09-18T12:51:20.661Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "Samanta Ferreira ",
+      "contatoCliente": "+55 35 9247-0051",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8819,5 +8835,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T12:50:52.675Z"
+  "updatedAt": "2026-09-18T12:51:21.494Z"
 }
