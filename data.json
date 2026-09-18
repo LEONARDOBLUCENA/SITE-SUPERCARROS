@@ -8678,6 +8678,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-09-17T22:24:34.234Z"
+    },
+    {
+      "id": "rmu6xe70r9zs105",
+      "createdAt": "2026-09-18T12:19:26.859Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "Alisson Ferreira ",
+      "contatoCliente": "+55 42 8412-9081",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8690,5 +8706,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-17T22:24:34.235Z"
+  "updatedAt": "2026-09-18T12:19:28.350Z"
 }
