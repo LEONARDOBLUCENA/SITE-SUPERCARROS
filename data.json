@@ -8969,6 +8969,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu7b1zs2ptzdgn",
+      "createdAt": "2026-09-18T18:41:52.226Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "~Ruth Campos",
+      "contatoCliente": "+55 21 97602-1129",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -8981,5 +8997,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T17:10:25.388Z"
+  "updatedAt": "2026-09-18T18:41:52.918Z"
 }
