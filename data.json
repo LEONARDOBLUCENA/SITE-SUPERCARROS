@@ -8710,6 +8710,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu6xfryt0k61d9",
+      "createdAt": "2026-09-18T12:20:40.661Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "Mayani Januário ",
+      "contatoCliente": "+55 27 99276-0907",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8722,5 +8738,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T12:19:52.842Z"
+  "updatedAt": "2026-09-18T12:20:41.672Z"
 }
