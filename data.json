@@ -7410,14 +7410,14 @@
       "nomeCliente": "~Vitoria Lopes",
       "contatoCliente": "+55 61 9192-6679",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
-      "dataVenda": "2026-09-13",
-      "valorVenda": "1550.00",
+      "dataVenda": "",
+      "valorVenda": "",
       "numeroPedido": "",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "",
       "observacao": "",
-      "updatedAt": "2026-09-16T17:09:36.036Z"
+      "updatedAt": "2026-09-18T23:38:06.294Z"
     },
     {
       "id": "rmu2w4td7l1flfr",
@@ -9109,5 +9109,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T23:37:27.846Z"
+  "updatedAt": "2026-09-18T23:38:06.294Z"
 }
