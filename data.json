@@ -8824,6 +8824,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu72m4z0pjqxaw",
+      "createdAt": "2026-09-18T14:45:35.532Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "Sthéfany Cordeiro",
+      "contatoCliente": "+55 47 9688-4284",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -8836,5 +8852,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T13:38:37.141Z"
+  "updatedAt": "2026-09-18T14:45:36.347Z"
 }
