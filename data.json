@@ -8233,14 +8233,15 @@
       "nomeCliente": "Dr. Paula Tomas ",
       "contatoCliente": "+55 34 9881-7506",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "bruna"
+      "dataVenda": "2026-09-17",
+      "valorVenda": "594.00",
+      "numeroPedido": "18985",
+      "statusPagamento": "Pago",
+      "observacao": "A esposa gerou o cadastro no nome do marido que é Luiz Paulo ",
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-18T12:46:14.644Z"
     },
     {
       "id": "rmu5ivphi9niwec",
@@ -8802,5 +8803,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T12:29:16.920Z"
+  "updatedAt": "2026-09-18T12:46:14.644Z"
 }
