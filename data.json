@@ -8896,15 +8896,15 @@
       "nomeCliente": "Carol",
       "contatoCliente": "+55 51 9894-0318",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-18",
       "valorVenda": "550.00",
       "numeroPedido": "",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-18T15:34:21.743Z"
+      "updatedAt": "2026-09-18T16:54:09.635Z"
     },
     {
       "id": "rmu752qtpsxehd2",
@@ -8965,5 +8965,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T16:27:16.061Z"
+  "updatedAt": "2026-09-18T16:54:09.636Z"
 }
