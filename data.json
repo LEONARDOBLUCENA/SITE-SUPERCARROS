@@ -9082,6 +9082,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu7kc8ft69m7z2",
+      "createdAt": "2026-09-18T23:01:46.553Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "Grazy Unhas",
+      "contatoCliente": "+55 19 98918-2922",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9094,5 +9110,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T21:53:50.445Z"
+  "updatedAt": "2026-09-18T23:01:47.141Z"
 }
