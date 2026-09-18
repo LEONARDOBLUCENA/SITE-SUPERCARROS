@@ -9025,15 +9025,15 @@
       "nomeCliente": "Eduardo",
       "contatoCliente": "+55 75 8836-6486",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-09-18",
       "valorVenda": "239.50",
       "numeroPedido": "19017",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-18T21:28:44.833Z"
+      "updatedAt": "2026-09-18T21:34:17.623Z"
     },
     {
       "id": "rmu7ggvke7z9qjx",
@@ -9062,5 +9062,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T21:28:44.834Z"
+  "updatedAt": "2026-09-18T21:34:17.624Z"
 }
