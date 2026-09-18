@@ -8791,6 +8791,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu6yili5h7caer",
+      "createdAt": "2026-09-18T12:50:51.869Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "Raissa Francisca ",
+      "contatoCliente": "+55 75 8828-6122",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8803,5 +8819,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T12:46:14.644Z"
+  "updatedAt": "2026-09-18T12:50:52.675Z"
 }
