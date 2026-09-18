@@ -9034,6 +9034,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-09-18T21:09:56.569Z"
+    },
+    {
+      "id": "rmu7ggvke7z9qjx",
+      "createdAt": "2026-09-18T21:13:24.686Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "~Flávia Ferreira",
+      "contatoCliente": "+55 71 9157-1211",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9046,5 +9062,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T21:09:56.569Z"
+  "updatedAt": "2026-09-18T21:13:25.241Z"
 }
