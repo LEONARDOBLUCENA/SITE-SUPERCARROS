@@ -8703,14 +8703,15 @@
       "nomeCliente": "Sem nome ",
       "contatoCliente": "(27) 00251-0909",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "bruna"
+      "observacao": "Já possui voucher ",
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-18T13:38:37.140Z"
     },
     {
       "id": "rmu6xfryt0k61d9",
@@ -8835,5 +8836,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T12:51:21.494Z"
+  "updatedAt": "2026-09-18T13:38:37.141Z"
 }
