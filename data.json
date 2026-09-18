@@ -9022,7 +9022,7 @@
       "id": "rmu7fs2tentmazq",
       "createdAt": "2026-09-18T20:54:07.682Z",
       "dataAtendimento": "2026-09-18",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "Eduardo",
       "contatoCliente": "+55 75 8836-6486",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
@@ -9032,7 +9032,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-18T21:09:56.569Z"
     }
   ],
   "siteVendas": [
@@ -9045,5 +9046,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T20:54:08.562Z"
+  "updatedAt": "2026-09-18T21:09:56.569Z"
 }
