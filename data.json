@@ -8726,6 +8726,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu6xgi3x34rqit",
+      "createdAt": "2026-09-18T12:21:14.541Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "Brenda Ohanna",
+      "contatoCliente": "+55 91 8265-2544",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8738,5 +8754,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T12:20:41.672Z"
+  "updatedAt": "2026-09-18T12:21:15.416Z"
 }
