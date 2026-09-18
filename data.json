@@ -8774,6 +8774,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu6xqtt35zk00p",
+      "createdAt": "2026-09-18T12:29:16.263Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "Geisilane Pereira Bessa ",
+      "contatoCliente": "(28) 99912 1203",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -8786,5 +8802,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T12:25:31.771Z"
+  "updatedAt": "2026-09-18T12:29:16.920Z"
 }
