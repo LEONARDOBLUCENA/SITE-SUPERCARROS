@@ -1630,23 +1630,6 @@
       "observacao": ""
     },
     {
-      "id": "rmtu145se3787vq",
-      "vendedora": "gisele",
-      "createdAt": "2026-09-09T11:42:36.878Z",
-      "dataAtendimento": "0008-09-25",
-      "nomeCliente": "Maria Luiza",
-      "contatoCliente": "+55 71 8744-5080",
-      "origem": "Prime Gourmet",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-08-25",
-      "valorVenda": "640.00",
-      "numeroPedido": "18087 e 18633",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "updatedAt": "2026-09-09T11:45:47.109Z"
-    },
-    {
       "id": "rmtu197sltkyl68",
       "vendedora": "gisele",
       "createdAt": "2026-09-09T11:46:32.757Z",
@@ -9126,5 +9109,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T23:02:48.848Z"
+  "updatedAt": "2026-09-18T23:37:27.846Z"
 }
