@@ -9066,6 +9066,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu7hwuyq8x2lww",
+      "createdAt": "2026-09-18T21:53:50.018Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "Poliana",
+      "contatoCliente": "55 55 9903-7839",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9078,5 +9094,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T21:53:21.892Z"
+  "updatedAt": "2026-09-18T21:53:50.445Z"
 }
