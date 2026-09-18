@@ -9001,6 +9001,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu7cux0s6sejcb",
+      "createdAt": "2026-09-18T19:32:21.292Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "~Layane Sousa",
+      "contatoCliente": "+55 86 8806-8233",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9013,5 +9029,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-18T19:20:12.976Z"
+  "updatedAt": "2026-09-18T19:32:22.280Z"
 }
