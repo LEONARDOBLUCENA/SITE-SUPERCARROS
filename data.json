@@ -9137,15 +9137,15 @@
       "nomeCliente": "~Anderson Guedes",
       "contatoCliente": "+55 68 9231-3926",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-19",
       "valorVenda": "790.00",
       "numeroPedido": "19029",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-19T03:12:57.368Z"
+      "updatedAt": "2026-09-19T03:18:20.439Z"
     }
   ],
   "siteVendas": [
@@ -9158,5 +9158,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T03:12:57.368Z"
+  "updatedAt": "2026-09-19T03:18:20.440Z"
 }
