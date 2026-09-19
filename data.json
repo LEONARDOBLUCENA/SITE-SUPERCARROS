@@ -9339,6 +9339,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu8iky83dhrf0e",
+      "createdAt": "2026-09-19T15:00:20.163Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "Claudia Ferreira ",
+      "contatoCliente": "+55 44 9756-7257",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-19",
+      "valorVenda": "137.00",
+      "numeroPedido": "1577",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9351,5 +9367,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T14:53:33.240Z"
+  "updatedAt": "2026-09-19T15:00:20.942Z"
 }
