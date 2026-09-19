@@ -9178,6 +9178,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu8cte3tk6js0l",
+      "createdAt": "2026-09-19T12:18:56.297Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "Gabriele Bambrille",
+      "contatoCliente": "+55 19 99375-6776",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9190,5 +9206,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T10:51:29.905Z"
+  "updatedAt": "2026-09-19T12:18:56.747Z"
 }
