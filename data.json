@@ -9376,6 +9376,22 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmu8ltlhfnnpjz2",
+      "createdAt": "2026-09-19T16:31:02.403Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "~Arthur Giachini",
+      "contatoCliente": "+55 54 9642-2615",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9388,5 +9404,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T16:25:50.945Z"
+  "updatedAt": "2026-09-19T16:31:03.000Z"
 }
