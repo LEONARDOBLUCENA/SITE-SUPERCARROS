@@ -9506,6 +9506,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-09-19T21:53:24.265Z"
+    },
+    {
+      "id": "rmu8xqpavv9u05j",
+      "createdAt": "2026-09-19T22:04:42.775Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "Rayssa Santos ",
+      "contatoCliente": "+55 48 9640-9858",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9518,5 +9534,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T21:53:24.266Z"
+  "updatedAt": "2026-09-19T22:04:43.728Z"
 }
