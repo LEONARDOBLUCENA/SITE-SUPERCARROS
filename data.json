@@ -9497,14 +9497,15 @@
       "nomeCliente": "Dejane Melo ",
       "contatoCliente": "+55 98 8850-1767",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-19",
+      "valorVenda": "99.00",
+      "numeroPedido": "19061",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-19T21:53:24.265Z"
     }
   ],
   "siteVendas": [
@@ -9517,5 +9518,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T21:27:27.415Z"
+  "updatedAt": "2026-09-19T21:53:24.266Z"
 }
