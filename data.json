@@ -9457,6 +9457,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu8p0bl4smyhd2",
+      "createdAt": "2026-09-19T18:00:15.016Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "Rayssa",
+      "contatoCliente": "+55 22 99942-8329",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9469,5 +9485,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T17:40:17.667Z"
+  "updatedAt": "2026-09-19T18:00:15.742Z"
 }
