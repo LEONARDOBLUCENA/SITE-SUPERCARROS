@@ -9392,6 +9392,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu8m3yqyy0svkb",
+      "createdAt": "2026-09-19T16:39:06.154Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "matheus",
+      "contatoCliente": "+55 51 8140-1557",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9404,5 +9420,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T16:31:03.000Z"
+  "updatedAt": "2026-09-19T16:39:07.663Z"
 }
