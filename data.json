@@ -9473,6 +9473,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu8qno6yr77az0",
+      "createdAt": "2026-09-19T18:46:24.058Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "~Joao Vitor",
+      "contatoCliente": "+55 54 9903-9101",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9485,5 +9501,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T18:00:15.742Z"
+  "updatedAt": "2026-09-19T18:46:25.360Z"
 }
