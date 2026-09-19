@@ -9113,6 +9113,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu7qt7jhgr0oyk",
+      "createdAt": "2026-09-19T02:02:56.237Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "~Julyane Cordeiro",
+      "contatoCliente": "+55 47 9680-4574",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9125,5 +9141,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T00:06:27.980Z"
+  "updatedAt": "2026-09-19T02:02:56.802Z"
 }
