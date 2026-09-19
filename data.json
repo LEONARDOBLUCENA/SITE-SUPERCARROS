@@ -9424,6 +9424,22 @@
       "statusPagamento": "",
       "observacao": "Tem voucher ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu8ny1ckdo1yeg",
+      "createdAt": "2026-09-19T17:30:28.820Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "Mayara",
+      "contatoCliente": "+55 81 9393-6333",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9436,5 +9452,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T17:29:40.278Z"
+  "updatedAt": "2026-09-19T17:30:29.429Z"
 }
