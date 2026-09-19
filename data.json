@@ -9275,6 +9275,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu8gcnjo7fteep",
+      "createdAt": "2026-09-19T13:57:53.844Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "~Nate Jacobs",
+      "contatoCliente": "+55 54 9151-5849",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9287,5 +9303,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T13:57:25.764Z"
+  "updatedAt": "2026-09-19T13:57:54.656Z"
 }
