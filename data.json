@@ -9129,6 +9129,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu7r7btmi9ct9u",
+      "createdAt": "2026-09-19T02:13:54.970Z",
+      "dataAtendimento": "2026-09-18",
+      "nomeCliente": "~Anderson Guedes",
+      "contatoCliente": "+55 68 9231-3926",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9141,5 +9157,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T02:02:56.802Z"
+  "updatedAt": "2026-09-19T02:13:55.396Z"
 }
