@@ -9489,6 +9489,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu8weqzlfxf3pw",
+      "createdAt": "2026-09-19T21:27:25.473Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "Dejane Melo ",
+      "contatoCliente": "+55 98 8850-1767",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9501,5 +9517,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T18:46:25.360Z"
+  "updatedAt": "2026-09-19T21:27:27.415Z"
 }
