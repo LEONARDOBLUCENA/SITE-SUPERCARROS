@@ -9195,6 +9195,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-09-19T12:19:10.843Z"
+    },
+    {
+      "id": "rmu8cu3kquhv2ie",
+      "createdAt": "2026-09-19T12:19:29.306Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "~Layana Campos",
+      "contatoCliente": "+55 77 9949-1203",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9207,5 +9223,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T12:19:10.843Z"
+  "updatedAt": "2026-09-19T12:19:29.857Z"
 }
