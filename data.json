@@ -9357,6 +9357,24 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmu8l1g08e9qkux",
+      "createdAt": "2026-09-19T16:09:08.936Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "~Néia carvalho",
+      "contatoCliente": "+55 61 9938-8855",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-19",
+      "valorVenda": "790.00",
+      "numeroPedido": "19053",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -9369,5 +9387,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T15:40:20.599Z"
+  "updatedAt": "2026-09-19T16:09:09.412Z"
 }
