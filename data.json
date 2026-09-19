@@ -9243,6 +9243,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu8gbkbnkh0peq",
+      "createdAt": "2026-09-19T13:57:03.011Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "gabrieligansi",
+      "contatoCliente": "+55 53 9117-0094",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -9255,5 +9271,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T12:27:34.637Z"
+  "updatedAt": "2026-09-19T13:57:03.535Z"
 }
