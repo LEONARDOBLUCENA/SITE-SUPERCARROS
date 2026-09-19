@@ -9148,22 +9148,6 @@
       "updatedAt": "2026-09-19T03:18:20.439Z"
     },
     {
-      "id": "rmu7u0s5nhp57o5",
-      "createdAt": "2026-09-19T03:32:48.395Z",
-      "dataAtendimento": "2026-09-19",
-      "nomeCliente": "Romulo",
-      "contatoCliente": "+55 24 99228-4746",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmu89oxi3a4x7bx",
       "createdAt": "2026-09-19T10:51:29.307Z",
       "dataAtendimento": "2026-09-19",
@@ -9367,5 +9351,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T15:00:20.942Z"
+  "updatedAt": "2026-09-19T15:39:34.282Z"
 }
