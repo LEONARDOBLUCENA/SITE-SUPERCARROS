@@ -974,13 +974,14 @@
       "nomeCliente": "~Marta Pereira",
       "contatoCliente": "+55 62 9352-2978",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-19",
+      "valorVenda": "190.00",
+      "numeroPedido": "19055",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "updatedAt": "2026-09-19T16:25:50.944Z"
     },
     {
       "id": "rmtt1kjcq8oy2pp",
@@ -9387,5 +9388,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T16:09:09.412Z"
+  "updatedAt": "2026-09-19T16:25:50.945Z"
 }
