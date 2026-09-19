@@ -9441,6 +9441,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmu8oan2svu24wp",
+      "createdAt": "2026-09-19T17:40:16.852Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "Junior Rocha ",
+      "contatoCliente": "+55 88 9614-2726",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9453,5 +9469,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T17:31:47.680Z"
+  "updatedAt": "2026-09-19T17:40:17.667Z"
 }
