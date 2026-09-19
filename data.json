@@ -9307,6 +9307,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu8gk9rf54rqnr",
+      "createdAt": "2026-09-19T14:03:49.227Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "Erica Barboza Da Silva",
+      "contatoCliente": "+55 27 99624-6660",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9319,5 +9335,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T14:02:27.681Z"
+  "updatedAt": "2026-09-19T14:03:49.797Z"
 }
