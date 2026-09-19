@@ -9183,7 +9183,7 @@
       "id": "rmu8cte3tk6js0l",
       "createdAt": "2026-09-19T12:18:56.297Z",
       "dataAtendimento": "2026-09-19",
-      "nomeCliente": "Gabriele Bambrille",
+      "nomeCliente": "~Gabrielle Brambile",
       "contatoCliente": "+55 19 99375-6776",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
@@ -9193,7 +9193,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-19T12:19:10.843Z"
     }
   ],
   "siteVendas": [
@@ -9206,5 +9207,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-19T12:18:56.747Z"
+  "updatedAt": "2026-09-19T12:19:10.843Z"
 }
