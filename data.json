@@ -9684,6 +9684,22 @@
       "statusPagamento": "",
       "observacao": "Já possui o voucher para ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9sv8vx4jjmof",
+      "createdAt": "2026-09-20T12:36:02.877Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 31 9667-7559",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9696,5 +9712,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T12:26:48.095Z"
+  "updatedAt": "2026-09-20T12:36:03.778Z"
 }
