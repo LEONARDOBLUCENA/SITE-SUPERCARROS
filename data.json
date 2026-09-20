@@ -9700,6 +9700,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9v9kx0gkxcid",
+      "createdAt": "2026-09-20T13:43:10.884Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 62 9299-1786",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9712,5 +9728,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T12:36:03.778Z"
+  "updatedAt": "2026-09-20T13:43:12.249Z"
 }
