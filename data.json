@@ -9554,6 +9554,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9rkl4z9xj44k",
+      "createdAt": "2026-09-20T11:59:45.923Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Amandha Ketley ",
+      "contatoCliente": "+55 21 97991-1221",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9566,5 +9582,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T11:59:21.527Z"
+  "updatedAt": "2026-09-20T11:59:47.004Z"
 }
