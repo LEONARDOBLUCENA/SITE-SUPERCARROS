@@ -9594,14 +9594,15 @@
       "nomeCliente": "Sem nome ",
       "contatoCliente": "+55 91 8911-7332",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "bruna"
+      "observacao": "Já possui os ingressos ",
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-20T12:10:57.214Z"
     },
     {
       "id": "rmu9rlj2cnpnlte",
@@ -9646,5 +9647,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T12:00:43.680Z"
+  "updatedAt": "2026-09-20T12:10:57.214Z"
 }
