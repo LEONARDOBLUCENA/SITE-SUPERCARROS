@@ -9668,6 +9668,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9sjc03516fe3",
+      "createdAt": "2026-09-20T12:26:47.043Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Lilian Abrantes ",
+      "contatoCliente": "+55 31 8595-8039",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Já possui o voucher para ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9680,5 +9696,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T12:17:30.902Z"
+  "updatedAt": "2026-09-20T12:26:48.095Z"
 }
