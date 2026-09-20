@@ -9748,6 +9748,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmua09elvh3v0vk",
+      "createdAt": "2026-09-20T16:03:00.787Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Samanta Feijo ",
+      "contatoCliente": "+55 11 96901-9983",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9760,5 +9776,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T15:17:36.513Z"
+  "updatedAt": "2026-09-20T16:03:02.059Z"
 }
