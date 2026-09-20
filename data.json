@@ -9652,6 +9652,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9s7edq5h92r9",
+      "createdAt": "2026-09-20T12:17:30.254Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Rosana Fernandes De Abreu",
+      "contatoCliente": "+55 62 98554-9980",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9664,5 +9680,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T12:13:55.175Z"
+  "updatedAt": "2026-09-20T12:17:30.902Z"
 }
