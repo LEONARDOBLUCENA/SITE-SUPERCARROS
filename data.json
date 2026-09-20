@@ -9732,6 +9732,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9ymzrhsb1gzp",
+      "createdAt": "2026-09-20T15:17:35.501Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Bruna Leandra ",
+      "contatoCliente": "+55 21 96940-5743",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9744,5 +9760,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T14:52:22.086Z"
+  "updatedAt": "2026-09-20T15:17:36.513Z"
 }
