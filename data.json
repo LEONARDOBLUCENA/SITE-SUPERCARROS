@@ -9764,6 +9764,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmua47kx5js7zuk",
+      "createdAt": "2026-09-20T17:53:34.121Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "David Pereira De Araujo Barros",
+      "contatoCliente": "+55 31 9912-5213",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-20",
+      "valorVenda": "282.15",
+      "numeroPedido": "19079 ",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9776,5 +9792,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T16:03:02.059Z"
+  "updatedAt": "2026-09-20T17:53:35.116Z"
 }
