@@ -9780,6 +9780,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmua4kqx8ua5rrx",
+      "createdAt": "2026-09-20T18:03:48.428Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Rafa ",
+      "contatoCliente": "+55 21 97638-0660",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-20",
+      "valorVenda": "188.9",
+      "numeroPedido": "19081",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9792,5 +9808,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T17:53:35.116Z"
+  "updatedAt": "2026-09-20T18:03:49.498Z"
 }
