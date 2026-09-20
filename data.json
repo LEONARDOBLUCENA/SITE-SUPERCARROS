@@ -9570,6 +9570,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9rkvufxrvkwp",
+      "createdAt": "2026-09-20T11:59:59.799Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Eduardo Barcellos ",
+      "contatoCliente": "+55 51 9151-2385",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9582,5 +9598,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T11:59:47.004Z"
+  "updatedAt": "2026-09-20T12:00:00.695Z"
 }
