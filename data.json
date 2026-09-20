@@ -9538,6 +9538,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9rk1tdylogis",
+      "createdAt": "2026-09-20T11:59:20.881Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Eduardo Franzoni ",
+      "contatoCliente": "+55 11 98155-3254",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9550,5 +9566,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T11:58:51.837Z"
+  "updatedAt": "2026-09-20T11:59:21.527Z"
 }
