@@ -9618,6 +9618,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9rltakpsmn0v",
+      "createdAt": "2026-09-20T12:00:43.148Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Thannya ",
+      "contatoCliente": "+55 11 92127-2154",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9630,5 +9646,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T12:00:30.633Z"
+  "updatedAt": "2026-09-20T12:00:43.680Z"
 }
