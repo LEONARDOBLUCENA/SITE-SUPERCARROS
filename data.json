@@ -9602,6 +9602,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9rlj2cnpnlte",
+      "createdAt": "2026-09-20T12:00:29.892Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Leo ",
+      "contatoCliente": "+55 84 9137-2737",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9614,5 +9630,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T12:00:17.290Z"
+  "updatedAt": "2026-09-20T12:00:30.633Z"
 }
