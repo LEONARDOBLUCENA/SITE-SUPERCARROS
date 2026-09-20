@@ -9546,14 +9546,15 @@
       "nomeCliente": "Eduardo Franzoni ",
       "contatoCliente": "+55 11 98155-3254",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-20T12:13:55.175Z"
     },
     {
       "id": "rmu9rkl4z9xj44k",
@@ -9663,5 +9664,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T12:13:20.390Z"
+  "updatedAt": "2026-09-20T12:13:55.175Z"
 }
