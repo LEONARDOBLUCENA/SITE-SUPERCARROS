@@ -9635,6 +9635,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmu9s2154z3gf19",
+      "createdAt": "2026-09-20T12:13:19.816Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Lucas ",
+      "contatoCliente": "+55 87 9966-3322",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9647,5 +9663,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T12:10:57.214Z"
+  "updatedAt": "2026-09-20T12:13:20.390Z"
 }
