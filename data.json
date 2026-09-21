@@ -10250,6 +10250,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmubmbexrdsfoon",
+      "createdAt": "2026-09-21T19:08:12.255Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Gabriela R. Souza",
+      "contatoCliente": "+55 15 99829-1694",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10262,5 +10278,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T17:32:58.739Z"
+  "updatedAt": "2026-09-21T19:08:13.282Z"
 }
