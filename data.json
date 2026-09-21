@@ -9989,6 +9989,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmub9p4q1lp5zf2",
+      "createdAt": "2026-09-21T13:14:57.193Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "DIEGO ULLMANN KLEIN",
+      "contatoCliente": "+55 21 99935-4866",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10001,5 +10017,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:14:30.171Z"
+  "updatedAt": "2026-09-21T13:14:57.781Z"
 }
