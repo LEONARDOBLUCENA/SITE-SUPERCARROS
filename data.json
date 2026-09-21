@@ -9829,6 +9829,22 @@
       "statusPagamento": "",
       "observacao": "Queria comprar carro ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmub9ipozgjgvmz",
+      "createdAt": "2026-09-21T13:09:57.779Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 61 9336-6110",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9841,5 +9857,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:09:38.920Z"
+  "updatedAt": "2026-09-21T13:09:58.594Z"
 }
