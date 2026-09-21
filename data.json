@@ -9957,6 +9957,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmub9o5fy4iy1po",
+      "createdAt": "2026-09-21T13:14:11.470Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Isabella Cardoso ",
+      "contatoCliente": "+55 87 8150-2734",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9969,5 +9985,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:12:42.006Z"
+  "updatedAt": "2026-09-21T13:14:13.320Z"
 }
