@@ -6768,13 +6768,14 @@
       "nomeCliente": "Jean Athaides",
       "contatoCliente": "(31) 99542-7853",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Cliente desistiu",
       "produtoInteresse": "",
       "dataVenda": "2026-09-13",
       "valorVenda": "137.00",
       "numeroPedido": "18805",
-      "statusPagamento": "Pago",
-      "observacao": ""
+      "statusPagamento": "Cancelado",
+      "observacao": "Cliente solicitou o estorno devida a viagem cancelada",
+      "updatedAt": "2026-09-21T12:22:08.944Z"
     },
     {
       "id": "rmu1iu46c6t8m0t",
@@ -9808,5 +9809,5 @@
       "updatedAt": "2026-09-17T12:35:37.807Z"
     }
   ],
-  "updatedAt": "2026-09-20T18:03:49.498Z"
+  "updatedAt": "2026-09-21T12:22:08.944Z"
 }
