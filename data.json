@@ -9973,6 +9973,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmub9ojaz4eejvm",
+      "createdAt": "2026-09-21T13:14:29.435Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Paulo Ryan ",
+      "contatoCliente": "+55 85 9404-6154",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9985,5 +10001,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:14:13.320Z"
+  "updatedAt": "2026-09-21T13:14:30.171Z"
 }
