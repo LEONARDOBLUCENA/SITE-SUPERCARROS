@@ -10152,6 +10152,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmubbedo9yr1l0y",
+      "createdAt": "2026-09-21T14:02:34.809Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Larisse ",
+      "contatoCliente": "+55 34 9946-7086",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10164,5 +10180,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T14:01:56.502Z"
+  "updatedAt": "2026-09-21T14:02:36.091Z"
 }
