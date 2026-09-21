@@ -10119,6 +10119,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmubb584ci401aq",
+      "createdAt": "2026-09-21T13:55:27.708Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Hyandra ",
+      "contatoCliente": "+55 98 8800-8098",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10131,5 +10147,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:45:48.484Z"
+  "updatedAt": "2026-09-21T13:55:28.196Z"
 }
