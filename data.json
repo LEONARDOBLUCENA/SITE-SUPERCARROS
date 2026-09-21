@@ -10136,6 +10136,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-09-21T14:00:29.963Z"
+    },
+    {
+      "id": "rmubbdj4g7wbq8g",
+      "createdAt": "2026-09-21T14:01:55.216Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Patricia Fuchs",
+      "contatoCliente": "+55 41 9270-7377",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10148,5 +10164,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T14:00:29.963Z"
+  "updatedAt": "2026-09-21T14:01:56.502Z"
 }
