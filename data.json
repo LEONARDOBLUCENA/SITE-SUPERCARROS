@@ -10266,6 +10266,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmubpgpq8bz2rvj",
+      "createdAt": "2026-09-21T20:36:18.368Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Peterson ",
+      "contatoCliente": "+55 34 9201-4418",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10278,5 +10294,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T19:08:13.282Z"
+  "updatedAt": "2026-09-21T20:36:19.004Z"
 }
