@@ -9909,6 +9909,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmub9kslov75a81",
+      "createdAt": "2026-09-21T13:11:34.860Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Eduardo Soares ",
+      "contatoCliente": "+55 54 9113-7179",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9921,5 +9937,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:11:17.239Z"
+  "updatedAt": "2026-09-21T13:11:36.018Z"
 }
