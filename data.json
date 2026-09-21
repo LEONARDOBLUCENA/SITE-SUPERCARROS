@@ -10201,6 +10201,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmubgtqrg8rn3cr",
+      "createdAt": "2026-09-21T16:34:29.692Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Fabiane Xavier ",
+      "contatoCliente": "+55 31 8811-1875",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-21",
+      "valorVenda": "49.50",
+      "numeroPedido": "19101",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10213,5 +10229,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T16:28:41.472Z"
+  "updatedAt": "2026-09-21T16:34:30.297Z"
 }
