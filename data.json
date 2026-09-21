@@ -10069,6 +10069,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuba6m9mmylegr",
+      "createdAt": "2026-09-21T13:28:33.082Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Vivian Ramos Bragança",
+      "contatoCliente": " (31) 99582-0714",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10081,5 +10097,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:23:33.393Z"
+  "updatedAt": "2026-09-21T13:28:33.720Z"
 }
