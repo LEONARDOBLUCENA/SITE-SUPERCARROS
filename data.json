@@ -9941,6 +9941,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmub9m7n53dg75q",
+      "createdAt": "2026-09-21T13:12:41.009Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "María Inés García",
+      "contatoCliente": "+598 97 579 385",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-21",
+      "valorVenda": "460.50",
+      "numeroPedido": "1578",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9953,5 +9969,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:11:53.409Z"
+  "updatedAt": "2026-09-21T13:12:42.006Z"
 }
