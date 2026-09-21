@@ -9813,6 +9813,22 @@
       "statusPagamento": "",
       "observacao": "Já tinha  voucher",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmub9iam07f08s5",
+      "createdAt": "2026-09-21T13:09:38.232Z",
+      "dataAtendimento": "2026-09-20",
+      "nomeCliente": "Lucivanio correia Cavalca",
+      "contatoCliente": "+55 82 9935-9232",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Queria comprar carro ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9825,5 +9841,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:09:00.568Z"
+  "updatedAt": "2026-09-21T13:09:38.920Z"
 }
