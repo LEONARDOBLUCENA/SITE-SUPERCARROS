@@ -10126,7 +10126,7 @@
       "dataAtendimento": "2026-09-21",
       "nomeCliente": "Hyandra ",
       "contatoCliente": "+55 98 8800-8098",
-      "origem": "",
+      "origem": "Cara de Mau",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -10134,7 +10134,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-21T14:00:29.963Z"
     }
   ],
   "siteVendas": [
@@ -10147,5 +10148,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:55:28.196Z"
+  "updatedAt": "2026-09-21T14:00:29.963Z"
 }
