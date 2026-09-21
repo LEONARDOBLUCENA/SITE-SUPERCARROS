@@ -7863,14 +7863,15 @@
       "nomeCliente": "F.B.I",
       "contatoCliente": "+55 93 9161-4742",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-21",
+      "valorVenda": "381.91",
+      "numeroPedido": "19113",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-21T23:39:16.734Z"
     },
     {
       "id": "rmu47ue9d2zayn5",
@@ -10294,5 +10295,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T20:36:19.004Z"
+  "updatedAt": "2026-09-21T23:39:16.734Z"
 }
