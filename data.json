@@ -9919,14 +9919,15 @@
       "nomeCliente": "Eduardo Soares ",
       "contatoCliente": "+55 54 9113-7179",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-21",
+      "valorVenda": "130.15",
+      "numeroPedido": "19095",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-21T14:03:45.590Z"
     },
     {
       "id": "rmub9l6fke956ur",
@@ -10180,5 +10181,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T14:02:36.091Z"
+  "updatedAt": "2026-09-21T14:03:45.591Z"
 }
