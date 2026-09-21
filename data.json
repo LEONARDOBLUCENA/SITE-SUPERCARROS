@@ -10053,6 +10053,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuba06gfghyouo",
+      "createdAt": "2026-09-21T13:23:32.655Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Douglas Andrade ",
+      "contatoCliente": "+55 21 96975-5173",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10065,5 +10081,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:18:51.086Z"
+  "updatedAt": "2026-09-21T13:23:33.393Z"
 }
