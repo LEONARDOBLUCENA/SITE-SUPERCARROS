@@ -10185,6 +10185,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmubgm9pvs49lq9",
+      "createdAt": "2026-09-21T16:28:41.011Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Pablo Perez",
+      "contatoCliente": "+598 98 704 228",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-21",
+      "valorVenda": "323.36",
+      "numeroPedido": "1579",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10197,5 +10213,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T14:15:15.686Z"
+  "updatedAt": "2026-09-21T16:28:41.472Z"
 }
