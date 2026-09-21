@@ -10177,14 +10177,15 @@
       "nomeCliente": "Quésia Rocha ",
       "contatoCliente": "+55 71 8661-1683",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-21",
+      "valorVenda": "94.05",
+      "numeroPedido": "19107",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-21T17:32:58.739Z"
     },
     {
       "id": "rmubgm9pvs49lq9",
@@ -10261,5 +10262,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T17:15:27.131Z"
+  "updatedAt": "2026-09-21T17:32:58.739Z"
 }
