@@ -10103,6 +10103,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmubassjdttv9ld",
+      "createdAt": "2026-09-21T13:45:47.641Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Ramon Oliveira ",
+      "contatoCliente": "+55 71 8264-3814",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -10115,5 +10131,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:42:59.708Z"
+  "updatedAt": "2026-09-21T13:45:48.484Z"
 }
