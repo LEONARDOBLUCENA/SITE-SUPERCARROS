@@ -9866,17 +9866,18 @@
       "id": "rmub9jdcqdlposb",
       "createdAt": "2026-09-21T13:10:28.442Z",
       "dataAtendimento": "2026-09-21",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Juliana Cardoso Borges Costa",
       "contatoCliente": "+55 69 9333-6005",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "307.32",
+      "numeroPedido": "19093",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-21T13:36:06.562Z"
     },
     {
       "id": "rmub9jp2l0b2nzo",
@@ -10097,5 +10098,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:28:33.720Z"
+  "updatedAt": "2026-09-21T13:36:06.562Z"
 }
