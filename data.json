@@ -9850,7 +9850,7 @@
       "id": "rmub9j2b9pfxt6q",
       "createdAt": "2026-09-21T13:10:14.133Z",
       "dataAtendimento": "2026-09-21",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Renato Aquino ",
       "contatoCliente": "+55 14 99845-9715",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
@@ -9860,7 +9860,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-21T13:42:59.708Z"
     },
     {
       "id": "rmub9jdcqdlposb",
@@ -10114,5 +10115,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:41:47.610Z"
+  "updatedAt": "2026-09-21T13:42:59.708Z"
 }
