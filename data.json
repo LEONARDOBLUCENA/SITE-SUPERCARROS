@@ -9893,6 +9893,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmub9kee4utyba1",
+      "createdAt": "2026-09-21T13:11:16.444Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Maryana Gomes ",
+      "contatoCliente": "+55 94 9100-0528",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9905,5 +9921,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:10:44.359Z"
+  "updatedAt": "2026-09-21T13:11:17.239Z"
 }
