@@ -9877,6 +9877,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmub9jp2l0b2nzo",
+      "createdAt": "2026-09-21T13:10:43.629Z",
+      "dataAtendimento": "2026-09-21",
+      "nomeCliente": "Gabriel Miranda ",
+      "contatoCliente": "+55 35 9180-4900",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -9889,5 +9905,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T13:10:29.955Z"
+  "updatedAt": "2026-09-21T13:10:44.359Z"
 }
