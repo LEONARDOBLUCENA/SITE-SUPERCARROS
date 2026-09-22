@@ -10381,6 +10381,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmucngr3g825t79",
+      "createdAt": "2026-09-22T12:28:07.084Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "Karol Lyra",
+      "contatoCliente": "55 83 8632-9821",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10393,5 +10409,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T12:24:02.756Z"
+  "updatedAt": "2026-09-22T12:28:07.907Z"
 }
