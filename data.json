@@ -10081,14 +10081,15 @@
       "nomeCliente": "Vivian Ramos Bragança",
       "contatoCliente": " (31) 99582-0714",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-21",
+      "valorVenda": "186.50",
+      "numeroPedido": "19085",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-22T10:19:54.537Z"
     },
     {
       "id": "rmubanmu2hlpucx",
@@ -10295,5 +10296,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-21T23:39:16.734Z"
+  "updatedAt": "2026-09-22T10:19:54.537Z"
 }
