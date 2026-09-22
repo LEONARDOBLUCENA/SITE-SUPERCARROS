@@ -10621,6 +10621,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmucrxzr37yulqr",
+      "createdAt": "2026-09-22T14:33:29.919Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "~Victoria Conceicao",
+      "contatoCliente": "+55 79 9975-7479",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10633,5 +10649,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T13:18:05.410Z"
+  "updatedAt": "2026-09-22T14:33:30.369Z"
 }
