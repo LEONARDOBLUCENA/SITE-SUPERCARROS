@@ -10397,6 +10397,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmucnjhec816vqx",
+      "createdAt": "2026-09-22T12:30:14.484Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "Cecília Philippi",
+      "contatoCliente": "+55 48 9800-0095",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10409,5 +10425,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T12:28:07.907Z"
+  "updatedAt": "2026-09-22T12:30:15.036Z"
 }
