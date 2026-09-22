@@ -10332,6 +10332,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmucn4cpt12ic4g",
+      "createdAt": "2026-09-22T12:18:28.577Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "~Mariana Rodrigues",
+      "contatoCliente": "+55 12 99173-8558",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10344,5 +10360,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T12:16:59.832Z"
+  "updatedAt": "2026-09-22T12:18:29.014Z"
 }
