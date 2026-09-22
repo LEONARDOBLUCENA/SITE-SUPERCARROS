@@ -10353,7 +10353,7 @@
       "id": "rmucn8lxu08x3i9",
       "createdAt": "2026-09-22T12:21:47.154Z",
       "dataAtendimento": "2026-09-22",
-      "nomeCliente": "Moises Cavalcanti",
+      "nomeCliente": "Moises Cavalcante",
       "contatoCliente": "+55 87 9909-9399",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
@@ -10363,7 +10363,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-22T12:21:55.426Z"
     }
   ],
   "siteVendas": [
@@ -10376,5 +10377,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T12:21:47.839Z"
+  "updatedAt": "2026-09-22T12:21:55.426Z"
 }
