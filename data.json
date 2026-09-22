@@ -10815,6 +10815,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmud1g7mxr81885",
+      "createdAt": "2026-09-22T18:59:36.489Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "~Lucas Drummond",
+      "contatoCliente": "+55 31 9666-6350",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10827,5 +10843,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T18:56:53.813Z"
+  "updatedAt": "2026-09-22T18:59:37.081Z"
 }
