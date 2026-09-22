@@ -10284,6 +10284,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmucmv0zqvkbot5",
+      "createdAt": "2026-09-22T12:11:13.478Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "Studio brabos",
+      "contatoCliente": "55 62 8166-9844",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10296,5 +10312,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T10:19:54.537Z"
+  "updatedAt": "2026-09-22T12:11:14.632Z"
 }
