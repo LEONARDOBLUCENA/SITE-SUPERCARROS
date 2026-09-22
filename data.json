@@ -10733,6 +10733,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuczj3bp2stldz",
+      "createdAt": "2026-09-22T18:05:51.637Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "~Maria Gabriela Colombo",
+      "contatoCliente": "55 48 9153-6638",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10745,5 +10761,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T17:53:59.320Z"
+  "updatedAt": "2026-09-22T18:05:52.807Z"
 }
