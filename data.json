@@ -10573,6 +10573,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmucowwvr8aankp",
+      "createdAt": "2026-09-22T13:08:40.695Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "~Miguel Aroucha",
+      "contatoCliente": "+55 98 9135-3131",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10585,5 +10601,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T12:57:34.859Z"
+  "updatedAt": "2026-09-22T13:08:41.426Z"
 }
