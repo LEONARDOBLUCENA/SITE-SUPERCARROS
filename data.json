@@ -10766,6 +10766,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmud0p49z8ovjw6",
+      "createdAt": "2026-09-22T18:38:32.423Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "Tatiana Almeida Paganoto",
+      "contatoCliente": "55 31 8793-8664",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10778,5 +10794,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T18:37:20.570Z"
+  "updatedAt": "2026-09-22T18:38:33.170Z"
 }
