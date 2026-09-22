@@ -10509,6 +10509,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmucnsmh8eiuybe",
+      "createdAt": "2026-09-22T12:37:20.972Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "~Gabriela Silva",
+      "contatoCliente": "+55 31 8319-1309",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10521,5 +10537,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T12:36:27.441Z"
+  "updatedAt": "2026-09-22T12:37:21.408Z"
 }
