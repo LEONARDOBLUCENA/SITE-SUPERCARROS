@@ -10749,6 +10749,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmud0j178am0vv2",
+      "createdAt": "2026-09-22T18:33:48.500Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "~Fernanda Faria",
+      "contatoCliente": "+55 37 9161-7741",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10761,5 +10777,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T18:05:52.807Z"
+  "updatedAt": "2026-09-22T18:33:48.935Z"
 }
