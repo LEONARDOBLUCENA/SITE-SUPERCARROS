@@ -10365,6 +10365,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-09-22T12:21:55.426Z"
+    },
+    {
+      "id": "rmucnbi5ctfuuc3",
+      "createdAt": "2026-09-22T12:24:02.208Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "~franchesco murilo",
+      "contatoCliente": "+55 34 8842-4394",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10377,5 +10393,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T12:21:55.426Z"
+  "updatedAt": "2026-09-22T12:24:02.756Z"
 }
