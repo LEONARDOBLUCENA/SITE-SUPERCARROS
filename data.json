@@ -10685,6 +10685,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmucx0c3ab73viy",
+      "createdAt": "2026-09-22T16:55:17.302Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "~Silmara Panseri",
+      "contatoCliente": "+55 19 99704-1452",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10697,5 +10713,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T16:00:57.422Z"
+  "updatedAt": "2026-09-22T16:55:18.073Z"
 }
