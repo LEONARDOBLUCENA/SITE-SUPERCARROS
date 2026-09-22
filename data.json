@@ -10525,6 +10525,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmucnw05urixc2c",
+      "createdAt": "2026-09-22T12:39:58.674Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "Dand",
+      "contatoCliente": "+55 11 94765-7073",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10537,5 +10553,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T12:37:21.408Z"
+  "updatedAt": "2026-09-22T12:39:59.677Z"
 }
