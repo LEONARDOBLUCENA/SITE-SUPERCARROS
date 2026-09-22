@@ -10839,14 +10839,15 @@
       "nomeCliente": "Yzack Einner",
       "contatoCliente": "+55 67 8467-2293",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-22",
+      "valorVenda": "880.00",
+      "numeroPedido": "19143",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-22T20:20:59.163Z"
     },
     {
       "id": "rmud3nlxdez464e",
@@ -10875,5 +10876,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-22T20:01:21.427Z"
+  "updatedAt": "2026-09-22T20:20:59.164Z"
 }
