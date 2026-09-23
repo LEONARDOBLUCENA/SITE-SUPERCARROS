@@ -11114,7 +11114,7 @@
       "dataAtendimento": "2026-09-23",
       "nomeCliente": "Tatiele Santiago ",
       "contatoCliente": "+55 71 9292-3004",
-      "origem": "",
+      "origem": "Prime Gourmet",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -11122,7 +11122,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-23T16:37:39.435Z"
     },
     {
       "id": "rmue8ywu1mi9grq",
@@ -11235,5 +11236,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-23T16:11:20.627Z"
+  "updatedAt": "2026-09-23T16:37:39.435Z"
 }
