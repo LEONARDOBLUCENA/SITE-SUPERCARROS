@@ -11288,6 +11288,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmueccrljg0wg09",
+      "createdAt": "2026-09-23T16:52:37.687Z",
+      "dataAtendimento": "2026-09-23",
+      "nomeCliente": "Arlete De Brito Spi",
+      "contatoCliente": "(55) 99732-7833",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11300,5 +11316,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-23T16:47:21.804Z"
+  "updatedAt": "2026-09-23T16:52:38.686Z"
 }
