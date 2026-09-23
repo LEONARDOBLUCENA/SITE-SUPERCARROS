@@ -11306,6 +11306,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmueh8ospx3bv11",
+      "createdAt": "2026-09-23T19:09:25.513Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "Ale",
+      "contatoCliente": "+598 99 232 023",
+      "origem": "Evento",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "Venda online estrangeiro, drive + 2 caronas california + 1 ingresso ",
+      "dataVenda": "2026-09-22",
+      "valorVenda": "1491.50",
+      "numeroPedido": "1580",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -11318,5 +11334,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-23T18:01:13.471Z"
+  "updatedAt": "2026-09-23T19:09:26.359Z"
 }
