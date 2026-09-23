@@ -11224,6 +11224,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuebucvf3rcx4a",
+      "createdAt": "2026-09-23T16:38:18.795Z",
+      "dataAtendimento": "2026-09-23",
+      "nomeCliente": "Guilherme Souza Calegari",
+      "contatoCliente": "+55 62 9831-3549",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11236,5 +11252,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-23T16:37:39.435Z"
+  "updatedAt": "2026-09-23T16:38:19.855Z"
 }
