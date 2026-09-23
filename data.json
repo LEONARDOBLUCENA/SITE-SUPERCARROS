@@ -10936,14 +10936,15 @@
       "nomeCliente": "Andre",
       "contatoCliente": "+55 83 8690-9090",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-09-22",
+      "valorVenda": "290.00",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-23T02:05:08.388Z"
     },
     {
       "id": "rmudeaoi5u17bwf",
@@ -11020,5 +11021,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-23T01:56:02.187Z"
+  "updatedAt": "2026-09-23T02:05:08.388Z"
 }
