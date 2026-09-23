@@ -10912,6 +10912,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmude8h2aw7n0j3",
+      "createdAt": "2026-09-23T00:57:30.466Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "magno",
+      "contatoCliente": "+55 31 8759-3365",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10924,5 +10940,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-23T00:55:55.937Z"
+  "updatedAt": "2026-09-23T00:57:31.739Z"
 }
