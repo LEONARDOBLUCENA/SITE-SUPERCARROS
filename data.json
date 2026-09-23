@@ -10239,22 +10239,6 @@
       "vendedora": "bruna"
     },
     {
-      "id": "rmubiae5y9xfph9",
-      "createdAt": "2026-09-21T17:15:26.134Z",
-      "dataAtendimento": "2026-09-21",
-      "nomeCliente": "Jeane ",
-      "contatoCliente": "+55 85 9732-8625",
-      "origem": "Upgrade Site",
-      "statusAtendimento": "Em negociação",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "bruna"
-    },
-    {
       "id": "rmubmbexrdsfoon",
       "createdAt": "2026-09-21T19:08:12.255Z",
       "dataAtendimento": "2026-09-21",
@@ -11316,5 +11300,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-23T16:52:38.686Z"
+  "updatedAt": "2026-09-23T17:58:27.054Z"
 }
