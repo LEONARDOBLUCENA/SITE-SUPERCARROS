@@ -11009,6 +11009,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmudgpn3ee6ypn3",
+      "createdAt": "2026-09-23T02:06:50.666Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "ale",
+      "contatoCliente": "+598 99 232 023",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-22",
+      "valorVenda": "1570.00",
+      "numeroPedido": "ver como lançar",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -11021,5 +11037,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-23T02:05:08.388Z"
+  "updatedAt": "2026-09-23T02:06:51.503Z"
 }
