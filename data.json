@@ -11107,6 +11107,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmue8y73d8af930",
+      "createdAt": "2026-09-23T15:17:19.081Z",
+      "dataAtendimento": "2026-09-23",
+      "nomeCliente": "Tatiele Santiago ",
+      "contatoCliente": "+55 71 9292-3004",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11119,5 +11135,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-23T14:56:28.653Z"
+  "updatedAt": "2026-09-23T15:17:20.920Z"
 }
