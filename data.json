@@ -10976,6 +10976,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmudelt1h1roip1",
+      "createdAt": "2026-09-23T01:07:52.517Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "tati",
+      "contatoCliente": "+55 21 97235-1621",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10988,5 +11004,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-23T01:06:17.469Z"
+  "updatedAt": "2026-09-23T01:07:53.182Z"
 }
