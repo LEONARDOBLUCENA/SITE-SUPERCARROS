@@ -11339,6 +11339,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuei8b8ez3yehb",
+      "createdAt": "2026-09-23T19:37:07.550Z",
+      "dataAtendimento": "2026-09-19",
+      "nomeCliente": "Neia ",
+      "contatoCliente": "+55 61 9938-8855",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-19",
+      "valorVenda": "2261.00",
+      "numeroPedido": "19051",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11351,5 +11367,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-23T19:33:33.600Z"
+  "updatedAt": "2026-09-23T19:37:08.687Z"
 }
