@@ -10896,6 +10896,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmude6fpkl622nk",
+      "createdAt": "2026-09-23T00:55:55.400Z",
+      "dataAtendimento": "2026-09-22",
+      "nomeCliente": "ana Moura",
+      "contatoCliente": "+55 61 8486-0447",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -10908,5 +10924,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-23T00:53:40.238Z"
+  "updatedAt": "2026-09-23T00:55:55.937Z"
 }
