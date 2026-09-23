@@ -11191,6 +11191,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmueamri036mprw",
+      "createdAt": "2026-09-23T16:04:24.888Z",
+      "dataAtendimento": "2026-09-23",
+      "nomeCliente": "~Wellington Ferro",
+      "contatoCliente": "+55 19 99453-0652",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -11203,5 +11219,5 @@
       "updatedAt": "2026-09-21T12:22:57.519Z"
     }
   ],
-  "updatedAt": "2026-09-23T15:59:38.489Z"
+  "updatedAt": "2026-09-23T16:04:25.733Z"
 }
