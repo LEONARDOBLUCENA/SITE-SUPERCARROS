@@ -10713,15 +10713,16 @@
       "dataAtendimento": "2026-09-22",
       "nomeCliente": "~Maria Gabriela Colombo",
       "contatoCliente": "55 48 9153-6638",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-24",
+      "valorVenda": "170.00",
+      "numeroPedido": "19203",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-24T15:12:00.073Z"
     },
     {
       "id": "rmud0j178am0vv2",
@@ -11676,5 +11677,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T14:28:21.021Z"
+  "updatedAt": "2026-09-24T15:12:00.073Z"
 }
