@@ -11793,6 +11793,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufvf6p480bee0",
+      "createdAt": "2026-09-24T18:34:09.448Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Joisireny Alliny",
+      "contatoCliente": "+55 62 8564-8673 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11805,5 +11821,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T18:32:03.640Z"
+  "updatedAt": "2026-09-24T18:34:10.679Z"
 }
