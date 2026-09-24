@@ -11404,6 +11404,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufjz8qi2aj122",
+      "createdAt": "2026-09-24T13:13:49.818Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Junior Gomes ",
+      "contatoCliente": "+55 68 9963-0489",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11416,5 +11432,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:13:32.467Z"
+  "updatedAt": "2026-09-24T13:13:50.574Z"
 }
