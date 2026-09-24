@@ -11859,6 +11859,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmufx52b1ebo2pv",
+      "createdAt": "2026-09-24T19:22:16.429Z",
+      "dataAtendimento": "2026-09-06",
+      "nomeCliente": "Débora Cardoso De Araújo",
+      "contatoCliente": "(11) 98725-8076",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-24",
+      "valorVenda": "260.30",
+      "numeroPedido": "19215",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11871,5 +11887,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T19:14:50.589Z"
+  "updatedAt": "2026-09-24T19:22:17.198Z"
 }
