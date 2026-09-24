@@ -11566,6 +11566,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuflost34ktt4i",
+      "createdAt": "2026-09-24T14:01:41.847Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Kelly ",
+      "contatoCliente": "+55 71 9974-1407",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11578,5 +11594,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:56:04.575Z"
+  "updatedAt": "2026-09-24T14:01:43.458Z"
 }
