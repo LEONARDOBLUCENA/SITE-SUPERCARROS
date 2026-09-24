@@ -11501,6 +11501,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufk7cswzkvkvq",
+      "createdAt": "2026-09-24T13:20:08.336Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Margarida ",
+      "contatoCliente": "(22) 981021512",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11513,5 +11529,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:17:17.792Z"
+  "updatedAt": "2026-09-24T13:20:08.901Z"
 }
