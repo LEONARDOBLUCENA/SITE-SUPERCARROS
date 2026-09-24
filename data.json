@@ -11614,6 +11614,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuflq1ckbysey2",
+      "createdAt": "2026-09-24T14:02:39.572Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Eduardo Silva ",
+      "contatoCliente": "+55 63 9919-4912",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11626,5 +11642,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T14:02:23.441Z"
+  "updatedAt": "2026-09-24T14:02:41.135Z"
 }
