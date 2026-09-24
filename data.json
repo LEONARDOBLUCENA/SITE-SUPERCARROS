@@ -11706,14 +11706,15 @@
       "nomeCliente": "~Donir José Gahlen",
       "contatoCliente": "+55 54 8408-2137",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-24",
+      "valorVenda": "137.00",
+      "numeroPedido": "19211",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-24T18:50:01.202Z"
     },
     {
       "id": "rmufukpedwegjow",
@@ -11838,5 +11839,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T18:37:18.845Z"
+  "updatedAt": "2026-09-24T18:50:01.202Z"
 }
