@@ -11598,6 +11598,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuflpnux1vrxpk",
+      "createdAt": "2026-09-24T14:02:22.089Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Rodrigo Moreira ",
+      "contatoCliente": "+55 11 99206-2081",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11610,5 +11626,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T14:02:02.313Z"
+  "updatedAt": "2026-09-24T14:02:23.441Z"
 }
