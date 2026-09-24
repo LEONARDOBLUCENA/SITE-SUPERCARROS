@@ -11745,6 +11745,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmufup2xne2zm8y",
+      "createdAt": "2026-09-24T18:13:51.515Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "~Girlian Bello",
+      "contatoCliente": "+55 22 99722-8064",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -11757,5 +11773,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T18:12:18.996Z"
+  "updatedAt": "2026-09-24T18:13:52.700Z"
 }
