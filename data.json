@@ -11420,6 +11420,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufk04oh2wvl9e",
+      "createdAt": "2026-09-24T13:14:31.217Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Cássio Dorfschmidt",
+      "contatoCliente": "+55 45 9957-9712 ",
+      "origem": "Hard Rock",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11432,5 +11448,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:13:50.574Z"
+  "updatedAt": "2026-09-24T13:14:32.021Z"
 }
