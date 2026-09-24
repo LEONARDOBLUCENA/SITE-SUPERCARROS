@@ -11436,6 +11436,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufk0ldz5h4juj",
+      "createdAt": "2026-09-24T13:14:52.871Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Nilton ",
+      "contatoCliente": "+55 82 8815-3040",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11448,5 +11464,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:14:32.021Z"
+  "updatedAt": "2026-09-24T13:14:53.522Z"
 }
