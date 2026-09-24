@@ -7014,11 +7014,11 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-24",
-      "valorVenda": "",
-      "numeroPedido": "",
+      "valorVenda": "1117.00",
+      "numeroPedido": "19213",
       "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-24T18:37:18.845Z"
+      "updatedAt": "2026-09-24T18:52:47.147Z"
     },
     {
       "id": "rmu2nq0fopvp5ls",
@@ -11855,5 +11855,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T18:50:50.315Z"
+  "updatedAt": "2026-09-24T18:52:47.147Z"
 }
