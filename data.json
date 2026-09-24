@@ -11388,6 +11388,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufjyudhl4h24u",
+      "createdAt": "2026-09-24T13:13:31.205Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Sebatian ",
+      "contatoCliente": "+598 95 499 267",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11400,5 +11416,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:13:17.845Z"
+  "updatedAt": "2026-09-24T13:13:32.467Z"
 }
