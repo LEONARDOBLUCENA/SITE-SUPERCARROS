@@ -11453,6 +11453,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufk2pjvd1kqk3",
+      "createdAt": "2026-09-24T13:16:31.579Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Igor Rodrigues ",
+      "contatoCliente": "+55 61 8618-8412",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11465,5 +11481,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:15:21.117Z"
+  "updatedAt": "2026-09-24T13:16:32.533Z"
 }
