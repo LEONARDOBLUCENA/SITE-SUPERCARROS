@@ -11843,6 +11843,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmufwvhyaajo2mh",
+      "createdAt": "2026-09-24T19:14:50.146Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "lg",
+      "contatoCliente": "+55 67 8145-0225",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -11855,5 +11871,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T18:52:47.147Z"
+  "updatedAt": "2026-09-24T19:14:50.589Z"
 }
