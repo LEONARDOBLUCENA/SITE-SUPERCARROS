@@ -11681,6 +11681,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmufu6r33cebxgx",
+      "createdAt": "2026-09-24T17:59:36.351Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Ingrid Urias ",
+      "contatoCliente": "+55 86 9540-3900",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11693,5 +11709,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T16:45:14.979Z"
+  "updatedAt": "2026-09-24T17:59:38.817Z"
 }
