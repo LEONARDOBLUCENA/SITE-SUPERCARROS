@@ -11827,6 +11827,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufw0mlsco98ml",
+      "createdAt": "2026-09-24T18:50:49.840Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Monise",
+      "contatoCliente": "+55 22 98150-9369",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -11839,5 +11855,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T18:50:01.202Z"
+  "updatedAt": "2026-09-24T18:50:50.315Z"
 }
