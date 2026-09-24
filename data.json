@@ -10245,14 +10245,15 @@
       "nomeCliente": "Gabriela R. Souza",
       "contatoCliente": "+55 15 99829-1694",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-24",
+      "valorVenda": "1029.50",
+      "numeroPedido": "19183",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-24T11:32:42.719Z"
     },
     {
       "id": "rmubpgpq8bz2rvj",
@@ -11367,5 +11368,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-23T19:37:08.687Z"
+  "updatedAt": "2026-09-24T11:32:42.719Z"
 }
