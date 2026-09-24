@@ -10050,14 +10050,15 @@
       "nomeCliente": "Ricardo ",
       "contatoCliente": "+55 11 98337-1213",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-24",
+      "valorVenda": "1776.50",
+      "numeroPedido": "19199",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-24T14:28:21.021Z"
     },
     {
       "id": "rmuba06gfghyouo",
@@ -11675,5 +11676,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T14:09:49.486Z"
+  "updatedAt": "2026-09-24T14:28:21.021Z"
 }
