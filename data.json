@@ -11729,6 +11729,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmufun2uxilh2wf",
+      "createdAt": "2026-09-24T18:12:18.105Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "~Indira Amorim",
+      "contatoCliente": "+55 86 9962-9999",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -11741,5 +11757,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T18:10:27.902Z"
+  "updatedAt": "2026-09-24T18:12:18.996Z"
 }
