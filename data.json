@@ -11356,6 +11356,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufgk18y44yvcw",
+      "createdAt": "2026-09-24T11:38:01.426Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Marlon Dombrovski Saurin",
+      "contatoCliente": "(49) 98843-7029",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-24",
+      "valorVenda": "76.00",
+      "numeroPedido": "19185",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11368,5 +11384,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T11:32:42.719Z"
+  "updatedAt": "2026-09-24T11:38:02.736Z"
 }
