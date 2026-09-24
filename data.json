@@ -11533,6 +11533,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufl23g38rjdak",
+      "createdAt": "2026-09-24T13:44:02.547Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Wagner Mateus Gonçalves Lemes",
+      "contatoCliente": "(12) 98280-7146",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-24",
+      "valorVenda": "161.37",
+      "numeroPedido": "19193",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11545,5 +11561,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:32:06.574Z"
+  "updatedAt": "2026-09-24T13:44:03.464Z"
 }
