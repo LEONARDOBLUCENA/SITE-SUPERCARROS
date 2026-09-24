@@ -7008,16 +7008,17 @@
       "vendedora": "gisele",
       "createdAt": "2026-09-15T12:36:56.706Z",
       "dataAtendimento": "2026-09-15",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "Firmino Daros",
       "contatoCliente": "+55 54 8125-7095",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-09-24",
       "valorVenda": "",
       "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-24T18:37:18.845Z"
     },
     {
       "id": "rmu2nq0fopvp5ls",
@@ -11837,5 +11838,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T18:34:47.280Z"
+  "updatedAt": "2026-09-24T18:37:18.845Z"
 }
