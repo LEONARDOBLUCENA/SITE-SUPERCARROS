@@ -11540,7 +11540,7 @@
       "dataAtendimento": "2026-09-24",
       "nomeCliente": "Wagner Mateus Gonçalves Lemes",
       "contatoCliente": "(12) 98280-7146",
-      "origem": "Prime Gourmet",
+      "origem": "Cara de Mau",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-24",
@@ -11548,7 +11548,8 @@
       "numeroPedido": "19193",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-24T13:44:20.869Z"
     }
   ],
   "siteVendas": [
@@ -11561,5 +11562,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:44:03.464Z"
+  "updatedAt": "2026-09-24T13:44:20.869Z"
 }
