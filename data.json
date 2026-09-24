@@ -11485,6 +11485,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufk3o7f2f5kx0",
+      "createdAt": "2026-09-24T13:17:16.491Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Emmanuel Souza ",
+      "contatoCliente": "+55 85 9178-7657",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11497,5 +11513,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:16:52.799Z"
+  "updatedAt": "2026-09-24T13:17:17.792Z"
 }
