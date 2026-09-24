@@ -11631,6 +11631,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuflyxhshh928h",
+      "createdAt": "2026-09-24T14:09:34.480Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Walisson ",
+      "contatoCliente": "+55 31 7175-4508",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11643,5 +11659,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T14:07:01.129Z"
+  "updatedAt": "2026-09-24T14:09:35.449Z"
 }
