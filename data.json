@@ -11550,6 +11550,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-09-24T13:44:20.869Z"
+    },
+    {
+      "id": "rmuflhjzet3cfz0",
+      "createdAt": "2026-09-24T13:56:03.818Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Gleice Carvalho ",
+      "contatoCliente": "+55 31 8513-0812",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-24",
+      "valorVenda": "137.00",
+      "numeroPedido": "19195 ",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11562,5 +11578,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:44:20.869Z"
+  "updatedAt": "2026-09-24T13:56:04.575Z"
 }
