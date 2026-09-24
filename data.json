@@ -11469,6 +11469,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufk35gqnw40e3",
+      "createdAt": "2026-09-24T13:16:52.202Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "Samanta Carmo ",
+      "contatoCliente": "+55 21 96750-0368",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -11481,5 +11497,5 @@
       "updatedAt": "2026-09-23T16:47:21.804Z"
     }
   ],
-  "updatedAt": "2026-09-24T13:16:32.533Z"
+  "updatedAt": "2026-09-24T13:16:52.799Z"
 }
