@@ -11697,6 +11697,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmufuk2bh44fc3j",
+      "createdAt": "2026-09-24T18:09:57.437Z",
+      "dataAtendimento": "2026-09-24",
+      "nomeCliente": "~Donir José Gahlen",
+      "contatoCliente": "+55 54 8408-2137",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -11709,5 +11725,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T17:59:38.817Z"
+  "updatedAt": "2026-09-24T18:09:58.435Z"
 }
