@@ -12206,7 +12206,7 @@
     {
       "id": "rmuh7edl4s08loj",
       "createdAt": "2026-09-25T16:57:13.288Z",
-      "dataAtendimento": "2026-09-25",
+      "dataAtendimento": "2026-09-22",
       "nomeCliente": "Miguel Aroucha Rabelo Dionísio",
       "contatoCliente": "(55) 9891-3531",
       "origem": "Evento",
@@ -12217,7 +12217,8 @@
       "numeroPedido": "19133",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-25T16:57:47.918Z"
     }
   ],
   "siteVendas": [
@@ -12230,5 +12231,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T16:57:14.317Z"
+  "updatedAt": "2026-09-25T16:57:47.918Z"
 }
