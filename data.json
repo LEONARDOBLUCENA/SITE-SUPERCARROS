@@ -11988,6 +11988,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmugy18ghwwum4e",
+      "createdAt": "2026-09-25T12:35:03.569Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Ana Paula ",
+      "contatoCliente": "+55 31 9238-5015",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12000,5 +12016,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T12:34:42.567Z"
+  "updatedAt": "2026-09-25T12:35:04.458Z"
 }
