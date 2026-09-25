@@ -12054,6 +12054,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuh2dz7nbcdywy",
+      "createdAt": "2026-09-25T14:36:56.579Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "~Francine",
+      "contatoCliente": "+55 47 9663-3027",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12066,5 +12082,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T14:25:30.971Z"
+  "updatedAt": "2026-09-25T14:36:57.303Z"
 }
