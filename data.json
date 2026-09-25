@@ -12370,6 +12370,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuhbgkcvjw9xmu",
+      "createdAt": "2026-09-25T18:50:53.839Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Amaury",
+      "contatoCliente": "+55 81 8335-9683",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12382,5 +12398,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T18:33:21.819Z"
+  "updatedAt": "2026-09-25T18:50:56.014Z"
 }
