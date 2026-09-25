@@ -2429,7 +2429,7 @@
       "dataAtendimento": "2026-09-07",
       "nomeCliente": "Francisco Fernandez",
       "contatoCliente": "+598 93 713 665 ",
-      "origem": "Outro",
+      "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "Drive de Camaro SS #2 + 1 Carona",
       "dataVenda": "2026-09-09",
@@ -2437,7 +2437,7 @@
       "numeroPedido": "1572 Online ",
       "statusPagamento": "Pago",
       "observacao": "Estrangeiro ",
-      "updatedAt": "2026-09-09T18:45:04.831Z"
+      "updatedAt": "2026-09-25T16:58:33.393Z"
     },
     {
       "id": "rmtufc3vfoqke4x",
@@ -12231,5 +12231,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T16:57:47.918Z"
+  "updatedAt": "2026-09-25T16:58:33.393Z"
 }
