@@ -12037,6 +12037,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmugzm9apjmccw3",
+      "createdAt": "2026-09-25T13:19:24.049Z",
+      "dataAtendimento": "2026-09-23",
+      "nomeCliente": "Davi Pinheiro Duarte",
+      "contatoCliente": "85) 99151-6276",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-25",
+      "valorVenda": "600.00",
+      "numeroPedido": "19239",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12049,5 +12065,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T12:50:39.655Z"
+  "updatedAt": "2026-09-25T13:19:24.962Z"
 }
