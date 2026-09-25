@@ -12004,6 +12004,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmugy1s1lvm6z90",
+      "createdAt": "2026-09-25T12:35:28.953Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Nicolly Franco ",
+      "contatoCliente": "+55 51 8545-9398",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Já possui voucher da Gav",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12016,5 +12032,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T12:35:04.458Z"
+  "updatedAt": "2026-09-25T12:35:30.104Z"
 }
