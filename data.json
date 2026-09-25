@@ -12402,6 +12402,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuhe1ql7c1355z",
+      "createdAt": "2026-09-25T20:03:20.923Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "marluci",
+      "contatoCliente": "+55 51 9364-9602",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12414,5 +12430,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T19:01:13.787Z"
+  "updatedAt": "2026-09-25T20:03:21.529Z"
 }
