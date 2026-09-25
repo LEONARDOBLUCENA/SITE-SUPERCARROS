@@ -9320,7 +9320,7 @@
       "dataAtendimento": "2026-09-19",
       "nomeCliente": "Claudia Ferreira ",
       "contatoCliente": "+55 44 9756-7257",
-      "origem": "",
+      "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-19",
@@ -9328,7 +9328,8 @@
       "numeroPedido": "1577",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-25T16:59:11.496Z"
     },
     {
       "id": "rmu8k0dxer7dosg",
@@ -12232,5 +12233,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:00:17.689Z"
+  "updatedAt": "2026-09-25T16:59:11.496Z"
 }
