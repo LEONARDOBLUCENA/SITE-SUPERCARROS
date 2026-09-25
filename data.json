@@ -3335,14 +3335,15 @@
       "dataAtendimento": "2026-09-07",
       "nomeCliente": "Madu Nascimento ",
       "contatoCliente": "+55 24 99246-4592",
-      "origem": "",
-      "statusAtendimento": "Em negociação",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-09-25",
+      "valorVenda": "256.50",
+      "numeroPedido": "19237",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-09-25T12:50:39.655Z"
     },
     {
       "id": "rmtuj76j3cgedfd",
@@ -12048,5 +12049,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T12:36:52.686Z"
+  "updatedAt": "2026-09-25T12:50:39.655Z"
 }
