@@ -12241,6 +12241,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuh7w3c37fxojb",
+      "createdAt": "2026-09-25T17:10:59.811Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Carla Tende ",
+      "contatoCliente": "+55 51 9170-8184",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Já possui voucher das Fotos para o passeio ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12253,5 +12269,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:09:11.899Z"
+  "updatedAt": "2026-09-25T17:11:00.538Z"
 }
