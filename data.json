@@ -11915,17 +11915,18 @@
       "id": "rmugxznsds3ptkj",
       "createdAt": "2026-09-25T12:33:50.125Z",
       "dataAtendimento": "2026-09-25",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Corinne Gurrola",
       "contatoCliente": "+52 1 56 2426 7823",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Evento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-25",
+      "valorVenda": "1570.00",
+      "numeroPedido": "1581",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-25T16:55:15.362Z"
     },
     {
       "id": "rmugxzx1piw1hnd",
@@ -12197,5 +12198,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T16:52:24.060Z"
+  "updatedAt": "2026-09-25T16:55:15.362Z"
 }
