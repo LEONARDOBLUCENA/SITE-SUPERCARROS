@@ -12499,6 +12499,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuhgteh2mbtdpf",
+      "createdAt": "2026-09-25T21:20:50.822Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "mauricio mendes",
+      "contatoCliente": "+55 55 8123-9111",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12511,5 +12527,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T21:17:50.251Z"
+  "updatedAt": "2026-09-25T21:20:51.448Z"
 }
