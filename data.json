@@ -11887,9 +11887,9 @@
       "id": "rmugxz9uy98cqt7",
       "createdAt": "2026-09-25T12:33:32.074Z",
       "dataAtendimento": "2026-09-25",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Duda Mendes ",
       "contatoCliente": "+55 21 99620-4662",
-      "origem": "",
+      "origem": "Prime Gourmet",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -11897,7 +11897,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-25T17:08:07.409Z"
     },
     {
       "id": "rmugxznsds3ptkj",
@@ -12236,5 +12237,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:09:06.397Z"
+  "updatedAt": "2026-09-25T17:08:07.409Z"
 }
