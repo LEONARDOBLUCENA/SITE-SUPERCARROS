@@ -12118,6 +12118,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuh3yq0cnz4uid",
+      "createdAt": "2026-09-25T15:21:04.044Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "mateus braga",
+      "contatoCliente": "+55 75 8868-1020",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12130,5 +12146,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T15:20:04.271Z"
+  "updatedAt": "2026-09-25T15:21:05.084Z"
 }
