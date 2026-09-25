@@ -12483,6 +12483,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuhgpild957i1m",
+      "createdAt": "2026-09-25T21:17:49.537Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "carol",
+      "contatoCliente": "+55 41 9871-2084",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12495,5 +12511,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T20:58:06.287Z"
+  "updatedAt": "2026-09-25T21:17:50.251Z"
 }
