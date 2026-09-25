@@ -12186,6 +12186,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-09-25T16:52:24.060Z"
+    },
+    {
+      "id": "rmuh7eq6yxc7cq5",
+      "createdAt": "2026-09-25T16:57:29.626Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Lucia jardel",
+      "contatoCliente": "+55 54 9990-7252",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12198,5 +12214,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T16:55:15.362Z"
+  "updatedAt": "2026-09-25T16:57:30.401Z"
 }
