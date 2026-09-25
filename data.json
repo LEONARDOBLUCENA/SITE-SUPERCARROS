@@ -4152,22 +4152,6 @@
       "observacao": ""
     },
     {
-      "id": "rmtvk2fbt6ovct0",
-      "vendedora": "bruna",
-      "createdAt": "2026-09-10T13:20:54.809Z",
-      "dataAtendimento": "2026-09-10",
-      "nomeCliente": "Sem nome ",
-      "contatoCliente": "+55 91 8296-8520",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
-    },
-    {
       "id": "rmtvlplqc5k4075",
       "vendedora": "bruna",
       "createdAt": "2026-09-10T14:06:55.812Z",
@@ -12194,5 +12178,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T16:32:41.790Z"
+  "updatedAt": "2026-09-25T16:51:02.936Z"
 }
