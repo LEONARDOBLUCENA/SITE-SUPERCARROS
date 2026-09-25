@@ -12257,6 +12257,22 @@
       "statusPagamento": "",
       "observacao": "Já possui voucher das Fotos para o passeio ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuh7wisfoqictb",
+      "createdAt": "2026-09-25T17:11:19.839Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Grace Kelly ",
+      "contatoCliente": "+55 77 8822-8819",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12269,5 +12285,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:11:00.538Z"
+  "updatedAt": "2026-09-25T17:11:20.834Z"
 }
