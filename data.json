@@ -11819,14 +11819,15 @@
       "nomeCliente": "Julio ",
       "contatoCliente": "+55 53 9958-6974",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-25",
+      "valorVenda": "608.00",
+      "numeroPedido": "19227",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-25T12:26:56.153Z"
     },
     {
       "id": "rmufw0mlsco98ml",
@@ -11919,5 +11920,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-24T22:05:53.415Z"
+  "updatedAt": "2026-09-25T12:26:56.153Z"
 }
