@@ -12202,6 +12202,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuh7edl4s08loj",
+      "createdAt": "2026-09-25T16:57:13.288Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Miguel Aroucha Rabelo Dionísio",
+      "contatoCliente": "(55) 9891-3531",
+      "origem": "Evento",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-22",
+      "valorVenda": "290.00",
+      "numeroPedido": "19133",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12214,5 +12230,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T16:57:30.401Z"
+  "updatedAt": "2026-09-25T16:57:14.317Z"
 }
