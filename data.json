@@ -12322,6 +12322,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-09-25T17:34:51.800Z"
+    },
+    {
+      "id": "rmuh8scdsa41jjg",
+      "createdAt": "2026-09-25T17:36:04.528Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Vanessa",
+      "contatoCliente": "+55 21 99171-0516",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "upgrade da compra 19139 ",
+      "dataVenda": "2026-06-25",
+      "valorVenda": "126.00",
+      "numeroPedido": "19269",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12334,5 +12350,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:34:51.800Z"
+  "updatedAt": "2026-09-25T17:36:05.562Z"
 }
