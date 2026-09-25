@@ -12086,6 +12086,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuh2xn7jdbbd9y",
+      "createdAt": "2026-09-25T14:52:14.143Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Juliano Facury",
+      "contatoCliente": "+55 79 9972-7604",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12098,5 +12114,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T14:48:57.899Z"
+  "updatedAt": "2026-09-25T14:52:15.026Z"
 }
