@@ -8157,14 +8157,15 @@
       "nomeCliente": "Leo ",
       "contatoCliente": "+55 21 99276-6775",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-25",
+      "valorVenda": "500.00",
+      "numeroPedido": "19245",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-25T14:25:30.971Z"
     },
     {
       "id": "rmu5itvvec0g2ab",
@@ -12065,5 +12066,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T13:19:24.962Z"
+  "updatedAt": "2026-09-25T14:25:30.971Z"
 }
