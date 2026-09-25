@@ -9304,7 +9304,7 @@
       "dataAtendimento": "2026-09-19",
       "nomeCliente": "Pedro Henrique ",
       "contatoCliente": "(55) 9215-7312",
-      "origem": "",
+      "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-19",
@@ -9312,7 +9312,8 @@
       "numeroPedido": "1576",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-25T17:00:31.248Z"
     },
     {
       "id": "rmu8iky83dhrf0e",
@@ -12233,5 +12234,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T16:59:11.496Z"
+  "updatedAt": "2026-09-25T17:00:31.248Z"
 }
