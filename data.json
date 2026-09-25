@@ -12070,6 +12070,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuh2tfc0h7z87g",
+      "createdAt": "2026-09-25T14:48:57.312Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Leonardo Cunha Haensch",
+      "contatoCliente": "+55 48 9671-5055",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12082,5 +12098,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T14:36:57.303Z"
+  "updatedAt": "2026-09-25T14:48:57.899Z"
 }
