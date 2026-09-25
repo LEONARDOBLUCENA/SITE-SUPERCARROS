@@ -12289,6 +12289,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuh7xj2zmuubww",
+      "createdAt": "2026-09-25T17:12:06.875Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Henrique Gabriel ",
+      "contatoCliente": "+55 54 9221-5899",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12301,5 +12317,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:11:52.132Z"
+  "updatedAt": "2026-09-25T17:12:08.141Z"
 }
