@@ -11292,7 +11292,7 @@
       "dataAtendimento": "2026-09-22",
       "nomeCliente": "Ale",
       "contatoCliente": "+598 99 232 023",
-      "origem": "",
+      "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "Venda online estrangeiro, drive + 2 caronas california + 1 ingresso ",
       "dataVenda": "2026-09-22",
@@ -11301,7 +11301,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-23T19:16:35.720Z"
+      "updatedAt": "2026-09-25T17:05:10.784Z"
     },
     {
       "id": "rmuei3pens4jggd",
@@ -12219,5 +12219,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:04:59.760Z"
+  "updatedAt": "2026-09-25T17:05:10.784Z"
 }
