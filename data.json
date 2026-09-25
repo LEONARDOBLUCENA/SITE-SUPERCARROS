@@ -12179,11 +12179,12 @@
       "dataVenda": "2026-09-25",
       "valorVenda": "290.70",
       "numeroPedido": "19259",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-09-25T16:52:24.060Z"
     }
   ],
   "siteVendas": [
@@ -12196,5 +12197,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T16:52:08.163Z"
+  "updatedAt": "2026-09-25T16:52:24.060Z"
 }
