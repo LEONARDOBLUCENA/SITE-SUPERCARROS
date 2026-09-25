@@ -12338,6 +12338,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuh928pzqj8wb9",
+      "createdAt": "2026-09-25T17:43:46.343Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Janaína Nunes ",
+      "contatoCliente": "+55 47 9993-2981",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12350,5 +12366,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:36:05.562Z"
+  "updatedAt": "2026-09-25T17:43:47.194Z"
 }
