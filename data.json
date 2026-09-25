@@ -12166,6 +12166,24 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuh77tgmmoe1zl",
+      "createdAt": "2026-09-25T16:52:07.270Z",
+      "dataAtendimento": "2026-09-10",
+      "nomeCliente": "Antonio Marcos Fontes De Castelo Branco",
+      "contatoCliente": "(91) 98296-8520",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-25",
+      "valorVenda": "290.70",
+      "numeroPedido": "19259",
+      "statusPagamento": "",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -12178,5 +12196,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T16:51:02.936Z"
+  "updatedAt": "2026-09-25T16:52:08.163Z"
 }
