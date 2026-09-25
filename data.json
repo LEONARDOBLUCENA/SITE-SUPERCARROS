@@ -12450,6 +12450,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuhewyqebohjpl",
+      "createdAt": "2026-09-25T20:27:37.814Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "tati",
+      "contatoCliente": "+55 16 99171-9860",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12462,5 +12478,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T20:27:08.188Z"
+  "updatedAt": "2026-09-25T20:27:38.529Z"
 }
