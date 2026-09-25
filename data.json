@@ -10187,7 +10187,7 @@
       "dataAtendimento": "2026-09-21",
       "nomeCliente": "Pablo Perez",
       "contatoCliente": "+598 98 704 228",
-      "origem": "",
+      "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-21",
@@ -10195,7 +10195,8 @@
       "numeroPedido": "1579",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-25T17:01:08.149Z"
     },
     {
       "id": "rmubgtqrg8rn3cr",
@@ -12234,5 +12235,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:00:31.248Z"
+  "updatedAt": "2026-09-25T17:01:08.149Z"
 }
