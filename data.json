@@ -12354,6 +12354,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuhau039b5c3p4",
+      "createdAt": "2026-09-25T18:33:21.141Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Elisangela Bomfim",
+      "contatoCliente": "+55 73 9860-5622",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-25",
+      "valorVenda": "99.00",
+      "numeroPedido": "19271",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12366,5 +12382,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:43:47.194Z"
+  "updatedAt": "2026-09-25T18:33:21.819Z"
 }
