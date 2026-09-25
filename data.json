@@ -12531,6 +12531,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuhhs3cvz5z38p",
+      "createdAt": "2026-09-25T21:47:49.375Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Castelanii",
+      "contatoCliente": "+55 19 98769-7823",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12543,5 +12559,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T21:34:34.310Z"
+  "updatedAt": "2026-09-25T21:47:50.218Z"
 }
