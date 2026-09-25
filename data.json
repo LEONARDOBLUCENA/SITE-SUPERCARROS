@@ -6194,7 +6194,7 @@
       "dataAtendimento": "2026-09-13",
       "nomeCliente": "~Ian Singlan✈️",
       "contatoCliente": "+598 94 411 310",
-      "origem": "Outro",
+      "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-14",
@@ -6204,7 +6204,7 @@
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "compartilhado": true,
       "vendedoraFinalizou": "bruna",
-      "updatedAt": "2026-09-14T12:34:35.000Z"
+      "updatedAt": "2026-09-25T17:09:06.397Z"
     },
     {
       "id": "rmu09oi0nrat6ux",
@@ -12236,5 +12236,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:07:23.879Z"
+  "updatedAt": "2026-09-25T17:09:06.397Z"
 }
