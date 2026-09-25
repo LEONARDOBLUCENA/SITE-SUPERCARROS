@@ -12208,6 +12208,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-09-25T16:57:47.918Z"
+    },
+    {
+      "id": "rmuh7rfplwicm61",
+      "createdAt": "2026-09-25T17:07:22.569Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 22 98817-6272",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12220,5 +12236,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-25T17:05:46.614Z"
+  "updatedAt": "2026-09-25T17:07:23.879Z"
 }
