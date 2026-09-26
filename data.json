@@ -12809,6 +12809,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuios1pqapur5k",
+      "createdAt": "2026-09-26T17:51:30.734Z",
+      "dataAtendimento": "2026-09-26",
+      "nomeCliente": "~Felipe Marcel",
+      "contatoCliente": "+55 31 8826-0302",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12821,5 +12837,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T16:51:04.563Z"
+  "updatedAt": "2026-09-26T17:51:31.229Z"
 }
