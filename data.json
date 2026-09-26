@@ -12733,7 +12733,7 @@
       "id": "rmuijyadqwx5p11",
       "createdAt": "2026-09-26T15:36:23.822Z",
       "dataAtendimento": "2026-09-26",
-      "nomeCliente": "b",
+      "nomeCliente": "Bruno Aquino ",
       "contatoCliente": "+55 51 8560-7267",
       "origem": "",
       "statusAtendimento": "Pedido finalizado",
@@ -12744,7 +12744,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-26T16:31:15.497Z"
+      "updatedAt": "2026-09-26T16:42:43.520Z"
     },
     {
       "id": "rmuijys4fpu6xqs",
@@ -12805,5 +12805,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T16:31:15.497Z"
+  "updatedAt": "2026-09-26T16:42:43.521Z"
 }
