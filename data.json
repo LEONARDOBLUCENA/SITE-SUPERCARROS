@@ -12071,13 +12071,13 @@
       "origem": "",
       "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "2026-06-25",
+      "dataVenda": "2026-09-25",
       "valorVenda": "99.00",
       "numeroPedido": "19261",
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-25T20:34:02.303Z"
+      "updatedAt": "2026-09-26T15:57:54.342Z"
     },
     {
       "id": "rmuh3yq0cnz4uid",
@@ -12788,5 +12788,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T15:57:43.845Z"
+  "updatedAt": "2026-09-26T15:57:54.342Z"
 }
