@@ -12666,7 +12666,7 @@
       "dataAtendimento": "2026-09-26",
       "nomeCliente": "Rubio",
       "contatoCliente": "+55 83 9654-3358",
-      "origem": "",
+      "origem": "Cara de Mau",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -12674,7 +12674,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-26T11:50:33.119Z"
     }
   ],
   "siteVendas": [
@@ -12687,5 +12688,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T11:48:23.150Z"
+  "updatedAt": "2026-09-26T11:50:33.119Z"
 }
