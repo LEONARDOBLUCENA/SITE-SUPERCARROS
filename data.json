@@ -10625,14 +10625,15 @@
       "nomeCliente": "junior",
       "contatoCliente": "+55 54 9669-6611",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-26",
+      "valorVenda": "580.00",
+      "numeroPedido": "19299",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-26T14:38:55.646Z"
     },
     {
       "id": "rmucv2gb7iomwph",
@@ -12722,5 +12723,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T14:31:38.512Z"
+  "updatedAt": "2026-09-26T14:38:55.646Z"
 }
