@@ -12965,15 +12965,15 @@
       "nomeCliente": "~Fadwa Taha",
       "contatoCliente": "+55 41 8488-6836",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-26",
       "valorVenda": "440.00",
-      "numeroPedido": "",
-      "statusPagamento": "Pendente",
+      "numeroPedido": "19319",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-26T21:38:41.902Z"
+      "updatedAt": "2026-09-26T21:50:01.473Z"
     }
   ],
   "siteVendas": [
@@ -12986,5 +12986,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T21:38:41.902Z"
+  "updatedAt": "2026-09-26T21:50:01.474Z"
 }
