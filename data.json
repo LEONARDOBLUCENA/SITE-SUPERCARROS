@@ -12318,12 +12318,13 @@
       "origem": "Upgrade Site",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "upgrade da compra 19139 ",
-      "dataVenda": "2026-06-25",
+      "dataVenda": "2026-09-25",
       "valorVenda": "126.00",
       "numeroPedido": "19269",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-26T15:57:43.845Z"
     },
     {
       "id": "rmuh928pzqj8wb9",
@@ -12787,5 +12788,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T15:36:59.690Z"
+  "updatedAt": "2026-09-26T15:57:43.845Z"
 }
