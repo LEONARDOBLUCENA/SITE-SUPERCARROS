@@ -12711,6 +12711,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuii0yn69m07el",
+      "createdAt": "2026-09-26T14:42:29.346Z",
+      "dataAtendimento": "2026-09-26",
+      "nomeCliente": "~Rhyan Nogueira",
+      "contatoCliente": "+55 88 9909-7797",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12723,5 +12739,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T14:38:55.646Z"
+  "updatedAt": "2026-09-26T14:42:29.957Z"
 }
