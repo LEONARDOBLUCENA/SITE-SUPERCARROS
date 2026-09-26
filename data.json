@@ -12579,6 +12579,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuhs9p1gww7fz1",
+      "createdAt": "2026-09-26T02:41:26.788Z",
+      "dataAtendimento": "2026-09-25",
+      "nomeCliente": "Larissa leite",
+      "contatoCliente": "+55 71 9137-3641",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "13943",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12591,5 +12607,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T01:16:56.562Z"
+  "updatedAt": "2026-09-26T02:41:27.748Z"
 }
