@@ -12957,6 +12957,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuiwc6onozjzma",
+      "createdAt": "2026-09-26T21:23:07.607Z",
+      "dataAtendimento": "2026-09-26",
+      "nomeCliente": "~Fadwa Taha",
+      "contatoCliente": "+55 41 8488-6836",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12969,5 +12985,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T21:21:06.334Z"
+  "updatedAt": "2026-09-26T21:23:08.793Z"
 }
