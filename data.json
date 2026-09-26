@@ -12743,6 +12743,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuijys4fpu6xqs",
+      "createdAt": "2026-09-26T15:36:46.815Z",
+      "dataAtendimento": "2026-09-26",
+      "nomeCliente": "~~ Lisa Chaves",
+      "contatoCliente": "+55 51 9607-7255",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12755,5 +12771,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T15:36:24.338Z"
+  "updatedAt": "2026-09-26T15:36:47.904Z"
 }
