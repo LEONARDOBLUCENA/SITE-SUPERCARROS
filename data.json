@@ -12627,6 +12627,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuia579y5rsnly",
+      "createdAt": "2026-09-26T11:01:50.230Z",
+      "dataAtendimento": "2026-09-26",
+      "nomeCliente": "Pedro Henrique ",
+      "contatoCliente": "+55 62 99113-1513",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -12639,5 +12655,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T10:58:46.291Z"
+  "updatedAt": "2026-09-26T11:01:51.682Z"
 }
