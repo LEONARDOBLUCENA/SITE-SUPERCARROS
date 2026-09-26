@@ -12793,6 +12793,22 @@
       "statusPagamento": "",
       "observacao": "Tem o Combo de 137,00 ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuimmb5vm7zdmo",
+      "createdAt": "2026-09-26T16:51:03.811Z",
+      "dataAtendimento": "2026-09-26",
+      "nomeCliente": "~Indira Amorim",
+      "contatoCliente": "+55 86 9962-9999",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-26",
+      "valorVenda": "460.00",
+      "numeroPedido": "19307",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -12805,5 +12821,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-26T16:42:43.521Z"
+  "updatedAt": "2026-09-26T16:51:04.563Z"
 }
