@@ -13316,6 +13316,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-09-27T18:18:20.389Z"
+    },
+    {
+      "id": "rmuk7jqoirxbvmr",
+      "createdAt": "2026-09-27T19:24:42.066Z",
+      "dataAtendimento": "2026-09-27",
+      "nomeCliente": "Wellington Soares",
+      "contatoCliente": "55 21 99903-7769",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13328,5 +13344,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-27T18:18:20.389Z"
+  "updatedAt": "2026-09-27T19:24:42.672Z"
 }
