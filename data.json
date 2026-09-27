@@ -13251,6 +13251,22 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmuk4kwb4w9ipqo",
+      "createdAt": "2026-09-27T18:01:37.168Z",
+      "dataAtendimento": "2026-09-27",
+      "nomeCliente": "Míriam Batista Bittencort",
+      "contatoCliente": "55 33 8412-6551",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13263,5 +13279,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-27T18:01:20.868Z"
+  "updatedAt": "2026-09-27T18:01:38.420Z"
 }
