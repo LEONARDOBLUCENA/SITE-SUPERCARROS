@@ -13299,6 +13299,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuk55jgt316sse",
+      "createdAt": "2026-09-27T18:17:40.301Z",
+      "dataAtendimento": "2026-09-27",
+      "nomeCliente": "Victor",
+      "contatoCliente": "55 38 9978-7907",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13311,5 +13327,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-27T18:13:45.348Z"
+  "updatedAt": "2026-09-27T18:17:40.971Z"
 }
