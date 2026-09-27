@@ -13190,14 +13190,15 @@
       "nomeCliente": "Julia",
       "contatoCliente": "+55 51 8174-7663",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-27",
+      "valorVenda": "800.00",
+      "numeroPedido": "19347",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-27T17:00:51.353Z"
     },
     {
       "id": "rmujzq4p9n4rs14",
@@ -13226,5 +13227,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-27T15:45:43.852Z"
+  "updatedAt": "2026-09-27T17:00:51.354Z"
 }
