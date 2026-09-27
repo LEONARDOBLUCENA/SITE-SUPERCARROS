@@ -13231,7 +13231,8 @@
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-09-27T18:01:20.868Z"
     },
     {
       "id": "rmuk467s1azhzgu",
@@ -13262,5 +13263,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-27T17:50:13.203Z"
+  "updatedAt": "2026-09-27T18:01:20.868Z"
 }
