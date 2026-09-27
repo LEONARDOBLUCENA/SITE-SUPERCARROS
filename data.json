@@ -13006,6 +13006,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmujrtlcc9hca5j",
+      "createdAt": "2026-09-27T12:04:27.852Z",
+      "dataAtendimento": "2026-09-27",
+      "nomeCliente": "Daniela siqueira",
+      "contatoCliente": "+55 31 8627-5085",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13018,5 +13034,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-27T12:03:42.259Z"
+  "updatedAt": "2026-09-27T12:04:29.101Z"
 }
