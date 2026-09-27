@@ -13206,14 +13206,15 @@
       "nomeCliente": "ramon",
       "contatoCliente": "+55 81 9525-6069",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-27",
+      "valorVenda": "460.00",
+      "numeroPedido": "19353",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-27T19:58:15.914Z"
     },
     {
       "id": "rmuk3fjyggxlia0",
@@ -13360,5 +13361,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-27T19:30:08.987Z"
+  "updatedAt": "2026-09-27T19:58:15.914Z"
 }
