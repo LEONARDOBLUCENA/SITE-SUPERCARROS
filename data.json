@@ -13150,6 +13150,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmujugpdb9zb688",
+      "createdAt": "2026-09-27T13:18:25.391Z",
+      "dataAtendimento": "2026-09-27",
+      "nomeCliente": "BIATRIZ",
+      "contatoCliente": "55 21 99591-4204",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13162,5 +13178,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-27T13:07:12.447Z"
+  "updatedAt": "2026-09-27T13:18:26.505Z"
 }
