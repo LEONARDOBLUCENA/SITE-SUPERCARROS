@@ -13495,6 +13495,22 @@
       "statusPagamento": "",
       "observacao": "Tem voucher da GAV",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmul9tma0ieia1v",
+      "createdAt": "2026-09-28T13:16:08.328Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Leonardo G. Emeterio ",
+      "contatoCliente": "+55 27 99984-6806",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13507,5 +13523,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-28T13:15:35.396Z"
+  "updatedAt": "2026-09-28T13:16:09.317Z"
 }
