@@ -13575,6 +13575,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmul9vsnsznyni8",
+      "createdAt": "2026-09-28T13:17:49.912Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "nycolas da Conceição nasc",
+      "contatoCliente": "+55 11 98258-6442",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13587,5 +13603,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-28T13:17:31.817Z"
+  "updatedAt": "2026-09-28T13:17:50.528Z"
 }
