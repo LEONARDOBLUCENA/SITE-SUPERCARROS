@@ -13415,6 +13415,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmukj43o32on5qm",
+      "createdAt": "2026-09-28T00:48:27.795Z",
+      "dataAtendimento": "2026-09-27",
+      "nomeCliente": "~Laryssa Coutinho",
+      "contatoCliente": "+55 32 8848-9633",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13427,5 +13443,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-28T00:44:10.459Z"
+  "updatedAt": "2026-09-28T00:48:29.025Z"
 }
