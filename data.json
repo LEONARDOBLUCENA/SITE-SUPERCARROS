@@ -13543,6 +13543,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmul9v2mn6xf3ry",
+      "createdAt": "2026-09-28T13:17:16.175Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 24 99870-9246",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13555,5 +13571,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-28T13:17:03.091Z"
+  "updatedAt": "2026-09-28T13:17:17.079Z"
 }
