@@ -13612,6 +13612,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmulnc95mbhsq9e",
+      "createdAt": "2026-09-28T19:34:32.794Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Daniele Farias ",
+      "contatoCliente": "+55 47 9645-7803",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13624,5 +13640,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-28T17:34:36.186Z"
+  "updatedAt": "2026-09-28T19:34:34.170Z"
 }
