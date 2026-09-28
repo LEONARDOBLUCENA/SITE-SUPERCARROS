@@ -13559,6 +13559,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmul9ve6p57n967",
+      "createdAt": "2026-09-28T13:17:31.153Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Adielly Feraz ",
+      "contatoCliente": "+55 64 9294-8251",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13571,5 +13587,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-28T13:17:17.079Z"
+  "updatedAt": "2026-09-28T13:17:31.817Z"
 }
