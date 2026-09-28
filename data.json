@@ -13610,6 +13610,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmulh463x4xqeci",
+      "createdAt": "2026-09-28T16:40:17.901Z",
+      "dataAtendimento": "2026-09-27",
+      "nomeCliente": "Thays Rocha Neri Ferreira",
+      "contatoCliente": "(21) 99336-5055",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-28",
+      "valorVenda": "410.00",
+      "numeroPedido": "19383",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -13622,5 +13640,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-28T16:36:58.599Z"
+  "updatedAt": "2026-09-28T16:40:18.670Z"
 }
