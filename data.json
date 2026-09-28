@@ -3346,22 +3346,6 @@
       "updatedAt": "2026-09-25T12:50:39.655Z"
     },
     {
-      "id": "rmtuj76j3cgedfd",
-      "vendedora": "bruna",
-      "createdAt": "2026-09-09T20:08:50.895Z",
-      "dataAtendimento": "2026-09-06",
-      "nomeCliente": "Débora ",
-      "contatoCliente": "+ 55 11 98725-8076",
-      "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
-    },
-    {
       "id": "rmtuj8ti5y3lhkg",
       "vendedora": "bruna",
       "createdAt": "2026-09-09T20:10:07.325Z",
@@ -13640,5 +13624,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-28T16:54:58.612Z"
+  "updatedAt": "2026-09-28T17:34:36.186Z"
 }
