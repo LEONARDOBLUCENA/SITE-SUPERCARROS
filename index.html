@@ -1,9 +1,10 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Vendas Super Carros</title>
+
 </head>
 <body>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
@@ -196,6 +197,7 @@
     background:var(--surface); border:1px solid var(--border-strong); border-radius:8px;
     padding:7px 10px; font-size:12.5px; width:220px; max-width:45vw;
   }
+  .search.phone-filter{ width:150px; }
 
   .records{ display:flex; flex-direction:column; gap:9px; }
   .record{
@@ -272,10 +274,20 @@
   .status-tile{
     background:var(--surface-2); border:1px solid var(--border); border-radius:11px;
     padding:11px 13px; position:relative; overflow:hidden; padding-left:16px;
+    cursor:pointer; text-align:left; font:inherit; color:inherit; transition:background .12s,border-color .12s;
   }
+  .status-tile:hover{ background:var(--surface); border-color:var(--border-strong); }
+  .status-tile.active{ background:var(--surface); border-color:var(--vc); box-shadow:0 0 0 1px var(--vc) inset; }
   .status-tile::before{ content:""; position:absolute; left:0; top:0; bottom:0; width:4px; background:var(--vc); }
   .status-tile .n{ font-family:"Manrope"; font-weight:800; font-size:19px; line-height:1.1; }
   .status-tile .l{ font-size:10.5px; color:var(--text-muted); margin-top:3px; line-height:1.3; }
+  .active-status-filter{
+    display:flex; align-items:center; gap:8px; background:var(--surface-2); border:1px solid var(--border-strong);
+    border-radius:8px; padding:7px 11px; font-size:12px; font-weight:600; color:var(--text-soft); margin-bottom:11px;
+  }
+  .active-status-filter button{
+    background:none; border:none; color:var(--accent); font-size:12px; font-weight:700; cursor:pointer; padding:0; margin-left:auto;
+  }
 
   .origin-chart-card{ padding:18px 18px 16px; }
   .origin-toggle{ display:flex; gap:3px; background:var(--surface-2); padding:3px; border-radius:8px; border:1px solid var(--border); flex:none; }
@@ -425,6 +437,7 @@
   .share-head{ display:flex; align-items:flex-start; justify-content:space-between; gap:14px; margin-bottom:14px; }
   .share-head h3{ font-size:16px; font-weight:700; margin:0 0 3px; }
   .share-head p{ font-size:12px; color:var(--text-muted); margin:0; max-width:440px; line-height:1.5; }
+  .share-search{ width:100%; margin-bottom:12px; box-sizing:border-box; }
   .share-list{ overflow-y:auto; display:flex; flex-direction:column; gap:9px; padding-right:2px; }
   .share-item{
     display:grid; grid-template-columns:auto 1fr auto auto; gap:12px; align-items:center;
@@ -536,6 +549,7 @@
           <svg viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
         </button>
       </div>
+      <input class="search share-search" type="search" placeholder="Buscar cliente por nome…" data-role="share-search">
       <div class="share-list" data-role="share-list"></div>
     </div>
   </div>
@@ -721,6 +735,68 @@
   function todayISO(){
     var d = new Date();
     return d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0") + "-" + String(d.getDate()).padStart(2,"0");
+  }
+
+  // ---------------------------------------------------------------------
+  // Busca por similaridade (tolerante a pequenos erros de digitação/acentos)
+  // e normalização de telefone — usadas na busca de lançamentos, no filtro
+  // de telefone e na busca do modal de Atendimento Compartilhado.
+  // ---------------------------------------------------------------------
+  function normalizeText(s){
+    return String(s == null ? "" : s)
+      .normalize("NFD").replace(/[̀-ͯ]/g, "")
+      .toLowerCase().trim();
+  }
+  function levenshtein(a, b){
+    if(a === b) return 0;
+    if(!a.length) return b.length;
+    if(!b.length) return a.length;
+    var prev = [];
+    for(var j=0; j<=b.length; j++) prev[j] = j;
+    for(var i=1; i<=a.length; i++){
+      var cur = [i];
+      for(var j2=1; j2<=b.length; j2++){
+        var cost = a[i-1] === b[j2-1] ? 0 : 1;
+        cur[j2] = Math.min(prev[j2] + 1, cur[j2-1] + 1, prev[j2-1] + cost);
+      }
+      prev = cur;
+    }
+    return prev[b.length];
+  }
+  // Compara a consulta com o texto: match direto (substring, já cobre a
+  // maioria dos casos) OU, se não achar, tolera pequenos erros de
+  // digitação comparando a consulta com cada palavra do texto por
+  // distância de edição (limiar proporcional ao tamanho da consulta).
+  function wordFuzzyThreshold(w){
+    return w.length <= 4 ? 1 : Math.min(3, Math.ceil(w.length * 0.3));
+  }
+  function fuzzyMatch(query, text){
+    var q = normalizeText(query);
+    if(!q) return true;
+    var t = normalizeText(text);
+    if(!t) return false;
+    if(t.indexOf(q) !== -1) return true;
+    // Compara palavra a palavra (tolerante a erros de digitação em cada
+    // palavra da busca), exigindo que TODAS as palavras da consulta
+    // encontrem uma palavra correspondente no texto — assim buscas com
+    // mais de um termo (ex: "joana silveria" -> "Joana Silveira") também
+    // funcionam por similaridade, não apenas buscas de uma palavra só.
+    var qWords = q.split(/\s+/).filter(Boolean);
+    var tWords = t.split(/\s+/).filter(Boolean);
+    if(qWords.length === 0) return true;
+    return qWords.every(function(qw){
+      if(t.indexOf(qw) !== -1) return true;
+      var threshold = wordFuzzyThreshold(qw);
+      return tWords.some(function(tw){
+        // compara também contra prefixos do tamanho da palavra buscada, para
+        // não penalizar nomes compostos maiores (ex: "raphaela" vs "rafaela goncalves")
+        var slice = tw.length > qw.length + threshold ? tw.slice(0, qw.length + threshold) : tw;
+        return levenshtein(qw, slice) <= threshold;
+      });
+    });
+  }
+  function onlyDigits(s){
+    return String(s == null ? "" : s).replace(/\D/g, "");
   }
 
   function setSync(mode, text){
@@ -912,10 +988,14 @@
   // Atendimento Compartilhado
   // ---------------------------------------------------------------------
   var shareContextVendor = null;
+  var shareSearchQuery = "";
 
   function openShareModal(vendorKey){
     shareContextVendor = vendorKey;
+    shareSearchQuery = "";
     var overlay = document.getElementById("shareOverlay");
+    var searchInput = document.querySelector('#shareOverlay [data-role="share-search"]');
+    if(searchInput) searchInput.value = "";
     var v = VENDORS.filter(function(x){ return x.key === vendorKey; })[0];
     document.querySelector('#shareOverlay [data-role="share-title"]').textContent =
       "Atendimento Compartilhado — " + (v ? v.name : "");
@@ -925,6 +1005,7 @@
   function closeShareModal(){
     document.getElementById("shareOverlay").style.display = "none";
     shareContextVendor = null;
+    shareSearchQuery = "";
   }
 
   function eligibleSharedRecords(vendorKey){
@@ -944,8 +1025,14 @@
     var host = document.querySelector('#shareOverlay [data-role="share-list"]');
     if(!shareContextVendor){ host.innerHTML = ""; return; }
     var list = eligibleSharedRecords(shareContextVendor);
+    var q = (shareSearchQuery || "").trim();
+    if(q){
+      list = list.filter(function(r){ return fuzzyMatch(q, r.nomeCliente); });
+    }
     if(list.length === 0){
-      host.innerHTML = '<div class="share-empty">Nenhum atendimento em aberto de outras vendedoras no momento.</div>';
+      host.innerHTML = '<div class="share-empty">' +
+        (q ? "Nenhum cliente encontrado para \"" + escapeHtml(q) + "\"." : "Nenhum atendimento em aberto de outras vendedoras no momento.") +
+        '</div>';
       return;
     }
     host.innerHTML = list.map(function(r){
@@ -968,6 +1055,10 @@
     document.getElementById("shareCloseBtn").addEventListener("click", closeShareModal);
     document.getElementById("shareOverlay").addEventListener("click", function(ev){
       if(ev.target.id === "shareOverlay") closeShareModal();
+    });
+    document.querySelector('#shareOverlay [data-role="share-search"]').addEventListener("input", function(ev){
+      shareSearchQuery = ev.target.value;
+      renderShareList();
     });
     document.querySelector('#shareOverlay [data-role="share-list"]').addEventListener("click", function(ev){
       var btn = ev.target.closest('[data-action="claim"]');
@@ -1076,9 +1167,11 @@
                 '<select class="dash-filters-select" data-role="filter-origem"><option value="">Todas as origens</option></select>' +
                 '<select class="dash-filters-select" data-role="filter-status-pagamento"><option value="">Todos os status</option></select>' +
                 '<label class="shared-only-label"><input type="checkbox" data-role="filter-shared-only"> Somente compartilhados</label>' +
+                '<input class="search phone-filter" type="search" placeholder="Filtrar por telefone…" data-role="filter-phone">' +
                 '<input class="search" type="search" placeholder="Buscar cliente, pedido, produto…" data-role="search">' +
               '</div>' +
             '</div>' +
+            '<div class="active-status-filter" data-role="active-status-filter" style="display:none;"></div>' +
             '<div class="records" data-role="records"></div>' +
           '</div>' +
           '<div class="vendor-side">' +
@@ -1436,7 +1529,8 @@
     return r.vendedora === key || (r.compartilhado && r.vendedoraFinalizou === key);
   }
 
-  function vendorRecordsPeriod(key){
+  function vendorRecordsPeriod(key, opts){
+    opts = opts || {};
     var f = state.filters[key] || {};
     return state.records.filter(function(r){
       if(!belongsToVendor(r, key)) return false;
@@ -1453,19 +1547,32 @@
       if(f.statusPagamento){
         if((r.statusPagamento || "") !== f.statusPagamento) return false;
       }
+      if(!opts.ignoreStatusAtendimento && f.statusAtendimento){
+        var sa = r.statusAtendimento && STATUS_ATENDIMENTO.indexOf(r.statusAtendimento) !== -1 ? r.statusAtendimento : STATUS_ATENDIMENTO[0];
+        if(sa !== f.statusAtendimento) return false;
+      }
       if(f.sharedOnly){
         if(!r.compartilhado) return false;
+      }
+      if(f.phone){
+        var digits = onlyDigits(f.phone);
+        if(!digits || onlyDigits(r.contatoCliente).indexOf(digits) === -1) return false;
       }
       return true;
     });
   }
 
   function recordsForVendor(key){
-    var q = (state.search[key] || "").toLowerCase().trim();
+    var q = (state.search[key] || "").trim();
     return vendorRecordsPeriod(key)
       .filter(function(r){
         if(!q) return true;
-        return [r.nomeCliente, r.numeroPedido, r.produtoInteresse, r.contatoCliente].join(" ").toLowerCase().indexOf(q) !== -1;
+        // Nome do cliente é comparado por similaridade (tolera pequenos
+        // erros de digitação); pedido/produto/contato seguem por substring.
+        if(fuzzyMatch(q, r.nomeCliente)) return true;
+        var qNorm = normalizeText(q);
+        return [r.numeroPedido, r.produtoInteresse, r.contatoCliente].join(" ").toLowerCase().indexOf(qNorm) !== -1 ||
+          onlyDigits(r.contatoCliente).indexOf(onlyDigits(q)) !== -1 && onlyDigits(q).length >= 3;
       })
       .sort(function(a,b){
         var da = a.dataVenda || a.dataAtendimento || "";
@@ -1495,6 +1602,7 @@
     var origemSel = panel.querySelector('[data-role="filter-origem"]');
     var statusSel = panel.querySelector('[data-role="filter-status-pagamento"]');
     var sharedChk = panel.querySelector('[data-role="filter-shared-only"]');
+    var phoneInput = panel.querySelector('[data-role="filter-phone"]');
     var f = state.filters[v.key] || {};
     var years = vendorAvailableYears(v.key);
 
@@ -1515,6 +1623,7 @@
     origemSel.value = f.origem || "";
     statusSel.value = f.statusPagamento || "";
     sharedChk.checked = !!f.sharedOnly;
+    if(phoneInput && phoneInput.value !== (f.phone || "")) phoneInput.value = f.phone || "";
   }
 
   function statusClass(s){
@@ -1533,25 +1642,42 @@
     var panel = document.getElementById("panel-" + v.key);
     var host = panel.querySelector('[data-role="status-tiles"]');
     var periodEl = panel.querySelector('[data-role="summary-period"]');
-    var records = vendorRecordsPeriod(v.key);
+    var bannerEl = panel.querySelector('[data-role="active-status-filter"]');
     var f = state.filters[v.key] || {};
+    // Contagem dos "tiles" ignora o filtro de status ativo, para que todos os
+    // tiles continuem mostrando a contagem absoluta (facet-count), enquanto a
+    // lista de lançamentos e o gráfico de origem respeitam o filtro ativo.
+    var allRecords = vendorRecordsPeriod(v.key, { ignoreStatusAtendimento: true });
+    var filteredRecords = vendorRecordsPeriod(v.key);
 
-    periodEl.textContent = records.length + (records.length === 1 ? " atendimento" : " atendimentos") +
+    periodEl.textContent = filteredRecords.length + (filteredRecords.length === 1 ? " atendimento" : " atendimentos") +
       (f.year ? " · " + (f.month ? MESES_LONG[Number(f.month)-1] + " de " : "") + f.year : " · todo o período");
 
     var counts = {};
     STATUS_ATENDIMENTO.forEach(function(s){ counts[s] = 0; });
-    records.forEach(function(r){
+    allRecords.forEach(function(r){
       var s = r.statusAtendimento && STATUS_ATENDIMENTO.indexOf(r.statusAtendimento) !== -1 ? r.statusAtendimento : STATUS_ATENDIMENTO[0];
       counts[s]++;
     });
 
     host.innerHTML = STATUS_ATENDIMENTO.map(function(s, i){
-      return '<div class="status-tile" style="--vc:var(' + STATUS_ATD_VARS[i] + ')">' +
+      var active = f.statusAtendimento === s;
+      return '<button type="button" class="status-tile' + (active ? ' active' : '') + '" data-status="' + escapeHtml(s) + '" style="--vc:var(' + STATUS_ATD_VARS[i] + ')">' +
         '<div class="n num">' + counts[s] + '</div>' +
         '<div class="l">' + escapeHtml(s) + '</div>' +
-      '</div>';
+      '</button>';
     }).join("");
+
+    if(bannerEl){
+      if(f.statusAtendimento){
+        bannerEl.style.display = "flex";
+        bannerEl.innerHTML = "Filtrando por status: <strong>" + escapeHtml(f.statusAtendimento) + "</strong>" +
+          '<button type="button" data-role="clear-status-filter">Limpar</button>';
+      } else {
+        bannerEl.style.display = "none";
+        bannerEl.innerHTML = "";
+      }
+    }
   }
 
   function renderOriginChart(v){
@@ -1836,6 +1962,27 @@
       panel.querySelector('[data-role="filter-shared-only"]').addEventListener("change", function(ev){
         state.filters[v.key] = state.filters[v.key] || {};
         state.filters[v.key].sharedOnly = ev.target.checked;
+        renderVendorPanel(v);
+      });
+      panel.querySelector('[data-role="filter-phone"]').addEventListener("input", function(ev){
+        state.filters[v.key] = state.filters[v.key] || {};
+        state.filters[v.key].phone = ev.target.value;
+        renderVendorPanel(v);
+      });
+
+      panel.querySelector('[data-role="status-tiles"]').addEventListener("click", function(ev){
+        var tile = ev.target.closest(".status-tile");
+        if(!tile) return;
+        var status = tile.dataset.status;
+        state.filters[v.key] = state.filters[v.key] || {};
+        state.filters[v.key].statusAtendimento = (state.filters[v.key].statusAtendimento === status) ? "" : status;
+        renderVendorPanel(v);
+      });
+      panel.querySelector('[data-role="active-status-filter"]').addEventListener("click", function(ev){
+        var btn = ev.target.closest('[data-role="clear-status-filter"]');
+        if(!btn) return;
+        state.filters[v.key] = state.filters[v.key] || {};
+        state.filters[v.key].statusAtendimento = "";
         renderVendorPanel(v);
       });
 
