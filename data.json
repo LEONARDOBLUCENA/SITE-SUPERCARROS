@@ -13660,6 +13660,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmulne17nf8ol32",
+      "createdAt": "2026-09-28T19:35:55.811Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Carol Ferrari ",
+      "contatoCliente": "+55 54 9269-3954",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13672,5 +13688,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-28T19:35:22.565Z"
+  "updatedAt": "2026-09-28T19:35:56.907Z"
 }
