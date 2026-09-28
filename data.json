@@ -13708,6 +13708,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmulnfq2n5p66u2",
+      "createdAt": "2026-09-28T19:37:14.687Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Granfixtar Portões",
+      "contatoCliente": "+55 11 93945-6979 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13720,5 +13736,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-28T19:36:49.868Z"
+  "updatedAt": "2026-09-28T19:37:15.303Z"
 }
