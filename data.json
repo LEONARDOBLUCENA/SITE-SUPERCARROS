@@ -13399,6 +13399,22 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmukiyk7yvmujkz",
+      "createdAt": "2026-09-28T00:44:09.310Z",
+      "dataAtendimento": "2026-09-27",
+      "nomeCliente": "Thays Rocha",
+      "contatoCliente": "55 21 99336-5055",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13411,5 +13427,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-28T00:42:08.456Z"
+  "updatedAt": "2026-09-28T00:44:10.459Z"
 }
