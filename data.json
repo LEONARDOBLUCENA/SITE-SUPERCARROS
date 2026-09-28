@@ -13628,6 +13628,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmulncn1bjk6ovv",
+      "createdAt": "2026-09-28T19:34:50.783Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Isabelle Eletromax",
+      "contatoCliente": "+55 21 97018-6748",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13640,5 +13656,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-28T19:34:34.170Z"
+  "updatedAt": "2026-09-28T19:34:51.766Z"
 }
