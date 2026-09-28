@@ -13692,6 +13692,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmulnf61rf5fnth",
+      "createdAt": "2026-09-28T19:36:48.735Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "ítalo Mendes ",
+      "contatoCliente": "+55 85 9773-3508",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13704,5 +13720,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-28T19:36:22.364Z"
+  "updatedAt": "2026-09-28T19:36:49.868Z"
 }
