@@ -13591,6 +13591,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmulahir3ir0jgk",
+      "createdAt": "2026-09-28T13:34:43.503Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Lucas Gomes ",
+      "contatoCliente": "+55 22 99930-0187",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13603,5 +13619,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-28T13:17:50.528Z"
+  "updatedAt": "2026-09-28T13:34:46.245Z"
 }
