@@ -13431,6 +13431,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmukj4tuzqk6w22",
+      "createdAt": "2026-09-28T00:49:01.739Z",
+      "dataAtendimento": "2026-09-27",
+      "nomeCliente": "~Kleyton Renovato",
+      "contatoCliente": "+55 84 8114-4853",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13443,5 +13459,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-28T00:48:29.025Z"
+  "updatedAt": "2026-09-28T00:49:02.860Z"
 }
