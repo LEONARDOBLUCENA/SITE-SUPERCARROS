@@ -13724,6 +13724,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmulngmtwlienia",
+      "createdAt": "2026-09-28T19:37:57.140Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 51 9192-7765",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13736,5 +13752,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-28T19:37:15.303Z"
+  "updatedAt": "2026-09-28T19:37:58.108Z"
 }
