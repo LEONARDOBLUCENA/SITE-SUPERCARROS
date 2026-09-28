@@ -13644,6 +13644,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmulndb0l8zlakt",
+      "createdAt": "2026-09-28T19:35:21.861Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Raíssa Vitória ",
+      "contatoCliente": "+55 37 9996-1341",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13656,5 +13672,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-28T19:34:51.766Z"
+  "updatedAt": "2026-09-28T19:35:22.565Z"
 }
