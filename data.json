@@ -13479,6 +13479,22 @@
       "statusPagamento": "",
       "observacao": "Tem voucher da GAV",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmul9swaucy23wg",
+      "createdAt": "2026-09-28T13:15:34.662Z",
+      "dataAtendimento": "2026-09-28",
+      "nomeCliente": "Katheleen Mello",
+      "contatoCliente": "+55 41 9986-1626 ",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Tem voucher da GAV",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -13491,5 +13507,5 @@
       "updatedAt": "2026-09-24T16:45:14.979Z"
     }
   ],
-  "updatedAt": "2026-09-28T13:15:09.231Z"
+  "updatedAt": "2026-09-28T13:15:35.396Z"
 }
