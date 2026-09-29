@@ -14248,6 +14248,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmun19mo6q6iurq",
+      "createdAt": "2026-09-29T18:52:11.142Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "~Fernanda Saldanha",
+      "contatoCliente": "+55 37 9915-0415",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14260,5 +14276,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T18:51:09.086Z"
+  "updatedAt": "2026-09-29T18:52:11.757Z"
 }
