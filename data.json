@@ -13827,15 +13827,16 @@
       "dataAtendimento": "2026-09-29",
       "nomeCliente": "valeria",
       "contatoCliente": "55 31 9121-5715",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-29",
+      "valorVenda": "319.00",
+      "numeroPedido": "19405",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-29T13:31:39.446Z"
     },
     {
       "id": "rmumn00af4uql6h",
@@ -14025,5 +14026,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T13:23:40.383Z"
+  "updatedAt": "2026-09-29T13:31:39.446Z"
 }
