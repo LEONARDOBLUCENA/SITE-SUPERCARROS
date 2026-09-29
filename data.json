@@ -14226,17 +14226,17 @@
       "nomeCliente": "barbara",
       "contatoCliente": "+55 48 8437-4509",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-29",
       "valorVenda": "490.00",
       "numeroPedido": "19461",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
-      "updatedAt": "2026-09-29T22:38:30.130Z"
+      "updatedAt": "2026-09-29T23:06:52.563Z"
     },
     {
       "id": "rmun40pvkf23de9",
@@ -14385,5 +14385,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T22:59:54.683Z"
+  "updatedAt": "2026-09-29T23:06:52.564Z"
 }
