@@ -13836,6 +13836,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmumn00af4uql6h",
+      "createdAt": "2026-09-29T12:12:47.607Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "~Karla Dutra",
+      "contatoCliente": "55 98 8187-8002",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13848,5 +13864,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T12:12:13.091Z"
+  "updatedAt": "2026-09-29T12:12:48.418Z"
 }
