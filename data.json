@@ -14302,6 +14302,24 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmun718gc8iw8pl",
+      "createdAt": "2026-09-29T21:33:37.164Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "carollini Ferrari ",
+      "contatoCliente": "55 54 9269-3954",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-09-29",
+      "valorVenda": "1400.00",
+      "numeroPedido": "19453",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -14314,5 +14332,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T20:35:50.317Z"
+  "updatedAt": "2026-09-29T21:33:38.139Z"
 }
