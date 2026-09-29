@@ -13937,7 +13937,7 @@
       "id": "rmumo7lucvzz3la",
       "createdAt": "2026-09-29T12:46:41.748Z",
       "dataAtendimento": "2026-09-29",
-      "nomeCliente": "Iago",
+      "nomeCliente": "Yago",
       "contatoCliente": "+55 11 97493-6074",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
@@ -13947,7 +13947,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-29T12:46:52.424Z"
     }
   ],
   "siteVendas": [
@@ -13960,5 +13961,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T12:46:42.524Z"
+  "updatedAt": "2026-09-29T12:46:52.425Z"
 }
