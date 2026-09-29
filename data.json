@@ -14030,6 +14030,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmumrk6fhhpudbj",
+      "createdAt": "2026-09-29T14:20:27.149Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "fabio selbac",
+      "contatoCliente": "+55 54 9936-7850",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14042,5 +14058,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T14:09:46.221Z"
+  "updatedAt": "2026-09-29T14:20:28.531Z"
 }
