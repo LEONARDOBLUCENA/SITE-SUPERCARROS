@@ -14183,7 +14183,7 @@
       "id": "rmumx5f9cq5dpel",
       "createdAt": "2026-09-29T16:56:56.448Z",
       "dataAtendimento": "2026-09-29",
-      "nomeCliente": "bruna gabeer",
+      "nomeCliente": "~Bruna Gebauer",
       "contatoCliente": "55 19 99202-0386",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
@@ -14193,7 +14193,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-29T16:57:07.654Z"
     }
   ],
   "siteVendas": [
@@ -14206,5 +14207,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T16:56:57.311Z"
+  "updatedAt": "2026-09-29T16:57:07.654Z"
 }
