@@ -14267,6 +14267,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-09-29T19:12:05.551Z"
+    },
+    {
+      "id": "rmun40pvkf23de9",
+      "createdAt": "2026-09-29T20:09:14.240Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 22 98145-3906",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14279,5 +14295,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T19:19:36.871Z"
+  "updatedAt": "2026-09-29T20:09:14.951Z"
 }
