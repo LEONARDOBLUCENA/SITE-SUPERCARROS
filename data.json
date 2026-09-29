@@ -14338,24 +14338,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmun7wrmu7votvb",
-      "createdAt": "2026-09-29T21:58:08.358Z",
-      "dataAtendimento": "2026-09-29",
-      "nomeCliente": "~Emannuel Souza",
-      "contatoCliente": "+55 85 9178-7657",
-      "origem": "",
-      "statusAtendimento": "Link enviado",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "539.50",
-      "numeroPedido": "19457",
-      "statusPagamento": "Pago",
-      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
-      "vendedora": "bruna",
-      "vendedoraFinalizou": "gisele",
-      "compartilhado": true
-    },
-    {
       "id": "rmun8bfkc2rf60k",
       "createdAt": "2026-09-29T22:09:32.556Z",
       "dataAtendimento": "2026-09-29",
@@ -14384,5 +14366,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T22:09:33.071Z"
+  "updatedAt": "2026-09-29T22:09:46.708Z"
 }
