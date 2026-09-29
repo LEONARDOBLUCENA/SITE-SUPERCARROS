@@ -14103,16 +14103,17 @@
       "nomeCliente": "suelen",
       "contatoCliente": "+55 11 99896-5170",
       "origem": "Outro",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-29",
       "valorVenda": "316.00",
       "numeroPedido": "19419",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-09-29T18:28:22.547Z"
     },
     {
       "id": "rmumw103rvit7bb",
@@ -14226,5 +14227,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T17:16:48.084Z"
+  "updatedAt": "2026-09-29T18:28:22.547Z"
 }
