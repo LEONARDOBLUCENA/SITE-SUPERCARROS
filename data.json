@@ -8966,14 +8966,15 @@
       "nomeCliente": "~Layane Sousa",
       "contatoCliente": "+55 86 8806-8233",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-29",
+      "valorVenda": "109.00",
+      "numeroPedido": "19449",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-29T20:27:37.134Z"
     },
     {
       "id": "rmu7fs2tentmazq",
@@ -14313,5 +14314,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T20:21:48.151Z"
+  "updatedAt": "2026-09-29T20:27:37.135Z"
 }
