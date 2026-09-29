@@ -12558,14 +12558,15 @@
       "nomeCliente": "Larissa leite",
       "contatoCliente": "+55 71 9137-3641",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-09-29",
+      "valorVenda": "880.00",
       "numeroPedido": "13943",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-29T22:50:25.645Z"
     },
     {
       "id": "rmuhsrfl519eo9c",
@@ -14383,5 +14384,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T22:47:23.345Z"
+  "updatedAt": "2026-09-29T22:50:25.645Z"
 }
