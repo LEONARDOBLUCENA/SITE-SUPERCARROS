@@ -14272,7 +14272,7 @@
       "nomeCliente": "barbara",
       "contatoCliente": "+55 48 8437-4509",
       "origem": "",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-29",
       "valorVenda": "590.00",
@@ -14281,7 +14281,8 @@
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-09-29T19:12:05.551Z"
     }
   ],
   "siteVendas": [
@@ -14294,5 +14295,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T19:11:54.209Z"
+  "updatedAt": "2026-09-29T19:12:05.551Z"
 }
