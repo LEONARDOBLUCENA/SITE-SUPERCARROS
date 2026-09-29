@@ -13981,6 +13981,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmumomslzth7x2x",
+      "createdAt": "2026-09-29T12:58:30.359Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "Nathan Nobre",
+      "contatoCliente": "+55 66 9716-3338",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13993,5 +14009,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T12:52:52.892Z"
+  "updatedAt": "2026-09-29T12:58:31.189Z"
 }
