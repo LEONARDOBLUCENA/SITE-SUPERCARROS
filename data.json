@@ -14354,6 +14354,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmun9dxwuzq46rr",
+      "createdAt": "2026-09-29T22:39:29.262Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "haiandra",
+      "contatoCliente": "55 33 9839-5515",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14366,5 +14382,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T22:38:30.130Z"
+  "updatedAt": "2026-09-29T22:39:30.433Z"
 }
