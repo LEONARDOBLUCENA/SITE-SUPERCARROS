@@ -13776,22 +13776,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmummu4wig5phli",
-      "createdAt": "2026-09-29T12:08:13.650Z",
-      "dataAtendimento": "2026-09-29",
-      "nomeCliente": "Sem nome",
-      "contatoCliente": "55 21 97655-5473",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmummvuho2kb79w",
       "createdAt": "2026-09-29T12:09:33.468Z",
       "dataAtendimento": "2026-09-29",
@@ -14400,5 +14384,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T22:59:28.042Z"
+  "updatedAt": "2026-09-29T22:59:46.952Z"
 }
