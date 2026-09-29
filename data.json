@@ -14144,6 +14144,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmumwgcy11kp1zj",
+      "createdAt": "2026-09-29T16:37:27.049Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "Ingrid Maria Andrade Urias De Oliveira",
+      "contatoCliente": "19423",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "430.00",
+      "numeroPedido": "19423",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -14156,5 +14174,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T16:25:37.322Z"
+  "updatedAt": "2026-09-29T16:37:28.429Z"
 }
