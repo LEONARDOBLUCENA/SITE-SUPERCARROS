@@ -13369,24 +13369,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmukivy5db0mvo8",
-      "createdAt": "2026-09-28T00:42:07.393Z",
-      "dataAtendimento": "2026-09-27",
-      "nomeCliente": "Ana Carolina",
-      "contatoCliente": "55 83 9123-6419",
-      "origem": "",
-      "statusAtendimento": "Link enviado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-09-27",
-      "valorVenda": "",
-      "numeroPedido": "19363",
-      "statusPagamento": "Pendente",
-      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
-      "vendedora": "bruna",
-      "vendedoraFinalizou": "gisele",
-      "compartilhado": true
-    },
-    {
       "id": "rmukiyk7yvmujkz",
       "createdAt": "2026-09-28T00:44:09.310Z",
       "dataAtendimento": "2026-09-27",
@@ -14385,5 +14367,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T23:06:52.564Z"
+  "updatedAt": "2026-09-29T23:33:47.821Z"
 }
