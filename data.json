@@ -14141,12 +14141,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-29",
-      "valorVenda": "1979.00",
+      "valorVenda": "1969.00",
       "numeroPedido": "Porsche Cayman, Lancer Evo, Camaro SS amarelo, Mustang GT ou BMW M3 ) - Sujeito a disponibilidade",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-29T18:32:28.676Z"
+      "updatedAt": "2026-09-29T18:32:54.755Z"
     },
     {
       "id": "rmumwgcy11kp1zj",
@@ -14228,5 +14228,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T18:32:28.676Z"
+  "updatedAt": "2026-09-29T18:32:54.755Z"
 }
