@@ -14360,7 +14360,7 @@
     {
       "id": "rmuna3mdapmlngm",
       "createdAt": "2026-09-29T22:59:27.358Z",
-      "dataAtendimento": "2026-09-29",
+      "dataAtendimento": "2026-09-27",
       "nomeCliente": "patrick da costa",
       "contatoCliente": "21976555473",
       "origem": "",
@@ -14371,7 +14371,8 @@
       "numeroPedido": "19343",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-29T22:59:54.683Z"
     }
   ],
   "siteVendas": [
@@ -14384,5 +14385,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T22:59:46.952Z"
+  "updatedAt": "2026-09-29T22:59:54.683Z"
 }
