@@ -14372,6 +14372,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuna3mdapmlngm",
+      "createdAt": "2026-09-29T22:59:27.358Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "patrick da costa",
+      "contatoCliente": "21976555473",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "19343",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14384,5 +14400,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T22:50:25.645Z"
+  "updatedAt": "2026-09-29T22:59:28.042Z"
 }
