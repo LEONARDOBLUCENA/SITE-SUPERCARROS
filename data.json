@@ -14262,7 +14262,7 @@
       "nomeCliente": "carollini Ferrari ",
       "contatoCliente": "55 54 9269-3954",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-29",
       "valorVenda": "1400.00",
@@ -14271,7 +14271,8 @@
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-09-29T23:43:51.804Z"
     },
     {
       "id": "rmun7afhqx1iwlf",
@@ -14367,5 +14368,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T23:33:47.821Z"
+  "updatedAt": "2026-09-29T23:43:51.804Z"
 }
