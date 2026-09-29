@@ -14232,6 +14232,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmun18a17dbx1t7",
+      "createdAt": "2026-09-29T18:51:08.107Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "~Thais Neto",
+      "contatoCliente": "+55 21 97958-1194",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14244,5 +14260,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T18:49:46.557Z"
+  "updatedAt": "2026-09-29T18:51:09.086Z"
 }
