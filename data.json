@@ -13965,6 +13965,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmumofjlx0usjwh",
+      "createdAt": "2026-09-29T12:52:52.101Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "Jeferrson Feitosa",
+      "contatoCliente": "+55 31 8527-4096",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13977,5 +13993,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T12:50:40.246Z"
+  "updatedAt": "2026-09-29T12:52:52.892Z"
 }
