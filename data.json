@@ -13949,6 +13949,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-09-29T12:46:52.424Z"
+    },
+    {
+      "id": "rmumocpb8br44un",
+      "createdAt": "2026-09-29T12:50:39.524Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "Stefany Lopes 💍",
+      "contatoCliente": "55 21 97628-2368",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -13961,5 +13977,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T12:46:52.425Z"
+  "updatedAt": "2026-09-29T12:50:40.246Z"
 }
