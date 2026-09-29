@@ -13294,15 +13294,15 @@
       "nomeCliente": "Victor",
       "contatoCliente": "55 38 9978-7907",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "2026-09-27",
+      "dataVenda": "2026-09-29",
       "valorVenda": "980.00",
-      "numeroPedido": "19355",
-      "statusPagamento": "Pendente",
+      "numeroPedido": "19465",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-27T18:18:20.389Z"
+      "updatedAt": "2026-09-29T23:51:00.814Z"
     },
     {
       "id": "rmuk7jqoirxbvmr",
@@ -14368,5 +14368,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T23:43:51.804Z"
+  "updatedAt": "2026-09-29T23:51:00.814Z"
 }
