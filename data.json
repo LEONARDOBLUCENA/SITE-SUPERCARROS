@@ -14178,6 +14178,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmumx5f9cq5dpel",
+      "createdAt": "2026-09-29T16:56:56.448Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "bruna gabeer",
+      "contatoCliente": "55 19 99202-0386",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14190,5 +14206,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T16:52:04.652Z"
+  "updatedAt": "2026-09-29T16:56:57.311Z"
 }
