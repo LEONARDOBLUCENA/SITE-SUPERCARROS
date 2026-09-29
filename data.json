@@ -14116,22 +14116,6 @@
       "updatedAt": "2026-09-29T18:28:22.547Z"
     },
     {
-      "id": "rmumw103rvit7bb",
-      "createdAt": "2026-09-29T16:25:30.567Z",
-      "dataAtendimento": "2026-09-29",
-      "nomeCliente": "paula",
-      "contatoCliente": "55 84 9970-0461",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmumw14x4xopba9",
       "createdAt": "2026-09-29T16:25:36.808Z",
       "dataAtendimento": "2026-09-29",
@@ -14295,5 +14279,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T19:12:05.551Z"
+  "updatedAt": "2026-09-29T19:19:36.871Z"
 }
