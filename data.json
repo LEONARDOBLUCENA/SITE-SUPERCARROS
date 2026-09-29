@@ -14340,22 +14340,6 @@
       "compartilhado": true
     },
     {
-      "id": "rmun92bfzu4gski",
-      "createdAt": "2026-09-29T22:30:26.927Z",
-      "dataAtendimento": "2026-09-29",
-      "nomeCliente": "karla",
-      "contatoCliente": "55 98 8187-8002",
-      "origem": "",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-09-29",
-      "valorVenda": "297.00",
-      "numeroPedido": "19329",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmun94s437ezj2s",
       "createdAt": "2026-09-29T22:32:21.843Z",
       "dataAtendimento": "2026-09-29",
@@ -14382,5 +14366,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T22:32:23.018Z"
+  "updatedAt": "2026-09-29T22:32:30.026Z"
 }
