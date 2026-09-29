@@ -14135,17 +14135,18 @@
       "id": "rmumw14x4xopba9",
       "createdAt": "2026-09-29T16:25:36.808Z",
       "dataAtendimento": "2026-09-29",
-      "nomeCliente": "sem nome",
+      "nomeCliente": "Carolina",
       "contatoCliente": "+55 31 9707-4358",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-29",
+      "valorVenda": "1979.00",
+      "numeroPedido": "Porsche Cayman, Lancer Evo, Camaro SS amarelo, Mustang GT ou BMW M3 ) - Sujeito a disponibilidade",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-29T18:32:28.676Z"
     },
     {
       "id": "rmumwgcy11kp1zj",
@@ -14227,5 +14228,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T18:28:22.547Z"
+  "updatedAt": "2026-09-29T18:32:28.676Z"
 }
