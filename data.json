@@ -14521,6 +14521,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuo7oh1rm9jf6g",
+      "createdAt": "2026-09-30T14:39:27.567Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "~Matheus Maia",
+      "contatoCliente": "+55 75 9109-4468",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14533,5 +14549,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T14:35:08.900Z"
+  "updatedAt": "2026-09-30T14:39:28.422Z"
 }
