@@ -14504,6 +14504,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuo784v85h3qsw",
+      "createdAt": "2026-09-30T14:26:45.284Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "~Thiago Xavier",
+      "contatoCliente": "+55 11 94355-1501",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14516,5 +14532,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T14:20:06.562Z"
+  "updatedAt": "2026-09-30T14:26:45.710Z"
 }
