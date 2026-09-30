@@ -14356,6 +14356,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-09-29T22:59:54.683Z"
+    },
+    {
+      "id": "rmunch60it7c2wb",
+      "createdAt": "2026-09-30T00:05:58.578Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "andre lanah viagens",
+      "contatoCliente": "+55 11 3280-1422",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14368,5 +14384,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-29T23:51:30.560Z"
+  "updatedAt": "2026-09-30T00:05:59.308Z"
 }
