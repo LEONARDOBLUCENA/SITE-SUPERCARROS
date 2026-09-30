@@ -14475,15 +14475,16 @@
       "dataAtendimento": "2026-09-30",
       "nomeCliente": "Sem nome",
       "contatoCliente": "55 11 96639-3524",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-30",
+      "valorVenda": "289.00",
+      "numeroPedido": "19481",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-30T13:23:19.884Z"
     }
   ],
   "siteVendas": [
@@ -14496,5 +14497,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T13:07:06.724Z"
+  "updatedAt": "2026-09-30T13:23:19.884Z"
 }
