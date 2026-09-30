@@ -14668,6 +14668,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuogtlsbevf40i",
+      "createdAt": "2026-09-30T18:55:23.531Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Marcos Vinícius",
+      "contatoCliente": "+55 34 99955-2788",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14680,5 +14696,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T18:53:33.541Z"
+  "updatedAt": "2026-09-30T18:55:24.769Z"
 }
