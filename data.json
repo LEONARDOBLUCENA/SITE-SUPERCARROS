@@ -14372,6 +14372,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuncyj1j97yzwk",
+      "createdAt": "2026-09-30T00:19:28.615Z",
+      "dataAtendimento": "2026-09-29",
+      "nomeCliente": "caio defende",
+      "contatoCliente": "+55 43 9625-2789",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14384,5 +14400,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T00:05:59.308Z"
+  "updatedAt": "2026-09-30T00:19:29.311Z"
 }
