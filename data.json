@@ -1313,13 +1313,14 @@
       "nomeCliente": "Jaqueline Oliveira De Souza",
       "contatoCliente": " (71) 98725-4566 ",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "ingresso",
       "dataVenda": "2026-09-04",
       "valorVenda": "99.00",
       "numeroPedido": "18431",
       "statusPagamento": "Pago",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-09-30T17:44:22.660Z"
     },
     {
       "id": "rmtt30r7lh5kq2f",
@@ -14630,5 +14631,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T17:27:30.628Z"
+  "updatedAt": "2026-09-30T17:44:22.661Z"
 }
