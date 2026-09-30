@@ -14710,14 +14710,15 @@
       "nomeCliente": "Thais ",
       "contatoCliente": "+55 11 98353-3052",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "bruna"
+      "observacao": "Busca nossos serviços em SP ",
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-30T20:08:49.907Z"
     }
   ],
   "siteVendas": [
@@ -14730,5 +14731,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T20:08:10.505Z"
+  "updatedAt": "2026-09-30T20:08:49.907Z"
 }
