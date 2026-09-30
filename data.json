@@ -12054,7 +12054,7 @@
       "nomeCliente": "~Vanessa Lima 🦋",
       "contatoCliente": "+55 93 9107-0844",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "2026-09-25",
       "valorVenda": "99.00",
@@ -12062,7 +12062,7 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-26T15:57:54.342Z"
+      "updatedAt": "2026-09-30T00:40:44.286Z"
     },
     {
       "id": "rmuh3yq0cnz4uid",
@@ -14400,5 +14400,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T00:38:44.656Z"
+  "updatedAt": "2026-09-30T00:40:44.287Z"
 }
