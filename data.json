@@ -11923,17 +11923,18 @@
       "id": "rmugy0rioq1sqfz",
       "createdAt": "2026-09-25T12:34:41.616Z",
       "dataAtendimento": "2026-09-25",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Ana Carolina ",
       "contatoCliente": "+55 83 9123-6419",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "1370.00",
+      "numeroPedido": "19363",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-30T14:20:06.562Z"
     },
     {
       "id": "rmugy18ghwwum4e",
@@ -14515,5 +14516,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T14:17:01.993Z"
+  "updatedAt": "2026-09-30T14:20:06.562Z"
 }
