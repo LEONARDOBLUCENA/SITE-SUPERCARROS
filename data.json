@@ -14473,7 +14473,7 @@
       "id": "rmuo4doy4u1awtv",
       "createdAt": "2026-09-30T13:07:05.740Z",
       "dataAtendimento": "2026-09-30",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "Kaiky Freitas",
       "contatoCliente": "55 11 96639-3524",
       "origem": "Prime Gourmet",
       "statusAtendimento": "Link enviado",
@@ -14484,7 +14484,7 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-30T13:23:19.884Z"
+      "updatedAt": "2026-09-30T13:23:33.506Z"
     }
   ],
   "siteVendas": [
@@ -14497,5 +14497,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T13:23:19.884Z"
+  "updatedAt": "2026-09-30T13:23:33.506Z"
 }
