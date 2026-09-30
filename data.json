@@ -9428,14 +9428,15 @@
       "nomeCliente": "Junior Rocha ",
       "contatoCliente": "+55 88 9614-2726",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-30",
+      "valorVenda": "560.50",
+      "numeroPedido": "19505 ",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-30T19:24:50.314Z"
     },
     {
       "id": "rmu8p0bl4smyhd2",
@@ -14713,5 +14714,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T19:20:19.661Z"
+  "updatedAt": "2026-09-30T19:24:50.315Z"
 }
