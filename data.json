@@ -12060,9 +12060,9 @@
       "valorVenda": "99.00",
       "numeroPedido": "19261",
       "statusPagamento": "",
-      "observacao": "",
+      "observacao": "vieram direto ao SSC",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-30T00:40:44.286Z"
+      "updatedAt": "2026-09-30T00:41:03.276Z"
     },
     {
       "id": "rmuh3yq0cnz4uid",
@@ -14400,5 +14400,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T00:40:44.287Z"
+  "updatedAt": "2026-09-30T00:41:03.276Z"
 }
