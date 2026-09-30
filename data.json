@@ -14586,6 +14586,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuodo7up1lreei",
+      "createdAt": "2026-09-30T17:27:13.345Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Nátali Barbosa da Mota",
+      "contatoCliente": "55 11 97147-4879",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14598,5 +14614,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T15:13:48.115Z"
+  "updatedAt": "2026-09-30T17:27:13.940Z"
 }
