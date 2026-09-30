@@ -14537,6 +14537,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuo8musz51c7gn",
+      "createdAt": "2026-09-30T15:06:11.699Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Patty Matias ",
+      "contatoCliente": "+55 11 94796-4958",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14549,5 +14565,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T14:39:28.422Z"
+  "updatedAt": "2026-09-30T15:06:12.469Z"
 }
