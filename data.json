@@ -9993,14 +9993,15 @@
       "nomeCliente": "Virgilio Freire ",
       "contatoCliente": "+55 85 9619-0370",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "282.15",
+      "numeroPedido": "19487 ",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-09-30T14:35:08.900Z"
     },
     {
       "id": "rmub9rn8js5qvtg",
@@ -14532,5 +14533,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T14:26:45.710Z"
+  "updatedAt": "2026-09-30T14:35:08.900Z"
 }
