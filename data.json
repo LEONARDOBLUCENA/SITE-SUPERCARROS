@@ -14075,14 +14075,14 @@
       "contatoCliente": "+55 31 9707-4358",
       "origem": "Prime Gourmet",
       "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
+      "produtoInteresse": "Porsche Cayman, Lancer Evo, Camaro SS amarelo, Mustang GT ou BMW M3 ) - Sujeito a disponibilidade",
       "dataVenda": "2026-09-29",
       "valorVenda": "1969.00",
-      "numeroPedido": "Porsche Cayman, Lancer Evo, Camaro SS amarelo, Mustang GT ou BMW M3 ) - Sujeito a disponibilidade",
+      "numeroPedido": "19439",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-29T18:32:54.755Z"
+      "updatedAt": "2026-09-30T00:38:34.923Z"
     },
     {
       "id": "rmumwgcy11kp1zj",
@@ -14400,5 +14400,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T00:19:29.311Z"
+  "updatedAt": "2026-09-30T00:38:34.923Z"
 }
