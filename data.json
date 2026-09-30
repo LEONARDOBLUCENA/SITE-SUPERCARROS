@@ -13249,15 +13249,16 @@
       "dataAtendimento": "2026-09-27",
       "nomeCliente": "Míriam Batista Bittencort",
       "contatoCliente": "55 33 8412-6551",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-30",
+      "valorVenda": "647.00",
+      "numeroPedido": "19501",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-30T18:02:15.093Z"
     },
     {
       "id": "rmuk4wnwov6by2k",
@@ -14631,5 +14632,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T17:44:22.661Z"
+  "updatedAt": "2026-09-30T18:02:15.094Z"
 }
