@@ -464,13 +464,14 @@
       "nomeCliente": "~Thaila Espinola",
       "contatoCliente": "+55 67 9122-8008",
       "origem": "Cara de Mau",
-      "statusAtendimento": "",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "ia vir direto ao sc sem agendamento"
+      "observacao": "ia vir direto ao sc sem agendamento",
+      "updatedAt": "2026-09-30T19:13:08.014Z"
     },
     {
       "id": "rmtstygzn2p97xk",
@@ -14731,5 +14732,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T19:04:56.441Z"
+  "updatedAt": "2026-09-30T19:13:08.015Z"
 }
