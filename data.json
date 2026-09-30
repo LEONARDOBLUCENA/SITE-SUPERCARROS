@@ -14569,6 +14569,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuo8ov9i37g6qb",
+      "createdAt": "2026-09-30T15:07:45.606Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Rafael Chagas ",
+      "contatoCliente": "+55 27 99962-6755",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14581,5 +14597,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T15:07:21.711Z"
+  "updatedAt": "2026-09-30T15:07:46.807Z"
 }
