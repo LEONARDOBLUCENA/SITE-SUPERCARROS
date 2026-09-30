@@ -14719,6 +14719,22 @@
       "observacao": "Busca nossos serviços em SP ",
       "vendedora": "bruna",
       "updatedAt": "2026-09-30T20:08:49.907Z"
+    },
+    {
+      "id": "rmuojh7npncpap3",
+      "createdAt": "2026-09-30T20:09:44.197Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Daniela ",
+      "contatoCliente": "+55 32 9144-7025",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14731,5 +14747,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T20:08:49.907Z"
+  "updatedAt": "2026-09-30T20:09:44.880Z"
 }
