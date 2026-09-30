@@ -14365,14 +14365,15 @@
       "nomeCliente": "andre lanah viagens",
       "contatoCliente": "+55 11 3280-1422",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-09-30",
+      "valorVenda": "980.00",
+      "numeroPedido": "19485",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-09-30T14:17:01.993Z"
     },
     {
       "id": "rmuncyj1j97yzwk",
@@ -14514,5 +14515,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T14:04:14.823Z"
+  "updatedAt": "2026-09-30T14:17:01.993Z"
 }
