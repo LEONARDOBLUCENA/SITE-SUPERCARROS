@@ -14652,6 +14652,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuogr8gbonpjc4",
+      "createdAt": "2026-09-30T18:53:32.939Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Maria Fernanda ",
+      "contatoCliente": "+55 38 99110-1553",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14664,5 +14680,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T18:52:27.037Z"
+  "updatedAt": "2026-09-30T18:53:33.541Z"
 }
