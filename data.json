@@ -14691,7 +14691,7 @@
       "dataAtendimento": "2026-09-01",
       "nomeCliente": "Debora",
       "contatoCliente": "+55 21 96497-9131",
-      "origem": "",
+      "origem": "Cara de Mau",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-30",
@@ -14701,7 +14701,8 @@
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-09-30T18:58:04.342Z"
     }
   ],
   "siteVendas": [
@@ -14714,5 +14715,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T18:57:38.497Z"
+  "updatedAt": "2026-09-30T18:58:04.342Z"
 }
