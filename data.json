@@ -14602,6 +14602,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuodokhumlapp2",
+      "createdAt": "2026-09-30T17:27:29.730Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Ana Paula Santos",
+      "contatoCliente": "55 11 99580-8431",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -14614,5 +14630,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T17:27:13.940Z"
+  "updatedAt": "2026-09-30T17:27:30.628Z"
 }
