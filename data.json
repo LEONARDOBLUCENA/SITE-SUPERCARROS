@@ -14702,6 +14702,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuojf5lpxivzlp",
+      "createdAt": "2026-09-30T20:08:08.221Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Thais ",
+      "contatoCliente": "+55 11 98353-3052",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14714,5 +14730,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T19:24:50.315Z"
+  "updatedAt": "2026-09-30T20:08:10.505Z"
 }
