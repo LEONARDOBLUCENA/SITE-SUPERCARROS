@@ -14636,6 +14636,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuogmwvh770z0m",
+      "createdAt": "2026-09-30T18:50:11.309Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Carollinny Gomes",
+      "contatoCliente": "+55 63 99208-0020",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14648,5 +14664,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T18:47:17.825Z"
+  "updatedAt": "2026-09-30T18:50:12.288Z"
 }
