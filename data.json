@@ -14142,7 +14142,7 @@
       "nomeCliente": "thiago fernandez",
       "contatoCliente": "+55 11 97722-0825",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-29",
       "valorVenda": "1074.00",
@@ -14151,7 +14151,8 @@
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-09-30T14:04:14.820Z"
     },
     {
       "id": "rmun16inq33a7dn",
@@ -14513,5 +14514,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T13:32:01.567Z"
+  "updatedAt": "2026-09-30T14:04:14.823Z"
 }
