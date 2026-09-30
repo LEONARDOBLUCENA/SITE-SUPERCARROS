@@ -14620,6 +14620,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuogj6e0l2udm2",
+      "createdAt": "2026-09-30T18:47:17.016Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Carolina Teodoro",
+      "contatoCliente": "+55 21 97234-8029 ",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14632,5 +14648,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T18:02:15.094Z"
+  "updatedAt": "2026-09-30T18:47:17.825Z"
 }
