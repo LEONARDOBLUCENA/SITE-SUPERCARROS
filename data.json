@@ -15055,6 +15055,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuq0pcbfkcrwb1",
+      "createdAt": "2026-10-01T20:59:43.131Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Anna Cecilia",
+      "contatoCliente": "+55 22 99945-3350",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15067,5 +15083,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-01T20:59:35.913Z"
+  "updatedAt": "2026-10-01T20:59:44.022Z"
 }
