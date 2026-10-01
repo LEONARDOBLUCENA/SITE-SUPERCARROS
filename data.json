@@ -15007,6 +15007,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmupugquu6mj511",
+      "createdAt": "2026-10-01T18:05:04.374Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Stéfani",
+      "contatoCliente": "55 54 8128-0555",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15019,5 +15035,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-01T13:05:40.321Z"
+  "updatedAt": "2026-10-01T18:05:05.261Z"
 }
