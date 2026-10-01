@@ -15071,6 +15071,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuq447ft144k4a",
+      "createdAt": "2026-10-01T22:35:15.497Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Jardel",
+      "contatoCliente": "55 48 9612-1262",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15083,5 +15099,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-01T20:59:44.022Z"
+  "updatedAt": "2026-10-01T22:35:16.422Z"
 }
