@@ -14735,6 +14735,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuphq47gzon98q",
+      "createdAt": "2026-10-01T12:08:26.572Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Pedro Oliveira ",
+      "contatoCliente": "+55 83 9880-7172",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14747,5 +14763,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-09-30T20:09:44.880Z"
+  "updatedAt": "2026-10-01T12:08:27.771Z"
 }
