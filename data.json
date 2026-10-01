@@ -14831,6 +14831,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmupht85qkisi2x",
+      "createdAt": "2026-10-01T12:10:51.662Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Letícia Gaio ",
+      "contatoCliente": "+55 21 98390-3940",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14843,5 +14859,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:10:28.023Z"
+  "updatedAt": "2026-10-01T12:10:53.206Z"
 }
