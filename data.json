@@ -14911,6 +14911,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmupi909h9fgpf6",
+      "createdAt": "2026-10-01T12:23:07.925Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Milena De Menezes",
+      "contatoCliente": "+55 92 99144-9207",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14923,5 +14939,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:11:56.611Z"
+  "updatedAt": "2026-10-01T12:23:09.121Z"
 }
