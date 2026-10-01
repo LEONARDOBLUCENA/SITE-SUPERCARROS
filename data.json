@@ -14991,6 +14991,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmupjn4gr2f15u2",
+      "createdAt": "2026-10-01T13:02:06.171Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Matheus Rodrigues",
+      "contatoCliente": "(31) 98927 0275",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15003,5 +15019,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T13:00:52.109Z"
+  "updatedAt": "2026-10-01T13:02:07.606Z"
 }
