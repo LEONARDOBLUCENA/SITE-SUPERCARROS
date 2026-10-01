@@ -15023,6 +15023,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmupvq071fhqfe5",
+      "createdAt": "2026-10-01T18:40:15.997Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Marcela",
+      "contatoCliente": "+55 38 9997-6807",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "comprar ingresso ",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15035,5 +15051,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-01T18:05:05.261Z"
+  "updatedAt": "2026-10-01T18:40:17.071Z"
 }
