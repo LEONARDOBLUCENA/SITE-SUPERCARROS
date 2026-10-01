@@ -14927,6 +14927,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmupjjchp3cpxzp",
+      "createdAt": "2026-10-01T12:59:09.949Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Luiza Batista",
+      "contatoCliente": "(11) 97147 4879",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14939,5 +14955,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:23:09.121Z"
+  "updatedAt": "2026-10-01T12:59:10.902Z"
 }
