@@ -14959,6 +14959,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmupjkhj3vf12fl",
+      "createdAt": "2026-10-01T13:00:03.135Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Rhomerr Souza",
+      "contatoCliente": "(32) 99869 7673",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14971,5 +14987,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:59:37.965Z"
+  "updatedAt": "2026-10-01T13:00:03.915Z"
 }
