@@ -14943,6 +14943,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmupjjx3nvbzl5e",
+      "createdAt": "2026-10-01T12:59:36.659Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Lavinya Pazini",
+      "contatoCliente": "(28) 99962 1511",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14955,5 +14971,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:59:10.902Z"
+  "updatedAt": "2026-10-01T12:59:37.965Z"
 }
