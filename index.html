@@ -698,6 +698,7 @@
     search: {},  // vendorKey -> search string
     filters: {}, // vendorKey -> { year, month, origem }
     originMetric: {}, // vendorKey -> "count" | "valor"
+    commissionFilters: {}, // vendorKey -> { year, month } (seção de Comissão do mês)
     dashFilters: { year: "", month: "" } // filtro selecionado no dashboard (para os novos KPIs)
   };
 
@@ -1251,8 +1252,11 @@
     return (
       '<div class="card commission-card" data-role="commission-card">' +
         '<div class="list-head" style="margin-bottom:4px;">' +
-          '<h2>💰 Comissão do mês — ' + v.name + '</h2>' +
-          '<span class="list-count" data-role="commission-period"></span>' +
+          '<h2>💰 Comissão — ' + v.name + '</h2>' +
+          '<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">' +
+            '<select class="dash-filters-select" data-role="commission-filter-year"></select>' +
+            '<select class="dash-filters-select" data-role="commission-filter-month"></select>' +
+          '</div>' +
         '</div>' +
         '<p class="commission-note">Acompanhamento automático com base nas vendas com status "Pago". Régua progressiva marginal definida na planilha de comissão (aprovada) — considera somente Bruna e Gisele.</p>' +
         '<div class="commission-body" data-role="commission-body"></div>' +
@@ -1804,20 +1808,41 @@
     }).join("");
   }
 
+  function populateCommissionFilters(v){
+    var panel = document.getElementById("panel-" + v.key);
+    var yearSel = panel.querySelector('[data-role="commission-filter-year"]');
+    var monthSel = panel.querySelector('[data-role="commission-filter-month"]');
+    if(!yearSel || !monthSel) return;
+
+    var now = new Date();
+    var cf = state.commissionFilters[v.key];
+    if(!cf){
+      cf = { year: String(now.getFullYear()), month: String(now.getMonth() + 1) };
+      state.commissionFilters[v.key] = cf;
+    }
+
+    var years = vendorAvailableYears(v.key);
+    yearSel.innerHTML = years.map(function(y){ return '<option value="'+y+'">'+y+'</option>'; }).join("");
+    monthSel.innerHTML = MESES_LONG.map(function(m,i){ return '<option value="'+(i+1)+'">'+m+'</option>'; }).join("");
+    yearSel.value = cf.year;
+    monthSel.value = cf.month;
+  }
+
   function renderCommissionSection(v){
     if(COMMISSION_VENDORS.indexOf(v.key) === -1) return;
     var panel = document.getElementById("panel-" + v.key);
-    var periodEl = panel.querySelector('[data-role="commission-period"]');
     var host = panel.querySelector('[data-role="commission-body"]');
     if(!host) return;
 
+    populateCommissionFilters(v);
+    var cf = state.commissionFilters[v.key];
+    var year = Number(cf.year);
+    var month = Number(cf.month);
     var now = new Date();
-    var year = now.getFullYear();
-    var month = now.getMonth() + 1;
+    var isCurrentMonth = (year === now.getFullYear() && month === now.getMonth() + 1);
+
     var venda = vendorMonthSalesTotal(v.key, year, month);
     var c = computeCommission(venda);
-
-    periodEl.textContent = MESES_LONG[month-1] + "/" + year;
 
     // Faixa onde a venda está atualmente (a primeira cujo teto ainda não foi
     // ultrapassado) e a PRÓXIMA faixa logo acima dela, para destacar
@@ -1841,7 +1866,9 @@
     );
 
     var faltaMsg = "";
-    if(proxima){
+    if(!isCurrentMonth){
+      faltaMsg = '<div class="commission-next">Mês encerrado — valores finais de ' + MESES_LONG[month-1] + '/' + year + '.</div>';
+    } else if(proxima){
       faltaMsg = '<div class="commission-next">Faltam <strong>' + fmtBRL(falta) + '</strong> em vendas para subir para a faixa "' + proxima.label.replace("De ", "de ") + '" (taxa ' + (proxima.rate*100).toFixed(1).replace(".",",") + '%).</div>';
     } else {
       faltaMsg = '<div class="commission-next">Já está na última faixa da régua (acima de R$ 70.000) — toda venda adicional continua rendendo ' + (COMMISSION_BRACKETS[COMMISSION_BRACKETS.length-1].rate*100).toFixed(1).replace(".",",") + '% de comissão.</div>';
@@ -2113,6 +2140,21 @@
         state.filters[v.key].phone = ev.target.value;
         renderVendorPanel(v);
       });
+
+      var commissionYearSel = panel.querySelector('[data-role="commission-filter-year"]');
+      var commissionMonthSel = panel.querySelector('[data-role="commission-filter-month"]');
+      if(commissionYearSel && commissionMonthSel){
+        commissionYearSel.addEventListener("change", function(ev){
+          state.commissionFilters[v.key] = state.commissionFilters[v.key] || {};
+          state.commissionFilters[v.key].year = ev.target.value;
+          renderCommissionSection(v);
+        });
+        commissionMonthSel.addEventListener("change", function(ev){
+          state.commissionFilters[v.key] = state.commissionFilters[v.key] || {};
+          state.commissionFilters[v.key].month = ev.target.value;
+          renderCommissionSection(v);
+        });
+      }
 
       panel.querySelector('[data-role="status-tiles"]').addEventListener("click", function(ev){
         var tile = ev.target.closest(".status-tile");
