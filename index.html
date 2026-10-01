@@ -289,6 +289,31 @@
     background:none; border:none; color:var(--accent); font-size:12px; font-weight:700; cursor:pointer; padding:0; margin-left:auto;
   }
 
+  .commission-card{ padding:20px 20px 18px; margin-bottom:22px; border-left:3px solid var(--good); }
+  .commission-note{ font-size:12px; color:var(--text-muted); margin:0 0 14px; line-height:1.5; }
+  .commission-stats{ display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:10px; margin-bottom:14px; }
+  .commission-stat{
+    background:var(--surface-2); border:1px solid var(--border); border-radius:11px; padding:12px 14px;
+  }
+  .commission-stat.highlight{ background:var(--good-soft); border-color:transparent; }
+  .commission-stat .l{ font-size:11px; color:var(--text-muted); margin-bottom:4px; }
+  .commission-stat .n{ font-family:"Manrope"; font-weight:800; font-size:19px; }
+  .commission-stat.highlight .n{ color:var(--good-ink); }
+  .commission-next{
+    font-size:12px; color:var(--text-soft); background:var(--surface-2); border:1px solid var(--border);
+    border-radius:8px; padding:9px 12px; margin-bottom:14px; line-height:1.5;
+  }
+  .commission-brackets{ display:flex; flex-direction:column; gap:12px; }
+  .commission-bracket{ opacity:.55; }
+  .commission-bracket.active{ opacity:1; }
+  .commission-bracket .top{ display:flex; justify-content:space-between; align-items:baseline; font-size:12px; margin-bottom:5px; }
+  .commission-bracket .label{ color:var(--text-soft); font-weight:600; }
+  .commission-bracket .rate{ color:var(--text-muted); font-weight:500; }
+  .commission-bracket .value{ font-weight:700; font-variant-numeric:tabular-nums; color:var(--text); }
+  .commission-bar-track{ height:8px; border-radius:5px; background:var(--surface-2); overflow:hidden; }
+  .commission-bar-fill{ height:100%; border-radius:5px; }
+  .commission-bracket .sub{ font-size:10.5px; color:var(--text-muted); margin-top:4px; }
+
   .origin-chart-card{ padding:18px 18px 16px; }
   .origin-toggle{ display:flex; gap:3px; background:var(--surface-2); padding:3px; border-radius:8px; border:1px solid var(--border); flex:none; }
   .origin-toggle button{
@@ -1154,6 +1179,7 @@
             '</button>' +
           '</div>' +
         '</form>' +
+        (COMMISSION_VENDORS.indexOf(v.key) !== -1 ? commissionSectionHtml(v) : "") +
         (v.key === "thabata" ? siteVendasSectionHtml() : "") +
         '<div class="vendor-layout">' +
           '<div class="vendor-main">' +
@@ -1219,6 +1245,21 @@
   }
 
   // ---------------------------------------------------------------------
+  // Seção de acompanhamento de comissão (abas Bruna e Gisele)
+  // ---------------------------------------------------------------------
+  function commissionSectionHtml(v){
+    return (
+      '<div class="card commission-card" data-role="commission-card">' +
+        '<div class="list-head" style="margin-bottom:4px;">' +
+          '<h2>💰 Comissão do mês — ' + v.name + '</h2>' +
+          '<span class="list-count" data-role="commission-period"></span>' +
+        '</div>' +
+        '<p class="commission-note">Acompanhamento automático com base nas vendas com status "Pago". Régua progressiva marginal definida na planilha de comissão (aprovada) — considera somente Bruna e Gisele.</p>' +
+        '<div class="commission-body" data-role="commission-body"></div>' +
+      '</div>'
+    );
+  }
+
   // Cadastro de vendas do site (aba Vendas Thabata)
   // ---------------------------------------------------------------------
   function siteVendasSectionHtml(){
@@ -1529,6 +1570,46 @@
     return r.vendedora === key || (r.compartilhado && r.vendedoraFinalizou === key);
   }
 
+  // ---------------------------------------------------------------------
+  // Comissão — modelo progressivo marginal (aprovado por Leonardo, baseado
+  // na planilha "Comissão — Simulador" / aba "Regras e lógica").
+  // Aplica-se apenas a Bruna e Gisele (vendas individuais). André e Thabata
+  // NÃO entram nesta régua — ficam de fora por decisão explícita.
+  // Cada faixa da venda individual do mês paga uma taxa diferente,
+  // cumulativamente (não é uma alíquota única sobre o total).
+  // ---------------------------------------------------------------------
+  var COMMISSION_VENDORS = ["bruna", "gisele"];
+  var COMMISSION_BRACKETS = [
+    { min: 0,     max: 50000,    rate: 0.058, label: "Até R$ 50.000" },
+    { min: 50000, max: 60000,    rate: 0.035, label: "De R$ 50.000 a R$ 60.000" },
+    { min: 60000, max: 70000,    rate: 0.030, label: "De R$ 60.000 a R$ 70.000" },
+    { min: 70000, max: Infinity, rate: 0.025, label: "Acima de R$ 70.000" }
+  ];
+  function computeCommission(venda){
+    venda = Number(venda) || 0;
+    var total = 0;
+    var faixas = COMMISSION_BRACKETS.map(function(b){
+      var baseNaFaixa = Math.max(0, Math.min(venda, b.max) - b.min);
+      var valor = baseNaFaixa * b.rate;
+      total += valor;
+      return { label: b.label, min: b.min, max: b.max, rate: b.rate, base: baseNaFaixa, valor: valor };
+    });
+    return { venda: venda, total: total, faixas: faixas, efetivo: venda > 0 ? total / venda : 0 };
+  }
+  // Soma das vendas "Pago" de uma vendedora em um mês/ano específico,
+  // já considerando a divisão 40/60 de Atendimento Compartilhado.
+  function vendorMonthSalesTotal(key, year, month){
+    var total = 0;
+    state.records.forEach(function(r){
+      if(!belongsToVendor(r, key)) return;
+      if((r.statusPagamento || "") !== "Pago") return;
+      var d = r.dataVenda || r.dataAtendimento;
+      if(!d || d.slice(0,4) !== String(year) || parseInt(d.slice(5,7),10) !== Number(month)) return;
+      total += valorForVendor(r, key);
+    });
+    return total;
+  }
+
   function vendorRecordsPeriod(key, opts){
     opts = opts || {};
     var f = state.filters[key] || {};
@@ -1723,11 +1804,74 @@
     }).join("");
   }
 
+  function renderCommissionSection(v){
+    if(COMMISSION_VENDORS.indexOf(v.key) === -1) return;
+    var panel = document.getElementById("panel-" + v.key);
+    var periodEl = panel.querySelector('[data-role="commission-period"]');
+    var host = panel.querySelector('[data-role="commission-body"]');
+    if(!host) return;
+
+    var now = new Date();
+    var year = now.getFullYear();
+    var month = now.getMonth() + 1;
+    var venda = vendorMonthSalesTotal(v.key, year, month);
+    var c = computeCommission(venda);
+
+    periodEl.textContent = MESES_LONG[month-1] + "/" + year;
+
+    // Faixa onde a venda está atualmente (a primeira cujo teto ainda não foi
+    // ultrapassado) e a PRÓXIMA faixa logo acima dela, para destacar
+    // "faltam R$X para subir de faixa" — nunca a faixa em que já está.
+    var currentIdx = -1;
+    for(var i=0; i<c.faixas.length; i++){
+      if(venda < c.faixas[i].max){ currentIdx = i; break; }
+    }
+    var proxima = null, falta = 0;
+    if(currentIdx !== -1 && currentIdx < c.faixas.length - 1){
+      falta = c.faixas[currentIdx].max - venda;
+      proxima = c.faixas[currentIdx + 1];
+    }
+
+    var stats = (
+      '<div class="commission-stats">' +
+        '<div class="commission-stat"><div class="l">Vendas do mês (Pago)</div><div class="n num">' + fmtBRL(venda) + '</div></div>' +
+        '<div class="commission-stat highlight"><div class="l">Comissão acumulada</div><div class="n num">' + fmtBRL(c.total) + '</div></div>' +
+        '<div class="commission-stat"><div class="l">% efetivo sobre a venda</div><div class="n num">' + (c.efetivo*100).toFixed(2).replace(".",",") + '%</div></div>' +
+      '</div>'
+    );
+
+    var faltaMsg = "";
+    if(proxima){
+      faltaMsg = '<div class="commission-next">Faltam <strong>' + fmtBRL(falta) + '</strong> em vendas para subir para a faixa "' + proxima.label.replace("De ", "de ") + '" (taxa ' + (proxima.rate*100).toFixed(1).replace(".",",") + '%).</div>';
+    } else {
+      faltaMsg = '<div class="commission-next">Já está na última faixa da régua (acima de R$ 70.000) — toda venda adicional continua rendendo ' + (COMMISSION_BRACKETS[COMMISSION_BRACKETS.length-1].rate*100).toFixed(1).replace(".",",") + '% de comissão.</div>';
+    }
+
+    var brackets = c.faixas.map(function(f){
+      var faixaTotal = f.max === Infinity ? Math.max(f.base, 1) : (f.max - f.min);
+      var pct = f.base > 0 ? Math.max((f.base / faixaTotal) * 100, 3) : 0;
+      var atingida = f.base >= (f.max === Infinity ? f.base : (f.max - f.min)) && f.max !== Infinity;
+      return (
+        '<div class="commission-bracket' + (f.base > 0 ? ' active' : '') + '">' +
+          '<div class="top">' +
+            '<span class="label">' + escapeHtml(f.label) + ' <span class="rate">(' + (f.rate*100).toFixed(1).replace(".",",") + '%)</span></span>' +
+            '<span class="value num">' + fmtBRL(f.valor) + '</span>' +
+          '</div>' +
+          '<div class="commission-bar-track"><div class="commission-bar-fill" style="width:' + pct + '%;background:var(' + v.varc + ')"></div></div>' +
+          '<div class="sub">Base utilizada nesta faixa: ' + fmtBRL(f.base) + (f.max !== Infinity ? ' de ' + fmtBRL(f.max - f.min) : '') + '</div>' +
+        '</div>'
+      );
+    }).join("");
+
+    host.innerHTML = stats + faltaMsg + '<div class="commission-brackets">' + brackets + '</div>';
+  }
+
   function renderVendorPanel(v){
     var panel = document.getElementById("panel-" + v.key);
     populateVendorFilters(v);
     renderStatusSummary(v);
     renderOriginChart(v);
+    renderCommissionSection(v);
     var list = recordsForVendor(v.key);
     panel.querySelector('[data-role="count"]').textContent =
       list.length + (list.length === 1 ? " lançamento" : " lançamentos");
