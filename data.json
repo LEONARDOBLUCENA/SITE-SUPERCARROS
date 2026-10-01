@@ -14767,6 +14767,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuphra3k4axi7l",
+      "createdAt": "2026-10-01T12:09:20.864Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Nathy ",
+      "contatoCliente": "55 11 95153-3360",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14779,5 +14795,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:08:51.678Z"
+  "updatedAt": "2026-10-01T12:09:21.803Z"
 }
