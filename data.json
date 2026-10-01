@@ -14751,6 +14751,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuphqmkgoifoat",
+      "createdAt": "2026-10-01T12:08:50.368Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Karolayne Menezes",
+      "contatoCliente": "+55 21 98705-9731",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14763,5 +14779,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:08:27.771Z"
+  "updatedAt": "2026-10-01T12:08:51.678Z"
 }
