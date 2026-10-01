@@ -14815,6 +14815,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuphsozx5th6bu",
+      "createdAt": "2026-10-01T12:10:26.829Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Explorando Viagens Germano ",
+      "contatoCliente": "+55 81 8305-1939",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14827,5 +14843,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:10:04.877Z"
+  "updatedAt": "2026-10-01T12:10:28.023Z"
 }
