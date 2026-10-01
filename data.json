@@ -14863,6 +14863,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuphtzcuw2z4oa",
+      "createdAt": "2026-10-01T12:11:26.910Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+372 5703 7741",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14875,5 +14891,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:11:13.209Z"
+  "updatedAt": "2026-10-01T12:11:28.213Z"
 }
