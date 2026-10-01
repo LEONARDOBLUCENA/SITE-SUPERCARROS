@@ -14783,6 +14783,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuphrpvg32msbn",
+      "createdAt": "2026-10-01T12:09:41.308Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "André ",
+      "contatoCliente": "+55 27 98115-0180",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14795,5 +14811,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:09:21.803Z"
+  "updatedAt": "2026-10-01T12:09:42.372Z"
 }
