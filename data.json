@@ -14799,6 +14799,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuphs7cx6j3w63",
+      "createdAt": "2026-10-01T12:10:03.969Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Helen del Apria ",
+      "contatoCliente": "+55 45 9954-3359",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -14811,5 +14827,5 @@
       "updatedAt": "2026-09-28T16:54:58.612Z"
     }
   ],
-  "updatedAt": "2026-10-01T12:09:42.372Z"
+  "updatedAt": "2026-10-01T12:10:04.877Z"
 }
