@@ -6882,16 +6882,17 @@
       "vendedora": "gisele",
       "createdAt": "2026-09-15T12:24:02.605Z",
       "dataAtendimento": "2026-09-15",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "Camila",
       "contatoCliente": "+55 54 9658-6687",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-10-02",
+      "valorVenda": "300.00",
+      "numeroPedido": "19557 e 18831 ",
+      "statusPagamento": "Pago",
+      "observacao": "18831 é a compra antiga que foi usada como crédito",
+      "updatedAt": "2026-10-02T22:03:11.520Z"
     },
     {
       "id": "rmu2ne2fpi2fdea",
@@ -15365,5 +15366,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-02T20:19:40.343Z"
+  "updatedAt": "2026-10-02T22:03:11.521Z"
 }
