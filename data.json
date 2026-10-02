@@ -15098,11 +15098,12 @@
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
+      "valorVenda": "638.50",
+      "numeroPedido": "19535",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-02T12:50:13.955Z"
     },
     {
       "id": "rmuqx5u0f5knzth",
@@ -15212,5 +15213,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:49:27.810Z"
+  "updatedAt": "2026-10-02T12:50:13.955Z"
 }
