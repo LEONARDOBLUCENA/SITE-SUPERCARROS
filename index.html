@@ -1252,7 +1252,7 @@
             '<select class="dash-filters-select" data-role="commission-filter-month"></select>' +
           '</div>' +
         '</div>' +
-        '<p class="commission-note">Acompanhamento automático com base nas vendas com status "Pago". Régua progressiva marginal definida na planilha de comissão (aprovada) — considera somente Bruna e Gisele.</p>' +
+        '<p class="commission-note">Acompanhamento automático com base nas vendas com status "Pago": 4,5% sobre a venda própria + participação no Site Direto do mês (pool de 2,03%, dividido 50/50 entre Bruna e Gisele). Modelo aprovado (planilha v11) — considera somente Bruna e Gisele.</p>' +
         '<div class="commission-body" data-role="commission-body"></div>' +
       '</div>'
     );
@@ -1569,30 +1569,38 @@
   }
 
   // ---------------------------------------------------------------------
-  // Comissão — modelo progressivo marginal (aprovado por Leonardo, baseado
-  // na planilha "Comissão — Simulador" / aba "Regras e lógica").
-  // Aplica-se apenas a Bruna e Gisele (vendas individuais). André e Thabata
-  // NÃO entram nesta régua — ficam de fora por decisão explícita.
-  // Cada faixa da venda individual do mês paga uma taxa diferente,
-  // cumulativamente (não é uma alíquota única sobre o total).
+  // Comissão — modelo "venda própria + participação no site" (aprovado por
+  // Leonardo, baseado na planilha "Simulador — Venda Própria + Participação
+  // no Site" / aba "Regras", v11 — substitui o modelo progressivo marginal
+  // anterior). Aplica-se apenas a Bruna e Gisele. André e Thabata NÃO
+  // entram neste cálculo — ficam de fora por decisão explícita.
+  //
+  // Comissão = (venda própria × 4,5%) + metade de um pool equivalente a
+  // 2,03% do "Site Direto" do mês (Faturamento do site − Bruna − Gisele −
+  // Thabata, mesmo conceito já usado no KPI "Vendas do Site" > Site Direto;
+  // decisão confirmada com Leonardo em 02/10/2026 — a planilha original não
+  // descontava a Thabata, mas optamos por manter consistência com o que já
+  // existia no app).
   // ---------------------------------------------------------------------
   var COMMISSION_VENDORS = ["bruna", "gisele"];
-  var COMMISSION_BRACKETS = [
-    { min: 0,     max: 50000,    rate: 0.058, label: "Até R$ 50.000" },
-    { min: 50000, max: 60000,    rate: 0.035, label: "De R$ 50.000 a R$ 60.000" },
-    { min: 60000, max: 70000,    rate: 0.030, label: "De R$ 60.000 a R$ 70.000" },
-    { min: 70000, max: Infinity, rate: 0.025, label: "Acima de R$ 70.000" }
-  ];
-  function computeCommission(venda){
-    venda = Number(venda) || 0;
-    var total = 0;
-    var faixas = COMMISSION_BRACKETS.map(function(b){
-      var baseNaFaixa = Math.max(0, Math.min(venda, b.max) - b.min);
-      var valor = baseNaFaixa * b.rate;
-      total += valor;
-      return { label: b.label, min: b.min, max: b.max, rate: b.rate, base: baseNaFaixa, valor: valor };
-    });
-    return { venda: venda, total: total, faixas: faixas, efetivo: venda > 0 ? total / venda : 0 };
+  var COMMISSION_INDIVIDUAL_RATE = 0.045;  // % sobre a venda própria
+  var COMMISSION_SITE_POOL_RATE = 0.0203;  // % do Site Direto destinado ao pool das vendedoras
+  var COMMISSION_SITE_SHARE = 0.5;         // divisão do pool entre Bruna e Gisele (metade cada)
+
+  function computeCommission(vendaPropria, siteDireto){
+    vendaPropria = Number(vendaPropria) || 0;
+    siteDireto = Math.max(0, Number(siteDireto) || 0);
+    var individual = vendaPropria * COMMISSION_INDIVIDUAL_RATE;
+    var siteParte = siteDireto * COMMISSION_SITE_POOL_RATE * COMMISSION_SITE_SHARE;
+    var total = individual + siteParte;
+    return {
+      venda: vendaPropria,
+      siteDireto: siteDireto,
+      individual: individual,
+      siteParte: siteParte,
+      total: total,
+      efetivo: vendaPropria > 0 ? total / vendaPropria : 0
+    };
   }
   // Soma das vendas "Pago" de uma vendedora em um mês/ano específico,
   // já considerando a divisão 40/60 de Atendimento Compartilhado.
@@ -1606,6 +1614,16 @@
       total += valorForVendor(r, key);
     });
     return total;
+  }
+  // "Site Direto" do mês = Vendas do Site (cadastro manual, aba Thabata)
+  // menos as vendas "Pago" de Bruna, Gisele e Thabata com origem diferente
+  // de "Evento" — mesmo cálculo já usado no KPI "Vendas do Site" do
+  // dashboard (vendorOutrosTotals / siteVendaTotal).
+  function monthSiteDireto(year, month){
+    var siteTotal = siteVendaTotal(year, month);
+    var outros = vendorOutrosTotals(year, month);
+    var outrosSum = VENDORS.reduce(function(sum, v){ return sum + outros[v.key]; }, 0);
+    return siteTotal - outrosSum;
   }
 
   function vendorRecordsPeriod(key, opts){
@@ -1836,55 +1854,53 @@
     var isCurrentMonth = (year === now.getFullYear() && month === now.getMonth() + 1);
 
     var venda = vendorMonthSalesTotal(v.key, year, month);
-    var c = computeCommission(venda);
-
-    // Faixa onde a venda está atualmente (a primeira cujo teto ainda não foi
-    // ultrapassado) e a PRÓXIMA faixa logo acima dela, para destacar
-    // "faltam R$X para subir de faixa" — nunca a faixa em que já está.
-    var currentIdx = -1;
-    for(var i=0; i<c.faixas.length; i++){
-      if(venda < c.faixas[i].max){ currentIdx = i; break; }
-    }
-    var proxima = null, falta = 0;
-    if(currentIdx !== -1 && currentIdx < c.faixas.length - 1){
-      falta = c.faixas[currentIdx].max - venda;
-      proxima = c.faixas[currentIdx + 1];
-    }
+    var siteDireto = monthSiteDireto(year, month);
+    var c = computeCommission(venda, siteDireto);
 
     var stats = (
       '<div class="commission-stats">' +
-        '<div class="commission-stat"><div class="l">Vendas do mês (Pago)</div><div class="n num">' + fmtBRL(venda) + '</div></div>' +
-        '<div class="commission-stat highlight"><div class="l">Comissão acumulada</div><div class="n num">' + fmtBRL(c.total) + '</div></div>' +
-        '<div class="commission-stat"><div class="l">% efetivo sobre a venda</div><div class="n num">' + (c.efetivo*100).toFixed(2).replace(".",",") + '%</div></div>' +
+        '<div class="commission-stat"><div class="l">Venda própria (Pago)</div><div class="n num">' + fmtBRL(venda) + '</div></div>' +
+        '<div class="commission-stat highlight"><div class="l">Comissão total</div><div class="n num">' + fmtBRL(c.total) + '</div></div>' +
+        '<div class="commission-stat"><div class="l">% efetivo sobre a venda própria</div><div class="n num">' + (c.efetivo*100).toFixed(2).replace(".",",") + '%</div></div>' +
       '</div>'
     );
 
-    var faltaMsg = "";
-    if(!isCurrentMonth){
-      faltaMsg = '<div class="commission-next">Mês encerrado — valores finais de ' + MESES_LONG[month-1] + '/' + year + '.</div>';
-    } else if(proxima){
-      faltaMsg = '<div class="commission-next">Faltam <strong>' + fmtBRL(falta) + '</strong> em vendas para subir para a faixa "' + proxima.label.replace("De ", "de ") + '" (taxa ' + (proxima.rate*100).toFixed(1).replace(".",",") + '%).</div>';
-    } else {
-      faltaMsg = '<div class="commission-next">Já está na última faixa da régua (acima de R$ 70.000) — toda venda adicional continua rendendo ' + (COMMISSION_BRACKETS[COMMISSION_BRACKETS.length-1].rate*100).toFixed(1).replace(".",",") + '% de comissão.</div>';
-    }
+    var statusMsg = '<div class="commission-next">' +
+      (isCurrentMonth ? 'Acompanhamento em tempo real de ' : 'Mês encerrado — valores finais de ') +
+      MESES_LONG[month-1] + '/' + year + '. Site Direto do mês (empresa toda): <strong>' + fmtBRL(siteDireto) + '</strong>' +
+      (siteDireto < 0 ? ' — valor negativo: confira se o cadastro de "Vendas do Site" do mês já foi feito.' : '.') +
+      '</div>';
 
-    var brackets = c.faixas.map(function(f){
-      var faixaTotal = f.max === Infinity ? Math.max(f.base, 1) : (f.max - f.min);
-      var pct = f.base > 0 ? Math.max((f.base / faixaTotal) * 100, 3) : 0;
-      var atingida = f.base >= (f.max === Infinity ? f.base : (f.max - f.min)) && f.max !== Infinity;
+    var parts = [
+      {
+        label: "Comissão individual",
+        rate: COMMISSION_INDIVIDUAL_RATE,
+        valor: c.individual,
+        sub: (COMMISSION_INDIVIDUAL_RATE*100).toFixed(1).replace(".",",") + "% sobre a venda própria (" + fmtBRL(venda) + ")"
+      },
+      {
+        label: "Participação no Site Direto",
+        rate: COMMISSION_SITE_POOL_RATE * COMMISSION_SITE_SHARE,
+        valor: c.siteParte,
+        sub: (COMMISSION_SITE_POOL_RATE*100).toFixed(2).replace(".",",") + "% do Site Direto (" + fmtBRL(Math.max(0,siteDireto)) + "), dividido entre Bruna e Gisele (50% cada)"
+      }
+    ];
+    var maxParte = Math.max(parts[0].valor, parts[1].valor, 1);
+    var brackets = parts.map(function(f){
+      var pct = f.valor > 0 ? Math.max((f.valor / maxParte) * 100, 3) : 0;
       return (
-        '<div class="commission-bracket' + (f.base > 0 ? ' active' : '') + '">' +
+        '<div class="commission-bracket' + (f.valor > 0 ? ' active' : '') + '">' +
           '<div class="top">' +
-            '<span class="label">' + escapeHtml(f.label) + ' <span class="rate">(' + (f.rate*100).toFixed(1).replace(".",",") + '%)</span></span>' +
+            '<span class="label">' + escapeHtml(f.label) + '</span>' +
             '<span class="value num">' + fmtBRL(f.valor) + '</span>' +
           '</div>' +
           '<div class="commission-bar-track"><div class="commission-bar-fill" style="width:' + pct + '%;background:var(' + v.varc + ')"></div></div>' +
-          '<div class="sub">Base utilizada nesta faixa: ' + fmtBRL(f.base) + (f.max !== Infinity ? ' de ' + fmtBRL(f.max - f.min) : '') + '</div>' +
+          '<div class="sub">' + f.sub + '</div>' +
         '</div>'
       );
     }).join("");
 
-    host.innerHTML = stats + faltaMsg + '<div class="commission-brackets">' + brackets + '</div>';
+    host.innerHTML = stats + statusMsg + '<div class="commission-brackets">' + brackets + '</div>';
   }
 
   function renderVendorPanel(v){
