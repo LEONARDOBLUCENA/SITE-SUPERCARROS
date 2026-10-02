@@ -15135,6 +15135,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuqxddijq3qro7",
+      "createdAt": "2026-10-02T12:14:12.139Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Ríberton Teixeira De Assis",
+      "contatoCliente": "Ríberton Teixeira De Assis",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15147,5 +15163,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:08:43.397Z"
+  "updatedAt": "2026-10-02T12:14:12.811Z"
 }
