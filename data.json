@@ -15103,6 +15103,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuqx5u0f5knzth",
+      "createdAt": "2026-10-02T12:08:20.271Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Matheus ",
+      "contatoCliente": "+55 81 8441-4164",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Busca nossos serviços em SC ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15115,5 +15131,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:03:57.713Z"
+  "updatedAt": "2026-10-02T12:08:22.697Z"
 }
