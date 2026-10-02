@@ -15183,6 +15183,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuqxu0xfe8edja",
+      "createdAt": "2026-10-02T12:27:08.979Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Matheus Barbosa",
+      "contatoCliente": "(21) 98840 4275",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15195,5 +15211,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:20:22.778Z"
+  "updatedAt": "2026-10-02T12:27:10.024Z"
 }
