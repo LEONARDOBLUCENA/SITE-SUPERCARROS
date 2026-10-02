@@ -15298,6 +15298,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmurca24fo18vlj",
+      "createdAt": "2026-10-02T19:11:31.647Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 22 99977-8901",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15317,5 +15333,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-02T17:23:07.585Z"
+  "updatedAt": "2026-10-02T19:11:32.482Z"
 }
