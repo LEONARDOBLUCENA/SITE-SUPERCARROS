@@ -15119,6 +15119,22 @@
       "statusPagamento": "",
       "observacao": "Busca nossos serviços em SC ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuqx6bawdv4bzn",
+      "createdAt": "2026-10-02T12:08:42.680Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Sarah Victoria ",
+      "contatoCliente": "+55 21 96921-3586",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15131,5 +15147,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:08:22.697Z"
+  "updatedAt": "2026-10-02T12:08:43.397Z"
 }
