@@ -15330,6 +15330,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmurepofr98kyro",
+      "createdAt": "2026-10-02T20:19:39.639Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "~Cristiane Leopoldo",
+      "contatoCliente": "+55 21 97222-7509",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15349,5 +15365,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-02T20:19:23.355Z"
+  "updatedAt": "2026-10-02T20:19:40.343Z"
 }
