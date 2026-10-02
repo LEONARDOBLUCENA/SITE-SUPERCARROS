@@ -15220,22 +15220,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmur5wws9zdszhi",
-      "createdAt": "2026-10-02T16:13:20.505Z",
-      "dataAtendimento": "2026-10-02",
-      "nomeCliente": "gisele",
-      "contatoCliente": "54992568372",
-      "origem": "Outro",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "85000.00",
-      "numeroPedido": "",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmur6iloekghnnw",
       "createdAt": "2026-10-02T16:30:12.542Z",
       "dataAtendimento": "2026-10-02",
@@ -15262,5 +15246,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T16:30:14.528Z"
+  "updatedAt": "2026-10-02T16:34:46.664Z"
 }
