@@ -14999,14 +14999,15 @@
       "nomeCliente": "Matheus Rodrigues",
       "contatoCliente": "(31) 98927 0275",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-02",
+      "valorVenda": "76.00",
+      "numeroPedido": "19541 ",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-02T13:07:59.113Z"
     },
     {
       "id": "rmupugquu6mj511",
@@ -15213,5 +15214,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:52:13.217Z"
+  "updatedAt": "2026-10-02T13:07:59.113Z"
 }
