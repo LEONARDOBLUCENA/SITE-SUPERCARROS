@@ -15282,6 +15282,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmur8emzb0nfe3h",
+      "createdAt": "2026-10-02T17:23:06.839Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Jackeline",
+      "contatoCliente": "+55 62 8279-8427",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15301,5 +15317,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-02T17:09:58.519Z"
+  "updatedAt": "2026-10-02T17:23:07.585Z"
 }
