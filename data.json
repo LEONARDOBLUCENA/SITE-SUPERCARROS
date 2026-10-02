@@ -15234,23 +15234,6 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
-    },
-    {
-      "id": "rmur6wcz0r80txh",
-      "createdAt": "2026-10-02T16:40:54.444Z",
-      "dataAtendimento": "2026-10-02",
-      "nomeCliente": "gisele",
-      "contatoCliente": "55555",
-      "origem": "",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "150000.00",
-      "numeroPedido": "",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele",
-      "updatedAt": "2026-10-02T16:41:11.872Z"
     }
   ],
   "siteVendas": [
@@ -15263,5 +15246,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T16:41:11.872Z"
+  "updatedAt": "2026-10-02T16:41:46.601Z"
 }
