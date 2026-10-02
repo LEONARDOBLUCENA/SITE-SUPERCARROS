@@ -15178,13 +15178,13 @@
       "origem": "",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-10-02",
       "valorVenda": "117.13",
       "numeroPedido": "19537",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna",
-      "updatedAt": "2026-10-02T12:49:27.810Z"
+      "updatedAt": "2026-10-02T12:52:04.792Z"
     },
     {
       "id": "rmuqxu0xfe8edja",
@@ -15213,5 +15213,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:51:17.865Z"
+  "updatedAt": "2026-10-02T12:52:04.792Z"
 }
