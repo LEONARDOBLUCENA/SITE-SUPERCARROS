@@ -248,6 +248,10 @@
   .status-atd-6::before{ background:var(--bad); }
   .status-atd-7{ background:var(--slate-soft); color:var(--slate-ink); }
   .status-atd-7::before{ background:var(--slate); }
+  .status-atd-8{ background:var(--accent-soft); color:var(--accent-soft-ink); }
+  .status-atd-8::before{ background:var(--accent); }
+  .status-atd-9{ background:var(--thabata-soft); color:var(--thabata); }
+  .status-atd-9::before{ background:var(--thabata); }
 
   .record-actions{ display:flex; gap:6px; }
   .icon-btn{
@@ -609,18 +613,6 @@
 
     <div class="kpi-row" id="kpiRow"></div>
 
-    <div class="card rank-strip" id="rankStrip"></div>
-
-    <div class="card commission-card">
-      <div class="chart-head">
-        <h2>Tabela de comissionamento</h2>
-        <div class="brand-sub" style="margin:0;">Total vendido por vendedora + 1/3 do Site Direto em cada mês</div>
-      </div>
-      <div class="table-scroll">
-        <table class="commission-table" id="commissionTable"></table>
-      </div>
-    </div>
-
     <div class="card chart-card">
       <div class="chart-head">
         <h2>Vendas por mês</h2>
@@ -675,7 +667,7 @@
     { key:"gisele",  name:"Gisele",  varc:"--gisele",  initials:"G" },
     { key:"thabata", name:"Thabata", varc:"--thabata", initials:"T" }
   ];
-  var ORIGENS = ["Prime Gourmet","Cara de Mau","Hard Rock","Carrinho Abandonado","Evento","Upgrade Site","Outro"];
+  var ORIGENS = ["Prime Gourmet","Cara de Mau","Hard Rock","Carrinho Abandonado","Evento","Upgrade Site","WhatsApp","Outro"];
   var STATUS_ATENDIMENTO = [
     "Primeiro atendimento",
     "Em negociação",
@@ -683,7 +675,9 @@
     "Pedido finalizado",
     "Recuperação",
     "Cliente desistiu",
-    "Sem retorno/perdido"
+    "Sem retorno/perdido",
+    "Dúvidas",
+    "Outros"
   ];
   var MESES = ["Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"];
   var MESES_LONG = ["Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"];
@@ -1721,7 +1715,7 @@
     var i = STATUS_ATENDIMENTO.indexOf(s);
     return "status-atd-" + (i === -1 ? 1 : i + 1);
   }
-  var STATUS_ATD_VARS = ["--bruna","--violet","--pending","--good","--magenta","--bad","--slate"];
+  var STATUS_ATD_VARS = ["--bruna","--violet","--pending","--good","--magenta","--bad","--slate","--accent","--thabata"];
 
   function renderStatusSummary(v){
     var panel = document.getElementById("panel-" + v.key);
@@ -2335,15 +2329,6 @@
         '<div class="kpi-sub"><span><b>' + t.count + '</b> venda' + (t.count===1?'':'s') + '</span><span>Ticket médio <b>' + fmtBRL(avg) + '</b></span></div>' +
       '</div>');
     }).join("");
-
-    var monthLabel = month ? MESES_LONG[Number(month)-1] : "o ano";
-    document.getElementById("rankStrip").innerHTML =
-      '<span class="label">Ranking · ' + (month ? monthLabel + " de " + year : year) + '</span>' +
-      ranked.map(function(v, i){
-        var t = totals[v.key];
-        var medal = t.total > 0 ? (["🥇","🥈","🥉"][i] || (i+1)+"º") : (i+1)+"º";
-        return '<span class="rank-chip"><span class="dot" style="background:var(' + v.varc + ')"></span>' + medal + ' ' + v.name + ' — ' + fmtBRL(t.total) + '</span>';
-      }).join("");
 
     renderExtraKpis(year, month);
   }
