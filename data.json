@@ -15202,6 +15202,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmur4g6eyhtz9jp",
+      "createdAt": "2026-10-02T15:32:20.218Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Katina Magalhães",
+      "contatoCliente": "+55 11 97967-7427",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15214,5 +15230,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T13:07:59.113Z"
+  "updatedAt": "2026-10-02T15:32:20.750Z"
 }
