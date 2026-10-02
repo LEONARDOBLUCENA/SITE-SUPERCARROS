@@ -15167,6 +15167,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuqxlaxotegrdw",
+      "createdAt": "2026-10-02T12:20:22.044Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Otica Crisoliv ",
+      "contatoCliente": "+55 86 9906-3742",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15179,5 +15195,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T12:20:08.279Z"
+  "updatedAt": "2026-10-02T12:20:22.778Z"
 }
