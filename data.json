@@ -15234,6 +15234,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmur7im9750houp",
+      "createdAt": "2026-10-02T16:58:12.907Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Marcelo",
+      "contatoCliente": "55 11 97135-3791",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15246,5 +15262,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T16:41:46.601Z"
+  "updatedAt": "2026-10-02T16:58:13.498Z"
 }
