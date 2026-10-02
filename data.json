@@ -15234,6 +15234,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmur6iloekghnnw",
+      "createdAt": "2026-10-02T16:30:12.542Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Davyd Barbosa Franzoni",
+      "contatoCliente": "+55 19 97418-7273",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-02",
+      "valorVenda": "148.50",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15246,5 +15262,5 @@
       "updatedAt": "2026-10-01T13:05:40.321Z"
     }
   ],
-  "updatedAt": "2026-10-02T16:13:21.442Z"
+  "updatedAt": "2026-10-02T16:30:14.528Z"
 }
