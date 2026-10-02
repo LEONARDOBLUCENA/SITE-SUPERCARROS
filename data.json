@@ -15250,6 +15250,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmur7x5d1xep5ii",
+      "createdAt": "2026-10-02T17:09:30.853Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Dienifer Machado",
+      "contatoCliente": "+55 48 8429-8953 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15269,5 +15285,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-02T17:06:26.495Z"
+  "updatedAt": "2026-10-02T17:09:32.472Z"
 }
