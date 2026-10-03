@@ -6884,7 +6884,7 @@
       "dataAtendimento": "2026-09-15",
       "nomeCliente": "Camila",
       "contatoCliente": "+55 54 9658-6687",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-02",
@@ -6892,7 +6892,7 @@
       "numeroPedido": "19557 e 18831 ",
       "statusPagamento": "Pago",
       "observacao": "18831 é a compra antiga que foi usada como crédito",
-      "updatedAt": "2026-10-02T22:03:38.535Z"
+      "updatedAt": "2026-10-03T17:37:48.776Z"
     },
     {
       "id": "rmu2ne2fpi2fdea",
@@ -15547,5 +15547,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T17:37:33.677Z"
+  "updatedAt": "2026-10-03T17:37:48.776Z"
 }
