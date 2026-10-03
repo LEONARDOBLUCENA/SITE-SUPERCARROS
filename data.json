@@ -15487,7 +15487,7 @@
       "dataAtendimento": "2026-10-03",
       "nomeCliente": "Sem nome",
       "contatoCliente": "+55 81 9806-8640",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -15495,7 +15495,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-03T18:47:14.456Z"
     },
     {
       "id": "rmusl6lk426xrnd",
@@ -15711,5 +15712,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:47:04.763Z"
+  "updatedAt": "2026-10-03T18:47:14.456Z"
 }
