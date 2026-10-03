@@ -15519,7 +15519,7 @@
       "dataAtendimento": "2026-10-03",
       "nomeCliente": "~Anny",
       "contatoCliente": "+55 41 9891-3889",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -15527,7 +15527,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-03T18:46:46.340Z"
     },
     {
       "id": "rmusp97g5hzljug",
@@ -15709,5 +15710,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:46:26.080Z"
+  "updatedAt": "2026-10-03T18:46:46.340Z"
 }
