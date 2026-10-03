@@ -15444,6 +15444,24 @@
       "statusPagamento": "",
       "observacao": "Tem voucher do Alpestre ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuskv2qitslb30",
+      "createdAt": "2026-10-03T15:59:35.322Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "cristiane",
+      "contatoCliente": "+55 21 97222-7509",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-03",
+      "valorVenda": "1300.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -15463,5 +15481,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T15:58:21.642Z"
+  "updatedAt": "2026-10-03T15:59:35.867Z"
 }
