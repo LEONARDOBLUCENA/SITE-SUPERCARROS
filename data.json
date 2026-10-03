@@ -15494,6 +15494,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmusl6lk426xrnd",
+      "createdAt": "2026-10-03T16:08:32.932Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "Emanuella Soratto",
+      "contatoCliente": "+55 48 8404-0216",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15513,5 +15529,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T16:00:44.379Z"
+  "updatedAt": "2026-10-03T16:08:33.550Z"
 }
