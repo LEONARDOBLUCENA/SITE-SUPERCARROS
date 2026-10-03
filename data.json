@@ -15528,6 +15528,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmusp97g5hzljug",
+      "createdAt": "2026-10-03T18:02:33.077Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "Rogéria Frigério",
+      "contatoCliente": "+55 27 99812-6122",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-03",
+      "valorVenda": "700.00",
+      "numeroPedido": "19573",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15547,5 +15563,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T17:37:48.776Z"
+  "updatedAt": "2026-10-03T18:02:34.046Z"
 }
