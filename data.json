@@ -15641,6 +15641,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-03T18:36:17.697Z"
+    },
+    {
+      "id": "rmusqgva7mhel3r",
+      "createdAt": "2026-10-03T18:36:30.175Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "Breno",
+      "contatoCliente": "+55 62 8267-6573",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15660,5 +15676,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:36:17.698Z"
+  "updatedAt": "2026-10-03T18:36:31.676Z"
 }
