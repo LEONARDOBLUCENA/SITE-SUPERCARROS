@@ -15380,6 +15380,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmusaz04jd3iibo",
+      "createdAt": "2026-10-03T11:22:42.403Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "Jamile ",
+      "contatoCliente": "+55 73 8154-2604",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15399,5 +15415,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T11:19:44.884Z"
+  "updatedAt": "2026-10-03T11:22:44.584Z"
 }
