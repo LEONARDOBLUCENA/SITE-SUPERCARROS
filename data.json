@@ -15066,7 +15066,7 @@
       "dataAtendimento": "2026-10-01",
       "nomeCliente": "Anna Cecilia",
       "contatoCliente": "+55 22 99945-3350",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -15074,7 +15074,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-03T18:49:59.144Z"
     },
     {
       "id": "rmuq447ft144k4a",
@@ -15718,5 +15719,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:48:54.570Z"
+  "updatedAt": "2026-10-03T18:49:59.144Z"
 }
