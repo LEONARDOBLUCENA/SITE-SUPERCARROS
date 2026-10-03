@@ -15608,6 +15608,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuspxnqfzfd3hj",
+      "createdAt": "2026-10-03T18:21:33.927Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "Vanusa Tailine De Almeida Patzer",
+      "contatoCliente": "(61) 94758-2637",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15627,5 +15643,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:05:23.176Z"
+  "updatedAt": "2026-10-03T18:21:34.545Z"
 }
