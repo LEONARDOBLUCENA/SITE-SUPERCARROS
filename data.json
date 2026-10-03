@@ -14792,14 +14792,15 @@
       "nomeCliente": "André ",
       "contatoCliente": "+55 27 98115-0180",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-02",
+      "valorVenda": "655.50",
+      "numeroPedido": "19559",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-03T11:02:24.059Z"
     },
     {
       "id": "rmuphs7cx6j3w63",
@@ -15382,5 +15383,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T01:05:05.520Z"
+  "updatedAt": "2026-10-03T11:02:24.059Z"
 }
