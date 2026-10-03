@@ -15081,7 +15081,7 @@
       "dataAtendimento": "2026-10-01",
       "nomeCliente": "Jardel",
       "contatoCliente": "55 48 9612-1262",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -15089,7 +15089,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-03T18:48:36.381Z"
     },
     {
       "id": "rmuqx06w8jx2p4g",
@@ -15716,5 +15717,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:48:25.393Z"
+  "updatedAt": "2026-10-03T18:48:36.381Z"
 }
