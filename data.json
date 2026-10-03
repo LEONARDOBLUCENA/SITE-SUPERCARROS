@@ -15364,6 +15364,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmusav669q6fvi2",
+      "createdAt": "2026-10-03T11:19:43.617Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "André Castro Rolim",
+      "contatoCliente": " +55 92 98499-1032 ",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15383,5 +15399,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T11:02:24.059Z"
+  "updatedAt": "2026-10-03T11:19:44.884Z"
 }
