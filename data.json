@@ -15308,7 +15308,7 @@
       "dataAtendimento": "2026-10-02",
       "nomeCliente": "Sem nome",
       "contatoCliente": "+55 22 99977-8901",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -15316,7 +15316,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-03T18:48:12.440Z"
     },
     {
       "id": "rmurepb6ppgmayt",
@@ -15714,5 +15715,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:47:38.323Z"
+  "updatedAt": "2026-10-03T18:48:12.440Z"
 }
