@@ -15451,7 +15451,7 @@
       "dataAtendimento": "2026-10-02",
       "nomeCliente": "cristiane",
       "contatoCliente": "+55 21 97222-7509",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-03",
@@ -15461,7 +15461,8 @@
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-03T17:37:33.677Z"
     },
     {
       "id": "rmuskw7oatlld9y",
@@ -15546,5 +15547,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T16:26:54.926Z"
+  "updatedAt": "2026-10-03T17:37:33.677Z"
 }
