@@ -14694,7 +14694,7 @@
       "dataAtendimento": "2026-09-30",
       "nomeCliente": "joao vitor",
       "contatoCliente": "552298145-3906",
-      "origem": "Outro",
+      "origem": "WhatsApp",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-30",
@@ -14702,7 +14702,8 @@
       "numeroPedido": "19471",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-03T18:48:54.570Z"
     },
     {
       "id": "rmuojf5lpxivzlp",
@@ -15717,5 +15718,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:48:36.381Z"
+  "updatedAt": "2026-10-03T18:48:54.570Z"
 }
