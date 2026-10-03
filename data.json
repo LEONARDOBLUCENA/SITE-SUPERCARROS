@@ -15243,7 +15243,7 @@
       "dataAtendimento": "2026-10-02",
       "nomeCliente": "Marcelo",
       "contatoCliente": "55 11 97135-3791",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -15251,7 +15251,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-03T18:47:38.323Z"
     },
     {
       "id": "rmur7x5d1xep5ii",
@@ -15713,5 +15714,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:47:25.919Z"
+  "updatedAt": "2026-10-03T18:47:38.323Z"
 }
