@@ -15428,6 +15428,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmusfx9ssk1qggj",
+      "createdAt": "2026-10-03T13:41:19.708Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "Thays Rocha",
+      "contatoCliente": "(11) 98323 2329",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15447,5 +15463,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T11:23:18.164Z"
+  "updatedAt": "2026-10-03T13:41:20.465Z"
 }
