@@ -15648,7 +15648,7 @@
       "dataAtendimento": "2026-10-03",
       "nomeCliente": "Breno",
       "contatoCliente": "+55 62 8267-6573",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -15656,7 +15656,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-03T18:46:26.080Z"
     },
     {
       "id": "rmusqi6sjg31hph",
@@ -15708,5 +15709,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:39:54.576Z"
+  "updatedAt": "2026-10-03T18:46:26.080Z"
 }
