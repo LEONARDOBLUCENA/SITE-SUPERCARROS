@@ -15718,6 +15718,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmusssvlujfo9o1",
+      "createdAt": "2026-10-03T19:41:49.698Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "~Guilherme Monteiro",
+      "contatoCliente": "+55 92 8459-9027",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15737,5 +15753,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T19:02:10.474Z"
+  "updatedAt": "2026-10-03T19:41:50.400Z"
 }
