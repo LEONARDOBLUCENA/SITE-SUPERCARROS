@@ -15470,14 +15470,15 @@
       "nomeCliente": "Luan pastorelo",
       "contatoCliente": "+55 54 9665-8509",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-03",
+      "valorVenda": "594.00",
+      "numeroPedido": "19569",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-03T16:18:29.193Z"
     },
     {
       "id": "rmuskwjfiqa6tab",
@@ -15529,5 +15530,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T16:08:33.550Z"
+  "updatedAt": "2026-10-03T16:18:29.193Z"
 }
