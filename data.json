@@ -15018,7 +15018,7 @@
       "dataAtendimento": "2026-10-01",
       "nomeCliente": "Stéfani",
       "contatoCliente": "55 54 8128-0555",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -15026,7 +15026,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-03T18:50:53.598Z"
     },
     {
       "id": "rmupvq071fhqfe5",
@@ -15720,5 +15721,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:50:11.292Z"
+  "updatedAt": "2026-10-03T18:50:53.598Z"
 }
