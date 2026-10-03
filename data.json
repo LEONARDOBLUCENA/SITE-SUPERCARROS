@@ -15657,6 +15657,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmusqi6sjg31hph",
+      "createdAt": "2026-10-03T18:37:31.747Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "Carol Arruda",
+      "contatoCliente": "+55 63 9993-1513",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15676,5 +15692,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:36:31.676Z"
+  "updatedAt": "2026-10-03T18:37:36.800Z"
 }
