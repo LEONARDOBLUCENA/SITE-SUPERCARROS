@@ -15624,6 +15624,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmusqg21ahj5vod",
+      "createdAt": "2026-10-03T18:35:52.270Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "breno",
+      "contatoCliente": "+55 12 97407-4517",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15643,5 +15659,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:21:34.545Z"
+  "updatedAt": "2026-10-03T18:35:52.873Z"
 }
