@@ -15460,6 +15460,22 @@
       "statusPagamento": "",
       "observacao": "Tem voucher do Alpestre ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuskqrqrnwqwrm",
+      "createdAt": "2026-10-03T15:56:14.451Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "g",
+      "contatoCliente": "dede",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "100000.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15479,5 +15495,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T15:03:02.644Z"
+  "updatedAt": "2026-10-03T15:56:15.231Z"
 }
