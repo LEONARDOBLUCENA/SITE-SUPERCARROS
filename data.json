@@ -15592,6 +15592,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuspcu5ndq8s8q",
+      "createdAt": "2026-10-03T18:05:22.475Z",
+      "dataAtendimento": "2026-10-03",
+      "nomeCliente": "Mirella Anjos ",
+      "contatoCliente": "+55 62 9204-9953",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -15611,5 +15627,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T18:05:00.031Z"
+  "updatedAt": "2026-10-03T18:05:23.176Z"
 }
