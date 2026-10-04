@@ -15879,6 +15879,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmutveekn14g582",
+      "createdAt": "2026-10-04T13:42:19.463Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "gabriela",
+      "contatoCliente": "+55 47 9275-3759",
+      "origem": "Outro",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15898,5 +15914,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T13:41:18.945Z"
+  "updatedAt": "2026-10-04T13:42:20.132Z"
 }
