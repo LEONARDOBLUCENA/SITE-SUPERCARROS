@@ -15943,6 +15943,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmutvhptpjnh27d",
+      "createdAt": "2026-10-04T13:44:54.013Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Maju chequito",
+      "contatoCliente": "+55 94 8132-4943",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15962,5 +15978,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T13:44:29.035Z"
+  "updatedAt": "2026-10-04T13:44:54.737Z"
 }
