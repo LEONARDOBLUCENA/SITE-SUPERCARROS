@@ -15911,6 +15911,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmutvgd63014pjt",
+      "createdAt": "2026-10-04T13:43:50.955Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 11 97540-7532",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15930,5 +15946,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T13:43:06.397Z"
+  "updatedAt": "2026-10-04T13:43:51.744Z"
 }
