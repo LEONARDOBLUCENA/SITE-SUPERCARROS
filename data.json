@@ -16027,25 +16027,6 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
-    },
-    {
-      "id": "rmuu5s0tqnck1rg",
-      "createdAt": "2026-10-04T18:32:50.990Z",
-      "dataAtendimento": "2026-10-04",
-      "nomeCliente": "Sem nome",
-      "contatoCliente": "992568372",
-      "origem": "Upgrade Site",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-10-04",
-      "valorVenda": "150000.00",
-      "numeroPedido": "teste ",
-      "statusPagamento": "Pago",
-      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
-      "vendedora": "gisele",
-      "vendedoraFinalizou": "bruna",
-      "compartilhado": true,
-      "updatedAt": "2026-10-04T18:34:22.529Z"
     }
   ],
   "siteVendas": [
@@ -16065,5 +16046,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T18:34:22.529Z"
+  "updatedAt": "2026-10-04T18:34:56.090Z"
 }
