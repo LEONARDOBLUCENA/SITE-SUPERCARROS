@@ -14582,14 +14582,15 @@
       "nomeCliente": "Nátali Barbosa da Mota",
       "contatoCliente": "55 11 97147-4879",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-04T18:46:37.552Z"
     },
     {
       "id": "rmuodokhumlapp2",
@@ -16047,5 +16048,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T18:43:41.549Z"
+  "updatedAt": "2026-10-04T18:46:37.552Z"
 }
