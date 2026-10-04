@@ -15680,14 +15680,15 @@
       "nomeCliente": "Carol Arruda",
       "contatoCliente": "+55 63 9993-1513",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-04T17:58:14.052Z"
     },
     {
       "id": "rmusql81dy5dyj4",
@@ -16029,5 +16030,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T16:46:08.315Z"
+  "updatedAt": "2026-10-04T17:58:14.053Z"
 }
