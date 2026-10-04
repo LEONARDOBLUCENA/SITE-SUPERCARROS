@@ -16034,17 +16034,18 @@
       "dataAtendimento": "2026-10-04",
       "nomeCliente": "Sem nome",
       "contatoCliente": "992568372",
-      "origem": "",
+      "origem": "Outro",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-10-04",
       "valorVenda": "150000.00",
       "numeroPedido": "teste ",
       "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-04T18:33:45.293Z"
     }
   ],
   "siteVendas": [
@@ -16064,5 +16065,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T18:32:52.251Z"
+  "updatedAt": "2026-10-04T18:33:45.293Z"
 }
