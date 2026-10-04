@@ -16034,7 +16034,7 @@
       "dataAtendimento": "2026-10-04",
       "nomeCliente": "Sem nome",
       "contatoCliente": "992568372",
-      "origem": "Outro",
+      "origem": "Upgrade Site",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-04",
@@ -16045,7 +16045,7 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true,
-      "updatedAt": "2026-10-04T18:33:45.293Z"
+      "updatedAt": "2026-10-04T18:34:22.529Z"
     }
   ],
   "siteVendas": [
@@ -16065,5 +16065,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T18:33:45.293Z"
+  "updatedAt": "2026-10-04T18:34:22.529Z"
 }
