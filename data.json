@@ -15831,6 +15831,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmutvc7bvw46qz6",
+      "createdAt": "2026-10-04T13:40:36.763Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "paloma",
+      "contatoCliente": "+55 32 9923-1323",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15850,5 +15866,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T13:40:01.527Z"
+  "updatedAt": "2026-10-04T13:40:37.621Z"
 }
