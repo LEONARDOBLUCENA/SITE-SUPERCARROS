@@ -16000,15 +16000,16 @@
       "dataAtendimento": "2026-10-04",
       "nomeCliente": "leticia",
       "contatoCliente": "+55 51 9655-3582",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-04T16:46:08.315Z"
     }
   ],
   "siteVendas": [
@@ -16028,5 +16029,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T16:45:56.951Z"
+  "updatedAt": "2026-10-04T16:46:08.315Z"
 }
