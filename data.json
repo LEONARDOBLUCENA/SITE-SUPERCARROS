@@ -15808,14 +15808,15 @@
       "nomeCliente": "Duda sales",
       "contatoCliente": "+55 11 98809-6788",
       "origem": "WhatsApp",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-04",
       "valorVenda": "539.00",
       "numeroPedido": "19603",
-      "statusPagamento": "Pago",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-04T14:29:45.733Z"
     },
     {
       "id": "rmutvbfgikxjm7c",
@@ -16011,5 +16012,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T14:02:45.676Z"
+  "updatedAt": "2026-10-04T14:29:45.733Z"
 }
