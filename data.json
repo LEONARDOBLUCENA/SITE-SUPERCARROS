@@ -14762,14 +14762,15 @@
       "nomeCliente": "Karolayne Menezes",
       "contatoCliente": "+55 21 98705-9731",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-03",
+      "valorVenda": "564.30",
+      "numeroPedido": "19591",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-04T14:02:45.676Z"
     },
     {
       "id": "rmuphra3k4axi7l",
@@ -16010,5 +16011,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T13:45:43.493Z"
+  "updatedAt": "2026-10-04T14:02:45.676Z"
 }
