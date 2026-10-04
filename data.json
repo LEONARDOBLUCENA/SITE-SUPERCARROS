@@ -942,14 +942,15 @@
       "dataAtendimento": "2026-09-08",
       "nomeCliente": "~Fernanda Oliveira",
       "contatoCliente": "+55 21 97630-0258",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-10-04T18:43:41.549Z"
     },
     {
       "id": "rmtt1hz7r24ayhl",
@@ -16046,5 +16047,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T18:41:19.155Z"
+  "updatedAt": "2026-10-04T18:43:41.549Z"
 }
