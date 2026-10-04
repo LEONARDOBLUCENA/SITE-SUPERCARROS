@@ -15847,6 +15847,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmutvcjazygsntx",
+      "createdAt": "2026-10-04T13:40:52.283Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "brener",
+      "contatoCliente": "+55 21 96720-7741",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15866,5 +15882,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T13:40:37.621Z"
+  "updatedAt": "2026-10-04T13:40:53.546Z"
 }
