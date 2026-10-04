@@ -15927,6 +15927,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmutvh5x910fal7",
+      "createdAt": "2026-10-04T13:44:28.221Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Carol Borba",
+      "contatoCliente": "+55 94 8132-4943",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -15946,5 +15962,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T13:43:51.744Z"
+  "updatedAt": "2026-10-04T13:44:29.035Z"
 }
