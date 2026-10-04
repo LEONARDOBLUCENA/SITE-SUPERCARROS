@@ -15993,6 +15993,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuu1yj9wntzrrs",
+      "createdAt": "2026-10-04T16:45:56.372Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "leticia",
+      "contatoCliente": "+55 51 9655-3582",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -16012,5 +16028,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-04T14:37:31.731Z"
+  "updatedAt": "2026-10-04T16:45:56.951Z"
 }
