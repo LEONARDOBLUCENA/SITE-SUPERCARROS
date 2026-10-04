@@ -14400,17 +14400,18 @@
       "id": "rmuo002ul5o2raa",
       "createdAt": "2026-09-30T11:04:32.109Z",
       "dataAtendimento": "2026-09-29",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "elber",
       "contatoCliente": "+55 62 9260-0890",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
+      "dataVenda": "2026-10-04",
+      "valorVenda": "240.00",
+      "numeroPedido": "19601",
+      "statusPagamento": "Pago",
+      "observacao": "complemento de pedido 19597  e 19599",
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-04T13:23:41.933Z"
     },
     {
       "id": "rmuo034q61qhxtk",
@@ -15817,5 +15818,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-03T22:33:09.748Z"
+  "updatedAt": "2026-10-04T13:23:41.933Z"
 }
