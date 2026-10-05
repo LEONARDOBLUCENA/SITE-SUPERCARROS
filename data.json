@@ -16382,6 +16382,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv8cm1c83ai6u",
+      "createdAt": "2026-10-05T12:32:37.008Z",
+      "dataAtendimento": "2026-10-05",
+      "nomeCliente": "Henrique Camilo ",
+      "contatoCliente": "+55 14 99783-0637",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16401,5 +16417,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:32:15.606Z"
+  "updatedAt": "2026-10-05T12:32:37.886Z"
 }
