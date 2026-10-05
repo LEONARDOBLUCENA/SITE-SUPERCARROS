@@ -16520,6 +16520,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuvkgk0hwrwo3d",
+      "createdAt": "2026-10-05T18:11:36.401Z",
+      "dataAtendimento": "2026-10-05",
+      "nomeCliente": "Mateus Lima ",
+      "contatoCliente": "+55 31 8410-0741",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16540,5 +16556,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-05T17:56:42.602Z"
+  "updatedAt": "2026-10-05T18:11:37.714Z"
 }
