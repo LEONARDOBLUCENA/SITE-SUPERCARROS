@@ -16061,6 +16061,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv803f22g1d51",
+      "createdAt": "2026-10-05T12:22:53.006Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Ilda",
+      "contatoCliente": "+55 34 93230901",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16080,5 +16096,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:22:26.534Z"
+  "updatedAt": "2026-10-05T12:22:54.026Z"
 }
