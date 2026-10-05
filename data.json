@@ -16093,6 +16093,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv81qt8jdxpwq",
+      "createdAt": "2026-10-05T12:24:09.980Z",
+      "dataAtendimento": "2026-10-05",
+      "nomeCliente": "Larissa Costa ",
+      "contatoCliente": "+55 71 8151-8004",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16112,5 +16128,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:23:21.257Z"
+  "updatedAt": "2026-10-05T12:24:10.920Z"
 }
