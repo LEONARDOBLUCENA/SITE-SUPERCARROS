@@ -16254,6 +16254,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv8778tvkj16j",
+      "createdAt": "2026-10-05T12:28:24.557Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "João Paulo Menezes",
+      "contatoCliente": "+55 31 8847-1409 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16273,5 +16289,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:28:04.384Z"
+  "updatedAt": "2026-10-05T12:28:25.422Z"
 }
