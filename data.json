@@ -16406,16 +16406,17 @@
       "nomeCliente": "Ana Ramos ",
       "contatoCliente": "+55 67 9822-7114",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-02",
       "valorVenda": "340.10",
       "numeroPedido": "19551",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-05T12:37:49.776Z"
     }
   ],
   "siteVendas": [
@@ -16435,5 +16436,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:37:26.203Z"
+  "updatedAt": "2026-10-05T12:37:49.776Z"
 }
