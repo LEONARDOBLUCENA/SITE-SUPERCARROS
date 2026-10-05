@@ -16398,6 +16398,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv8isfsi4p6y0",
+      "createdAt": "2026-10-05T12:37:25.240Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Ana Ramos ",
+      "contatoCliente": "+55 67 9822-7114",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-02",
+      "valorVenda": "340.10",
+      "numeroPedido": "19551",
+      "statusPagamento": "",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -16417,5 +16435,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:32:37.886Z"
+  "updatedAt": "2026-10-05T12:37:26.203Z"
 }
