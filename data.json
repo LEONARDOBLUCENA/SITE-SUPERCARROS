@@ -16270,6 +16270,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv87ta01kfl51",
+      "createdAt": "2026-10-05T12:28:53.112Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Patrícia Dorigon",
+      "contatoCliente": "+55 43 9128-9992 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16289,5 +16305,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:28:25.422Z"
+  "updatedAt": "2026-10-05T12:28:53.962Z"
 }
