@@ -11288,14 +11288,15 @@
       "nomeCliente": "Pam ",
       "contatoCliente": "+55 14 99861-0950",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-05",
+      "valorVenda": "130.15",
+      "numeroPedido": "19653",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-05T20:05:01.680Z"
     },
     {
       "id": "rmuei8b8ez3yehb",
@@ -16588,5 +16589,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-05T19:53:34.646Z"
+  "updatedAt": "2026-10-05T20:05:01.680Z"
 }
