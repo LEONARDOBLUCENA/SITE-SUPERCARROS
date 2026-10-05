@@ -16238,6 +16238,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv86r7bmdrv5y",
+      "createdAt": "2026-10-05T12:28:03.767Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Paula D. S. Miotti",
+      "contatoCliente": "+55 69 8128-0811 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16257,5 +16273,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:27:33.099Z"
+  "updatedAt": "2026-10-05T12:28:04.384Z"
 }
