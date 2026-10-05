@@ -16437,6 +16437,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv9e8fhwl8b0u",
+      "createdAt": "2026-10-05T13:01:52.301Z",
+      "dataAtendimento": "2026-10-05",
+      "nomeCliente": "Míria Vasconcelos",
+      "contatoCliente": "(85) 98563 7402",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16456,5 +16472,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:54:50.170Z"
+  "updatedAt": "2026-10-05T13:01:54.886Z"
 }
