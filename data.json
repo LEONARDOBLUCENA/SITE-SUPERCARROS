@@ -16421,6 +16421,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-10-05T12:37:49.776Z"
+    },
+    {
+      "id": "rmuv955qaa8ztyt",
+      "createdAt": "2026-10-05T12:54:48.898Z",
+      "dataAtendimento": "2026-10-05",
+      "nomeCliente": "Isaac Lauda ",
+      "contatoCliente": "+55 98 99199-0695",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16440,5 +16456,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:44:44.316Z"
+  "updatedAt": "2026-10-05T12:54:50.170Z"
 }
