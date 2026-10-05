@@ -16166,14 +16166,15 @@
       "nomeCliente": "Rodrigo Lima ",
       "contatoCliente": "+55 21 99214-8138",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "177.17",
+      "numeroPedido": "19609",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-05T12:42:30.241Z"
     },
     {
       "id": "rmuv84b7f35h9k5",
@@ -16436,5 +16437,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:37:49.776Z"
+  "updatedAt": "2026-10-05T12:42:30.241Z"
 }
