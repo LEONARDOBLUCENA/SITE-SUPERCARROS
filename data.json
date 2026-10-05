@@ -16444,7 +16444,7 @@
       "dataAtendimento": "2026-10-05",
       "nomeCliente": "Míria Vasconcelos",
       "contatoCliente": "(85) 98563 7402",
-      "origem": "",
+      "origem": "Cara de Mau",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -16452,7 +16452,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-05T13:02:04.061Z"
     }
   ],
   "siteVendas": [
@@ -16472,5 +16473,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T13:01:54.886Z"
+  "updatedAt": "2026-10-05T13:02:04.061Z"
 }
