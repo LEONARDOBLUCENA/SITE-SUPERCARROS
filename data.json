@@ -16045,6 +16045,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv7zi3rxc49eh",
+      "createdAt": "2026-10-05T12:22:25.383Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Islan",
+      "contatoCliente": "+55 55 92210100",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16064,5 +16080,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:22:02.651Z"
+  "updatedAt": "2026-10-05T12:22:26.534Z"
 }
