@@ -16487,6 +16487,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuvhq1k9rpksbj",
+      "createdAt": "2026-10-05T16:55:00.201Z",
+      "dataAtendimento": "2026-10-05",
+      "nomeCliente": "Daiane",
+      "contatoCliente": "+55 65 8115-3972",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-05",
+      "valorVenda": "130.15",
+      "numeroPedido": "19635",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16507,5 +16523,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-05T16:47:19.728Z"
+  "updatedAt": "2026-10-05T16:55:01.634Z"
 }
