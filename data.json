@@ -16552,6 +16552,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuvo3nb03bm258",
+      "createdAt": "2026-10-05T19:53:32.604Z",
+      "dataAtendimento": "2026-10-05",
+      "nomeCliente": "Talita ",
+      "contatoCliente": "+55 11 91484-3451",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Busca nossos serviços em SP",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16572,5 +16588,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-05T19:52:12.514Z"
+  "updatedAt": "2026-10-05T19:53:34.646Z"
 }
