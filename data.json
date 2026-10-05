@@ -13626,14 +13626,15 @@
       "nomeCliente": "Raíssa Vitória ",
       "contatoCliente": "+55 37 9996-1341",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-05",
+      "valorVenda": "564.30",
+      "numeroPedido": "19645",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-05T17:56:42.602Z"
     },
     {
       "id": "rmulne17nf8ol32",
@@ -16539,5 +16540,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-05T17:14:24.483Z"
+  "updatedAt": "2026-10-05T17:56:42.602Z"
 }
