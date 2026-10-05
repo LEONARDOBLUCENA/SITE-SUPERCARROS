@@ -16142,6 +16142,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv83bt3zthawb",
+      "createdAt": "2026-10-05T12:25:23.847Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Aldo Rhak",
+      "contatoCliente": "+55 86 9966-6617 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16161,5 +16177,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:25:01.802Z"
+  "updatedAt": "2026-10-05T12:25:24.806Z"
 }
