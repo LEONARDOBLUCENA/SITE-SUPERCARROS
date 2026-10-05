@@ -16350,6 +16350,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv8bsrz1o631b",
+      "createdAt": "2026-10-05T12:31:59.087Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Dra Mariana Vicente",
+      "contatoCliente": "+55 16 99155-8765 ",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16369,5 +16385,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:31:36.871Z"
+  "updatedAt": "2026-10-05T12:31:59.790Z"
 }
