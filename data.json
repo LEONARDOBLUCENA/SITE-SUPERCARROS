@@ -16222,6 +16222,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuv862x1vbl693",
+      "createdAt": "2026-10-05T12:27:32.293Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Samantha Teixeira ",
+      "contatoCliente": "+55 22 99759-4419",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16241,5 +16257,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:27:04.244Z"
+  "updatedAt": "2026-10-05T12:27:33.099Z"
 }
