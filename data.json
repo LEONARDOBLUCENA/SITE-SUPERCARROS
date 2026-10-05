@@ -16394,14 +16394,15 @@
       "nomeCliente": "Henrique Camilo ",
       "contatoCliente": "+55 14 99783-0637",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "130.15",
+      "numeroPedido": "19631",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-05T14:04:11.184Z"
     },
     {
       "id": "rmuv8isfsi4p6y0",
@@ -16473,5 +16474,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T13:02:04.061Z"
+  "updatedAt": "2026-10-05T14:04:11.184Z"
 }
