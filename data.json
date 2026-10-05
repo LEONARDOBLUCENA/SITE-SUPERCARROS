@@ -16503,6 +16503,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuviezd8bpl772",
+      "createdAt": "2026-10-05T17:14:23.756Z",
+      "dataAtendimento": "2026-10-05",
+      "nomeCliente": "Cauan Da Silva",
+      "contatoCliente": "+55 11 95874-7482",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16523,5 +16539,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-05T16:55:01.634Z"
+  "updatedAt": "2026-10-05T17:14:24.483Z"
 }
