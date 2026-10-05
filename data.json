@@ -15940,17 +15940,17 @@
       "nomeCliente": "Carol Borba",
       "contatoCliente": "+55 94 8132-4943",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-04",
+      "valorVenda": "1852.50",
+      "numeroPedido": "19611",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "compartilhado": true,
       "vendedoraFinalizou": "bruna",
-      "updatedAt": "2026-10-05T12:43:29.465Z"
+      "updatedAt": "2026-10-05T12:44:44.316Z"
     },
     {
       "id": "rmutvhptpjnh27d",
@@ -16440,5 +16440,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:43:29.465Z"
+  "updatedAt": "2026-10-05T12:44:44.316Z"
 }
