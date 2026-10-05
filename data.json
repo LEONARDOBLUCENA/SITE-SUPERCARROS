@@ -16471,6 +16471,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuvhceziol002s",
+      "createdAt": "2026-10-05T16:44:24.414Z",
+      "dataAtendimento": "2026-10-05",
+      "nomeCliente": "Maria  Eduarda Roas Oliveira",
+      "contatoCliente": "+55 31 9802-1236",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-05",
+      "valorVenda": "161.50",
+      "numeroPedido": "19535",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -16490,5 +16506,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T16:41:34.941Z"
+  "updatedAt": "2026-10-05T16:44:25.716Z"
 }
