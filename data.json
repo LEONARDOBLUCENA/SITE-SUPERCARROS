@@ -16097,7 +16097,7 @@
     {
       "id": "rmuv81qt8jdxpwq",
       "createdAt": "2026-10-05T12:24:09.980Z",
-      "dataAtendimento": "2026-10-05",
+      "dataAtendimento": "2026-10-04",
       "nomeCliente": "Larissa Costa ",
       "contatoCliente": "+55 71 8151-8004",
       "origem": "",
@@ -16108,7 +16108,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-05T12:24:45.390Z"
     },
     {
       "id": "rmuv82aj59djvew",
@@ -16144,5 +16145,5 @@
       "createdAt": "2026-10-02T17:06:25.782Z"
     }
   ],
-  "updatedAt": "2026-10-05T12:24:36.294Z"
+  "updatedAt": "2026-10-05T12:24:45.390Z"
 }
