@@ -17070,22 +17070,6 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-06T18:31:16.651Z"
-    },
-    {
-      "id": "rmux0mcgontdx5w",
-      "createdAt": "2026-10-06T18:31:46.584Z",
-      "dataAtendimento": "2026-10-06",
-      "nomeCliente": "teste",
-      "contatoCliente": "5054651",
-      "origem": "",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "120000.00",
-      "numeroPedido": "",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17106,5 +17090,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T18:31:49.841Z"
+  "updatedAt": "2026-10-06T18:32:01.295Z"
 }
