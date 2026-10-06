@@ -16571,6 +16571,22 @@
       "statusPagamento": "",
       "observacao": "Busca nossos serviços em SP",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuwt65m8r5m8v5",
+      "createdAt": "2026-10-06T15:03:13.904Z",
+      "dataAtendimento": "2026-10-06",
+      "nomeCliente": "bruno",
+      "contatoCliente": "+55 55 9997-2250",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -16591,5 +16607,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T14:53:08.823Z"
+  "updatedAt": "2026-10-06T15:03:15.076Z"
 }
