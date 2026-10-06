@@ -16716,6 +16716,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuwtbnw52d6aix",
+      "createdAt": "2026-10-06T15:07:30.869Z",
+      "dataAtendimento": "2026-10-06",
+      "nomeCliente": "renata",
+      "contatoCliente": "+55 31 8467-7059",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -16736,5 +16752,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T15:06:47.817Z"
+  "updatedAt": "2026-10-06T15:07:31.702Z"
 }
