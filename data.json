@@ -17021,6 +17021,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuwysws53r2r2p",
+      "createdAt": "2026-10-06T17:40:53.621Z",
+      "dataAtendimento": "2026-10-06",
+      "nomeCliente": "valeria",
+      "contatoCliente": "+55 19 99314-7226",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17041,5 +17057,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T17:26:39.484Z"
+  "updatedAt": "2026-10-06T17:40:54.319Z"
 }
