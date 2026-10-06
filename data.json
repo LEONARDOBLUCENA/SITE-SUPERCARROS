@@ -16893,6 +16893,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuwugo78585bls",
+      "createdAt": "2026-10-06T15:39:24.164Z",
+      "dataAtendimento": "2026-10-06",
+      "nomeCliente": "jader aquino",
+      "contatoCliente": "+55 51 8608-4687",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -16913,5 +16929,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T15:39:07.551Z"
+  "updatedAt": "2026-10-06T15:39:24.908Z"
 }
