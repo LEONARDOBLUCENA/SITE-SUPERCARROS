@@ -17061,14 +17061,15 @@
       "nomeCliente": "josiane",
       "contatoCliente": "+55 21 97991-1291",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-06T18:34:58.029Z"
     }
   ],
   "siteVendas": [
@@ -17089,5 +17090,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T18:34:01.677Z"
+  "updatedAt": "2026-10-06T18:34:58.029Z"
 }
