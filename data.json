@@ -7370,13 +7370,14 @@
       "nomeCliente": "rayssa",
       "contatoCliente": "55 11 94467-0969",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": ""
+      "dataVenda": "2026-10-06",
+      "valorVenda": "434.00",
+      "numeroPedido": "196661",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "updatedAt": "2026-10-06T13:18:31.453Z"
     },
     {
       "id": "rmu2vgdktrx4ye4",
@@ -16590,5 +16591,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T12:40:37.492Z"
+  "updatedAt": "2026-10-06T13:18:31.453Z"
 }
