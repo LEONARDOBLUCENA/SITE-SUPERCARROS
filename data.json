@@ -16626,15 +16626,16 @@
       "dataAtendimento": "2026-10-06",
       "nomeCliente": "maria luiza",
       "contatoCliente": "+55 31 9905-0393",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-06T15:05:03.054Z"
     }
   ],
   "siteVendas": [
@@ -16655,5 +16656,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T15:04:51.784Z"
+  "updatedAt": "2026-10-06T15:05:03.055Z"
 }
