@@ -16957,6 +16957,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuwy227q6yhode",
+      "createdAt": "2026-10-06T17:20:00.950Z",
+      "dataAtendimento": "2026-10-06",
+      "nomeCliente": "talisson",
+      "contatoCliente": "+55 41 8490-0639",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -16977,5 +16993,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T17:19:03.373Z"
+  "updatedAt": "2026-10-06T17:20:02.281Z"
 }
