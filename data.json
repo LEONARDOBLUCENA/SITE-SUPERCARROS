@@ -17075,24 +17075,6 @@
       "updatedAt": "2026-10-06T18:34:58.029Z"
     },
     {
-      "id": "rmux1w9khjtrvu9",
-      "createdAt": "2026-10-06T19:07:29.009Z",
-      "dataAtendimento": "2026-10-06",
-      "nomeCliente": "~Nathália Oliveira",
-      "contatoCliente": "+55 21 97990-4768",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Link enviado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-10-06",
-      "valorVenda": "460.00",
-      "numeroPedido": "19689",
-      "statusPagamento": "Pendente",
-      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
-      "vendedora": "gisele",
-      "vendedoraFinalizou": "bruna",
-      "compartilhado": true
-    },
-    {
       "id": "rmux28yoc5zkyc2",
       "createdAt": "2026-10-06T19:17:21.420Z",
       "dataAtendimento": "2026-10-06",
@@ -17127,5 +17109,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T19:17:22.006Z"
+  "updatedAt": "2026-10-06T19:46:29.318Z"
 }
