@@ -16781,6 +16781,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuwu4jg2gm9vjw",
+      "createdAt": "2026-10-06T15:29:58.130Z",
+      "dataAtendimento": "2026-10-06",
+      "nomeCliente": "dani",
+      "contatoCliente": "+55 11 95860-0494",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -16801,5 +16817,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T15:29:38.794Z"
+  "updatedAt": "2026-10-06T15:29:59.252Z"
 }
