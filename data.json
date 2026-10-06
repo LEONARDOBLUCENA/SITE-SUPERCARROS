@@ -14153,14 +14153,15 @@
       "nomeCliente": "ariele",
       "contatoCliente": "55 71 9612-2018",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-10-06",
+      "valorVenda": "360.00",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-06T12:40:37.492Z"
     },
     {
       "id": "rmun18a17dbx1t7",
@@ -16589,5 +16590,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-05T20:05:01.680Z"
+  "updatedAt": "2026-10-06T12:40:37.492Z"
 }
