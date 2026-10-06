@@ -16587,6 +16587,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuwt6pde0dma4d",
+      "createdAt": "2026-10-06T15:03:39.506Z",
+      "dataAtendimento": "2026-10-06",
+      "nomeCliente": "kladisson ",
+      "contatoCliente": "+55 84 9659-0353",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -16607,5 +16623,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T15:03:15.076Z"
+  "updatedAt": "2026-10-06T15:03:40.252Z"
 }
