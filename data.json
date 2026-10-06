@@ -16989,6 +16989,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuwy3qhraj4ecc",
+      "createdAt": "2026-10-06T17:21:19.071Z",
+      "dataAtendimento": "2026-10-06",
+      "nomeCliente": "jose volpato",
+      "contatoCliente": "+55 49 9173-8781",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17009,5 +17025,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T17:21:03.806Z"
+  "updatedAt": "2026-10-06T17:21:20.312Z"
 }
