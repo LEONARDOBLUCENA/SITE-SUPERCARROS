@@ -17061,14 +17061,15 @@
       "nomeCliente": "teste",
       "contatoCliente": "52000,00",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "51999.93",
+      "valorVenda": "52000.00",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-06T18:31:16.651Z"
     }
   ],
   "siteVendas": [
@@ -17089,5 +17090,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T18:30:58.998Z"
+  "updatedAt": "2026-10-06T18:31:16.651Z"
 }
