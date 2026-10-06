@@ -17050,12 +17050,13 @@
       "origem": "WhatsApp",
       "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-06",
+      "valorVenda": "390.00",
+      "numeroPedido": "19691",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-06T20:22:56.470Z"
     },
     {
       "id": "rmux0p80mq2emdi",
@@ -17143,5 +17144,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-06T20:12:52.268Z"
+  "updatedAt": "2026-10-06T20:22:56.470Z"
 }
