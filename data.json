@@ -17709,7 +17709,7 @@
     {
       "id": "rmuyiwm9smtg0bb",
       "createdAt": "2026-10-07T19:51:25.120Z",
-      "dataAtendimento": "2026-10-07",
+      "dataAtendimento": "2026-10-05",
       "nomeCliente": "Carollini Ferrari",
       "contatoCliente": "(54) 99269-3954",
       "origem": "Upgrade Site",
@@ -17720,7 +17720,8 @@
       "numeroPedido": "",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-07T19:51:57.011Z"
     }
   ],
   "siteVendas": [
@@ -17741,5 +17742,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:51:26.014Z"
+  "updatedAt": "2026-10-07T19:51:57.011Z"
 }
