@@ -4243,13 +4243,14 @@
       "nomeCliente": "Ana Cecília Magalhães ",
       "contatoCliente": "+55 61 8287-9500",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-10-07T19:05:51.624Z"
     },
     {
       "id": "rmtvr1hid1hjmm5",
@@ -17721,5 +17722,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:05:28.418Z"
+  "updatedAt": "2026-10-07T19:05:51.625Z"
 }
