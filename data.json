@@ -17686,14 +17686,15 @@
       "nomeCliente": "Rafael",
       "contatoCliente": "+55 75 9158-3335",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "19733",
+      "dataVenda": "2026-10-07",
+      "valorVenda": "750.00",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-07T19:00:33.519Z"
     }
   ],
   "siteVendas": [
@@ -17714,5 +17715,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T18:43:32.677Z"
+  "updatedAt": "2026-10-07T19:00:33.519Z"
 }
