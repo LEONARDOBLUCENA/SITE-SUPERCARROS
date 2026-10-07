@@ -17323,14 +17323,15 @@
       "nomeCliente": "renato",
       "contatoCliente": "+55 34 9777-9797",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-07T21:12:52.938Z"
     },
     {
       "id": "rmuy1iygfyatale",
@@ -17743,5 +17744,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T21:12:18.439Z"
+  "updatedAt": "2026-10-07T21:12:52.938Z"
 }
