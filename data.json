@@ -17082,15 +17082,15 @@
       "nomeCliente": "anderson",
       "contatoCliente": "+55 65 9952-2323",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "drive + 3 caronas dodge",
       "dataVenda": "2026-10-06",
       "valorVenda": "1000.00",
-      "numeroPedido": "",
-      "statusPagamento": "Pendente",
+      "numeroPedido": "19715",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-06T20:23:45.124Z"
+      "updatedAt": "2026-10-07T12:32:57.839Z"
     },
     {
       "id": "rmux47h5lhxabzn",
@@ -17450,5 +17450,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T12:09:06.365Z"
+  "updatedAt": "2026-10-07T12:32:57.839Z"
 }
