@@ -17414,6 +17414,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-07T12:00:18.827Z"
+    },
+    {
+      "id": "rmuy2e2f0qaebz2",
+      "createdAt": "2026-10-07T12:09:05.724Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Samara",
+      "contatoCliente": "+55 28 99908-4652",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17434,5 +17450,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T12:00:18.827Z"
+  "updatedAt": "2026-10-07T12:09:06.365Z"
 }
