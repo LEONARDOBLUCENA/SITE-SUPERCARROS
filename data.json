@@ -17237,6 +17237,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuy19s70ml6n58",
+      "createdAt": "2026-10-07T11:37:46.236Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "~C. Scatolin",
+      "contatoCliente": "+55 46 8828-0839",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17257,5 +17273,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T11:34:14.378Z"
+  "updatedAt": "2026-10-07T11:37:47.441Z"
 }
