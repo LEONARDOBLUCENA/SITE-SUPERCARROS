@@ -17301,6 +17301,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuy1h4l0fdeh10",
+      "createdAt": "2026-10-07T11:43:28.884Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "renato",
+      "contatoCliente": "+55 34 9777-9797",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17321,5 +17337,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T11:42:22.095Z"
+  "updatedAt": "2026-10-07T11:43:29.763Z"
 }
