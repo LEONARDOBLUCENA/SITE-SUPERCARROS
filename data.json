@@ -17173,6 +17173,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuy0yl70dqb7su",
+      "createdAt": "2026-10-07T11:29:03.948Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Du araujo",
+      "contatoCliente": "+55 19 99242-2481",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17193,5 +17209,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T11:25:50.403Z"
+  "updatedAt": "2026-10-07T11:29:04.828Z"
 }
