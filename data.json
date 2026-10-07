@@ -17470,16 +17470,17 @@
       "nomeCliente": "Matheus",
       "contatoCliente": "+55 21 96524-8272",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-07",
-      "valorVenda": "979.00",
+      "valorVenda": "700.00",
       "numeroPedido": "19717",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-07T13:20:17.206Z"
     },
     {
       "id": "rmuy4wp5e3kmo06",
@@ -17517,5 +17518,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T13:19:46.597Z"
+  "updatedAt": "2026-10-07T13:20:17.206Z"
 }
