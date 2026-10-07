@@ -17612,6 +17612,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuyc7ert3im9a6",
+      "createdAt": "2026-10-07T16:43:51.305Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "aabreu",
+      "contatoCliente": "+55 61 8351-8084",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17632,5 +17648,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T15:18:16.470Z"
+  "updatedAt": "2026-10-07T16:43:52.473Z"
 }
