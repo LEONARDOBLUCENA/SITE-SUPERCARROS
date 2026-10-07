@@ -3049,13 +3049,14 @@
       "nomeCliente": "Kaik Andrade ",
       "contatoCliente": "+55 75 9708-4791",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-10-07T19:06:10.803Z"
     },
     {
       "id": "rmtuikhq2yrxy6c",
@@ -17722,5 +17723,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:05:51.625Z"
+  "updatedAt": "2026-10-07T19:06:10.803Z"
 }
