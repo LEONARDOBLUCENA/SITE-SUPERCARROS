@@ -8763,14 +8763,15 @@
       "nomeCliente": "Raissa Francisca ",
       "contatoCliente": "+55 75 8828-6122",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-07T19:04:19.096Z"
     },
     {
       "id": "rmu6yj7pxqm373q",
@@ -17718,5 +17719,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:03:54.689Z"
+  "updatedAt": "2026-10-07T19:04:19.096Z"
 }
