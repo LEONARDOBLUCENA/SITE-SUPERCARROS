@@ -6789,13 +6789,14 @@
       "nomeCliente": "Maria Eduarda ",
       "contatoCliente": "+55 11 97640-5175",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-10-07T19:05:28.417Z"
     },
     {
       "id": "rmu1lygct3auvcq",
@@ -17720,5 +17721,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:05:06.983Z"
+  "updatedAt": "2026-10-07T19:05:28.418Z"
 }
