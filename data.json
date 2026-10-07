@@ -17498,6 +17498,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-07T13:19:46.597Z"
+    },
+    {
+      "id": "rmuy594l90l3rfx",
+      "createdAt": "2026-10-07T13:29:14.109Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "adriana",
+      "contatoCliente": "+55 13 99107-4074",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17518,5 +17534,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T13:20:17.206Z"
+  "updatedAt": "2026-10-07T13:29:14.740Z"
 }
