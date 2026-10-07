@@ -17644,6 +17644,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuydevr9y77w26",
+      "createdAt": "2026-10-07T17:17:39.525Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Jessica Oliveira ",
+      "contatoCliente": "+55 85 8671-2342",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17664,5 +17680,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T16:44:42.526Z"
+  "updatedAt": "2026-10-07T17:17:41.467Z"
 }
