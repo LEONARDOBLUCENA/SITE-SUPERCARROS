@@ -17430,6 +17430,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuy3rtsomkgfuo",
+      "createdAt": "2026-10-07T12:47:47.352Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "thais",
+      "contatoCliente": "+55 54 9691-4804",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17450,5 +17466,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T12:32:57.839Z"
+  "updatedAt": "2026-10-07T12:47:48.222Z"
 }
