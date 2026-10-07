@@ -8779,14 +8779,15 @@
       "nomeCliente": "Samanta Ferreira ",
       "contatoCliente": "+55 35 9247-0051",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-07T19:03:54.689Z"
     },
     {
       "id": "rmu72m4z0pjqxaw",
@@ -17717,5 +17718,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:03:01.179Z"
+  "updatedAt": "2026-10-07T19:03:54.689Z"
 }
