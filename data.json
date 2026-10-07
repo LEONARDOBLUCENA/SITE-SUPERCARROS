@@ -17660,6 +17660,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuyfxhosys3qwk",
+      "createdAt": "2026-10-07T18:28:06.988Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Talita Nunes ",
+      "contatoCliente": "+55 71 8276-5820",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17680,5 +17696,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T17:17:41.467Z"
+  "updatedAt": "2026-10-07T18:28:08.033Z"
 }
