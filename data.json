@@ -11434,14 +11434,15 @@
       "nomeCliente": "Samanta Carmo ",
       "contatoCliente": "+55 21 96750-0368",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-07T18:43:32.677Z"
     },
     {
       "id": "rmufk3o7f2f5kx0",
@@ -17713,5 +17714,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T18:42:55.363Z"
+  "updatedAt": "2026-10-07T18:43:32.677Z"
 }
