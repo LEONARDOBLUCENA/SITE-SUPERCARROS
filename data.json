@@ -17397,6 +17397,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuy22jr7glnltq",
+      "createdAt": "2026-10-07T12:00:08.323Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "~Santo Wellington",
+      "contatoCliente": "+55 21 96456-1348",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17417,5 +17433,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T11:50:20.758Z"
+  "updatedAt": "2026-10-07T12:00:09.018Z"
 }
