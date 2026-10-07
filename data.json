@@ -16949,14 +16949,15 @@
       "nomeCliente": "~Diego Zajaczkoski",
       "contatoCliente": "+55 41 8849-6577",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-07T21:12:18.438Z"
     },
     {
       "id": "rmuwy0tabgqhjmo",
@@ -17742,5 +17743,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:51:57.011Z"
+  "updatedAt": "2026-10-07T21:12:18.439Z"
 }
