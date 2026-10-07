@@ -16079,14 +16079,15 @@
       "nomeCliente": "Ilda",
       "contatoCliente": "+55 34 93230901",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-05",
+      "valorVenda": "137.00",
+      "numeroPedido": "19657",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-07T14:05:08.557Z"
     },
     {
       "id": "rmuv80od4dbtv0e",
@@ -17550,5 +17551,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T13:46:01.666Z"
+  "updatedAt": "2026-10-07T14:05:08.558Z"
 }
