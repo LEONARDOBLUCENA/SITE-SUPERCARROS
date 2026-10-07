@@ -8213,14 +8213,15 @@
       "nomeCliente": "Sem nome ",
       "contatoCliente": "+55 51 9840-8925",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-07T19:05:06.983Z"
     },
     {
       "id": "rmu5iw6iw2j2ds4",
@@ -17719,5 +17720,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:04:19.096Z"
+  "updatedAt": "2026-10-07T19:05:06.983Z"
 }
