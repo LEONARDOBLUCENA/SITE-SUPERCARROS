@@ -17547,6 +17547,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuy7ou9gefmiz8",
+      "createdAt": "2026-10-07T14:37:26.452Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Milena Esdras Ingrid Dos Santos",
+      "contatoCliente": "+55 11 96211-3271",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17567,5 +17583,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T14:31:36.434Z"
+  "updatedAt": "2026-10-07T14:37:27.360Z"
 }
