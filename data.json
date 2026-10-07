@@ -17580,6 +17580,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuy936smhxp0q8",
+      "createdAt": "2026-10-07T15:16:35.494Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Luise Calabuig",
+      "contatoCliente": "+55 53 99115-7027",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17600,5 +17616,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T15:15:53.230Z"
+  "updatedAt": "2026-10-07T15:16:36.434Z"
 }
