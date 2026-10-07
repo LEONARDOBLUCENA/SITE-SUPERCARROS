@@ -17157,6 +17157,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuy0ufh41l3yuu",
+      "createdAt": "2026-10-07T11:25:49.912Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Camila",
+      "contatoCliente": "+55 48 9658-0727",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17177,5 +17193,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T11:25:16.236Z"
+  "updatedAt": "2026-10-07T11:25:50.403Z"
 }
