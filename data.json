@@ -17221,6 +17221,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuy1584ielxuod",
+      "createdAt": "2026-10-07T11:34:13.602Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "sissi",
+      "contatoCliente": "+55 51 9329-1464",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17241,5 +17257,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T11:32:33.793Z"
+  "updatedAt": "2026-10-07T11:34:14.378Z"
 }
