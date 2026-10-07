@@ -11450,14 +11450,15 @@
       "nomeCliente": "Emmanuel Souza ",
       "contatoCliente": "+55 85 9178-7657",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-07T18:42:55.363Z"
     },
     {
       "id": "rmufk7cswzkvkvq",
@@ -17712,5 +17713,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T18:40:39.451Z"
+  "updatedAt": "2026-10-07T18:42:55.363Z"
 }
