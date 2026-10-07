@@ -17705,6 +17705,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-10-07T19:00:33.519Z"
+    },
+    {
+      "id": "rmuyiwm9smtg0bb",
+      "createdAt": "2026-10-07T19:51:25.120Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Carollini Ferrari",
+      "contatoCliente": "(54) 99269-3954",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "19637",
+      "dataVenda": "2026-10-05",
+      "valorVenda": "700.15",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17725,5 +17741,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:07:39.608Z"
+  "updatedAt": "2026-10-07T19:51:26.014Z"
 }
