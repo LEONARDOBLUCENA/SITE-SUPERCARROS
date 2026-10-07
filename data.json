@@ -17462,6 +17462,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmuy478ztlef14e",
+      "createdAt": "2026-10-07T12:59:46.889Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Matheus",
+      "contatoCliente": "+55 21 96524-8272",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-07",
+      "valorVenda": "979.00",
+      "numeroPedido": "19717",
+      "statusPagamento": "Pendente",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -17482,5 +17500,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T12:51:05.330Z"
+  "updatedAt": "2026-10-07T12:59:47.479Z"
 }
