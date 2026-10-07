@@ -3775,13 +3775,14 @@
       "nomeCliente": "Anie Ribeiro ",
       "contatoCliente": "+ 55 51 9575-6012",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-10-07T19:07:39.607Z"
     },
     {
       "id": "rmtujwthpbf8c8c",
@@ -17724,5 +17725,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:07:12.319Z"
+  "updatedAt": "2026-10-07T19:07:39.608Z"
 }
