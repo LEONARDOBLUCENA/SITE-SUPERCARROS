@@ -17564,6 +17564,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-10-07T15:15:02.386Z"
+    },
+    {
+      "id": "rmuy9296tjq86rg",
+      "createdAt": "2026-10-07T15:15:51.941Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Vinícius Heitor De Oliveira",
+      "contatoCliente": "+55 31 99516-7774",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17584,5 +17600,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T15:15:02.386Z"
+  "updatedAt": "2026-10-07T15:15:53.230Z"
 }
