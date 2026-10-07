@@ -17404,15 +17404,16 @@
       "dataAtendimento": "2026-10-07",
       "nomeCliente": "~Santo Wellington",
       "contatoCliente": "+55 21 96456-1348",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-07T12:00:18.827Z"
     }
   ],
   "siteVendas": [
@@ -17433,5 +17434,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T12:00:09.018Z"
+  "updatedAt": "2026-10-07T12:00:18.827Z"
 }
