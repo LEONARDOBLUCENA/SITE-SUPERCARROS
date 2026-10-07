@@ -10248,14 +10248,15 @@
       "nomeCliente": "Peterson ",
       "contatoCliente": "+55 34 9201-4418",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-07T19:02:00.071Z"
     },
     {
       "id": "rmucmv0zqvkbot5",
@@ -17715,5 +17716,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:00:33.519Z"
+  "updatedAt": "2026-10-07T19:02:00.072Z"
 }
