@@ -2611,13 +2611,14 @@
       "nomeCliente": "Marina Ottmann Boff",
       "contatoCliente": "+55 51 9223-8960 ",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "Drive de 911 Carrera + 1 Carona ",
       "dataVenda": "",
       "valorVenda": "1150.00",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-10-07T19:07:12.319Z"
     },
     {
       "id": "rmtufrdiwr19u5v",
@@ -17723,5 +17724,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T19:06:10.803Z"
+  "updatedAt": "2026-10-07T19:07:12.319Z"
 }
