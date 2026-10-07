@@ -17487,7 +17487,7 @@
       "dataAtendimento": "2026-10-07",
       "nomeCliente": "eduardo",
       "contatoCliente": "+55 11 97423-2021",
-      "origem": "",
+      "origem": "Cara de Mau",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -17495,7 +17495,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-07T13:19:46.597Z"
     }
   ],
   "siteVendas": [
@@ -17516,5 +17517,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T13:19:35.132Z"
+  "updatedAt": "2026-10-07T13:19:46.597Z"
 }
