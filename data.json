@@ -17889,6 +17889,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzjn7tj1xicn3",
+      "createdAt": "2026-10-08T12:59:52.279Z",
+      "dataAtendimento": "2026-10-06",
+      "nomeCliente": "Diego Zajaczkoski",
+      "contatoCliente": "+55 41 8849-6577 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-07",
+      "valorVenda": "650.00",
+      "numeroPedido": "19739",
+      "statusPagamento": "Pendente",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -17909,5 +17927,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-08T12:58:47.371Z"
+  "updatedAt": "2026-10-08T12:59:53.181Z"
 }
