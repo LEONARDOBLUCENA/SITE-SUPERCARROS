@@ -17742,6 +17742,24 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmuzfrsldhb0vfp",
+      "createdAt": "2026-10-08T11:11:27.361Z",
+      "dataAtendimento": "2026-09-03",
+      "nomeCliente": "Camila Silva ",
+      "contatoCliente": "+55 85 8538-7472",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-07",
+      "valorVenda": "324.00",
+      "numeroPedido": "19755",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -17762,5 +17780,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-08T11:05:37.433Z"
+  "updatedAt": "2026-10-08T11:11:28.166Z"
 }
