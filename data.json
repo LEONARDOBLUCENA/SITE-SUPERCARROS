@@ -18054,6 +18054,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzwa9uc73dhr0",
+      "createdAt": "2026-10-08T18:53:43.380Z",
+      "dataAtendimento": "2026-10-01",
+      "nomeCliente": "Thiago Guimaraes",
+      "contatoCliente": "+55 31 9195-5619",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-08",
+      "valorVenda": "137.00",
+      "numeroPedido": "19789",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18074,5 +18090,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T17:32:54.750Z"
+  "updatedAt": "2026-10-08T18:53:44.091Z"
 }
