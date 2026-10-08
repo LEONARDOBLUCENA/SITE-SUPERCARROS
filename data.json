@@ -18022,6 +18022,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzrrmn09tllhs",
+      "createdAt": "2026-10-08T16:47:15.036Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Isa ",
+      "contatoCliente": "+55 48 8878-4685",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18042,5 +18058,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T16:46:53.888Z"
+  "updatedAt": "2026-10-08T16:47:15.945Z"
 }
