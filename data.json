@@ -17784,14 +17784,15 @@
       "nomeCliente": "Glauciane ",
       "contatoCliente": "+55 27 99896-5532",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-08",
+      "valorVenda": "1200.00",
+      "numeroPedido": "19767",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-08T12:45:48.946Z"
     },
     {
       "id": "rmuzhzblhu0kww6",
@@ -17908,5 +17909,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-08T12:14:46.469Z"
+  "updatedAt": "2026-10-08T12:45:48.946Z"
 }
