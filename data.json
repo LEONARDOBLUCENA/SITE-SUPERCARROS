@@ -18006,6 +18006,22 @@
       "statusPagamento": "",
       "observacao": "Busca nossos serviços em SC",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzrr5mhx0l1t3",
+      "createdAt": "2026-10-08T16:46:52.985Z",
+      "dataAtendimento": "2026-09-07",
+      "nomeCliente": "Carla Maria Oliveira",
+      "contatoCliente": "+55 84 9681-3414 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-08",
+      "valorVenda": "186.50",
+      "numeroPedido": "19781",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18026,5 +18042,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T16:36:29.575Z"
+  "updatedAt": "2026-10-08T16:46:53.888Z"
 }
