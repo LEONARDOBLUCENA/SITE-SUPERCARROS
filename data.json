@@ -17310,12 +17310,12 @@
       "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "900.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-07T21:12:52.938Z"
+      "updatedAt": "2026-10-08T15:56:01.302Z"
     },
     {
       "id": "rmuy1iygfyatale",
@@ -17961,5 +17961,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T15:54:15.450Z"
+  "updatedAt": "2026-10-08T15:56:01.302Z"
 }
