@@ -17537,14 +17537,15 @@
       "nomeCliente": "Luiz fernando",
       "contatoCliente": "+55 47 8848-8163",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-08",
+      "valorVenda": "378.00",
+      "numeroPedido": "19777",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-08T15:42:00.103Z"
     },
     {
       "id": "rmuy7asxdcf3zel",
@@ -17976,5 +17977,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T15:37:05.141Z"
+  "updatedAt": "2026-10-08T15:42:00.104Z"
 }
