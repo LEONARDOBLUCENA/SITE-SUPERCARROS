@@ -18038,6 +18038,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuztebzmcj8q87",
+      "createdAt": "2026-10-08T17:32:53.938Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Roberta Gerhardt",
+      "contatoCliente": "+55 47 99278-8280",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18058,5 +18074,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T16:47:15.945Z"
+  "updatedAt": "2026-10-08T17:32:54.750Z"
 }
