@@ -17301,22 +17301,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmuy1foihf687f7",
-      "createdAt": "2026-10-07T11:42:21.401Z",
-      "dataAtendimento": "2026-10-07",
-      "nomeCliente": "luiz",
-      "contatoCliente": "+55 47 8848-8163",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmuy1h4l0fdeh10",
       "createdAt": "2026-10-07T11:43:28.884Z",
       "dataAtendimento": "2026-10-07",
@@ -17977,5 +17961,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T15:54:04.259Z"
+  "updatedAt": "2026-10-08T15:54:15.450Z"
 }
