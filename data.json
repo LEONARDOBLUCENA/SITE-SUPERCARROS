@@ -17724,6 +17724,24 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-10-07T19:51:57.011Z"
+    },
+    {
+      "id": "rmuzfk9egtgj0la",
+      "createdAt": "2026-10-08T11:05:35.896Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Renato De Alcino",
+      "contatoCliente": "(34) 99777-9797",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-07",
+      "valorVenda": "900.00",
+      "numeroPedido": "19743",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -17744,5 +17762,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-07T21:12:52.938Z"
+  "updatedAt": "2026-10-08T11:05:37.433Z"
 }
