@@ -17990,6 +17990,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzrdqln3q7lwh",
+      "createdAt": "2026-10-08T16:36:26.987Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 48 9979-0359",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Busca nossos serviços em SC",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18010,5 +18026,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T16:34:38.729Z"
+  "updatedAt": "2026-10-08T16:36:29.575Z"
 }
