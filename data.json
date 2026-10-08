@@ -17815,17 +17815,18 @@
       "id": "rmuzi05q9uhvum6",
       "createdAt": "2026-10-08T12:13:56.865Z",
       "dataAtendimento": "2026-10-08",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Daniel Barbosa",
       "contatoCliente": "+55 54 8106-0858",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-08",
+      "valorVenda": "137.00",
+      "numeroPedido": "19795",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-08T19:07:26.078Z"
     },
     {
       "id": "rmuzi0kga92jz3t",
@@ -18090,5 +18091,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T18:53:44.091Z"
+  "updatedAt": "2026-10-08T19:07:26.079Z"
 }
