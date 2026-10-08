@@ -18078,7 +18078,7 @@
       "dataAtendimento": "2026-10-08",
       "nomeCliente": "kissila",
       "contatoCliente": "+55 21 99191-7796",
-      "origem": "Outro",
+      "origem": "WhatsApp",
       "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -18086,7 +18086,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-08T20:20:45.245Z"
     }
   ],
   "siteVendas": [
@@ -18107,5 +18108,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T20:20:22.136Z"
+  "updatedAt": "2026-10-08T20:20:45.245Z"
 }
