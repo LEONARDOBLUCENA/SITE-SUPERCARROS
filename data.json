@@ -17941,6 +17941,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzq7yayzs0lk1",
+      "createdAt": "2026-10-08T16:03:57.418Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "charlene",
+      "contatoCliente": "+55 27 99656-2546",
+      "origem": "Outro",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -17961,5 +17977,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T15:57:01.331Z"
+  "updatedAt": "2026-10-08T16:03:58.327Z"
 }
