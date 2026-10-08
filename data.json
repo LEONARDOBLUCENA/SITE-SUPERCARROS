@@ -17540,12 +17540,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-08",
-      "valorVenda": "378.00",
+      "valorVenda": "396.00",
       "numeroPedido": "19777",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-08T15:50:54.699Z"
+      "updatedAt": "2026-10-08T15:54:04.259Z"
     },
     {
       "id": "rmuy7asxdcf3zel",
@@ -17977,5 +17977,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T15:50:54.699Z"
+  "updatedAt": "2026-10-08T15:54:04.259Z"
 }
