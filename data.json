@@ -17940,6 +17940,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzlkb9w5it021",
+      "createdAt": "2026-10-08T13:53:36.020Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Gaby Felix ",
+      "contatoCliente": "+55 82 9328-9538",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17960,5 +17976,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-08T13:51:38.895Z"
+  "updatedAt": "2026-10-08T13:53:36.982Z"
 }
