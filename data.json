@@ -17079,15 +17079,15 @@
       "nomeCliente": "josiane",
       "contatoCliente": "+55 21 97991-1291",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-10-08",
       "valorVenda": "434.00",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "numeroPedido": "19793",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-08T15:56:33.701Z"
+      "updatedAt": "2026-10-08T22:46:55.354Z"
     },
     {
       "id": "rmux28yoc5zkyc2",
@@ -18127,5 +18127,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T22:30:42.028Z"
+  "updatedAt": "2026-10-08T22:46:55.354Z"
 }
