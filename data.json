@@ -17808,6 +17808,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzhzrueu2epfp",
+      "createdAt": "2026-10-08T12:13:38.870Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Antonia Martins ",
+      "contatoCliente": "+55 71 9259-7100",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17828,5 +17844,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-08T12:13:19.133Z"
+  "updatedAt": "2026-10-08T12:13:39.850Z"
 }
