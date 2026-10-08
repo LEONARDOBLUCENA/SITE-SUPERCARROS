@@ -17908,6 +17908,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-10-08T13:01:56.828Z"
+    },
+    {
+      "id": "rmuzlhib56kpahu",
+      "createdAt": "2026-10-08T13:51:25.169Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Camila Silva ",
+      "contatoCliente": "+55 99 8455-0791",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17928,5 +17944,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-08T13:01:56.828Z"
+  "updatedAt": "2026-10-08T13:51:26.121Z"
 }
