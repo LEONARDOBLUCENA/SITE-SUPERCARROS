@@ -18071,6 +18071,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzzdoctg702tc",
+      "createdAt": "2026-10-08T20:20:21.005Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "kissila",
+      "contatoCliente": "+55 21 99191-7796",
+      "origem": "Outro",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -18091,5 +18107,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T19:07:26.079Z"
+  "updatedAt": "2026-10-08T20:20:22.136Z"
 }
