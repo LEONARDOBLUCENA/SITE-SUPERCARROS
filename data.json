@@ -18088,6 +18088,24 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-08T20:20:45.245Z"
+    },
+    {
+      "id": "rmv036deqyeowt5",
+      "createdAt": "2026-10-08T22:06:38.690Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "~Mateus Lima",
+      "contatoCliente": "+55 31 8410-0741",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "drive camaro amarelo",
+      "dataVenda": "2026-10-08",
+      "valorVenda": "716.00",
+      "numeroPedido": "19801",
+      "statusPagamento": "",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -18108,5 +18126,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T20:20:45.245Z"
+  "updatedAt": "2026-10-08T22:06:39.469Z"
 }
