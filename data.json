@@ -17776,6 +17776,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzhyukixlxisy",
+      "createdAt": "2026-10-08T12:12:55.746Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Glauciane ",
+      "contatoCliente": "+55 27 99896-5532",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17796,5 +17812,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-08T12:12:37.472Z"
+  "updatedAt": "2026-10-08T12:12:56.814Z"
 }
