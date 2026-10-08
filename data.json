@@ -17950,13 +17950,14 @@
       "contatoCliente": "+55 27 99656-2546",
       "origem": "Outro",
       "statusAtendimento": "Em negociação",
-      "produtoInteresse": "",
+      "produtoInteresse": "drive + 2 caronas camaro b.",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "500.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-08T16:11:02.778Z"
     },
     {
       "id": "rmuzq8iju0amfsk",
@@ -17993,5 +17994,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-08T16:04:24.776Z"
+  "updatedAt": "2026-10-08T16:11:02.778Z"
 }
