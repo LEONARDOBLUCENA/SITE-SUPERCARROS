@@ -17924,6 +17924,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmuzlhrahtl38pg",
+      "createdAt": "2026-10-08T13:51:36.809Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Diana ",
+      "contatoCliente": "+55 11 94179-6162",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -17944,5 +17960,5 @@
       "updatedAt": "2026-10-05T16:47:19.728Z"
     }
   ],
-  "updatedAt": "2026-10-08T13:51:26.121Z"
+  "updatedAt": "2026-10-08T13:51:38.895Z"
 }
