@@ -18123,6 +18123,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv09vkrrm3t6yq",
+      "createdAt": "2026-10-09T01:14:12.327Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Emily Lopes",
+      "contatoCliente": "+55 31 9090-2920",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -18143,5 +18159,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T01:05:32.611Z"
+  "updatedAt": "2026-10-09T01:14:13.210Z"
 }
