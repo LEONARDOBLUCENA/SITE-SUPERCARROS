@@ -16949,7 +16949,7 @@
       "nomeCliente": "~Diego Zajaczkoski",
       "contatoCliente": "+55 41 8849-6577",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "650.00",
@@ -16957,7 +16957,7 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-08T15:57:01.331Z"
+      "updatedAt": "2026-10-09T01:05:32.611Z"
     },
     {
       "id": "rmuwy0tabgqhjmo",
@@ -18143,5 +18143,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T01:04:15.811Z"
+  "updatedAt": "2026-10-09T01:05:32.611Z"
 }
