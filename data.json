@@ -18049,7 +18049,7 @@
       "nomeCliente": "Roberta Gerhardt",
       "contatoCliente": "+55 47 99278-8280",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-08",
       "valorVenda": "650.00",
@@ -18057,7 +18057,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna",
-      "updatedAt": "2026-10-09T11:05:48.566Z"
+      "updatedAt": "2026-10-09T11:06:09.416Z"
     },
     {
       "id": "rmuzwa9uc73dhr0",
@@ -18178,5 +18178,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T11:05:48.566Z"
+  "updatedAt": "2026-10-09T11:06:09.416Z"
 }
