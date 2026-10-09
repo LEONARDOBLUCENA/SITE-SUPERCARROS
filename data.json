@@ -18265,14 +18265,15 @@
       "nomeCliente": "Luis",
       "contatoCliente": "+55 11 97382-7025",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-09",
+      "valorVenda": "390.00",
+      "numeroPedido": "19821",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-09T16:25:14.224Z"
     },
     {
       "id": "rmv13eh4w9iyhqq",
@@ -18325,5 +18326,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T16:22:07.217Z"
+  "updatedAt": "2026-10-09T16:25:14.224Z"
 }
