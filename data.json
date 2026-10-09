@@ -18175,6 +18175,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv0xojg777quiw",
+      "createdAt": "2026-10-09T12:20:34.807Z",
+      "dataAtendimento": "2026-10-09",
+      "nomeCliente": "Marcia Pereira Da Silva",
+      "contatoCliente": "+55 34 98409-8925",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18195,5 +18211,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T12:17:51.103Z"
+  "updatedAt": "2026-10-09T12:20:35.944Z"
 }
