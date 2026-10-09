@@ -11478,14 +11478,15 @@
       "nomeCliente": "Margarida ",
       "contatoCliente": "(22) 981021512",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-08",
+      "valorVenda": "250.20",
+      "numeroPedido": "19805",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-09T12:00:06.261Z"
     },
     {
       "id": "rmufkmpr7axp379",
@@ -18178,5 +18179,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T11:06:09.416Z"
+  "updatedAt": "2026-10-09T12:00:06.262Z"
 }
