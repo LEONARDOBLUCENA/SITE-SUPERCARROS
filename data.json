@@ -18256,6 +18256,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv11t6d3gznn0q",
+      "createdAt": "2026-10-09T14:16:09.591Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Luis",
+      "contatoCliente": "+55 11 97382-7025",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -18276,5 +18292,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T14:13:42.508Z"
+  "updatedAt": "2026-10-09T14:16:10.305Z"
 }
