@@ -18331,14 +18331,15 @@
       "nomeCliente": "fran",
       "contatoCliente": "+55 31 8242-6468",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-09",
+      "valorVenda": "650.00",
+      "numeroPedido": "19829",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-09T18:24:12.584Z"
     },
     {
       "id": "rmv1a38n2tf5q7v",
@@ -18407,5 +18408,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T18:08:48.367Z"
+  "updatedAt": "2026-10-09T18:24:12.584Z"
 }
