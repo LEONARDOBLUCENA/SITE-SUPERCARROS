@@ -18141,6 +18141,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv0bj6ji31c6kf",
+      "createdAt": "2026-10-09T02:00:33.246Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Jucinara",
+      "contatoCliente": "+55 31 8247-6774",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -18161,5 +18177,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T01:27:00.770Z"
+  "updatedAt": "2026-10-09T02:00:34.484Z"
 }
