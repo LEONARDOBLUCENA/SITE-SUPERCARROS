@@ -18183,14 +18183,15 @@
       "nomeCliente": "Marcia Pereira Da Silva",
       "contatoCliente": "+55 34 98409-8925",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-09",
+      "valorVenda": "1.64000",
+      "numeroPedido": "19811",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-09T14:13:26.303Z"
     },
     {
       "id": "rmv0ztwjsu49m4a",
@@ -18275,5 +18276,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:27:01.456Z"
+  "updatedAt": "2026-10-09T14:13:26.303Z"
 }
