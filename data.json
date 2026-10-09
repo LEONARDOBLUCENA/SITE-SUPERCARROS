@@ -11800,15 +11800,16 @@
       "dataAtendimento": "2026-09-24",
       "nomeCliente": "Monise",
       "contatoCliente": "+55 22 98150-9369",
-      "origem": "",
-      "statusAtendimento": "Link enviado",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Outros",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
+      "observacao": "veio direto ao salao",
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-09T01:27:00.770Z"
     },
     {
       "id": "rmufwvhyaajo2mh",
@@ -18160,5 +18161,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T01:25:37.308Z"
+  "updatedAt": "2026-10-09T01:27:00.770Z"
 }
