@@ -18200,14 +18200,15 @@
       "nomeCliente": "Andreza Rêgo",
       "contatoCliente": "+55 94 8124-1125 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-09",
+      "valorVenda": "700.00",
+      "numeroPedido": "19813",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-09T15:03:08.574Z"
     },
     {
       "id": "rmv0zufp5fec89e",
@@ -18308,5 +18309,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T15:00:43.843Z"
+  "updatedAt": "2026-10-09T15:03:08.575Z"
 }
