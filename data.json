@@ -18191,6 +18191,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv0ztwjsu49m4a",
+      "createdAt": "2026-10-09T13:20:44.296Z",
+      "dataAtendimento": "2026-10-09",
+      "nomeCliente": "Andreza Rêgo",
+      "contatoCliente": "+55 94 8124-1125 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18211,5 +18227,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T12:20:35.944Z"
+  "updatedAt": "2026-10-09T13:20:45.145Z"
 }
