@@ -18239,6 +18239,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv101ytgbxrb7z",
+      "createdAt": "2026-10-09T13:27:00.484Z",
+      "dataAtendimento": "2026-10-09",
+      "nomeCliente": "Rodolpho Cavalhieri",
+      "contatoCliente": "+55 19 99988-5266 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18259,5 +18275,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:22:53.493Z"
+  "updatedAt": "2026-10-09T13:27:01.456Z"
 }
