@@ -18223,6 +18223,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv0zwnb7jign7p",
+      "createdAt": "2026-10-09T13:22:52.291Z",
+      "dataAtendimento": "2026-10-09",
+      "nomeCliente": "Kathyene Morais",
+      "contatoCliente": "(83) 99963 4826",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18243,5 +18259,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:21:09.825Z"
+  "updatedAt": "2026-10-09T13:22:53.493Z"
 }
