@@ -7425,14 +7425,14 @@
       "nomeCliente": "arthur",
       "contatoCliente": "+55 54 9909-3298",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-09",
       "valorVenda": "1000.35",
       "numeroPedido": "19827",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-10-09T17:43:24.894Z"
+      "updatedAt": "2026-10-09T17:49:34.652Z"
     },
     {
       "id": "rmu2wf35j2wlffi",
@@ -18343,5 +18343,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T17:43:24.894Z"
+  "updatedAt": "2026-10-09T17:49:34.653Z"
 }
