@@ -18339,6 +18339,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv1a38n2tf5q7v",
+      "createdAt": "2026-10-09T18:07:56.030Z",
+      "dataAtendimento": "2026-10-09",
+      "nomeCliente": "Juliana Sathler",
+      "contatoCliente": "+55 33 8839-5650 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18359,5 +18375,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-09T18:06:12.831Z"
+  "updatedAt": "2026-10-09T18:07:56.914Z"
 }
