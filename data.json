@@ -18909,6 +18909,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv2usw4ml7s7el",
+      "createdAt": "2026-10-10T20:35:31.366Z",
+      "dataAtendimento": "2026-10-10",
+      "nomeCliente": "Gui Lima",
+      "contatoCliente": "+55 31 9994-3376 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18929,5 +18945,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T20:35:14.554Z"
+  "updatedAt": "2026-10-10T20:35:33.140Z"
 }
