@@ -18845,6 +18845,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv2uqbgnr7jq08",
+      "createdAt": "2026-10-10T20:33:31.271Z",
+      "dataAtendimento": "2026-10-10",
+      "nomeCliente": "Arq. Letícia De Giorgio",
+      "contatoCliente": "+55 14 99889-4324 ",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18865,5 +18881,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T20:33:02.560Z"
+  "updatedAt": "2026-10-10T20:33:32.756Z"
 }
