@@ -18728,6 +18728,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv2fcy2q09zdc8",
+      "createdAt": "2026-10-10T13:23:13.154Z",
+      "dataAtendimento": "2026-10-10",
+      "nomeCliente": "~Augustinha Martins Calero",
+      "contatoCliente": "+55 11 96473-1969",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -18748,5 +18764,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T13:20:18.426Z"
+  "updatedAt": "2026-10-10T13:23:13.931Z"
 }
