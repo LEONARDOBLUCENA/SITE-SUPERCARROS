@@ -18893,6 +18893,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv2usid6iy24lo",
+      "createdAt": "2026-10-10T20:35:13.530Z",
+      "dataAtendimento": "2026-10-10",
+      "nomeCliente": "Marielle Pereira",
+      "contatoCliente": "+55 85 8221-2233 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18913,5 +18929,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T20:34:29.425Z"
+  "updatedAt": "2026-10-10T20:35:14.554Z"
 }
