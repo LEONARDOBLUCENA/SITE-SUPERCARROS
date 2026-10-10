@@ -18604,7 +18604,7 @@
       "dataAtendimento": "2026-10-10",
       "nomeCliente": "Sem nome",
       "contatoCliente": "+55 11 99485-2628",
-      "origem": "WhatsApp",
+      "origem": "Cara de Mau",
       "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -18612,7 +18612,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-10T10:58:57.131Z"
     },
     {
       "id": "rmv29rgmx4nir1s",
@@ -18665,5 +18666,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T10:47:30.330Z"
+  "updatedAt": "2026-10-10T10:58:57.131Z"
 }
