@@ -18722,14 +18722,15 @@
       "nomeCliente": "lucas",
       "contatoCliente": "+55 11 98788-2166",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-10",
+      "valorVenda": "297.00",
+      "numeroPedido": "19855",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-10T15:06:16.579Z"
     },
     {
       "id": "rmv2fcy2q09zdc8",
@@ -18798,5 +18799,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T14:01:18.427Z"
+  "updatedAt": "2026-10-10T15:06:16.579Z"
 }
