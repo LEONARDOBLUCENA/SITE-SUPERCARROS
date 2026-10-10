@@ -18829,6 +18829,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv2upo4deja9ag",
+      "createdAt": "2026-10-10T20:33:01.021Z",
+      "dataAtendimento": "2026-10-10",
+      "nomeCliente": "Isabel Cristina",
+      "contatoCliente": "+55 33 9902-6289 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18849,5 +18865,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T20:31:13.170Z"
+  "updatedAt": "2026-10-10T20:33:02.560Z"
 }
