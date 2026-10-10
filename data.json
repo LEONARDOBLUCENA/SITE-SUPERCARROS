@@ -15593,12 +15593,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-08",
-      "valorVenda": "1.65000",
+      "valorVenda": "1650.00",
       "numeroPedido": "19787",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna",
-      "updatedAt": "2026-10-10T14:00:41.244Z"
+      "updatedAt": "2026-10-10T14:01:18.427Z"
     },
     {
       "id": "rmuspc362scov54",
@@ -18798,5 +18798,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T14:00:41.244Z"
+  "updatedAt": "2026-10-10T14:01:18.427Z"
 }
