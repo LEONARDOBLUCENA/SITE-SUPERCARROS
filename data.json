@@ -16387,14 +16387,15 @@
       "nomeCliente": "Dra Mariana Vicente",
       "contatoCliente": "+55 16 99155-8765 ",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-09",
+      "valorVenda": "570.00",
+      "numeroPedido": "19823",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-10T21:48:47.766Z"
     },
     {
       "id": "rmuv8c4loqetvnn",
@@ -18945,5 +18946,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T20:35:33.140Z"
+  "updatedAt": "2026-10-10T21:48:47.766Z"
 }
