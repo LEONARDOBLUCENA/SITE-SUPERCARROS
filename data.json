@@ -18565,6 +18565,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv1tcmc4yia997",
+      "createdAt": "2026-10-10T03:07:06.388Z",
+      "dataAtendimento": "2026-10-10",
+      "nomeCliente": "Porcena",
+      "contatoCliente": "+55 19 99185-4608",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -18585,5 +18601,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T03:06:24.537Z"
+  "updatedAt": "2026-10-10T03:07:07.692Z"
 }
