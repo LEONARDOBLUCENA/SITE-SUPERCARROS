@@ -18432,12 +18432,12 @@
       "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-10",
-      "valorVenda": "298.00",
-      "numeroPedido": "19841",
+      "valorVenda": "358.00",
+      "numeroPedido": "19847",
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-10T11:42:23.514Z"
+      "updatedAt": "2026-10-10T12:32:26.172Z"
     },
     {
       "id": "rmv1jq1aydobf8a",
@@ -18716,5 +18716,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:11:20.774Z"
+  "updatedAt": "2026-10-10T12:32:26.173Z"
 }
