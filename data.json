@@ -18877,6 +18877,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv2urjpo1l32ft",
+      "createdAt": "2026-10-10T20:34:28.620Z",
+      "dataAtendimento": "2026-10-10",
+      "nomeCliente": "Tatieli Zanandrea",
+      "contatoCliente": "+55 54 9969-7183 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18897,5 +18913,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T20:34:03.466Z"
+  "updatedAt": "2026-10-10T20:34:29.425Z"
 }
