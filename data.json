@@ -18299,14 +18299,15 @@
       "nomeCliente": "marcilio",
       "contatoCliente": "+55 92 8189-6448",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-10",
+      "valorVenda": "1000.00",
+      "numeroPedido": "19843",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-10T12:11:20.774Z"
     },
     {
       "id": "rmv16sm5i4vjizv",
@@ -18715,5 +18716,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T11:42:23.514Z"
+  "updatedAt": "2026-10-10T12:11:20.774Z"
 }
