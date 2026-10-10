@@ -18120,15 +18120,16 @@
       "dataAtendimento": "2026-10-08",
       "nomeCliente": "Sem nome",
       "contatoCliente": "+55 31 9333-9140",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "99.00",
+      "numeroPedido": "19867",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-10T18:41:12.367Z"
     },
     {
       "id": "rmv09vkrrm3t6yq",
@@ -18831,5 +18832,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T17:10:41.312Z"
+  "updatedAt": "2026-10-10T18:41:12.368Z"
 }
