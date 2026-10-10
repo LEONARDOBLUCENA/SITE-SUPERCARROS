@@ -18484,6 +18484,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv1r9hvmom9sqa",
+      "createdAt": "2026-10-10T02:08:41.410Z",
+      "dataAtendimento": "2026-10-09",
+      "nomeCliente": "~Fran 🍁",
+      "contatoCliente": "+55 51 8104-9260",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "passeio presente de 15 anos para as gemeas e pai com cancer",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -18504,5 +18520,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T02:08:06.873Z"
+  "updatedAt": "2026-10-10T02:08:42.290Z"
 }
