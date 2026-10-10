@@ -18707,12 +18707,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "49000.00",
+      "valorVenda": "35000",
       "numeroPedido": "",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-10T12:35:27.900Z"
+      "updatedAt": "2026-10-10T12:35:42.304Z"
     }
   ],
   "siteVendas": [
@@ -18733,5 +18733,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T12:35:27.900Z"
+  "updatedAt": "2026-10-10T12:35:42.304Z"
 }
