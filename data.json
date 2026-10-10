@@ -18549,6 +18549,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv1tbpm2ci1koe",
+      "createdAt": "2026-10-10T03:06:23.978Z",
+      "dataAtendimento": "2026-10-09",
+      "nomeCliente": "pedro mendes",
+      "contatoCliente": "+55 81 8932-7679",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -18569,5 +18585,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T02:58:07.477Z"
+  "updatedAt": "2026-10-10T03:06:24.537Z"
 }
