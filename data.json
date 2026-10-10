@@ -18678,6 +18678,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv2au1d058k75k",
+      "createdAt": "2026-10-10T11:16:32.484Z",
+      "dataAtendimento": "2026-10-10",
+      "nomeCliente": "ulisses",
+      "contatoCliente": "+55 54 9704-0869",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -18698,5 +18714,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T10:59:59.248Z"
+  "updatedAt": "2026-10-10T11:16:34.054Z"
 }
