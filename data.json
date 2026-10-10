@@ -18704,14 +18704,15 @@
       "nomeCliente": "fabio",
       "contatoCliente": "+55 71 9964-9796",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "ferrari e 911",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "3300.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-10T13:33:57.055Z"
     },
     {
       "id": "rmv2f96d7p3mjdk",
@@ -18796,5 +18797,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T13:33:25.968Z"
+  "updatedAt": "2026-10-10T13:33:57.055Z"
 }
