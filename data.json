@@ -15178,14 +15178,15 @@
       "nomeCliente": "Ríberton Teixeira De Assis",
       "contatoCliente": "Ríberton Teixeira De Assis",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "137.00",
+      "numeroPedido": "19873",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-10T20:31:13.170Z"
     },
     {
       "id": "rmuqxkyomemeon6",
@@ -18848,5 +18849,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T19:31:12.592Z"
+  "updatedAt": "2026-10-10T20:31:13.170Z"
 }
