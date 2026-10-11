@@ -19039,6 +19039,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv41o0264hmcym",
+      "createdAt": "2026-10-11T16:35:26.670Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "joysse",
+      "contatoCliente": "+55 35 9716-1070",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19059,5 +19075,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T16:27:52.650Z"
+  "updatedAt": "2026-10-11T16:35:28.242Z"
 }
