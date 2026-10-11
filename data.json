@@ -19149,14 +19149,15 @@
       "nomeCliente": "~Dhiego De Gasperi",
       "contatoCliente": "+55 54 9200-7574",
       "origem": "Evento",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "locação de carro para casamento",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-11T22:03:53.959Z"
     }
   ],
   "siteVendas": [
@@ -19177,5 +19178,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T22:03:43.588Z"
+  "updatedAt": "2026-10-11T22:03:53.959Z"
 }
