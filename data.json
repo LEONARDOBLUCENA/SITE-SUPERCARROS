@@ -19098,14 +19098,15 @@
       "nomeCliente": "daniel",
       "contatoCliente": "55 51 9928-3440",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-10-11",
       "valorVenda": "186.50",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "numeroPedido": "19931",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-11T20:39:00.923Z"
     },
     {
       "id": "rmv488pk120uy0z",
@@ -19160,5 +19161,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T20:35:55.181Z"
+  "updatedAt": "2026-10-11T20:39:00.923Z"
 }
