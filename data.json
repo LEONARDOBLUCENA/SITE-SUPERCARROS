@@ -18482,15 +18482,15 @@
       "nomeCliente": "~Jailton Bandeira",
       "contatoCliente": "+55 51 9509-2108",
       "origem": "WhatsApp",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-09",
       "valorVenda": "186.50",
       "numeroPedido": "19835",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-10T02:49:06.659Z"
+      "updatedAt": "2026-10-11T22:19:46.933Z"
     },
     {
       "id": "rmv1r9hvmom9sqa",
@@ -19178,5 +19178,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T22:18:50.369Z"
+  "updatedAt": "2026-10-11T22:19:46.933Z"
 }
