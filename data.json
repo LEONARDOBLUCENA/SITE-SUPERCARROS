@@ -19106,6 +19106,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv488pk120uy0z",
+      "createdAt": "2026-10-11T19:39:30.529Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "tiago jorden",
+      "contatoCliente": "+55 22 99810-5005",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19126,5 +19142,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T19:33:23.268Z"
+  "updatedAt": "2026-10-11T19:39:32.390Z"
 }
