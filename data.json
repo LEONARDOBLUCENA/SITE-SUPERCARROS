@@ -18999,14 +18999,15 @@
       "nomeCliente": "~Karen",
       "contatoCliente": "+55 53 9166-0919",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
-      "numeroPedido": "",
+      "numeroPedido": "19913",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-11T16:39:19.293Z"
     },
     {
       "id": "rmv40sw9ffujn8v",
@@ -19075,5 +19076,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T16:35:28.242Z"
+  "updatedAt": "2026-10-11T16:39:19.293Z"
 }
