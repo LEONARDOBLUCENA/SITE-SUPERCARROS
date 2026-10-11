@@ -19132,15 +19132,15 @@
       "nomeCliente": "Arthur Michelini",
       "contatoCliente": "+55 48 9914-5454",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-11",
       "valorVenda": "243.00",
       "numeroPedido": "19833 e 19933",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-11T20:58:02.106Z"
+      "updatedAt": "2026-10-11T21:52:31.684Z"
     }
   ],
   "siteVendas": [
@@ -19161,5 +19161,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T21:04:43.986Z"
+  "updatedAt": "2026-10-11T21:52:31.684Z"
 }
