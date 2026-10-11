@@ -19204,6 +19204,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv4hh8gpf9rejj",
+      "createdAt": "2026-10-11T23:58:04.825Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Vivia",
+      "contatoCliente": "+55 32 9802-5190",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19224,5 +19240,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T23:52:42.677Z"
+  "updatedAt": "2026-10-11T23:58:05.679Z"
 }
