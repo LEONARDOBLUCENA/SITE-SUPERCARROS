@@ -19129,15 +19129,16 @@
       "dataAtendimento": "2026-10-11",
       "nomeCliente": "Sem nome",
       "contatoCliente": "+55 48 9914-5454",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-11",
+      "valorVenda": "243.00",
+      "numeroPedido": "19833 e 19933",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-11T20:00:21.330Z"
     }
   ],
   "siteVendas": [
@@ -19158,5 +19159,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T19:39:52.258Z"
+  "updatedAt": "2026-10-11T20:00:21.330Z"
 }
