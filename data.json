@@ -19158,6 +19158,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-11T22:03:53.959Z"
+    },
+    {
+      "id": "rmv4f6wzt60rr59",
+      "createdAt": "2026-10-11T22:54:04.169Z",
+      "dataAtendimento": "2026-10-08",
+      "nomeCliente": "Luiz Guilherme Almeida",
+      "contatoCliente": "+55 41 9534-8661",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "troca de ingresso normal por omgresso prime",
+      "dataVenda": "2026-10-08",
+      "valorVenda": "0.00",
+      "numeroPedido": "19771",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19178,5 +19194,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T22:20:55.972Z"
+  "updatedAt": "2026-10-11T22:54:05.293Z"
 }
