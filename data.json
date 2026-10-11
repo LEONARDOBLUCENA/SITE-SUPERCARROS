@@ -19128,7 +19128,7 @@
       "id": "rmv4895lufp1pix",
       "createdAt": "2026-10-11T19:39:51.330Z",
       "dataAtendimento": "2026-10-11",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "artur micheline",
       "contatoCliente": "+55 48 9914-5454",
       "origem": "Upgrade Site",
       "statusAtendimento": "Link enviado",
@@ -19139,7 +19139,7 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-11T20:00:21.330Z"
+      "updatedAt": "2026-10-11T20:35:55.181Z"
     }
   ],
   "siteVendas": [
@@ -19160,5 +19160,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T20:34:08.789Z"
+  "updatedAt": "2026-10-11T20:35:55.181Z"
 }
