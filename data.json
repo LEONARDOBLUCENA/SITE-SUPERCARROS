@@ -18854,14 +18854,15 @@
       "nomeCliente": "Arq. Letícia De Giorgio",
       "contatoCliente": "+55 14 99889-4324 ",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-10",
+      "valorVenda": "750.00",
+      "numeroPedido": "19859",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-11T11:13:06.116Z"
     },
     {
       "id": "rmv2uqzj1eup90u",
@@ -18946,5 +18947,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T02:31:00.214Z"
+  "updatedAt": "2026-10-11T11:13:06.116Z"
 }
