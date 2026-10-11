@@ -7428,11 +7428,11 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-09",
-      "valorVenda": "1000.35",
+      "valorVenda": "1053.00",
       "numeroPedido": "19827",
       "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-10-09T17:49:34.652Z"
+      "updatedAt": "2026-10-11T22:20:55.972Z"
     },
     {
       "id": "rmu2wf35j2wlffi",
@@ -19178,5 +19178,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T22:19:46.933Z"
+  "updatedAt": "2026-10-11T22:20:55.972Z"
 }
