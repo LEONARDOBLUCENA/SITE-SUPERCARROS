@@ -18433,15 +18433,15 @@
       "nomeCliente": "cristian",
       "contatoCliente": "+55 65 9965-8333",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-10",
       "valorVenda": "358.00",
       "numeroPedido": "19847",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-10T12:32:26.172Z"
+      "updatedAt": "2026-10-11T22:18:50.368Z"
     },
     {
       "id": "rmv1jq1aydobf8a",
@@ -19178,5 +19178,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T22:17:02.138Z"
+  "updatedAt": "2026-10-11T22:18:50.369Z"
 }
