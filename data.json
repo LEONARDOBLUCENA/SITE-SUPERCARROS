@@ -19141,6 +19141,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-11T21:52:31.684Z"
+    },
+    {
+      "id": "rmv4de545oylhna",
+      "createdAt": "2026-10-11T22:03:42.053Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "~Dhiego De Gasperi",
+      "contatoCliente": "+55 54 9200-7574",
+      "origem": "Evento",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "locação de carro para casamento",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19161,5 +19177,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T21:52:31.684Z"
+  "updatedAt": "2026-10-11T22:03:43.588Z"
 }
