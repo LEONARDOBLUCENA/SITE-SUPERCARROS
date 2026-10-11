@@ -19117,12 +19117,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-11",
-      "valorVenda": "0.01",
+      "valorVenda": "186.50",
       "numeroPedido": "19935",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-11T20:20:33.878Z"
+      "updatedAt": "2026-10-11T20:34:08.789Z"
     },
     {
       "id": "rmv4895lufp1pix",
@@ -19160,5 +19160,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T20:20:33.879Z"
+  "updatedAt": "2026-10-11T20:34:08.789Z"
 }
