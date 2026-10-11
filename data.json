@@ -18927,6 +18927,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv3vhmgn2ce4gc",
+      "createdAt": "2026-10-11T13:42:31.415Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Michelle Beus",
+      "contatoCliente": "(55) 99729-3859",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-11",
+      "valorVenda": "159.46",
+      "numeroPedido": "19903",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -18947,5 +18963,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T11:13:06.116Z"
+  "updatedAt": "2026-10-11T13:42:32.254Z"
 }
