@@ -19140,6 +19140,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv4gxdgn9gy168",
+      "createdAt": "2026-10-11T23:42:38.183Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "~Rafaele Mainard",
+      "contatoCliente": "+55 55 8449-6875",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19160,5 +19176,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T22:55:44.317Z"
+  "updatedAt": "2026-10-11T23:42:39.055Z"
 }
