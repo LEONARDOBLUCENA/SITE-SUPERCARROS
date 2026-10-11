@@ -18120,7 +18120,7 @@
       "id": "rmv097iaz7m5mup",
       "createdAt": "2026-10-09T00:55:29.387Z",
       "dataAtendimento": "2026-10-08",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "karla",
       "contatoCliente": "+55 31 9333-9140",
       "origem": "Prime Gourmet",
       "statusAtendimento": "Pedido finalizado",
@@ -18131,7 +18131,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-10T18:41:12.367Z"
+      "updatedAt": "2026-10-11T22:17:02.138Z"
     },
     {
       "id": "rmv09vkrrm3t6yq",
@@ -19178,5 +19178,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T22:03:53.959Z"
+  "updatedAt": "2026-10-11T22:17:02.138Z"
 }
