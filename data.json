@@ -19090,6 +19090,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-11T18:09:22.372Z"
+    },
+    {
+      "id": "rmv480ta2y58py2",
+      "createdAt": "2026-10-11T19:33:22.106Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "daniel",
+      "contatoCliente": "55 51 9928-3440",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "186.50",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19110,5 +19126,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T18:09:22.372Z"
+  "updatedAt": "2026-10-11T19:33:23.268Z"
 }
