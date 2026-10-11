@@ -19122,6 +19122,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv4895lufp1pix",
+      "createdAt": "2026-10-11T19:39:51.330Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 48 9914-5454",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19142,5 +19158,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T19:39:32.390Z"
+  "updatedAt": "2026-10-11T19:39:52.258Z"
 }
