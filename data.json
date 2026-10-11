@@ -19016,14 +19016,15 @@
       "nomeCliente": "angelica",
       "contatoCliente": "+55 49 9948-4033",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-11",
+      "valorVenda": "186.50",
+      "numeroPedido": "19915",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-11T17:17:28.737Z"
     },
     {
       "id": "rmv41e90907vz8m",
@@ -19092,5 +19093,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T17:01:52.099Z"
+  "updatedAt": "2026-10-11T17:17:28.737Z"
 }
