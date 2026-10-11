@@ -19073,6 +19073,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv44w69jsuvkl5",
+      "createdAt": "2026-10-11T18:05:46.807Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "~Reuel Farias",
+      "contatoCliente": "+55 49 9112-3541",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19093,5 +19109,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T17:23:23.448Z"
+  "updatedAt": "2026-10-11T18:05:47.494Z"
 }
