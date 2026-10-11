@@ -19081,14 +19081,15 @@
       "nomeCliente": "~Reuel Farias",
       "contatoCliente": "+55 49 9112-3541",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-10-11",
+      "valorVenda": "594.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-11T18:09:22.372Z"
     }
   ],
   "siteVendas": [
@@ -19109,5 +19110,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-11T18:05:47.494Z"
+  "updatedAt": "2026-10-11T18:09:22.372Z"
 }
