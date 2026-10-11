@@ -18708,15 +18708,15 @@
       "nomeCliente": "fabio",
       "contatoCliente": "+55 71 9964-9796",
       "origem": "WhatsApp",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "portofino e 911",
       "dataVenda": "2026-10-10",
       "valorVenda": "3000.00",
       "numeroPedido": "19871",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-10T19:31:12.591Z"
+      "updatedAt": "2026-10-11T02:31:00.214Z"
     },
     {
       "id": "rmv2f96d7p3mjdk",
@@ -18946,5 +18946,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-10T21:48:47.766Z"
+  "updatedAt": "2026-10-11T02:31:00.214Z"
 }
