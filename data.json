@@ -19633,6 +19633,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv58jd3z8w52tz",
+      "createdAt": "2026-10-12T12:35:33.791Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "João Vitor Da Rosa",
+      "contatoCliente": "+55 48 99602-6682",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19653,5 +19669,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:34:25.015Z"
+  "updatedAt": "2026-10-12T12:35:34.541Z"
 }
