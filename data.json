@@ -19499,12 +19499,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-11",
-      "valorVenda": "980.00",
-      "numeroPedido": "19923",
+      "valorVenda": "1110.15",
+      "numeroPedido": "19923 e 19963",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna",
-      "updatedAt": "2026-10-12T12:24:03.293Z"
+      "updatedAt": "2026-10-12T17:30:28.072Z"
     },
     {
       "id": "rmv57ofvcyoo2ef",
@@ -19862,5 +19862,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T17:24:23.004Z"
+  "updatedAt": "2026-10-12T17:30:28.072Z"
 }
