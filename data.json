@@ -19406,6 +19406,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv57khz2mrnos6",
+      "createdAt": "2026-10-12T12:08:27.134Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Claudia Santin ",
+      "contatoCliente": "+55 54 9927-5001",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Tem voucher da GAV",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19426,5 +19442,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:07:59.844Z"
+  "updatedAt": "2026-10-12T12:08:28.587Z"
 }
