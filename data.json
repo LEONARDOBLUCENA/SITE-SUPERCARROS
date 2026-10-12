@@ -19617,6 +19617,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv58hvckfrxx9x",
+      "createdAt": "2026-10-12T12:34:24.116Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Catielle Da Silva Ramson",
+      "contatoCliente": "+55 53 99711-7451",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19637,5 +19653,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:30:06.218Z"
+  "updatedAt": "2026-10-12T12:34:25.015Z"
 }
