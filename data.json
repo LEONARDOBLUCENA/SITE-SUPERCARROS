@@ -19046,16 +19046,16 @@
       "dataAtendimento": "2026-10-11",
       "nomeCliente": "~Reuel Farias",
       "contatoCliente": "+55 49 9112-3541",
-      "origem": "",
-      "statusAtendimento": "Em negociação",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
-      "dataVenda": "2026-10-11",
-      "valorVenda": "594.00",
+      "dataVenda": "",
+      "valorVenda": "0",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-11T18:09:22.372Z"
+      "updatedAt": "2026-10-12T00:15:53.212Z"
     },
     {
       "id": "rmv480ta2y58py2",
@@ -19240,5 +19240,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T00:15:06.463Z"
+  "updatedAt": "2026-10-12T00:15:53.212Z"
 }
