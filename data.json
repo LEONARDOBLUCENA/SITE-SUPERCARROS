@@ -19422,6 +19422,22 @@
       "statusPagamento": "",
       "observacao": "Tem voucher da GAV",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv57l6b9880p77",
+      "createdAt": "2026-10-12T12:08:58.677Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Larissa Bitencourt",
+      "contatoCliente": "+55 21 97670-7167 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19442,5 +19458,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:08:28.587Z"
+  "updatedAt": "2026-10-12T12:09:00.156Z"
 }
