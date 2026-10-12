@@ -19794,6 +19794,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv5it8wsg9ildd",
+      "createdAt": "2026-10-12T17:23:11.068Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "+55 41 9177-7532 ",
+      "contatoCliente": "Milena Oliveira 💕",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19814,5 +19830,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T17:22:29.937Z"
+  "updatedAt": "2026-10-12T17:23:12.601Z"
 }
