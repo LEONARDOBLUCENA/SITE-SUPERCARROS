@@ -19341,6 +19341,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv57hwzt6hd00d",
+      "createdAt": "2026-10-12T12:06:26.633Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Felipe Cardozo",
+      "contatoCliente": "+55 53 8132-4020",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19361,5 +19377,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:06:12.657Z"
+  "updatedAt": "2026-10-12T12:06:28.129Z"
 }
