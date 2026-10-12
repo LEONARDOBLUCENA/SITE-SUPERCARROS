@@ -17051,7 +17051,7 @@
       "nomeCliente": "Patricia Rodrigues Maran",
       "contatoCliente": "+55 16 99128-6156",
       "origem": "WhatsApp",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "2026-10-06",
       "valorVenda": "390.00",
@@ -17059,7 +17059,7 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-06T20:22:56.470Z"
+      "updatedAt": "2026-10-12T03:20:24.212Z"
     },
     {
       "id": "rmux0p80mq2emdi",
@@ -19313,5 +19313,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T03:04:12.562Z"
+  "updatedAt": "2026-10-12T03:20:24.212Z"
 }
