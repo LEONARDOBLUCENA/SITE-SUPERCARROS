@@ -19550,6 +19550,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv57vbk1apagvu",
+      "createdAt": "2026-10-12T12:16:52.033Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Anisio ",
+      "contatoCliente": "+55 37 9923-1229",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19570,5 +19586,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:16:38.540Z"
+  "updatedAt": "2026-10-12T12:16:53.137Z"
 }
