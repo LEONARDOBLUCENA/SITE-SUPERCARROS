@@ -19438,6 +19438,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv57lp43apug0m",
+      "createdAt": "2026-10-12T12:09:23.043Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Dinei ",
+      "contatoCliente": "+55 22 99262-0075",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19458,5 +19474,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:09:00.156Z"
+  "updatedAt": "2026-10-12T12:09:24.847Z"
 }
