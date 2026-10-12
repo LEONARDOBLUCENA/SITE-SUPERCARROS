@@ -19486,6 +19486,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv57ns1y2um3tt",
+      "createdAt": "2026-10-12T12:11:00.166Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "João Weber ",
+      "contatoCliente": "+55 51 9558-5680",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19506,5 +19522,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:10:42.006Z"
+  "updatedAt": "2026-10-12T12:11:01.651Z"
 }
