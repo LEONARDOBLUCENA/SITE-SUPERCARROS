@@ -18805,14 +18805,15 @@
       "nomeCliente": "Isabel Cristina",
       "contatoCliente": "+55 33 9902-6289 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-11",
+      "valorVenda": "186.50",
+      "numeroPedido": "19937",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-12T12:26:34.200Z"
     },
     {
       "id": "rmv2uqbgnr7jq08",
@@ -19636,5 +19637,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:24:03.293Z"
+  "updatedAt": "2026-10-12T12:26:34.200Z"
 }
