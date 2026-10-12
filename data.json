@@ -19718,17 +19718,18 @@
       "id": "rmv59u42vzr14ao",
       "createdAt": "2026-10-12T13:11:54.919Z",
       "dataAtendimento": "2026-10-12",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Uelton Ferreira Da Silva",
       "contatoCliente": "+55 22 99251-6337",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-12",
+      "valorVenda": "580.00",
+      "numeroPedido": "19955",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-12T13:44:36.433Z"
     },
     {
       "id": "rmv5aydzlj708wp",
@@ -19765,5 +19766,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T13:43:14.723Z"
+  "updatedAt": "2026-10-12T13:44:36.433Z"
 }
