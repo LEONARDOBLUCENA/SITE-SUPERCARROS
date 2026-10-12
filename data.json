@@ -19665,6 +19665,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv59rrt36vmpvk",
+      "createdAt": "2026-10-12T13:10:05.703Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Michele Balon ",
+      "contatoCliente": "+55 51 9789-3882",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19685,5 +19701,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:36:35.602Z"
+  "updatedAt": "2026-10-12T13:10:06.611Z"
 }
