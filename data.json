@@ -19274,6 +19274,24 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmv4nxd816lqhed",
+      "createdAt": "2026-10-12T02:58:35.186Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "~Ana Altenhofen",
+      "contatoCliente": "+55 49 9940-6084",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -19294,5 +19312,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T02:57:20.401Z"
+  "updatedAt": "2026-10-12T02:58:35.764Z"
 }
