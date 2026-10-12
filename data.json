@@ -19495,14 +19495,15 @@
       "nomeCliente": "João Weber ",
       "contatoCliente": "+55 51 9558-5680",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-11",
+      "valorVenda": "980.00",
+      "numeroPedido": "19923",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-12T12:24:03.293Z"
     },
     {
       "id": "rmv57ofvcyoo2ef",
@@ -19635,5 +19636,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:21:58.395Z"
+  "updatedAt": "2026-10-12T12:24:03.293Z"
 }
