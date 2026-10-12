@@ -19762,6 +19762,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv5cvd7mxuop7z",
+      "createdAt": "2026-10-12T14:36:52.258Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Priscilla Romano",
+      "contatoCliente": "+55 21 99305-7967 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19782,5 +19798,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T14:33:26.682Z"
+  "updatedAt": "2026-10-12T14:36:53.133Z"
 }
