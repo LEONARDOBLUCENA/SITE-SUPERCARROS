@@ -19778,6 +19778,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv5iscm46qq0fe",
+      "createdAt": "2026-10-12T17:22:29.212Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Marcella Peixoto",
+      "contatoCliente": "+55 81 9497-8775 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19798,5 +19814,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T14:36:53.133Z"
+  "updatedAt": "2026-10-12T17:22:29.937Z"
 }
