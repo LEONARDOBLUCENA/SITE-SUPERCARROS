@@ -19625,14 +19625,15 @@
       "nomeCliente": "Catielle Da Silva Ramson",
       "contatoCliente": "+55 53 99711-7451",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-12",
+      "valorVenda": "167.85",
+      "numeroPedido": "19967",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-12T17:31:51.341Z"
     },
     {
       "id": "rmv58jd3z8w52tz",
@@ -19862,5 +19863,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T17:30:28.072Z"
+  "updatedAt": "2026-10-12T17:31:51.341Z"
 }
