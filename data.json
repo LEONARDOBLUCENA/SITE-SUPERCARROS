@@ -19293,6 +19293,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmv57gqmql5ufr3",
+      "createdAt": "2026-10-12T12:05:31.730Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Glauco",
+      "contatoCliente": "+55 21 96964-6436",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19313,5 +19329,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T03:20:24.212Z"
+  "updatedAt": "2026-10-12T12:05:32.881Z"
 }
