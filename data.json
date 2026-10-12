@@ -19649,6 +19649,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv58ko6ratkqvv",
+      "createdAt": "2026-10-12T12:36:34.803Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Renan Ariel Eloi De Souza",
+      "contatoCliente": "+55 84 92161-7605",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19669,5 +19685,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:35:34.541Z"
+  "updatedAt": "2026-10-12T12:36:35.602Z"
 }
