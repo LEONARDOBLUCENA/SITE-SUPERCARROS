@@ -19860,6 +19860,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv5obpyvxqlv82",
+      "createdAt": "2026-10-12T19:57:31.063Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Yuri Vieira ",
+      "contatoCliente": "+55 51 8316-7304",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19880,5 +19896,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T18:52:06.242Z"
+  "updatedAt": "2026-10-12T19:57:32.645Z"
 }
