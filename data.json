@@ -19237,22 +19237,6 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-12T00:12:39.442Z"
-    },
-    {
-      "id": "rmv4i0k3pqlur4u",
-      "createdAt": "2026-10-12T00:13:06.373Z",
-      "dataAtendimento": "2026-10-11",
-      "nomeCliente": "gigi",
-      "contatoCliente": "54992568372",
-      "origem": "Upgrade Site",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "300000",
-      "numeroPedido": "",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19273,5 +19257,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T00:13:07.658Z"
+  "updatedAt": "2026-10-12T00:13:39.639Z"
 }
