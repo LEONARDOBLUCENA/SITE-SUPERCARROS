@@ -19681,6 +19681,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv59s7ojvcj0ce",
+      "createdAt": "2026-10-12T13:10:26.275Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Vitor Gottschalk",
+      "contatoCliente": "+55 54 9304-4224 ",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Morador ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19701,5 +19717,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T13:10:06.611Z"
+  "updatedAt": "2026-10-12T13:10:28.152Z"
 }
