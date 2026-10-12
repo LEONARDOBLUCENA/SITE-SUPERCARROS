@@ -19390,6 +19390,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv57jw6wml6o0e",
+      "createdAt": "2026-10-12T12:07:58.904Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Eduardo Oliveira ",
+      "contatoCliente": "+55 11 94004-9642",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19410,5 +19426,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:07:27.589Z"
+  "updatedAt": "2026-10-12T12:07:59.844Z"
 }
