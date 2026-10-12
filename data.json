@@ -19844,6 +19844,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv5lzkzaptmvf8",
+      "createdAt": "2026-10-12T18:52:05.494Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Davi José Trindade Gomes",
+      "contatoCliente": "(81) 99198-0166",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-12",
+      "valorVenda": "1171.35",
+      "numeroPedido": "19981",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19864,5 +19880,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T18:50:37.484Z"
+  "updatedAt": "2026-10-12T18:52:06.242Z"
 }
