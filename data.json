@@ -19454,6 +19454,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv57mj96kggmrl",
+      "createdAt": "2026-10-12T12:10:02.106Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Carlos Eduardo ",
+      "contatoCliente": "+55 81 9924-1883",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19474,5 +19490,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:09:24.847Z"
+  "updatedAt": "2026-10-12T12:10:03.191Z"
 }
