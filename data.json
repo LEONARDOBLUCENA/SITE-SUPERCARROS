@@ -19247,7 +19247,7 @@
       "contatoCliente": "+55 67 9135-1778",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
+      "produtoInteresse": "boxster. Estão em 2 adultos e 1 criança 8 anos",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
@@ -19255,7 +19255,8 @@
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-12T03:04:12.561Z"
     },
     {
       "id": "rmv4nvqj35qcrei",
@@ -19312,5 +19313,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T02:58:35.764Z"
+  "updatedAt": "2026-10-12T03:04:12.562Z"
 }
