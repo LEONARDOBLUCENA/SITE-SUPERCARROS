@@ -19358,6 +19358,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-10-12T12:06:41.612Z"
+    },
+    {
+      "id": "rmv57itw0ajh78c",
+      "createdAt": "2026-10-12T12:07:09.264Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Sabrina Brock",
+      "contatoCliente": "+55 21 97561-7426",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19378,5 +19394,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:06:41.612Z"
+  "updatedAt": "2026-10-12T12:07:10.300Z"
 }
