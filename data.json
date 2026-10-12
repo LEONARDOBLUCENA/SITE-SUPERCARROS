@@ -19746,6 +19746,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv5cqxz9kj98yf",
+      "createdAt": "2026-10-12T14:33:25.893Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Anderson Ghesla",
+      "contatoCliente": "+55 54 9901-5710 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-12",
+      "valorVenda": "760.00",
+      "numeroPedido": "19959",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19766,5 +19782,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T13:44:36.433Z"
+  "updatedAt": "2026-10-12T14:33:26.682Z"
 }
