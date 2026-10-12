@@ -19534,6 +19534,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv57v06uaxmvj0",
+      "createdAt": "2026-10-12T12:16:37.302Z",
+      "dataAtendimento": "2026-10-12",
+      "nomeCliente": "Katiane ",
+      "contatoCliente": "+55 19 99619-1860",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -19554,5 +19570,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:12:52.755Z"
+  "updatedAt": "2026-10-12T12:16:38.540Z"
 }
