@@ -16113,14 +16113,15 @@
       "nomeCliente": "Diego",
       "contatoCliente": "+55 19 98927-5313",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-11",
+      "valorVenda": "123.30",
+      "numeroPedido": "19909",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-12T12:21:58.395Z"
     },
     {
       "id": "rmuv81qt8jdxpwq",
@@ -19634,5 +19635,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T12:17:36.893Z"
+  "updatedAt": "2026-10-12T12:21:58.395Z"
 }
