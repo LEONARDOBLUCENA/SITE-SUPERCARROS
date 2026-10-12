@@ -19335,14 +19335,15 @@
       "nomeCliente": "Henrique ",
       "contatoCliente": "+55 53 9921-0398",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-12",
+      "valorVenda": "297.00",
+      "numeroPedido": "19977",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-12T18:50:37.484Z"
     },
     {
       "id": "rmv57hwzt6hd00d",
@@ -19863,5 +19864,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T17:31:51.341Z"
+  "updatedAt": "2026-10-12T18:50:37.484Z"
 }
