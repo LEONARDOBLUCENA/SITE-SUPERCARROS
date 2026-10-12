@@ -19238,6 +19238,24 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmv4nu076u3u6w6",
+      "createdAt": "2026-10-12T02:55:58.338Z",
+      "dataAtendimento": "2026-10-11",
+      "nomeCliente": "Laura",
+      "contatoCliente": "+55 67 9135-1778",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -19258,5 +19276,5 @@
       "updatedAt": "2026-10-08T14:05:24.482Z"
     }
   ],
-  "updatedAt": "2026-10-12T02:55:41.158Z"
+  "updatedAt": "2026-10-12T02:55:59.777Z"
 }
