@@ -20184,6 +20184,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv77y4zajls7l9",
+      "createdAt": "2026-10-13T21:54:35.830Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "nayara",
+      "contatoCliente": "+55 79 9863-3342",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20204,5 +20220,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-13T21:43:11.923Z"
+  "updatedAt": "2026-10-13T21:54:37.170Z"
 }
