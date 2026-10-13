@@ -20100,6 +20100,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv72litvdleb0i",
+      "createdAt": "2026-10-13T19:24:49.171Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "~Cristiano Sarotto",
+      "contatoCliente": "+55 31 9585-5465",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20120,5 +20136,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-13T18:09:55.453Z"
+  "updatedAt": "2026-10-13T19:24:50.266Z"
 }
