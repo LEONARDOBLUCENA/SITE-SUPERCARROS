@@ -19989,6 +19989,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv6t7gre11t17p",
+      "createdAt": "2026-10-13T15:01:56.762Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "Tatiane Macedo",
+      "contatoCliente": "+55 41 9699-9080",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20009,5 +20025,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T15:01:40.353Z"
+  "updatedAt": "2026-10-13T15:01:57.468Z"
 }
