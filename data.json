@@ -15361,13 +15361,13 @@
       "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-10-13",
+      "valorVenda": "650.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-03T18:47:25.919Z"
+      "updatedAt": "2026-10-13T14:20:17.343Z"
     },
     {
       "id": "rmurowqdijq4q91",
@@ -19961,5 +19961,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:15:25.434Z"
+  "updatedAt": "2026-10-13T14:20:17.343Z"
 }
