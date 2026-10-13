@@ -18951,14 +18951,15 @@
       "nomeCliente": "~Victor Moraes",
       "contatoCliente": "+55 21 97958-2012",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
-      "produtoInteresse": "",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "veio direto ao salao",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-13T21:36:30.512Z"
     },
     {
       "id": "rmv3zvmkbj8risy",
@@ -20185,5 +20186,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-13T21:35:12.216Z"
+  "updatedAt": "2026-10-13T21:36:30.512Z"
 }
