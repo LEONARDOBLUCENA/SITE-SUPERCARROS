@@ -19892,6 +19892,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv6obbdpth3wf1",
+      "createdAt": "2026-10-13T12:44:58.333Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "adri",
+      "contatoCliente": "+55 45 9915-5561",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19912,5 +19928,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T12:15:11.924Z"
+  "updatedAt": "2026-10-13T12:44:59.178Z"
 }
