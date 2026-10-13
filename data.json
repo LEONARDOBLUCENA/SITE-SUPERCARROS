@@ -20116,6 +20116,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv738eyxst3oo0",
+      "createdAt": "2026-10-13T19:42:37.257Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "geovanna",
+      "contatoCliente": "+55 11 98912-2737",
+      "origem": "Outro",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20136,5 +20152,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-13T19:24:50.266Z"
+  "updatedAt": "2026-10-13T19:42:37.853Z"
 }
