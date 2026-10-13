@@ -19242,25 +19242,6 @@
       "compartilhado": true
     },
     {
-      "id": "rmv4nu076u3u6w6",
-      "createdAt": "2026-10-12T02:55:58.338Z",
-      "dataAtendimento": "2026-10-11",
-      "nomeCliente": "Laura",
-      "contatoCliente": "+55 67 9135-1778",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "boxster. Estão em 2 adultos e 1 criança 8 anos",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
-      "vendedora": "gisele",
-      "vendedoraFinalizou": "bruna",
-      "compartilhado": true,
-      "updatedAt": "2026-10-12T03:04:12.561Z"
-    },
-    {
       "id": "rmv4nvqj35qcrei",
       "createdAt": "2026-10-12T02:57:19.119Z",
       "dataAtendimento": "2026-10-11",
@@ -20041,5 +20022,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T15:03:59.816Z"
+  "updatedAt": "2026-10-13T15:18:32.302Z"
 }
