@@ -20168,6 +20168,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv77jgb4oqy2l6",
+      "createdAt": "2026-10-13T21:43:10.672Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "~Nayra Reis",
+      "contatoCliente": "+55 79 9863-3342",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20188,5 +20204,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-13T21:41:59.112Z"
+  "updatedAt": "2026-10-13T21:43:11.923Z"
 }
