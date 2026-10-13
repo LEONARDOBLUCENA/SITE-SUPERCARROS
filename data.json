@@ -15359,15 +15359,15 @@
       "nomeCliente": "Fernanda CVC RJ",
       "contatoCliente": "+55 21 98307-2536",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-13",
-      "valorVenda": "650.00",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "99.00",
+      "numeroPedido": "20013",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-13T14:20:17.343Z"
+      "updatedAt": "2026-10-13T15:01:40.353Z"
     },
     {
       "id": "rmurowqdijq4q91",
@@ -20009,5 +20009,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:22:17.514Z"
+  "updatedAt": "2026-10-13T15:01:40.353Z"
 }
