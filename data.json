@@ -19941,6 +19941,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv6rqdjd6urzyu",
+      "createdAt": "2026-10-13T14:20:39.817Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "RobertBs",
+      "contatoCliente": "+55 21 99023-8026",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19961,5 +19977,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:20:17.343Z"
+  "updatedAt": "2026-10-13T14:20:40.842Z"
 }
