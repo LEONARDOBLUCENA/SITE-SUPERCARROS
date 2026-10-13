@@ -19978,14 +19978,15 @@
       "nomeCliente": "Tatiane Macedo",
       "contatoCliente": "+55 41 9699-9080",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-13",
+      "valorVenda": "219.50",
+      "numeroPedido": "20019",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-13T16:25:14.579Z"
     },
     {
       "id": "rmv6ta2mqqzon38",
@@ -20038,5 +20039,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T15:20:01.004Z"
+  "updatedAt": "2026-10-13T16:25:14.579Z"
 }
