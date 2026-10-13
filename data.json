@@ -20052,6 +20052,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv6z3u0fwksox8",
+      "createdAt": "2026-10-13T17:47:05.007Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "antonny",
+      "contatoCliente": "+55 51 9285-0340",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20072,5 +20088,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-13T17:04:18.154Z"
+  "updatedAt": "2026-10-13T17:47:06.133Z"
 }
