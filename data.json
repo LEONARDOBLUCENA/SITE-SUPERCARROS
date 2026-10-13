@@ -19900,14 +19900,15 @@
       "nomeCliente": "adri",
       "contatoCliente": "+55 45 9915-5561",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-13",
+      "valorVenda": "350.00",
+      "numeroPedido": "19999",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-13T13:23:58.067Z"
     }
   ],
   "siteVendas": [
@@ -19928,5 +19929,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T12:44:59.178Z"
+  "updatedAt": "2026-10-13T13:23:58.068Z"
 }
