@@ -20005,6 +20005,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv6ta2mqqzon38",
+      "createdAt": "2026-10-13T15:03:58.418Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "lucas pozeli",
+      "contatoCliente": "+55 16 99767-4488",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20025,5 +20041,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T15:01:57.468Z"
+  "updatedAt": "2026-10-13T15:03:59.816Z"
 }
