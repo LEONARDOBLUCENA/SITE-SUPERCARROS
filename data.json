@@ -20019,6 +20019,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv6wboboesfnp4",
+      "createdAt": "2026-10-13T16:29:12.036Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "~Débora",
+      "contatoCliente": "+55 32 8855-2123",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20039,5 +20055,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T16:25:14.579Z"
+  "updatedAt": "2026-10-13T16:29:12.824Z"
 }
