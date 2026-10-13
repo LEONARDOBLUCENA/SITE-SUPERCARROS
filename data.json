@@ -19973,6 +19973,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv6rsg6fyce8yb",
+      "createdAt": "2026-10-13T14:22:16.551Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "paulo morais",
+      "contatoCliente": "+55 51 8098-4457",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19993,5 +20009,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:21:57.298Z"
+  "updatedAt": "2026-10-13T14:22:17.514Z"
 }
