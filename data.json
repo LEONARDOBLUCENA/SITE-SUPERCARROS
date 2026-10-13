@@ -19957,6 +19957,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv6rs0havihhb9",
+      "createdAt": "2026-10-13T14:21:56.206Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "hevellin",
+      "contatoCliente": "+55 38 9160-5830",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19977,5 +19993,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-13T14:20:40.842Z"
+  "updatedAt": "2026-10-13T14:21:57.298Z"
 }
