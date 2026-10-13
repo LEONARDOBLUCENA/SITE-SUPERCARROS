@@ -19876,6 +19876,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv6n8zx1db2egp",
+      "createdAt": "2026-10-13T12:15:10.549Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "Raphael Saliba",
+      "contatoCliente": "+55 71 9721-1777",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -19896,5 +19912,5 @@
       "updatedAt": "2026-10-12T12:30:06.218Z"
     }
   ],
-  "updatedAt": "2026-10-12T19:57:32.645Z"
+  "updatedAt": "2026-10-13T12:15:11.924Z"
 }
