@@ -20036,6 +20036,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv6xks5nfp77si",
+      "createdAt": "2026-10-13T17:04:16.523Z",
+      "dataAtendimento": "2026-10-13",
+      "nomeCliente": "eike",
+      "contatoCliente": "+55 51 9736-6727",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "ingressos para presente",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20056,5 +20072,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-13T16:48:28.589Z"
+  "updatedAt": "2026-10-13T17:04:18.154Z"
 }
