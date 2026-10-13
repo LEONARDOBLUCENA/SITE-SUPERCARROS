@@ -20123,7 +20123,7 @@
       "dataAtendimento": "2026-10-13",
       "nomeCliente": "geovanna",
       "contatoCliente": "+55 11 98912-2737",
-      "origem": "Outro",
+      "origem": "WhatsApp",
       "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-13",
@@ -20132,7 +20132,7 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-13T21:27:48.401Z"
+      "updatedAt": "2026-10-13T21:27:56.419Z"
     },
     {
       "id": "rmv74cx93pldz9t",
@@ -20185,5 +20185,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-13T21:27:48.401Z"
+  "updatedAt": "2026-10-13T21:27:56.419Z"
 }
