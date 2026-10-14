@@ -20812,6 +20812,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv8du1nnyo12hc",
+      "createdAt": "2026-10-14T17:27:08.771Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Viviane ",
+      "contatoCliente": "+55 51 9291-8470",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20832,5 +20848,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T17:24:52.323Z"
+  "updatedAt": "2026-10-14T17:27:10.176Z"
 }
