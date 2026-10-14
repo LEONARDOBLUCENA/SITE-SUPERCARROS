@@ -20652,6 +20652,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv8c7w9hy2abz6",
+      "createdAt": "2026-10-14T16:41:55.733Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "~Administrativo Raio De Sol",
+      "contatoCliente": "+55 37 9957-3050",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20672,5 +20688,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T16:41:23.536Z"
+  "updatedAt": "2026-10-14T16:41:57.337Z"
 }
