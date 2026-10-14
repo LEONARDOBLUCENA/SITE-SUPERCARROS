@@ -20780,6 +20780,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv8cm0jhjrg3ze",
+      "createdAt": "2026-10-14T16:52:54.461Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "rosser",
+      "contatoCliente": "+55 11 98265-9305",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20800,5 +20816,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T16:52:38.957Z"
+  "updatedAt": "2026-10-14T16:52:55.518Z"
 }
