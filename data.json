@@ -20861,6 +20861,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv8e2885zk3dqs",
+      "createdAt": "2026-10-14T17:33:30.533Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "OtavioMartins",
+      "contatoCliente": "+55 32 8464-6530 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20881,5 +20897,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T17:35:10.179Z"
+  "updatedAt": "2026-10-14T17:33:31.322Z"
 }
