@@ -20329,6 +20329,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv87zoajhuofja",
+      "createdAt": "2026-10-14T14:43:33.691Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Alex Marques",
+      "contatoCliente": "+55 51 9526-6836",
+      "origem": "Evento",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-14",
+      "valorVenda": "850.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20349,5 +20365,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T14:29:07.560Z"
+  "updatedAt": "2026-10-14T14:43:34.729Z"
 }
