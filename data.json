@@ -20379,6 +20379,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv896ex946khc6",
+      "createdAt": "2026-10-14T15:16:47.757Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "teste",
+      "contatoCliente": "54992568372",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "40000.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20399,5 +20415,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T15:06:20.700Z"
+  "updatedAt": "2026-10-14T15:16:49.038Z"
 }
