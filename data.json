@@ -20232,6 +20232,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv862di1hpmno9",
+      "createdAt": "2026-10-14T13:49:40.441Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Lais",
+      "contatoCliente": "+55 11 91139-9601",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-14",
+      "valorVenda": "779.00",
+      "numeroPedido": "20073",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20252,5 +20268,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-13T23:00:02.781Z"
+  "updatedAt": "2026-10-14T13:49:41.382Z"
 }
