@@ -20604,6 +20604,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv8c5bgvhh572q",
+      "createdAt": "2026-10-14T16:39:55.471Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "madiel",
+      "contatoCliente": "+55 62 9188-0997",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20624,5 +20640,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T16:39:36.040Z"
+  "updatedAt": "2026-10-14T16:39:56.311Z"
 }
