@@ -20280,6 +20280,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv875tfribz5wo",
+      "createdAt": "2026-10-14T14:20:20.679Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Julia Vitoria Silva De Oliveira",
+      "contatoCliente": "+55 11 99496-1509",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20300,5 +20316,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T14:22:03.223Z"
+  "updatedAt": "2026-10-14T14:20:21.481Z"
 }
