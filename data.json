@@ -20796,6 +20796,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv8dr3jrbmb8kr",
+      "createdAt": "2026-10-14T17:24:51.255Z",
+      "dataAtendimento": "2026-10-07",
+      "nomeCliente": "Mikael Eduardo Borges Lindholz",
+      "contatoCliente": "(54) 98115-7099",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-14",
+      "valorVenda": "799.00",
+      "numeroPedido": "20089",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20816,5 +20832,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T16:52:55.518Z"
+  "updatedAt": "2026-10-14T17:24:52.323Z"
 }
