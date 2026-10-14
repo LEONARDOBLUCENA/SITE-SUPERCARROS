@@ -19646,14 +19646,15 @@
       "nomeCliente": "Renan Ariel Eloi De Souza",
       "contatoCliente": "+55 84 92161-7605",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-12",
+      "valorVenda": "137.00",
+      "numeroPedido": "19973",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-14T18:41:29.274Z"
     },
     {
       "id": "rmv59rrt36vmpvk",
@@ -20897,5 +20898,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T17:33:31.322Z"
+  "updatedAt": "2026-10-14T18:41:29.274Z"
 }
