@@ -20878,6 +20878,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv8gw47s0m3sw0",
+      "createdAt": "2026-10-14T18:52:44.248Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Kelen Castro",
+      "contatoCliente": "+55 53 9951-8175 ",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Tem voucher GAV ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20898,5 +20914,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T18:41:29.274Z"
+  "updatedAt": "2026-10-14T18:52:45.453Z"
 }
