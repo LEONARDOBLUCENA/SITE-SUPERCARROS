@@ -20379,6 +20379,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv898xorl950cn",
+      "createdAt": "2026-10-14T15:18:45.387Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Amanda Vasconcellos De Queiroz",
+      "contatoCliente": "+55 85 99974-9711 ",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20399,5 +20415,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T15:17:32.863Z"
+  "updatedAt": "2026-10-14T15:18:46.692Z"
 }
