@@ -20894,6 +20894,22 @@
       "statusPagamento": "",
       "observacao": "Tem voucher GAV ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv8h0gxw28sg19",
+      "createdAt": "2026-10-14T18:56:07.364Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Rejane ",
+      "contatoCliente": "+55 11 99340-1665",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20914,5 +20930,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T18:52:45.453Z"
+  "updatedAt": "2026-10-14T18:56:08.383Z"
 }
