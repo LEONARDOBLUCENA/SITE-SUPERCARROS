@@ -20636,6 +20636,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv8c76vnerbwwz",
+      "createdAt": "2026-10-14T16:41:22.835Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "~Fernando Cesar",
+      "contatoCliente": "+55 41 9898-2181",
+      "origem": "Outro",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20656,5 +20672,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T16:40:14.240Z"
+  "updatedAt": "2026-10-14T16:41:23.536Z"
 }
