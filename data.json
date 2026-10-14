@@ -20910,6 +20910,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv8ilkyo19a1ea",
+      "createdAt": "2026-10-14T19:40:31.968Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Lorena Scatolin",
+      "contatoCliente": "+55 68 9210-5267 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20930,5 +20946,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T18:56:08.383Z"
+  "updatedAt": "2026-10-14T19:40:33.116Z"
 }
