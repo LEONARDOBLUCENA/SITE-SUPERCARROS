@@ -20275,14 +20275,15 @@
       "nomeCliente": "Maria Raissa Alves Dos Santos",
       "contatoCliente": "+55 81 8967-1024",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-14",
-      "valorVenda": "99.00",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "137.00",
+      "numeroPedido": "20079",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-14T16:06:40.282Z"
     },
     {
       "id": "rmv875tfribz5wo",
@@ -20431,5 +20432,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T15:55:02.183Z"
+  "updatedAt": "2026-10-14T16:06:40.282Z"
 }
