@@ -18889,14 +18889,15 @@
       "nomeCliente": "Gui Lima",
       "contatoCliente": "+55 31 9994-3376 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "274.00",
+      "numeroPedido": "20045",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-14T14:50:01.448Z"
     },
     {
       "id": "rmv3vhmgn2ce4gc",
@@ -20365,5 +20366,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T14:43:34.729Z"
+  "updatedAt": "2026-10-14T14:50:01.448Z"
 }
