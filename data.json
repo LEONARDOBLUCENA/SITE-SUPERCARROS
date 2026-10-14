@@ -20296,6 +20296,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv877vdvomzxy4",
+      "createdAt": "2026-10-14T14:21:56.515Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Suelen ",
+      "contatoCliente": "+55 48 9933-8660",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20316,5 +20332,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T14:20:21.481Z"
+  "updatedAt": "2026-10-14T14:22:08.778Z"
 }
