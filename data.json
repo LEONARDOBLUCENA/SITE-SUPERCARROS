@@ -20492,6 +20492,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv8c0764jihiqy",
+      "createdAt": "2026-10-14T16:35:56.620Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "~Daphyny",
+      "contatoCliente": "+55 43 9970-0217",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20512,5 +20528,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T16:35:38.934Z"
+  "updatedAt": "2026-10-14T16:35:58.168Z"
 }
