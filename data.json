@@ -20926,6 +20926,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv8iv1yw7k76pz",
+      "createdAt": "2026-10-14T19:47:53.912Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Aline Reis",
+      "contatoCliente": "+55 92 9338-5457 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20946,5 +20962,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T19:40:33.116Z"
+  "updatedAt": "2026-10-14T19:47:55.587Z"
 }
