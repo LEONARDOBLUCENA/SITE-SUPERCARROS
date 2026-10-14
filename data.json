@@ -20428,6 +20428,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv8bobt7bx5gfq",
+      "createdAt": "2026-10-14T16:26:42.763Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "~Keyt👸🏻Princess",
+      "contatoCliente": "+55 31 8333-2099",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -20448,5 +20464,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T16:25:54.004Z"
+  "updatedAt": "2026-10-14T16:26:44.036Z"
 }
