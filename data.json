@@ -20958,6 +20958,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv8pmec8tyutb3",
+      "createdAt": "2026-10-14T22:57:07.352Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Maria Bárbara Avelino Da Silva",
+      "contatoCliente": "(62) 99495-1781",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-14",
+      "valorVenda": "979.00",
+      "numeroPedido": "20097",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -20978,5 +20996,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T19:53:52.178Z"
+  "updatedAt": "2026-10-14T22:57:08.309Z"
 }
