@@ -20834,7 +20834,7 @@
       "createdAt": "2026-10-14T17:34:21.387Z",
       "dataAtendimento": "2026-10-08",
       "nomeCliente": "isaque",
-      "contatoCliente": "19807",
+      "contatoCliente": "+55 81 9575-7343",
       "origem": "",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
@@ -20843,7 +20843,8 @@
       "numeroPedido": "20085",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-14T17:34:34.994Z"
     }
   ],
   "siteVendas": [
@@ -20864,5 +20865,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T17:34:22.693Z"
+  "updatedAt": "2026-10-14T17:34:34.994Z"
 }
