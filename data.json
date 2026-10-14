@@ -20312,6 +20312,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv87b0kuafs25r",
+      "createdAt": "2026-10-14T14:24:23.214Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Amanda Bonfim Sabatine Manzano",
+      "contatoCliente": "+55 14 99643-0252",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20332,5 +20348,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T14:22:08.778Z"
+  "updatedAt": "2026-10-14T14:24:24.341Z"
 }
