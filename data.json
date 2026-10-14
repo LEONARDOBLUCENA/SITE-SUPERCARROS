@@ -9289,14 +9289,15 @@
       "nomeCliente": "Erica Barboza Da Silva",
       "contatoCliente": "+55 27 99624-6660",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-14",
+      "valorVenda": "837.90",
+      "numeroPedido": "20069",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-14T15:06:20.700Z"
     },
     {
       "id": "rmu8ic7jpjm5t1m",
@@ -20398,5 +20399,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T14:59:46.226Z"
+  "updatedAt": "2026-10-14T15:06:20.700Z"
 }
