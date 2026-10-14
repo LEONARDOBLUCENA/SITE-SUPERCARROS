@@ -20390,11 +20390,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "40000.00",
+      "valorVenda": "50000.00",
       "numeroPedido": "",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-14T15:17:19.746Z"
     }
   ],
   "siteVendas": [
@@ -20415,5 +20416,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-14T15:16:49.038Z"
+  "updatedAt": "2026-10-14T15:17:19.746Z"
 }
