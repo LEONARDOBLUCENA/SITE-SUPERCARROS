@@ -21263,11 +21263,12 @@
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "148.50",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-15T14:32:35.348Z"
     }
   ],
   "siteVendas": [
@@ -21288,5 +21289,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T14:23:45.371Z"
+  "updatedAt": "2026-10-15T14:32:35.348Z"
 }
