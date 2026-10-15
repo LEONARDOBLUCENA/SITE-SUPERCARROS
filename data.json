@@ -21441,15 +21441,16 @@
       "dataAtendimento": "2026-10-15",
       "nomeCliente": "~Haysla Moraes",
       "contatoCliente": "+55 86 9911-7684",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-15T20:27:44.774Z"
     }
   ],
   "siteVendas": [
@@ -21470,5 +21471,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T20:13:14.878Z"
+  "updatedAt": "2026-10-15T20:27:44.774Z"
 }
