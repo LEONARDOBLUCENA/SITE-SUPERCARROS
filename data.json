@@ -20943,6 +20943,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv9i57qkxc0zw2",
+      "createdAt": "2026-10-15T12:15:34.508Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "+55 85 9678-1521 ",
+      "contatoCliente": "Douglas Viana",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20963,5 +20979,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T03:02:29.585Z"
+  "updatedAt": "2026-10-15T12:15:36.012Z"
 }
