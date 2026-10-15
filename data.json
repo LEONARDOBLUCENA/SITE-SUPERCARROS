@@ -21167,12 +21167,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "289.00",
-      "numeroPedido": "20119",
+      "valorVenda": "369.00",
+      "numeroPedido": "20119 e 20121 ",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna",
-      "updatedAt": "2026-10-15T14:41:33.802Z"
+      "updatedAt": "2026-10-15T14:56:33.155Z"
     },
     {
       "id": "rmv9ke611lh1frv",
@@ -21306,5 +21306,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T14:54:48.280Z"
+  "updatedAt": "2026-10-15T14:56:33.155Z"
 }
