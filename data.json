@@ -21188,6 +21188,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv9kszuiqb56wd",
+      "createdAt": "2026-10-15T13:30:03.258Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Ângela Calixto",
+      "contatoCliente": "+55 98 8294-6650 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -21208,5 +21224,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T13:18:32.375Z"
+  "updatedAt": "2026-10-15T13:30:04.485Z"
 }
