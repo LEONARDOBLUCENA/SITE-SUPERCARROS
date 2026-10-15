@@ -21445,12 +21445,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
+      "valorVenda": "99.00",
+      "numeroPedido": "20141",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-15T20:27:44.774Z"
+      "updatedAt": "2026-10-15T20:40:07.397Z"
     }
   ],
   "siteVendas": [
@@ -21471,5 +21471,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T20:27:44.774Z"
+  "updatedAt": "2026-10-15T20:40:07.397Z"
 }
