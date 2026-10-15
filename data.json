@@ -20372,7 +20372,7 @@
       "dataAtendimento": "2026-10-14",
       "nomeCliente": "alex marques",
       "contatoCliente": "marcinhasoares432e@gmail.com",
-      "origem": "",
+      "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "ensaio 15 anos le jardim",
       "dataVenda": "2026-10-14",
@@ -20380,7 +20380,8 @@
       "numeroPedido": "#1582",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-15T21:33:11.144Z"
     },
     {
       "id": "rmv8bn9gxb9vduv",
@@ -21471,5 +21472,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T20:40:07.397Z"
+  "updatedAt": "2026-10-15T21:33:11.144Z"
 }
