@@ -21164,14 +21164,15 @@
       "nomeCliente": "Pedro ",
       "contatoCliente": "+55 12 99180-1699 ",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "289.00",
+      "numeroPedido": "20119",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-15T14:41:33.802Z"
     },
     {
       "id": "rmv9ke611lh1frv",
@@ -21289,5 +21290,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T14:32:35.348Z"
+  "updatedAt": "2026-10-15T14:41:33.802Z"
 }
