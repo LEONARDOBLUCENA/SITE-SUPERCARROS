@@ -21220,6 +21220,22 @@
       "statusPagamento": "",
       "observacao": "Já possui o voucher ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv9ldiky6qt75j",
+      "createdAt": "2026-10-15T13:46:00.658Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "José Augusto",
+      "contatoCliente": "+55 62 8605-4083 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -21240,5 +21256,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T13:40:49.694Z"
+  "updatedAt": "2026-10-15T13:46:01.765Z"
 }
