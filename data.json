@@ -21155,6 +21155,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv9k7axuplf422",
+      "createdAt": "2026-10-15T13:13:11.202Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Pedro ",
+      "contatoCliente": "+55 12 99180-1699 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -21175,5 +21191,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T12:48:21.798Z"
+  "updatedAt": "2026-10-15T13:13:12.001Z"
 }
