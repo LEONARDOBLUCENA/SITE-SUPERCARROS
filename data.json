@@ -20632,14 +20632,15 @@
       "nomeCliente": "~Administrativo Raio De Sol",
       "contatoCliente": "+55 37 9957-3050",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Outros",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
+      "observacao": "foi direto ao salao",
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-15T19:38:32.262Z"
     },
     {
       "id": "rmv8c8i129ts8f2",
@@ -21420,5 +21421,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T19:23:29.854Z"
+  "updatedAt": "2026-10-15T19:38:32.262Z"
 }
