@@ -21402,6 +21402,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv9yjqg51e0q7k",
+      "createdAt": "2026-10-15T19:54:45.797Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Fzim vendas automotivas",
+      "contatoCliente": "+55 38 9844-0827",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21422,5 +21438,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T19:52:54.694Z"
+  "updatedAt": "2026-10-15T19:54:46.852Z"
 }
