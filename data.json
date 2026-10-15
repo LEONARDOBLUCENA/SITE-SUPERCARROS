@@ -13201,7 +13201,7 @@
       "nomeCliente": "ramon",
       "contatoCliente": "+55 81 9525-6069",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "2026-09-27",
       "valorVenda": "460.00",
@@ -13209,7 +13209,7 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-09-27T19:58:15.914Z"
+      "updatedAt": "2026-10-15T15:45:19.871Z"
     },
     {
       "id": "rmuk3fjyggxlia0",
@@ -21339,5 +21339,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T15:44:46.096Z"
+  "updatedAt": "2026-10-15T15:45:19.871Z"
 }
