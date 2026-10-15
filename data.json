@@ -20388,17 +20388,17 @@
       "nomeCliente": "camila",
       "contatoCliente": "+55 19 98987-5015",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-15",
+      "valorVenda": "942.30",
+      "numeroPedido": "20107",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "compartilhado": true,
       "vendedoraFinalizou": "bruna",
-      "updatedAt": "2026-10-15T12:45:36.670Z"
+      "updatedAt": "2026-10-15T12:46:17.723Z"
     },
     {
       "id": "rmv8bobt7bx5gfq",
@@ -21174,5 +21174,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T12:45:36.670Z"
+  "updatedAt": "2026-10-15T12:46:17.723Z"
 }
