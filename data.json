@@ -18511,22 +18511,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmv1t11lugkhqxa",
-      "createdAt": "2026-10-10T02:58:06.306Z",
-      "dataAtendimento": "2026-10-09",
-      "nomeCliente": "Sem nome",
-      "contatoCliente": "+55 55 8458-2260",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Outros",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmv1tbpm2ci1koe",
       "createdAt": "2026-10-10T03:06:23.978Z",
       "dataAtendimento": "2026-10-09",
@@ -20996,5 +20980,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T02:47:34.484Z"
+  "updatedAt": "2026-10-15T03:02:24.241Z"
 }
