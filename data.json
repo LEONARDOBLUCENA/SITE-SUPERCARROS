@@ -21373,22 +21373,6 @@
       "vendedora": "bruna"
     },
     {
-      "id": "rmv9wuc0az0v2bn",
-      "createdAt": "2026-10-15T19:07:01.066Z",
-      "dataAtendimento": "2026-10-15",
-      "nomeCliente": "ithalo",
-      "contatoCliente": "+55 81 9178-5572",
-      "origem": "",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-10-15",
-      "valorVenda": "1000.00",
-      "numeroPedido": "20127",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmv9wvqphk3ajvv",
       "createdAt": "2026-10-15T19:08:06.773Z",
       "dataAtendimento": "2026-10-15",
@@ -21456,5 +21440,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T21:51:51.153Z"
+  "updatedAt": "2026-10-15T21:52:19.020Z"
 }
