@@ -21335,6 +21335,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv9vyiv816x3z3",
+      "createdAt": "2026-10-15T18:42:16.964Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Poliana 🌷",
+      "contatoCliente": "+55 71 8773-0392 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -21355,5 +21371,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T18:06:32.814Z"
+  "updatedAt": "2026-10-15T18:42:17.998Z"
 }
