@@ -18973,14 +18973,15 @@
       "nomeCliente": "eduardo",
       "contatoCliente": "+55 55 9623-5312",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-15T19:23:29.854Z"
     },
     {
       "id": "rmv41o0264hmcym",
@@ -21419,5 +21420,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T19:08:07.865Z"
+  "updatedAt": "2026-10-15T19:23:29.854Z"
 }
