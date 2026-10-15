@@ -21015,17 +21015,18 @@
       "id": "rmv9i7hf091newy",
       "createdAt": "2026-10-15T12:17:20.364Z",
       "dataAtendimento": "2026-10-14",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Nathan Machado Dos Santos",
       "contatoCliente": "+55 27 99971-3632",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-14",
+      "valorVenda": "297.00",
+      "numeroPedido": "20105",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-15T12:48:21.798Z"
     },
     {
       "id": "rmv9i7yzvvnbza1",
@@ -21174,5 +21175,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T12:46:17.723Z"
+  "updatedAt": "2026-10-15T12:48:21.798Z"
 }
