@@ -21319,6 +21319,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-15T15:44:46.096Z"
+    },
+    {
+      "id": "rmv9uojpbjvunyi",
+      "createdAt": "2026-10-15T18:06:31.871Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Yasmin Dias Da Silva",
+      "contatoCliente": "(66) 99653-2968",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -21339,5 +21355,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T15:45:19.871Z"
+  "updatedAt": "2026-10-15T18:06:32.814Z"
 }
