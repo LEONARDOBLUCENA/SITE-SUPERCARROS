@@ -21286,6 +21286,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv9oy5sxqp469k",
+      "createdAt": "2026-10-15T15:26:02.721Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Thillya Matildes",
+      "contatoCliente": "+55 62 8103-0205",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "346.50",
+      "numeroPedido": "20123",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -21306,5 +21322,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T14:56:33.155Z"
+  "updatedAt": "2026-10-15T15:26:03.727Z"
 }
