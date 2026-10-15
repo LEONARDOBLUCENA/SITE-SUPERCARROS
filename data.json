@@ -20536,14 +20536,15 @@
       "nomeCliente": "natalia",
       "contatoCliente": "+55 51 9883-4197",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-15T19:52:54.694Z"
     },
     {
       "id": "rmv8c46ku4iusyy",
@@ -21421,5 +21422,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T19:38:32.262Z"
+  "updatedAt": "2026-10-15T19:52:54.694Z"
 }
