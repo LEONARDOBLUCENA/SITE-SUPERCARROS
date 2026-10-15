@@ -21351,6 +21351,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv9wf6o4l8ic8l",
+      "createdAt": "2026-10-15T18:55:14.308Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Rose",
+      "contatoCliente": "+55 27 99750-1978 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -21371,5 +21387,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T18:42:17.998Z"
+  "updatedAt": "2026-10-15T18:55:15.755Z"
 }
