@@ -20975,6 +20975,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv9i6j5d2k80fy",
+      "createdAt": "2026-10-15T12:16:35.953Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Paulo Henrique",
+      "contatoCliente": "+55 62 9683-7549 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -20995,5 +21011,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T12:16:06.991Z"
+  "updatedAt": "2026-10-15T12:16:36.812Z"
 }
