@@ -21310,14 +21310,15 @@
       "nomeCliente": "~Ithalo Fellype",
       "contatoCliente": "+55 81 9178-5572",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
+      "dataVenda": "2026-10-15",
+      "valorVenda": "1370.00",
+      "numeroPedido": "20127",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-15T15:44:46.096Z"
     }
   ],
   "siteVendas": [
@@ -21338,5 +21339,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T15:29:20.533Z"
+  "updatedAt": "2026-10-15T15:44:46.096Z"
 }
