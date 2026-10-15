@@ -21172,6 +21172,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv9ke611lh1frv",
+      "createdAt": "2026-10-15T13:18:31.429Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Pedro ",
+      "contatoCliente": "+55 55 9906-1470",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -21192,5 +21208,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T13:14:35.199Z"
+  "updatedAt": "2026-10-15T13:18:32.375Z"
 }
