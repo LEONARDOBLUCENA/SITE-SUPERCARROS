@@ -11798,23 +11798,6 @@
       "updatedAt": "2026-09-25T12:26:56.153Z"
     },
     {
-      "id": "rmufw0mlsco98ml",
-      "createdAt": "2026-09-24T18:50:49.840Z",
-      "dataAtendimento": "2026-09-24",
-      "nomeCliente": "Monise",
-      "contatoCliente": "+55 22 98150-9369",
-      "origem": "Cara de Mau",
-      "statusAtendimento": "Outros",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "veio direto ao salao",
-      "vendedora": "gisele",
-      "updatedAt": "2026-10-09T01:27:00.770Z"
-    },
-    {
       "id": "rmufwvhyaajo2mh",
       "createdAt": "2026-09-24T19:14:50.146Z",
       "dataAtendimento": "2026-09-24",
@@ -20980,5 +20963,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T03:02:24.241Z"
+  "updatedAt": "2026-10-15T03:02:29.585Z"
 }
