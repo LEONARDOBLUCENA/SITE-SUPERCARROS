@@ -21434,6 +21434,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmv9z7hqgyumsv6",
+      "createdAt": "2026-10-15T20:13:14.248Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "~Haysla Moraes",
+      "contatoCliente": "+55 86 9911-7684",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21454,5 +21470,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T19:54:55.001Z"
+  "updatedAt": "2026-10-15T20:13:14.878Z"
 }
