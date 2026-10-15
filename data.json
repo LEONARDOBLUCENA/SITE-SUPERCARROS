@@ -21204,6 +21204,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmv9l6tjy50o3bq",
+      "createdAt": "2026-10-15T13:40:48.286Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Aldo Labaki",
+      "contatoCliente": "+55 11 97166-0909 ",
+      "origem": "Hard Rock",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Já possui o voucher ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -21224,5 +21240,5 @@
       "updatedAt": "2026-10-13T16:48:28.589Z"
     }
   ],
-  "updatedAt": "2026-10-15T13:30:04.485Z"
+  "updatedAt": "2026-10-15T13:40:49.694Z"
 }
