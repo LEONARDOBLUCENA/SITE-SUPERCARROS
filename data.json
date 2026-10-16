@@ -21757,6 +21757,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvbbupbmvdi0z3",
+      "createdAt": "2026-10-16T18:54:58.738Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "tiassu",
+      "contatoCliente": "+55 96 9137-3645",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21777,5 +21793,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T18:32:14.528Z"
+  "updatedAt": "2026-10-16T18:55:00.047Z"
 }
