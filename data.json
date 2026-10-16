@@ -21517,6 +21517,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-16T17:18:30.287Z"
+    },
+    {
+      "id": "rmvb8evo46pmp3h",
+      "createdAt": "2026-10-16T17:18:41.620Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "lucy",
+      "contatoCliente": "+55 17 99263-5822",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21537,5 +21553,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T17:18:30.287Z"
+  "updatedAt": "2026-10-16T17:18:42.737Z"
 }
