@@ -21741,6 +21741,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvbb1ftusk3ox9",
+      "createdAt": "2026-10-16T18:32:13.410Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "~Najla Gasperoni",
+      "contatoCliente": "+55 14 99732-8766",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21761,5 +21777,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T17:45:42.872Z"
+  "updatedAt": "2026-10-16T18:32:14.528Z"
 }
