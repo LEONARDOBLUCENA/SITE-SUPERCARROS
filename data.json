@@ -21500,6 +21500,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvb8eeihzysvnb",
+      "createdAt": "2026-10-16T17:18:19.385Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "harlley diniz",
+      "contatoCliente": "+55 31 8782-1020",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21520,5 +21536,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T17:18:10.108Z"
+  "updatedAt": "2026-10-16T17:18:20.564Z"
 }
