@@ -21677,6 +21677,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvb8zoxqvzm944",
+      "createdAt": "2026-10-16T17:34:52.670Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "renato tim",
+      "contatoCliente": "+55 38 9954-9086",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21697,5 +21713,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T17:33:44.879Z"
+  "updatedAt": "2026-10-16T17:34:53.270Z"
 }
