@@ -21613,6 +21613,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvb8ie7rnm5of3",
+      "createdAt": "2026-10-16T17:21:25.623Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "saulo",
+      "contatoCliente": "+55 62 8561-5867",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21633,5 +21649,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T17:20:27.282Z"
+  "updatedAt": "2026-10-16T17:21:26.848Z"
 }
