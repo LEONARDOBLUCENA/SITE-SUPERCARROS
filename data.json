@@ -21765,7 +21765,7 @@
       "dataAtendimento": "2026-10-16",
       "nomeCliente": "tiassu",
       "contatoCliente": "+55 96 9137-3645",
-      "origem": "",
+      "origem": "Prime Gourmet",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -21773,7 +21773,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-16T18:57:12.653Z"
     }
   ],
   "siteVendas": [
@@ -21794,5 +21795,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T18:56:22.770Z"
+  "updatedAt": "2026-10-16T18:57:12.653Z"
 }
