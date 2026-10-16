@@ -21637,14 +21637,15 @@
       "nomeCliente": "~Natany Rodrigues",
       "contatoCliente": "+55 94 9184-5503",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-16",
+      "valorVenda": "700.00",
+      "numeroPedido": "20169",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-16T18:56:22.770Z"
     },
     {
       "id": "rmvb8lkzwekgkjv",
@@ -21793,5 +21794,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T18:55:00.047Z"
+  "updatedAt": "2026-10-16T18:56:22.770Z"
 }
