@@ -21507,7 +21507,7 @@
       "dataAtendimento": "2026-10-16",
       "nomeCliente": "harlley diniz",
       "contatoCliente": "+55 31 8782-1020",
-      "origem": "WhatsApp",
+      "origem": "Cara de Mau",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -21515,7 +21515,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-16T17:18:30.287Z"
     }
   ],
   "siteVendas": [
@@ -21536,5 +21537,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T17:18:20.564Z"
+  "updatedAt": "2026-10-16T17:18:30.287Z"
 }
