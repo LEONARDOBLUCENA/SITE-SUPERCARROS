@@ -21581,6 +21581,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvb8gopwonq37z",
+      "createdAt": "2026-10-16T17:20:05.924Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "erlon",
+      "contatoCliente": "+55 49 8876-0833",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "lancer",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21601,5 +21617,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T17:19:43.780Z"
+  "updatedAt": "2026-10-16T17:20:07.007Z"
 }
