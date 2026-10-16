@@ -21830,7 +21830,7 @@
       "dataAtendimento": "2026-10-16",
       "nomeCliente": "Sem nome",
       "contatoCliente": "+55 37 9987-1645",
-      "origem": "",
+      "origem": "Carrinho Abandonado",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -21838,7 +21838,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-16T19:33:06.821Z"
     }
   ],
   "siteVendas": [
@@ -21859,5 +21860,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T19:32:58.982Z"
+  "updatedAt": "2026-10-16T19:33:06.821Z"
 }
