@@ -21420,6 +21420,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-15T20:40:07.397Z"
+    },
+    {
+      "id": "rmvb8ayqkohcbk3",
+      "createdAt": "2026-10-16T17:15:38.972Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 35 9943-0406",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21440,5 +21456,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-15T21:52:19.020Z"
+  "updatedAt": "2026-10-16T17:15:40.574Z"
 }
