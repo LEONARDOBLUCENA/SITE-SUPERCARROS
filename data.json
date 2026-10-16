@@ -21791,6 +21791,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvbd55xn0506qm",
+      "createdAt": "2026-10-16T19:31:06.443Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "desirre",
+      "contatoCliente": "+55 51 8100-2448",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21811,5 +21827,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T19:30:50.545Z"
+  "updatedAt": "2026-10-16T19:31:07.260Z"
 }
