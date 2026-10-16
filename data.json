@@ -21775,6 +21775,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-16T18:57:12.653Z"
+    },
+    {
+      "id": "rmvbd4t5w9dmlq8",
+      "createdAt": "2026-10-16T19:30:49.892Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "erica",
+      "contatoCliente": "+55 54 9279-9119",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21795,5 +21811,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T18:57:12.653Z"
+  "updatedAt": "2026-10-16T19:30:50.545Z"
 }
