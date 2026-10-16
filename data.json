@@ -21597,6 +21597,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvb8h4dqak2i0x",
+      "createdAt": "2026-10-16T17:20:26.222Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "Rafaela",
+      "contatoCliente": "+55 89 9442-1970",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "dirigir sem instrutor rsrs",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21617,5 +21633,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T17:20:07.007Z"
+  "updatedAt": "2026-10-16T17:20:27.282Z"
 }
