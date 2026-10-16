@@ -21629,6 +21629,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvb8jbchporo5n",
+      "createdAt": "2026-10-16T17:22:08.561Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "~Natany Rodrigues",
+      "contatoCliente": "+55 94 9184-5503",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21649,5 +21665,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-16T17:21:26.848Z"
+  "updatedAt": "2026-10-16T17:22:09.110Z"
 }
