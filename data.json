@@ -21977,14 +21977,15 @@
       "nomeCliente": "caio",
       "contatoCliente": "+55 81 9721-4869",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-17T02:31:39.006Z"
     }
   ],
   "siteVendas": [
@@ -22005,5 +22006,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T02:28:28.912Z"
+  "updatedAt": "2026-10-17T02:31:39.006Z"
 }
