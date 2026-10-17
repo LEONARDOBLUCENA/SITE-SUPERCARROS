@@ -22026,14 +22026,15 @@
       "nomeCliente": "leticia gaio",
       "contatoCliente": "+55 21 98390-3940",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "upgrade do pedido 20185",
       "dataVenda": "2026-10-17",
       "valorVenda": "597.85",
       "numeroPedido": "20187",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-17T03:43:41.587Z"
     }
   ],
   "siteVendas": [
@@ -22054,5 +22055,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T03:36:41.343Z"
+  "updatedAt": "2026-10-17T03:43:41.587Z"
 }
