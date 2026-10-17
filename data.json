@@ -21638,14 +21638,14 @@
       "contatoCliente": "+55 94 9184-5503",
       "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
+      "produtoInteresse": "compra online drive mustang conv. + 2 caronas",
       "dataVenda": "2026-10-16",
       "valorVenda": "700.00",
-      "numeroPedido": "20169",
+      "numeroPedido": "#1584",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-16T21:18:35.037Z"
+      "updatedAt": "2026-10-17T00:25:30.940Z"
     },
     {
       "id": "rmvb8lkzwekgkjv",
@@ -21972,5 +21972,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T00:21:03.576Z"
+  "updatedAt": "2026-10-17T00:25:30.940Z"
 }
