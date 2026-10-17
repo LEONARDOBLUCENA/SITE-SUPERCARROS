@@ -20367,23 +20367,6 @@
       "vendedora": "bruna"
     },
     {
-      "id": "rmv8ajkh9l3o2wq",
-      "createdAt": "2026-10-14T15:55:01.101Z",
-      "dataAtendimento": "2026-10-14",
-      "nomeCliente": "alex marques",
-      "contatoCliente": "marcinhasoares432e@gmail.com",
-      "origem": "Evento",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "ensaio 15 anos le jardim",
-      "dataVenda": "2026-10-14",
-      "valorVenda": "1150.00",
-      "numeroPedido": "#1582",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele",
-      "updatedAt": "2026-10-15T21:34:41.982Z"
-    },
-    {
       "id": "rmv8bn9gxb9vduv",
       "createdAt": "2026-10-14T16:25:53.073Z",
       "dataAtendimento": "2026-10-14",
@@ -22234,5 +22217,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T15:05:45.840Z"
+  "updatedAt": "2026-10-17T15:05:59.647Z"
 }
