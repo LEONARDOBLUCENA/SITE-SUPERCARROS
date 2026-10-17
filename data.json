@@ -21959,15 +21959,16 @@
       "dataAtendimento": "2026-10-16",
       "nomeCliente": "+55 31 8778-9278",
       "contatoCliente": "+55 31 8778-9278",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "mustang eco",
+      "dataVenda": "2026-10-16",
+      "valorVenda": "1218.51",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-17T01:37:23.428Z"
     }
   ],
   "siteVendas": [
@@ -21988,5 +21989,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T00:55:33.493Z"
+  "updatedAt": "2026-10-17T01:37:23.429Z"
 }
