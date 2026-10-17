@@ -22197,6 +22197,22 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmvcpjdgdynd0ae",
+      "createdAt": "2026-10-17T18:05:50.941Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "isabella",
+      "contatoCliente": "+55 11 94326-8920",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -22217,5 +22233,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T15:05:59.647Z"
+  "updatedAt": "2026-10-17T18:05:51.717Z"
 }
