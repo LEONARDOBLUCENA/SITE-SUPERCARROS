@@ -22116,6 +22116,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-17T12:25:24.414Z"
+    },
+    {
+      "id": "rmvcdgjbr6w025b",
+      "createdAt": "2026-10-17T12:27:43.191Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "betânia",
+      "contatoCliente": "+55 16 99211-5994",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "20195",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -22136,5 +22152,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T12:25:24.414Z"
+  "updatedAt": "2026-10-17T12:27:44.406Z"
 }
