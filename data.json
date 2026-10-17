@@ -21986,6 +21986,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-17T02:31:39.006Z"
+    },
+    {
+      "id": "rmvbs8qga90ox7x",
+      "createdAt": "2026-10-17T02:33:47.242Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "galego",
+      "contatoCliente": "+55 11 91236-1434",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -22006,5 +22022,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T02:31:39.006Z"
+  "updatedAt": "2026-10-17T02:33:48.243Z"
 }
