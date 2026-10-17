@@ -22148,6 +22148,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvcdwtesqsuoac",
+      "createdAt": "2026-10-17T12:40:22.756Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "MárcioViniciusXavierBraga",
+      "contatoCliente": "+55 64 9266-7617",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -22168,5 +22184,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T12:29:26.396Z"
+  "updatedAt": "2026-10-17T12:40:23.725Z"
 }
