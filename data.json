@@ -22083,6 +22083,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvcdcfkhrq9e46",
+      "createdAt": "2026-10-17T12:24:31.697Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "~Jader Soldera",
+      "contatoCliente": "+55 55 9969-2393",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -22103,5 +22119,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T12:24:14.077Z"
+  "updatedAt": "2026-10-17T12:24:32.655Z"
 }
