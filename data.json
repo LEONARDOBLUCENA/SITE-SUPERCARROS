@@ -21936,6 +21936,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvbni0prjtgu31",
+      "createdAt": "2026-10-17T00:21:02.367Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "~Letícia Gaio ✨",
+      "contatoCliente": "+55 21 98390-3940",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21956,5 +21972,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T00:20:41.370Z"
+  "updatedAt": "2026-10-17T00:21:03.576Z"
 }
