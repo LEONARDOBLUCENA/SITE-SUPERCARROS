@@ -22019,6 +22019,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvcdb3143zmv7b",
+      "createdAt": "2026-10-17T12:23:28.792Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "~Keila Araujo",
+      "contatoCliente": "+55 81 8855-8272",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -22039,5 +22055,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T03:52:00.410Z"
+  "updatedAt": "2026-10-17T12:23:29.777Z"
 }
