@@ -22018,23 +22018,6 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
-    },
-    {
-      "id": "rmvbuhlh99rmhmp",
-      "createdAt": "2026-10-17T03:36:39.933Z",
-      "dataAtendimento": "2026-10-17",
-      "nomeCliente": "leticia gaio",
-      "contatoCliente": "+55 21 98390-3940",
-      "origem": "",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "upgrade do pedido 20185",
-      "dataVenda": "2026-10-17",
-      "valorVenda": "597.85",
-      "numeroPedido": "20187",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele",
-      "updatedAt": "2026-10-17T03:43:41.587Z"
     }
   ],
   "siteVendas": [
@@ -22055,5 +22038,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T03:43:41.587Z"
+  "updatedAt": "2026-10-17T03:43:55.033Z"
 }
