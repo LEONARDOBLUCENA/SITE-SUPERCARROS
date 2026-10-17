@@ -21920,6 +21920,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvbnhjr51v2zj0",
+      "createdAt": "2026-10-17T00:20:40.385Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "~Ana Karoline Lazzari",
+      "contatoCliente": "+55 21 97766-9559",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21940,5 +21956,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T00:17:08.655Z"
+  "updatedAt": "2026-10-17T00:20:41.370Z"
 }
