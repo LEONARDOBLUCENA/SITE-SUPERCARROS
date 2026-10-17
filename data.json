@@ -21952,6 +21952,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvboqe9w9cnt4r",
+      "createdAt": "2026-10-17T00:55:32.804Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "+55 31 8778-9278",
+      "contatoCliente": "+55 31 8778-9278",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -21972,5 +21988,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T00:25:30.940Z"
+  "updatedAt": "2026-10-17T00:55:33.493Z"
 }
