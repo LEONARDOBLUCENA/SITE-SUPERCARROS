@@ -22035,6 +22035,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvcdbg4okw0bry",
+      "createdAt": "2026-10-17T12:23:45.769Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "Claudemar",
+      "contatoCliente": "+55 31 9263-9402",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -22055,5 +22071,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T12:23:29.777Z"
+  "updatedAt": "2026-10-17T12:23:46.765Z"
 }
