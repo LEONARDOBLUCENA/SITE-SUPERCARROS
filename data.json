@@ -22180,6 +22180,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvceqjmtkv0em1",
+      "createdAt": "2026-10-17T13:03:29.765Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "keny",
+      "contatoCliente": "+55 51 9639-4291",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -22200,5 +22216,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T12:42:41.639Z"
+  "updatedAt": "2026-10-17T13:03:31.210Z"
 }
