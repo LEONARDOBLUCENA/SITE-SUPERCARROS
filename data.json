@@ -22099,6 +22099,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvcdd9yhcw5wow",
+      "createdAt": "2026-10-17T12:25:11.081Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "~Sabrina Decothé 🌸",
+      "contatoCliente": "+55 28 99976-9935",
+      "origem": "Hard Rock",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "gav",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -22119,5 +22135,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T12:24:32.655Z"
+  "updatedAt": "2026-10-17T12:25:11.812Z"
 }
