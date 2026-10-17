@@ -22132,6 +22132,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvcdiqggsh9fce",
+      "createdAt": "2026-10-17T12:29:25.744Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "~Cristóvão Santos",
+      "contatoCliente": "+55 55 9105-9305",
+      "origem": "",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -22152,5 +22168,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T12:27:44.406Z"
+  "updatedAt": "2026-10-17T12:29:26.396Z"
 }
