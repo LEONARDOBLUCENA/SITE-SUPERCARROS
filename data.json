@@ -22107,14 +22107,15 @@
       "nomeCliente": "~Sabrina Decothé 🌸",
       "contatoCliente": "+55 28 99976-9935",
       "origem": "Hard Rock",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "gav",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-17T12:25:24.414Z"
     }
   ],
   "siteVendas": [
@@ -22135,5 +22136,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T12:25:11.812Z"
+  "updatedAt": "2026-10-17T12:25:24.414Z"
 }
