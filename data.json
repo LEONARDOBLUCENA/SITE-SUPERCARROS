@@ -22325,6 +22325,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvds8iw29x1q3y",
+      "createdAt": "2026-10-18T12:09:09.794Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "Katiane",
+      "contatoCliente": "(84) 8851-9560",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22345,5 +22361,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:08:25.596Z"
+  "updatedAt": "2026-10-18T12:09:10.727Z"
 }
