@@ -22605,6 +22605,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvdxl6c90aa8ox",
+      "createdAt": "2026-10-18T14:38:58.137Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Higor Gustavo Farias De Ramos",
+      "contatoCliente": "(54) 99610-8510",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-18",
+      "valorVenda": "437.00",
+      "numeroPedido": "20229",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22625,5 +22641,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:41:02.642Z"
+  "updatedAt": "2026-10-18T14:39:00.227Z"
 }
