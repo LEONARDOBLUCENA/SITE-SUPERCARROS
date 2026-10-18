@@ -14852,14 +14852,15 @@
       "nomeCliente": "Letícia Gaio ",
       "contatoCliente": "+55 21 98390-3940",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-17",
+      "valorVenda": "282.15",
+      "numeroPedido": "20185",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-18T12:30:16.235Z"
     },
     {
       "id": "rmuphtntst5iab8",
@@ -22603,5 +22604,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:27:47.398Z"
+  "updatedAt": "2026-10-18T12:30:16.235Z"
 }
