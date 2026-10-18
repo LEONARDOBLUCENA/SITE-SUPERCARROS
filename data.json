@@ -22589,6 +22589,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvdtdhx5a1mhw7",
+      "createdAt": "2026-10-18T12:41:01.433Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Maria Josilene Dos Santos Sales",
+      "contatoCliente": "(85) 98829-2025",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "137.00",
+      "numeroPedido": "20219",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22609,5 +22625,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:38:58.258Z"
+  "updatedAt": "2026-10-18T12:41:02.642Z"
 }
