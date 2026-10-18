@@ -22621,6 +22621,24 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvdxphps7s0v88",
+      "createdAt": "2026-10-18T14:42:19.504Z",
+      "dataAtendimento": "2026-08-30",
+      "nomeCliente": "João De Arruda Sena Neto",
+      "contatoCliente": "(81) 98801-9441",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-18",
+      "valorVenda": "949.05",
+      "numeroPedido": "20227",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -22641,5 +22659,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T14:39:00.227Z"
+  "updatedAt": "2026-10-18T14:42:20.689Z"
 }
