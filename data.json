@@ -21055,14 +21055,15 @@
       "nomeCliente": "Jaqueline Ghiggi",
       "contatoCliente": "+55 55 9233-8281 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-17",
+      "valorVenda": "130.15",
+      "numeroPedido": "20213",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-18T12:37:55.366Z"
     },
     {
       "id": "rmv9i9d4ryrgg7o",
@@ -22605,5 +22606,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:36:26.584Z"
+  "updatedAt": "2026-10-18T12:37:55.366Z"
 }
