@@ -22519,6 +22519,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvdsgtnmx51yux",
+      "createdAt": "2026-10-18T12:15:36.994Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "(22) 99937-5472",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22539,5 +22555,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:15:08.342Z"
+  "updatedAt": "2026-10-18T12:15:38.107Z"
 }
