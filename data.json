@@ -22471,6 +22471,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvdsf7dbxoh9vn",
+      "createdAt": "2026-10-18T12:14:21.455Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "luccas straus",
+      "contatoCliente": "+55 92 9293-2866 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22491,5 +22507,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:14:07.625Z"
+  "updatedAt": "2026-10-18T12:14:22.341Z"
 }
