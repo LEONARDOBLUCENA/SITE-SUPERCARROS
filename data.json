@@ -22551,6 +22551,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvdsqqs64jl7ut",
+      "createdAt": "2026-10-18T12:23:19.830Z",
+      "dataAtendimento": "2026-10-14",
+      "nomeCliente": "Regiane Oliveira 🥰",
+      "contatoCliente": "+55 66 9621-0365 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-16",
+      "valorVenda": "130.15",
+      "numeroPedido": "20177",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22571,5 +22587,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:16:02.081Z"
+  "updatedAt": "2026-10-18T12:23:21.075Z"
 }
