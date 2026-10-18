@@ -22213,6 +22213,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvds548409gnys",
+      "createdAt": "2026-10-18T12:06:30.820Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Everton Lima",
+      "contatoCliente": "+55 75 9807-9004 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22233,5 +22249,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-17T18:05:51.717Z"
+  "updatedAt": "2026-10-18T12:06:31.991Z"
 }
