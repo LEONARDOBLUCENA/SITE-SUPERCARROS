@@ -22480,14 +22480,15 @@
       "nomeCliente": "luccas straus",
       "contatoCliente": "+55 92 9293-2866 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "130.15",
+      "numeroPedido": "20209",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-18T12:36:26.584Z"
     },
     {
       "id": "rmvdsfqb8clb5dm",
@@ -22604,5 +22605,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:30:16.235Z"
+  "updatedAt": "2026-10-18T12:36:26.584Z"
 }
