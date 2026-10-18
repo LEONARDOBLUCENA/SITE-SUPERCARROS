@@ -22535,6 +22535,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvdshazi8g759r",
+      "createdAt": "2026-10-18T12:15:59.454Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "Nathan Souza",
+      "contatoCliente": "+55 47 9667-4120 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22555,5 +22571,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:15:38.107Z"
+  "updatedAt": "2026-10-18T12:16:02.081Z"
 }
