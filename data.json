@@ -22389,6 +22389,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvdsareba031mm",
+      "createdAt": "2026-10-18T12:10:54.131Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Tío Lucas",
+      "contatoCliente": "+598 98 106 239 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22409,5 +22425,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:10:33.589Z"
+  "updatedAt": "2026-10-18T12:10:55.547Z"
 }
