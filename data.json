@@ -22423,6 +22423,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-10-18T12:11:31.638Z"
+    },
+    {
+      "id": "rmvdscyh21eid7i",
+      "createdAt": "2026-10-18T12:12:36.614Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "Jhonatan 😎",
+      "contatoCliente": "+55 45 9923-7769 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22443,5 +22459,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:11:44.431Z"
+  "updatedAt": "2026-10-18T12:12:38.196Z"
 }
