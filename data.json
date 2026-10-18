@@ -22487,6 +22487,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvdsfqb8clb5dm",
+      "createdAt": "2026-10-18T12:14:46.004Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "Cris",
+      "contatoCliente": "+55 62 8430-6199 ",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22507,5 +22523,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:14:22.341Z"
+  "updatedAt": "2026-10-18T12:14:47.393Z"
 }
