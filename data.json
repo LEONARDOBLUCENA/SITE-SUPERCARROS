@@ -22455,6 +22455,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvdseuvcx25zre",
+      "createdAt": "2026-10-18T12:14:05.256Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "Milena Moraes",
+      "contatoCliente": "+55 51 9797-3472 ",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22475,5 +22491,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:13:15.680Z"
+  "updatedAt": "2026-10-18T12:14:07.625Z"
 }
