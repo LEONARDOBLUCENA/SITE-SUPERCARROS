@@ -22213,8 +22213,11 @@
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "compartilhado": true,
+      "vendedoraFinalizou": "bruna",
+      "updatedAt": "2026-10-18T12:38:22.991Z"
     },
     {
       "id": "rmvds548409gnys",
@@ -22606,5 +22609,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:37:55.366Z"
+  "updatedAt": "2026-10-18T12:38:22.991Z"
 }
