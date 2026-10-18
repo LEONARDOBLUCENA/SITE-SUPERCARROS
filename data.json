@@ -22393,7 +22393,7 @@
     {
       "id": "rmvdsareba031mm",
       "createdAt": "2026-10-18T12:10:54.131Z",
-      "dataAtendimento": "2026-10-18",
+      "dataAtendimento": "2026-10-17",
       "nomeCliente": "Tío Lucas",
       "contatoCliente": "+598 98 106 239 ",
       "origem": "",
@@ -22404,7 +22404,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-18T12:11:44.431Z"
     },
     {
       "id": "rmvdsbboex3whq7",
@@ -22442,5 +22443,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:11:31.638Z"
+  "updatedAt": "2026-10-18T12:11:44.431Z"
 }
