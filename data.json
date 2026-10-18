@@ -22229,6 +22229,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvds5m46m33z1v",
+      "createdAt": "2026-10-18T12:06:54.006Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Pedro Zamzoum",
+      "contatoCliente": "+55 22 99724-4332 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22249,5 +22265,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:06:31.991Z"
+  "updatedAt": "2026-10-18T12:06:54.743Z"
 }
