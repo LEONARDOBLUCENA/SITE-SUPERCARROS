@@ -22309,6 +22309,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvds7jwq5tjl2m",
+      "createdAt": "2026-10-18T12:08:24.458Z",
+      "dataAtendimento": "2026-10-17",
+      "nomeCliente": "Jeanne Brito",
+      "contatoCliente": "+55 21 97000-2446 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22329,5 +22345,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T12:08:00.687Z"
+  "updatedAt": "2026-10-18T12:08:25.596Z"
 }
