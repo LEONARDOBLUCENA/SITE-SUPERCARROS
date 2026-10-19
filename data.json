@@ -22832,6 +22832,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8h8xe7wpawb",
+      "createdAt": "2026-10-19T12:31:36.818Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Jane Souza Confeitaria Artesanal",
+      "contatoCliente": "+55 21 97894-6502 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22852,5 +22868,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:31:15.611Z"
+  "updatedAt": "2026-10-19T12:31:38.743Z"
 }
