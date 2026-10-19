@@ -16293,14 +16293,15 @@
       "nomeCliente": "Patrícia Dorigon",
       "contatoCliente": "+55 43 9128-9992 ",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-19",
+      "valorVenda": "462.65",
+      "numeroPedido": "20255",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-19T13:55:48.743Z"
     },
     {
       "id": "rmuv88c5llbrahm",
@@ -23173,5 +23174,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:58:12.027Z"
+  "updatedAt": "2026-10-19T13:55:48.743Z"
 }
