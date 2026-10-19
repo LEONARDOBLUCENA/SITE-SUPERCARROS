@@ -23072,6 +23072,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8oy5vmxmegf",
+      "createdAt": "2026-10-19T12:37:36.115Z",
+      "dataAtendimento": "2026-10-19",
+      "nomeCliente": "ROBSON DE VASCONCELOS",
+      "contatoCliente": "+55 21 97595-0332 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -23092,5 +23108,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:37:16.300Z"
+  "updatedAt": "2026-10-19T12:37:37.108Z"
 }
