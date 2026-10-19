@@ -22688,6 +22688,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf865cc4ehvx3",
+      "createdAt": "2026-10-19T12:22:58.956Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Caio Alcantara ",
+      "contatoCliente": "+55 81 9766-2397 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22708,5 +22724,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:22:15.157Z"
+  "updatedAt": "2026-10-19T12:22:59.848Z"
 }
