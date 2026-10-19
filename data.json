@@ -21646,8 +21646,11 @@
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "compartilhado": true,
+      "vendedoraFinalizou": "bruna",
+      "updatedAt": "2026-10-19T17:54:22.154Z"
     },
     {
       "id": "rmvb8y83wnc49fq",
@@ -23190,5 +23193,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-19T17:19:52.100Z"
+  "updatedAt": "2026-10-19T17:54:22.154Z"
 }
