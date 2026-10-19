@@ -23120,6 +23120,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf92p8mc6czke",
+      "createdAt": "2026-10-19T12:48:17.734Z",
+      "dataAtendimento": "2026-10-19",
+      "nomeCliente": "Matheus De Souza Santos",
+      "contatoCliente": "+55 11 95602-8025",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -23140,5 +23156,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:40:11.923Z"
+  "updatedAt": "2026-10-19T12:48:18.732Z"
 }
