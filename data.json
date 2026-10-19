@@ -22752,6 +22752,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8esaqm6t6jf",
+      "createdAt": "2026-10-19T12:29:41.954Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Emilly Nayali",
+      "contatoCliente": "+55 81 9739-7576 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22772,5 +22788,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:24:08.454Z"
+  "updatedAt": "2026-10-19T12:29:45.261Z"
 }
