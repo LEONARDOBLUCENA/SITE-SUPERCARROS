@@ -22960,6 +22960,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8lo2hmds7mc",
+      "createdAt": "2026-10-19T12:35:03.065Z",
+      "dataAtendimento": "2026-10-19",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 66 9207-6547",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22980,5 +22996,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:34:47.965Z"
+  "updatedAt": "2026-10-19T12:35:04.956Z"
 }
