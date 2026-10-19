@@ -22659,7 +22659,7 @@
     {
       "id": "rmvf8406l2pg0ux",
       "createdAt": "2026-10-19T12:21:18.957Z",
-      "dataAtendimento": "2026-10-19",
+      "dataAtendimento": "2026-10-18",
       "nomeCliente": "𝑨𝒏𝒅𝒆𝒓𝒔𝒐𝒏",
       "contatoCliente": "+55 84 8812-3292 ",
       "origem": "Cara de Mau",
@@ -22670,7 +22670,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-19T12:22:15.157Z"
     },
     {
       "id": "rmvf84xh6pbgaly",
@@ -22707,5 +22708,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:22:02.957Z"
+  "updatedAt": "2026-10-19T12:22:15.157Z"
 }
