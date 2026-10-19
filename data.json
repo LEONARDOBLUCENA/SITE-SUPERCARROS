@@ -22992,6 +22992,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8mfsom1mwmb",
+      "createdAt": "2026-10-19T12:35:39.001Z",
+      "dataAtendimento": "2026-10-19",
+      "nomeCliente": "alemão car auto center ",
+      "contatoCliente": "+55 51 8126-0743",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -23012,5 +23028,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:35:19.808Z"
+  "updatedAt": "2026-10-19T12:35:41.706Z"
 }
