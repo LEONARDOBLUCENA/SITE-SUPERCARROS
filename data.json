@@ -22736,6 +22736,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf87li056orki",
+      "createdAt": "2026-10-19T12:24:06.552Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Rafael",
+      "contatoCliente": "+55 48 9945-7257 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22756,5 +22772,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:23:50.389Z"
+  "updatedAt": "2026-10-19T12:24:08.454Z"
 }
