@@ -22896,6 +22896,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8je60kanuz6",
+      "createdAt": "2026-10-19T12:33:16.920Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Carol Rangel",
+      "contatoCliente": "+55 37 9826-4838 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22916,5 +22932,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:32:52.802Z"
+  "updatedAt": "2026-10-19T12:33:20.670Z"
 }
