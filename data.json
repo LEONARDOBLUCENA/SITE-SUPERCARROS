@@ -22976,6 +22976,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8lyn6at67zj",
+      "createdAt": "2026-10-19T12:35:16.770Z",
+      "dataAtendimento": "2026-10-19",
+      "nomeCliente": "Alice Maria Lash",
+      "contatoCliente": "+55 94 9293-3555 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22996,5 +23012,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:35:04.956Z"
+  "updatedAt": "2026-10-19T12:35:19.808Z"
 }
