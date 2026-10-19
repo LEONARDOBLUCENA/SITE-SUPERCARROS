@@ -23154,6 +23154,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvfirxc1ndg6is",
+      "createdAt": "2026-10-19T17:19:51.169Z",
+      "dataAtendimento": "2026-10-19",
+      "nomeCliente": "Robert",
+      "contatoCliente": "+55 43 9124-1015 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -23174,5 +23190,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-19T13:55:48.743Z"
+  "updatedAt": "2026-10-19T17:19:52.100Z"
 }
