@@ -23000,14 +23000,15 @@
       "nomeCliente": "alemão car auto center ",
       "contatoCliente": "+55 51 8126-0743",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "bruna"
+      "observacao": "Já comprou o pedido no site ",
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-19T12:56:52.281Z"
     },
     {
       "id": "rmvf8msdxx5n59l",
@@ -23156,5 +23157,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:54:35.972Z"
+  "updatedAt": "2026-10-19T12:56:52.282Z"
 }
