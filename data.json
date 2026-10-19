@@ -22816,6 +22816,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8gqw4ewuu81",
+      "createdAt": "2026-10-19T12:31:13.444Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Avilmar Sale",
+      "contatoCliente": "+55 21 97540-4150 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22836,5 +22852,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:30:53.710Z"
+  "updatedAt": "2026-10-19T12:31:15.611Z"
 }
