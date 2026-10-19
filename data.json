@@ -22768,6 +22768,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8fatdsiyrbn",
+      "createdAt": "2026-10-19T12:30:05.953Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Nery",
+      "contatoCliente": "+55 91 8496-4253 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22788,5 +22804,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:29:45.261Z"
+  "updatedAt": "2026-10-19T12:30:08.837Z"
 }
