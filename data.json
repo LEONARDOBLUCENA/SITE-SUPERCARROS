@@ -23165,14 +23165,15 @@
       "nomeCliente": "Robert",
       "contatoCliente": "+55 43 9124-1015 ",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-19",
+      "valorVenda": "350.00",
+      "numeroPedido": "20271",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-19T18:12:25.144Z"
     }
   ],
   "siteVendas": [
@@ -23193,5 +23194,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-19T17:55:17.198Z"
+  "updatedAt": "2026-10-19T18:12:25.144Z"
 }
