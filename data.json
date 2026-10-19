@@ -22671,6 +22671,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf84xh6pbgaly",
+      "createdAt": "2026-10-19T12:22:02.106Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Ana ",
+      "contatoCliente": "+55 71 9215-2094",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22691,5 +22707,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:21:20.403Z"
+  "updatedAt": "2026-10-19T12:22:02.957Z"
 }
