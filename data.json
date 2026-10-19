@@ -22944,6 +22944,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8lazfotqtdx",
+      "createdAt": "2026-10-19T12:34:46.107Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Thiago Daniel",
+      "contatoCliente": "+55 21 98256-4719 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22964,5 +22980,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:34:20.742Z"
+  "updatedAt": "2026-10-19T12:34:47.965Z"
 }
