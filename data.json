@@ -22704,6 +22704,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf86hsqm1rv6c",
+      "createdAt": "2026-10-19T12:23:15.098Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Danilo Bento",
+      "contatoCliente": "+55 48 9671-5459 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22724,5 +22740,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:22:59.848Z"
+  "updatedAt": "2026-10-19T12:23:17.467Z"
 }
