@@ -22639,6 +22639,22 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmvf832v3n1xzva",
+      "createdAt": "2026-10-19T12:20:35.775Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Marlla Caixa",
+      "contatoCliente": "+55 33 8857-3620 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22659,5 +22675,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-18T14:42:20.689Z"
+  "updatedAt": "2026-10-19T12:20:37.015Z"
 }
