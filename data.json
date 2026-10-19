@@ -23040,6 +23040,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8o1msn5gu0r",
+      "createdAt": "2026-10-19T12:36:53.956Z",
+      "dataAtendimento": "2026-10-19",
+      "nomeCliente": "Juliana Fraporti",
+      "contatoCliente": "+55 51 9843-4511 ",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Tem voucher do Hotel Alpestre ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -23060,5 +23076,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:36:17.832Z"
+  "updatedAt": "2026-10-19T12:36:56.259Z"
 }
