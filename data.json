@@ -21640,17 +21640,17 @@
       "nomeCliente": "everton",
       "contatoCliente": "+55 27 99965-6617",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-19",
+      "valorVenda": "94.05",
+      "numeroPedido": "20269",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "compartilhado": true,
       "vendedoraFinalizou": "bruna",
-      "updatedAt": "2026-10-19T17:54:22.154Z"
+      "updatedAt": "2026-10-19T17:55:17.198Z"
     },
     {
       "id": "rmvb8y83wnc49fq",
@@ -23193,5 +23193,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-19T17:54:22.154Z"
+  "updatedAt": "2026-10-19T17:55:17.198Z"
 }
