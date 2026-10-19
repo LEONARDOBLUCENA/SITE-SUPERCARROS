@@ -22880,6 +22880,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8itvetoe5by",
+      "createdAt": "2026-10-19T12:32:50.618Z",
+      "dataAtendimento": "2026-10-18",
+      "nomeCliente": "Carlos Junio Falcão",
+      "contatoCliente": "+55 31 8695-4202 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -22900,5 +22916,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:32:26.696Z"
+  "updatedAt": "2026-10-19T12:32:52.802Z"
 }
