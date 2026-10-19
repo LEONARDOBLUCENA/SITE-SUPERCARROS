@@ -23056,6 +23056,22 @@
       "statusPagamento": "",
       "observacao": "Tem voucher do Hotel Alpestre ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvf8oggcvip7ho",
+      "createdAt": "2026-10-19T12:37:13.164Z",
+      "dataAtendimento": "2026-10-19",
+      "nomeCliente": "Rebeca C",
+      "contatoCliente": "+55 86 9911-8114 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -23076,5 +23092,5 @@
       "updatedAt": "2026-10-15T13:51:47.268Z"
     }
   ],
-  "updatedAt": "2026-10-19T12:36:56.259Z"
+  "updatedAt": "2026-10-19T12:37:16.300Z"
 }
