@@ -23334,6 +23334,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvgt4dyscf52jo",
+      "createdAt": "2026-10-20T14:57:14.932Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "jacy",
+      "contatoCliente": "+55 88 9221-4928",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23354,5 +23370,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T14:57:00.166Z"
+  "updatedAt": "2026-10-20T14:57:15.988Z"
 }
