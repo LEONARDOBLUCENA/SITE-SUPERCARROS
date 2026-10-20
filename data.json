@@ -23318,6 +23318,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvgt41f0ueg1f7",
+      "createdAt": "2026-10-20T14:56:58.668Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "mari",
+      "contatoCliente": "+55 71 9221-5378",
+      "origem": "Outro",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "estorno dora dos 7 dias",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23338,5 +23354,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T14:56:40.296Z"
+  "updatedAt": "2026-10-20T14:57:00.166Z"
 }
