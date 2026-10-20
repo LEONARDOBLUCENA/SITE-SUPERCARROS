@@ -23595,6 +23595,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvh3hmm5hpd9uo",
+      "createdAt": "2026-10-20T19:47:28.829Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "~João Victor Lucena",
+      "contatoCliente": "+55 91 8511-6585",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23615,5 +23631,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T19:45:35.352Z"
+  "updatedAt": "2026-10-20T19:47:30.006Z"
 }
