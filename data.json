@@ -23434,7 +23434,7 @@
       "id": "rmvgvcitgsfa3gp",
       "createdAt": "2026-10-20T15:59:33.700Z",
       "dataAtendimento": "2026-10-20",
-      "nomeCliente": "~Phocarontas",
+      "nomeCliente": "luana",
       "contatoCliente": "+55 31 9336-3737",
       "origem": "Prime Gourmet",
       "statusAtendimento": "Pedido finalizado",
@@ -23445,7 +23445,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-20T17:48:23.718Z"
+      "updatedAt": "2026-10-20T20:01:59.788Z"
     },
     {
       "id": "rmvgw8cm2j2gziv",
@@ -23632,5 +23632,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T20:01:20.788Z"
+  "updatedAt": "2026-10-20T20:01:59.788Z"
 }
