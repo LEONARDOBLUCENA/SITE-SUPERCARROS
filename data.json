@@ -22636,13 +22636,14 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-18",
-      "valorVenda": "949.05",
+      "valorVenda": "999.00",
       "numeroPedido": "20227",
       "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-20T16:00:37.568Z"
     },
     {
       "id": "rmvf832v3n1xzva",
@@ -23515,5 +23516,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T15:59:34.891Z"
+  "updatedAt": "2026-10-20T16:00:37.568Z"
 }
