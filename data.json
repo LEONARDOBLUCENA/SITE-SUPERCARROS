@@ -23447,6 +23447,22 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvgv0pdyeysffv",
+      "createdAt": "2026-10-20T15:50:22.342Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "rafaella",
+      "contatoCliente": "+55 51 9533-1206",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23467,5 +23483,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T15:46:09.855Z"
+  "updatedAt": "2026-10-20T15:50:23.541Z"
 }
