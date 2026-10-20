@@ -23384,18 +23384,18 @@
       "id": "rmvguuoyj8y8z4f",
       "createdAt": "2026-10-20T15:45:41.851Z",
       "dataAtendimento": "2026-10-20",
-      "nomeCliente": "Cayenne",
+      "nomeCliente": "audrey de jesuss",
       "contatoCliente": "+594 694 29 03 76",
       "origem": "WhatsApp",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-20",
-      "valorVenda": "710.00",
+      "valorVenda": "950.00",
       "numeroPedido": "link externo",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-20T17:53:35.067Z"
+      "updatedAt": "2026-10-20T19:45:21.219Z"
     },
     {
       "id": "rmvgv0pdyeysffv",
@@ -23615,5 +23615,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T19:04:09.430Z"
+  "updatedAt": "2026-10-20T19:45:21.220Z"
 }
