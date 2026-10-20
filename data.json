@@ -19199,24 +19199,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmv4ntm9wyjsd27",
-      "createdAt": "2026-10-12T02:55:40.292Z",
-      "dataAtendimento": "2026-10-11",
-      "nomeCliente": "~Jéssica",
-      "contatoCliente": "+55 16 98849-8687",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
-      "vendedora": "gisele",
-      "vendedoraFinalizou": "bruna",
-      "compartilhado": true
-    },
-    {
       "id": "rmv4nvqj35qcrei",
       "createdAt": "2026-10-12T02:57:19.119Z",
       "dataAtendimento": "2026-10-11",
@@ -23516,5 +23498,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T16:01:51.793Z"
+  "updatedAt": "2026-10-20T16:05:58.971Z"
 }
