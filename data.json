@@ -23426,7 +23426,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-20T17:04:05.354Z"
     },
     {
       "id": "rmvgvcitgsfa3gp",
@@ -23480,5 +23481,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T16:40:24.066Z"
+  "updatedAt": "2026-10-20T17:04:05.355Z"
 }
