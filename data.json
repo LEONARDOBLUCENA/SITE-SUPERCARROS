@@ -23430,6 +23430,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvguuoyj8y8z4f",
+      "createdAt": "2026-10-20T15:45:41.851Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "Cayene",
+      "contatoCliente": "+594 694 29 03 76",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-20",
+      "valorVenda": "710.00",
+      "numeroPedido": "link externo",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23450,5 +23466,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T15:35:56.475Z"
+  "updatedAt": "2026-10-20T15:45:43.371Z"
 }
