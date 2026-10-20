@@ -21847,14 +21847,15 @@
       "nomeCliente": "~João de Arruda Sena Neto",
       "contatoCliente": "+55 81 8801-9441",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "california promo + 1 carona promo outubro ",
       "dataVenda": "",
       "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "numeroPedido": "20227",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-20T18:43:16.380Z"
     },
     {
       "id": "rmvbnhjr51v2zj0",
@@ -23566,5 +23567,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T18:40:45.840Z"
+  "updatedAt": "2026-10-20T18:43:16.380Z"
 }
