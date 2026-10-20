@@ -23419,15 +23419,15 @@
       "nomeCliente": "iasminn",
       "contatoCliente": "+55 79 9953-9948",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-20",
+      "valorVenda": "300.00",
+      "numeroPedido": "20315",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-20T17:04:05.354Z"
+      "updatedAt": "2026-10-20T17:31:47.818Z"
     },
     {
       "id": "rmvgvcitgsfa3gp",
@@ -23515,5 +23515,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T17:11:14.591Z"
+  "updatedAt": "2026-10-20T17:31:47.819Z"
 }
