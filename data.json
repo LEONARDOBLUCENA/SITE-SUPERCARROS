@@ -23382,6 +23382,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvgte2eqxfq8ut",
+      "createdAt": "2026-10-20T15:04:46.514Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "isis",
+      "contatoCliente": "Ísis Menezes",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23402,5 +23418,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T15:02:33.515Z"
+  "updatedAt": "2026-10-20T15:04:47.543Z"
 }
