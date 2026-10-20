@@ -23478,6 +23478,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-20T17:49:45.707Z"
+    },
+    {
+      "id": "rmvh01gh8nx39is",
+      "createdAt": "2026-10-20T18:10:55.532Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "azio",
+      "contatoCliente": "+55 62 9631-9241",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "20317",
+      "dataVenda": "2026-10-20",
+      "valorVenda": "474.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23498,5 +23514,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T18:10:12.320Z"
+  "updatedAt": "2026-10-20T18:10:56.999Z"
 }
