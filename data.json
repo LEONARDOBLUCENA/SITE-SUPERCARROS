@@ -23563,6 +23563,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvh1wsyaef6gss",
+      "createdAt": "2026-10-20T19:03:17.650Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "Everton",
+      "contatoCliente": "+55 98 9971-2927",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23583,5 +23599,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T18:56:14.885Z"
+  "updatedAt": "2026-10-20T19:03:18.306Z"
 }
