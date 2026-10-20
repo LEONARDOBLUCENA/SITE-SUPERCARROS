@@ -23463,24 +23463,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmvgxojvx9ymty7",
-      "createdAt": "2026-10-20T17:04:54.189Z",
-      "dataAtendimento": "2026-10-20",
-      "nomeCliente": "ezio",
-      "contatoCliente": "+55 62 9631-9241",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-10-20",
-      "valorVenda": "476.00",
-      "numeroPedido": "20317",
-      "statusPagamento": "Pago",
-      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
-      "vendedora": "gisele",
-      "vendedoraFinalizou": "bruna",
-      "compartilhado": true
-    },
-    {
       "id": "rmvgxwoo5b7plq2",
       "createdAt": "2026-10-20T17:11:13.637Z",
       "dataAtendimento": "2026-10-20",
@@ -23516,5 +23498,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T17:53:35.067Z"
+  "updatedAt": "2026-10-20T18:10:12.320Z"
 }
