@@ -19199,24 +19199,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmv4nvqj35qcrei",
-      "createdAt": "2026-10-12T02:57:19.119Z",
-      "dataAtendimento": "2026-10-11",
-      "nomeCliente": "~Lorena Oliveira",
-      "contatoCliente": "+55 32 8489-8808",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
-      "vendedora": "gisele",
-      "vendedoraFinalizou": "bruna",
-      "compartilhado": true
-    },
-    {
       "id": "rmv57gqmql5ufr3",
       "createdAt": "2026-10-12T12:05:31.730Z",
       "dataAtendimento": "2026-10-11",
@@ -23480,5 +23462,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T16:06:17.149Z"
+  "updatedAt": "2026-10-20T16:07:07.702Z"
 }
