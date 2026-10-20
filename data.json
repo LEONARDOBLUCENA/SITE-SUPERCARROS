@@ -23487,14 +23487,15 @@
       "nomeCliente": "aline",
       "contatoCliente": "+55 41 9255-1130",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-20",
-      "valorVenda": "",
+      "valorVenda": "270.00",
       "numeroPedido": "20319",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-20T17:49:45.707Z"
     }
   ],
   "siteVendas": [
@@ -23515,5 +23516,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T17:48:23.718Z"
+  "updatedAt": "2026-10-20T17:49:45.707Z"
 }
