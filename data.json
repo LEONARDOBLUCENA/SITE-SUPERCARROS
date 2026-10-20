@@ -23374,14 +23374,15 @@
       "nomeCliente": "lorrayne",
       "contatoCliente": "+55 31 9444-8335",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Em negociação",
-      "produtoInteresse": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "veio direto ao salão ",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-20T15:46:09.855Z"
     },
     {
       "id": "rmvgte2eqxfq8ut",
@@ -23466,5 +23467,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T15:45:43.371Z"
+  "updatedAt": "2026-10-20T15:46:09.855Z"
 }
