@@ -23386,14 +23386,15 @@
       "nomeCliente": "Cayene",
       "contatoCliente": "+594 694 29 03 76",
       "origem": "WhatsApp",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-20",
       "valorVenda": "710.00",
       "numeroPedido": "link externo",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-20T16:14:44.980Z"
     },
     {
       "id": "rmvgv0pdyeysffv",
@@ -23462,5 +23463,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T16:07:07.702Z"
+  "updatedAt": "2026-10-20T16:14:44.980Z"
 }
