@@ -23302,6 +23302,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvgt3m8q5461if",
+      "createdAt": "2026-10-20T14:56:39.002Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "Ana Carolina",
+      "contatoCliente": "+55 31 9663-9349",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23322,5 +23338,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T14:56:13.846Z"
+  "updatedAt": "2026-10-20T14:56:40.296Z"
 }
