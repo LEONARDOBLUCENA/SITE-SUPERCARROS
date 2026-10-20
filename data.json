@@ -23414,6 +23414,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvgui4mg1wz6vr",
+      "createdAt": "2026-10-20T15:35:55.624Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "ellen",
+      "contatoCliente": "+55 99 9229-6463",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23434,5 +23450,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T15:15:42.577Z"
+  "updatedAt": "2026-10-20T15:35:56.475Z"
 }
