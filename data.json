@@ -23547,6 +23547,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmvh1a8ez013bl6",
+      "createdAt": "2026-10-20T18:45:44.603Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "rafael tavares",
+      "contatoCliente": "+55 31 9623-0803",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23567,5 +23583,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-20T18:43:16.380Z"
+  "updatedAt": "2026-10-20T18:45:45.422Z"
 }
