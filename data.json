@@ -23174,6 +23174,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-10-19T18:12:25.144Z"
+    },
+    {
+      "id": "rmvgt05ev8v43jz",
+      "createdAt": "2026-10-20T14:53:57.223Z",
+      "dataAtendimento": "2026-10-20",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 69 9217-4411",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23194,5 +23210,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-19T18:22:57.753Z"
+  "updatedAt": "2026-10-20T14:53:58.354Z"
 }
