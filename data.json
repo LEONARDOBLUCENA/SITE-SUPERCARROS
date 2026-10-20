@@ -23434,15 +23434,16 @@
       "dataAtendimento": "2026-10-20",
       "nomeCliente": "~Phocarontas",
       "contatoCliente": "+55 31 9336-3737",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-10-20",
+      "valorVenda": "99.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-20T16:24:12.976Z"
     }
   ],
   "siteVendas": [
@@ -23463,5 +23464,5 @@
       "updatedAt": "2026-10-19T12:54:35.971Z"
     }
   ],
-  "updatedAt": "2026-10-20T16:14:44.980Z"
+  "updatedAt": "2026-10-20T16:24:12.976Z"
 }
