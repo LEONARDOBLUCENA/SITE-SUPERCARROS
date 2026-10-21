@@ -23733,14 +23733,15 @@
       "nomeCliente": "adriane maia",
       "contatoCliente": "+55 62 9815-0717",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-21",
+      "valorVenda": "2250.00",
+      "numeroPedido": "20351",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-21T15:09:27.561Z"
     },
     {
       "id": "rmvi19ek944qnd1",
@@ -24086,5 +24087,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T14:47:53.779Z"
+  "updatedAt": "2026-10-21T15:09:27.561Z"
 }
