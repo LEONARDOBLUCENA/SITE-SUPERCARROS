@@ -24084,6 +24084,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvid0o9204bm9k",
+      "createdAt": "2026-10-21T17:02:00.134Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Pousada Ferreira",
+      "contatoCliente": "+55 79 9858-5745 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24104,5 +24120,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T16:46:29.191Z"
+  "updatedAt": "2026-10-21T17:02:01.776Z"
 }
