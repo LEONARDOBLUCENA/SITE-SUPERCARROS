@@ -23892,15 +23892,15 @@
       "nomeCliente": "~Alexandre Schuler",
       "contatoCliente": "+55 83 9630-0688",
       "origem": "WhatsApp",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-21",
       "valorVenda": "1270.00",
       "numeroPedido": "20343",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-21T13:33:01.609Z"
+      "updatedAt": "2026-10-21T14:38:04.505Z"
     },
     {
       "id": "rmvi3hyz8sdxs2m",
@@ -24085,5 +24085,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T14:32:35.836Z"
+  "updatedAt": "2026-10-21T14:38:04.505Z"
 }
