@@ -23692,6 +23692,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi0vvq0yopnrl",
+      "createdAt": "2026-10-21T11:22:21.144Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "ronaldo amaral",
+      "contatoCliente": "+55 31 7546-5685",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23712,5 +23728,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T11:21:31.906Z"
+  "updatedAt": "2026-10-21T11:22:22.014Z"
 }
