@@ -23836,6 +23836,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi2k5y4f9et6n",
+      "createdAt": "2026-10-21T12:09:13.756Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "camila paiva",
+      "contatoCliente": "+55 31 8689-9543",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23856,5 +23872,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T11:51:36.250Z"
+  "updatedAt": "2026-10-21T12:09:14.670Z"
 }
