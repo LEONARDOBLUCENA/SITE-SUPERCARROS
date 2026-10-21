@@ -22936,14 +22936,15 @@
       "nomeCliente": "Alice Maria Lash",
       "contatoCliente": "+55 94 9293-3555 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-19",
+      "valorVenda": "329.17",
+      "numeroPedido": "20273",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-21T14:47:53.778Z"
     },
     {
       "id": "rmvf8mfsom1mwmb",
@@ -24085,5 +24086,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T14:43:29.370Z"
+  "updatedAt": "2026-10-21T14:47:53.779Z"
 }
