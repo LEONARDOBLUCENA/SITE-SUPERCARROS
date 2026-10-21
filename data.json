@@ -23539,17 +23539,17 @@
       "nomeCliente": "~Marcus Queiroz",
       "contatoCliente": "+55 11 97046-3802",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-20",
       "valorVenda": "1200.00",
       "numeroPedido": "20309",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true,
-      "updatedAt": "2026-10-21T15:42:36.133Z"
+      "updatedAt": "2026-10-21T15:43:12.293Z"
     },
     {
       "id": "rmvh1a8ez013bl6",
@@ -24089,5 +24089,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T15:42:36.134Z"
+  "updatedAt": "2026-10-21T15:43:12.293Z"
 }
