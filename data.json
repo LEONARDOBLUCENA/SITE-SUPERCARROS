@@ -23934,6 +23934,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi4jnvv54sugm",
+      "createdAt": "2026-10-21T13:04:49.579Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "~Danii Testi",
+      "contatoCliente": "+55 41 8480-6143",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23954,5 +23970,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T13:04:30.616Z"
+  "updatedAt": "2026-10-21T13:04:50.809Z"
 }
