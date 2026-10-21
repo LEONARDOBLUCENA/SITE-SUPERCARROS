@@ -23660,6 +23660,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi0qnw720sgjw",
+      "createdAt": "2026-10-21T11:18:17.719Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "antonio sena",
+      "contatoCliente": "+55 81 9776-4951",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23680,5 +23696,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T11:17:55.767Z"
+  "updatedAt": "2026-10-21T11:18:19.310Z"
 }
