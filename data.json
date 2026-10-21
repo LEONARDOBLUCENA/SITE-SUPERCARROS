@@ -24033,6 +24033,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvi7dq8hvkf6ut",
+      "createdAt": "2026-10-21T14:24:11.537Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Lana Beatriz Da Silva Lima",
+      "contatoCliente": "+55 21 96953-4066",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24053,5 +24069,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T14:20:44.612Z"
+  "updatedAt": "2026-10-21T14:24:12.594Z"
 }
