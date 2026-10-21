@@ -23533,25 +23533,6 @@
       "updatedAt": "2026-10-20T18:39:29.008Z"
     },
     {
-      "id": "rmvh13t6ypbcnzi",
-      "createdAt": "2026-10-20T18:40:44.938Z",
-      "dataAtendimento": "2026-10-20",
-      "nomeCliente": "~Marcus Queiroz",
-      "contatoCliente": "+55 11 97046-3802",
-      "origem": "Upgrade Site",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-10-20",
-      "valorVenda": "1200.00",
-      "numeroPedido": "20309",
-      "statusPagamento": "Pago",
-      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
-      "vendedora": "gisele",
-      "vendedoraFinalizou": "bruna",
-      "compartilhado": true,
-      "updatedAt": "2026-10-21T15:43:12.293Z"
-    },
-    {
       "id": "rmvh1a8ez013bl6",
       "createdAt": "2026-10-20T18:45:44.603Z",
       "dataAtendimento": "2026-10-20",
@@ -24123,5 +24104,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T16:24:30.079Z"
+  "updatedAt": "2026-10-21T16:46:29.191Z"
 }
