@@ -23708,6 +23708,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi0wa2no7zxiz",
+      "createdAt": "2026-10-21T11:22:39.743Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Vanessa abreu",
+      "contatoCliente": "+55 21 98255-8419",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23728,5 +23744,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T11:22:22.014Z"
+  "updatedAt": "2026-10-21T11:22:40.591Z"
 }
