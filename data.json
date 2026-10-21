@@ -24117,6 +24117,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvifvzigf2dumz",
+      "createdAt": "2026-10-21T18:22:20.296Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Sosthemis Manaces Ramalho Santos",
+      "contatoCliente": "(83) 99629-9397",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "229.00",
+      "numeroPedido": "20375",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24137,5 +24153,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T17:19:16.427Z"
+  "updatedAt": "2026-10-21T18:22:21.534Z"
 }
