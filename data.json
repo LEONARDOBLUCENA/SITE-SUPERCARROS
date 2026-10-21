@@ -24001,6 +24001,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi75yc2yd8m0n",
+      "createdAt": "2026-10-21T14:18:08.786Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Pedro Henrique ",
+      "contatoCliente": "+55 41 99138-1999",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24021,5 +24037,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T14:08:12.113Z"
+  "updatedAt": "2026-10-21T14:18:10.059Z"
 }
