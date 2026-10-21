@@ -23995,14 +23995,15 @@
       "nomeCliente": "~Giovanna Amaro (Madame 👑)",
       "contatoCliente": "+55 16 99420-8946",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-10-21",
       "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
+      "numeroPedido": "20353",
+      "statusPagamento": "Pago",
+      "observacao": "comprou direto no site",
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-21T15:36:15.741Z"
     },
     {
       "id": "rmvi75yc2yd8m0n",
@@ -24087,5 +24088,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T15:27:12.900Z"
+  "updatedAt": "2026-10-21T15:36:15.741Z"
 }
