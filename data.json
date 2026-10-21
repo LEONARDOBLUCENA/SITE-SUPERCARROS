@@ -23927,14 +23927,15 @@
       "nomeCliente": "~Aline Malovini Faria",
       "contatoCliente": "+55 73 9992-8319",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-21",
+      "valorVenda": "388.00",
+      "numeroPedido": "20347",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-21T13:37:23.711Z"
     },
     {
       "id": "rmvi4jnvv54sugm",
@@ -23987,5 +23988,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T13:36:51.303Z"
+  "updatedAt": "2026-10-21T13:37:23.711Z"
 }
