@@ -23884,6 +23884,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi2rlmgemxvkm",
+      "createdAt": "2026-10-21T12:15:00.664Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "~Alexandre Schuler",
+      "contatoCliente": "+55 83 9630-0688",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23904,5 +23920,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T12:11:57.455Z"
+  "updatedAt": "2026-10-21T12:15:01.154Z"
 }
