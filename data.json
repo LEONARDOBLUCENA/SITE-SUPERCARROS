@@ -23918,6 +23918,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmvi4j896sy0tsg",
+      "createdAt": "2026-10-21T13:04:29.322Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "~Aline Malovini Faria",
+      "contatoCliente": "+55 73 9992-8319",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23938,5 +23954,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T12:35:31.979Z"
+  "updatedAt": "2026-10-21T13:04:30.616Z"
 }
