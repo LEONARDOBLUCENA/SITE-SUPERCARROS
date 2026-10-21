@@ -24133,6 +24133,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvihemqzbs2am0",
+      "createdAt": "2026-10-21T19:04:49.835Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Rogério Nogueira",
+      "contatoCliente": "+55 53 9921-9255 ",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Tem voucher da Laghetto ",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24153,5 +24169,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T18:22:21.534Z"
+  "updatedAt": "2026-10-21T19:04:51.220Z"
 }
