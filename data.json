@@ -23629,22 +23629,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmvi0q5w7pn2no5",
-      "createdAt": "2026-10-21T11:17:54.391Z",
-      "dataAtendimento": "2026-10-21",
-      "nomeCliente": "leticia ourique",
-      "contatoCliente": "+55 51 8142-9180",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmvi0qnw720sgjw",
       "createdAt": "2026-10-21T11:18:17.719Z",
       "dataAtendimento": "2026-10-21",
@@ -24187,5 +24171,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T19:18:13.242Z"
+  "updatedAt": "2026-10-21T19:18:22.651Z"
 }
