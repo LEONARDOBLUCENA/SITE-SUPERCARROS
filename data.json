@@ -23724,6 +23724,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi14evu58xj8h",
+      "createdAt": "2026-10-21T11:28:59.226Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "adriane maia",
+      "contatoCliente": "+55 62 9815-0717",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23744,5 +23760,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T11:22:40.591Z"
+  "updatedAt": "2026-10-21T11:29:00.173Z"
 }
