@@ -23852,6 +23852,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi2mhqvbaipaz",
+      "createdAt": "2026-10-21T12:11:02.359Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "dionas",
+      "contatoCliente": "+55 48 9144-9997",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23872,5 +23888,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T12:09:14.670Z"
+  "updatedAt": "2026-10-21T12:11:03.194Z"
 }
