@@ -24149,6 +24149,24 @@
       "statusPagamento": "",
       "observacao": "Tem voucher da Laghetto ",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvihvtsvh7omq3",
+      "createdAt": "2026-10-21T19:18:12.127Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "leticia ourique",
+      "contatoCliente": "+55 51 8142-9180",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "270.00",
+      "numeroPedido": "20363",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -24169,5 +24187,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T19:04:51.220Z"
+  "updatedAt": "2026-10-21T19:18:13.242Z"
 }
