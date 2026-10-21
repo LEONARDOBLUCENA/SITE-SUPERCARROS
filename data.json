@@ -24017,6 +24017,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvi79a0pd78df3",
+      "createdAt": "2026-10-21T14:20:43.897Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Rafael Kliper Da Silva",
+      "contatoCliente": "+55 54 99617-1014",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24037,5 +24053,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T14:18:10.059Z"
+  "updatedAt": "2026-10-21T14:20:44.612Z"
 }
