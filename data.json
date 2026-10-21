@@ -23676,6 +23676,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi0usr2a3az99",
+      "createdAt": "2026-10-21T11:21:30.638Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "dinho",
+      "contatoCliente": "+55 73 9967-7162",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23696,5 +23712,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T11:18:19.310Z"
+  "updatedAt": "2026-10-21T11:21:31.906Z"
 }
