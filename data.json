@@ -23740,6 +23740,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvi19ek944qnd1",
+      "createdAt": "2026-10-21T11:32:52.089Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "breno santana",
+      "contatoCliente": "+55 79 8813-4270",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -23760,5 +23776,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T11:29:00.173Z"
+  "updatedAt": "2026-10-21T11:32:52.922Z"
 }
