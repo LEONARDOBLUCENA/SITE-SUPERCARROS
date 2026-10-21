@@ -24101,6 +24101,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-10-21T17:07:19.577Z"
+    },
+    {
+      "id": "rmvidmus0njtqyc",
+      "createdAt": "2026-10-21T17:19:15.024Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Fernando Filho",
+      "contatoCliente": "+55 83 9689-6666 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24121,5 +24137,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T17:07:19.578Z"
+  "updatedAt": "2026-10-21T17:19:16.427Z"
 }
