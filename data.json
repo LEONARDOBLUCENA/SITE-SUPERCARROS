@@ -24092,14 +24092,15 @@
       "nomeCliente": "Pousada Ferreira",
       "contatoCliente": "+55 79 9858-5745 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "188.10",
+      "numeroPedido": "20365",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-21T17:07:19.577Z"
     }
   ],
   "siteVendas": [
@@ -24120,5 +24121,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T17:02:01.776Z"
+  "updatedAt": "2026-10-21T17:07:19.578Z"
 }
