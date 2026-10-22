@@ -24280,6 +24280,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjk7k4iauwg5z",
+      "createdAt": "2026-10-22T13:11:04.866Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Tilda",
+      "contatoCliente": "+55 54 9605-0256 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24300,5 +24316,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:10:39.665Z"
+  "updatedAt": "2026-10-22T13:11:06.741Z"
 }
