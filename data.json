@@ -24216,6 +24216,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjk4vcqu23ezn",
+      "createdAt": "2026-10-22T13:08:59.450Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Thamires Vargas",
+      "contatoCliente": "+55 21 97638-3456 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24236,5 +24252,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:08:33.294Z"
+  "updatedAt": "2026-10-22T13:09:01.377Z"
 }
