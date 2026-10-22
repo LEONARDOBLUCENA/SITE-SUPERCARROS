@@ -21898,7 +21898,7 @@
       "nomeCliente": "caio",
       "contatoCliente": "+55 81 9721-4869",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
@@ -21906,7 +21906,7 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-17T02:31:39.006Z"
+      "updatedAt": "2026-10-22T20:25:05.935Z"
     },
     {
       "id": "rmvbs8qga90ox7x",
@@ -24777,5 +24777,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T20:24:28.121Z"
+  "updatedAt": "2026-10-22T20:25:05.935Z"
 }
