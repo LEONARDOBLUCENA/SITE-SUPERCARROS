@@ -24597,14 +24597,15 @@
       "nomeCliente": "monica",
       "contatoCliente": "+55 44 9932-7437",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-22",
+      "valorVenda": "279.00",
+      "numeroPedido": "20409",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-22T18:07:39.209Z"
     },
     {
       "id": "rmvjsy75upy62zw",
@@ -24694,5 +24695,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T17:58:25.361Z"
+  "updatedAt": "2026-10-22T18:07:39.209Z"
 }
