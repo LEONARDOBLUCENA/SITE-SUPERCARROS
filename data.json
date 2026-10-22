@@ -24723,22 +24723,6 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
-    },
-    {
-      "id": "rmvjx5hwapatwl4",
-      "createdAt": "2026-10-22T19:13:23.674Z",
-      "dataAtendimento": "2026-10-22",
-      "nomeCliente": "Maria Luanny",
-      "contatoCliente": "+55 84 9614-3139 ",
-      "origem": "Prime Gourmet",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "99.00",
-      "numeroPedido": "20419",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24759,5 +24743,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T19:13:27.920Z"
+  "updatedAt": "2026-10-22T19:15:22.481Z"
 }
