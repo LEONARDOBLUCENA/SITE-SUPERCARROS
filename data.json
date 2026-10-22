@@ -24757,6 +24757,22 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmvjyw6ncxblf6y",
+      "createdAt": "2026-10-22T20:02:08.424Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "sem nome",
+      "contatoCliente": "+55 73 9129-2388",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -24777,5 +24793,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T19:46:12.701Z"
+  "updatedAt": "2026-10-22T20:02:09.509Z"
 }
