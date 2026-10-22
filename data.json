@@ -24200,6 +24200,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjk49phrj7e94",
+      "createdAt": "2026-10-22T13:08:31.397Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Gabriela Assis",
+      "contatoCliente": "+55 31 7574-8826 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24220,5 +24236,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:08:16.469Z"
+  "updatedAt": "2026-10-22T13:08:33.294Z"
 }
