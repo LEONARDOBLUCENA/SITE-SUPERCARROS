@@ -24723,6 +24723,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjxxj69vc920n",
+      "createdAt": "2026-10-22T19:35:11.697Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "~Julia Calasans",
+      "contatoCliente": "+55 48 9931-6929",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -24743,5 +24759,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T19:15:22.481Z"
+  "updatedAt": "2026-10-22T19:35:12.948Z"
 }
