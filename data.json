@@ -24328,6 +24328,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjk8knlouk4xz",
+      "createdAt": "2026-10-22T13:11:52.209Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Kaline Marissol",
+      "contatoCliente": "+55 79 9954-1652 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24348,5 +24364,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:11:37.332Z"
+  "updatedAt": "2026-10-22T13:11:53.394Z"
 }
