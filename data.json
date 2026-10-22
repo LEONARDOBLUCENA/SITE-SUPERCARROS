@@ -24376,6 +24376,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjk9xzb66j0lp",
+      "createdAt": "2026-10-22T13:12:56.135Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Eduarda Mascarenhas",
+      "contatoCliente": "+55 81 9962-5614 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24396,5 +24412,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:12:41.803Z"
+  "updatedAt": "2026-10-22T13:12:57.358Z"
 }
