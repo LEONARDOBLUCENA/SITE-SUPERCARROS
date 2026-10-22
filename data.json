@@ -24392,6 +24392,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjkadq6m07ary",
+      "createdAt": "2026-10-22T13:13:16.542Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Anderson Gandini",
+      "contatoCliente": "+55 31 7153-3678 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24412,5 +24428,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:12:57.358Z"
+  "updatedAt": "2026-10-22T13:13:18.397Z"
 }
