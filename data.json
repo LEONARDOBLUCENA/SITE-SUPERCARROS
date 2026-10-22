@@ -20305,14 +20305,15 @@
       "nomeCliente": "Letícia Rangel",
       "contatoCliente": "+55 55 9607-0082 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-22",
+      "valorVenda": "282.15",
+      "numeroPedido": "20405",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-22T16:08:31.165Z"
     },
     {
       "id": "rmv8bn9gxb9vduv",
@@ -24621,5 +24622,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T16:06:39.909Z"
+  "updatedAt": "2026-10-22T16:08:31.165Z"
 }
