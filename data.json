@@ -24536,6 +24536,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjmur6w80bfo3",
+      "createdAt": "2026-10-22T14:25:06.344Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Állef",
+      "contatoCliente": "+55 27 99984-5600 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24556,5 +24572,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:24:30.534Z"
+  "updatedAt": "2026-10-22T14:25:08.474Z"
 }
