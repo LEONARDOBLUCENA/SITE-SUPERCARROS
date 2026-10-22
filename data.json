@@ -24168,6 +24168,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvjje699y01v7u",
+      "createdAt": "2026-10-22T12:48:13.869Z",
+      "dataAtendimento": "2026-10-15",
+      "nomeCliente": "Verônica David Araújo",
+      "contatoCliente": "(85) 99238-9552",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "260.30",
+      "numeroPedido": "20373",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24188,5 +24204,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-21T19:24:01.369Z"
+  "updatedAt": "2026-10-22T12:48:15.136Z"
 }
