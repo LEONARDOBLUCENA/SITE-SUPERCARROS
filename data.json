@@ -23683,18 +23683,18 @@
       "dataAtendimento": "2026-10-21",
       "nomeCliente": "Vanessa abreu",
       "contatoCliente": "+55 21 98255-8419",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-22",
+      "valorVenda": "979.00",
+      "numeroPedido": "20387",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "compartilhado": true,
       "vendedoraFinalizou": "bruna",
-      "updatedAt": "2026-10-22T17:24:36.754Z"
+      "updatedAt": "2026-10-22T17:25:16.174Z"
     },
     {
       "id": "rmvi14evu58xj8h",
@@ -24662,5 +24662,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T17:24:36.754Z"
+  "updatedAt": "2026-10-22T17:25:16.174Z"
 }
