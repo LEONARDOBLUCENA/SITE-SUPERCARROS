@@ -24854,6 +24854,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvk48p7h2y5o52",
+      "createdAt": "2026-10-22T22:31:50.429Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "rodolpho casari",
+      "contatoCliente": "+55 27 99859-5593",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -24874,5 +24890,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T22:07:41.480Z"
+  "updatedAt": "2026-10-22T22:31:52.360Z"
 }
