@@ -24602,6 +24602,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvjsy75upy62zw",
+      "createdAt": "2026-10-22T17:15:44.706Z",
+      "dataAtendimento": "2026-10-16",
+      "nomeCliente": "Aline Oliveira De Matos",
+      "contatoCliente": "(21) 96740-0922",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-22",
+      "valorVenda": "99.00",
+      "numeroPedido": "20389",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -24622,5 +24640,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T16:08:31.165Z"
+  "updatedAt": "2026-10-22T17:15:46.356Z"
 }
