@@ -24296,6 +24296,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjk7v9zoy6f5v",
+      "createdAt": "2026-10-22T13:11:19.319Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Michel Bastian",
+      "contatoCliente": "+55 51 9775-6518 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24316,5 +24332,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:11:06.741Z"
+  "updatedAt": "2026-10-22T13:11:20.421Z"
 }
