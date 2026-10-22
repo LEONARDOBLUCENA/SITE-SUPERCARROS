@@ -24691,6 +24691,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvjvi3p1s8guiq",
+      "createdAt": "2026-10-22T18:27:12.565Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "edilane",
+      "contatoCliente": "+55 81 9698-0126",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -24711,5 +24727,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T18:10:47.909Z"
+  "updatedAt": "2026-10-22T18:27:13.950Z"
 }
