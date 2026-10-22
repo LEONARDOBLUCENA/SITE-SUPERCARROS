@@ -24440,6 +24440,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjkf20sei4kpj",
+      "createdAt": "2026-10-22T13:16:54.652Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Pablo dutra",
+      "contatoCliente": "+55 84 9626-4456",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24460,5 +24476,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:16:20.324Z"
+  "updatedAt": "2026-10-22T13:16:55.831Z"
 }
