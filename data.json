@@ -24520,6 +24520,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjkos77jvizzv",
+      "createdAt": "2026-10-22T13:24:28.483Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Rayssa",
+      "contatoCliente": "+55 82 8815-5381",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24540,5 +24556,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:23:25.915Z"
+  "updatedAt": "2026-10-22T13:24:30.534Z"
 }
