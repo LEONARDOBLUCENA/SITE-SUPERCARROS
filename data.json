@@ -24552,6 +24552,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjmxgd7rr47rj",
+      "createdAt": "2026-10-22T14:27:12.283Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Vanessa Lopes",
+      "contatoCliente": "+55 31 8756-3431 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "274.00",
+      "numeroPedido": "20397",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24572,5 +24588,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T14:25:08.474Z"
+  "updatedAt": "2026-10-22T14:27:14.675Z"
 }
