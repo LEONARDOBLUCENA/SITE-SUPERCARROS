@@ -24488,6 +24488,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjkmj47bqzqiv",
+      "createdAt": "2026-10-22T13:22:43.399Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Ana Flávia Castro",
+      "contatoCliente": "+55 31 9950-7274 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24508,5 +24524,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:18:32.286Z"
+  "updatedAt": "2026-10-22T13:22:47.879Z"
 }
