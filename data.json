@@ -24184,6 +24184,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjk3xhtrn7xpe",
+      "createdAt": "2026-10-22T13:08:15.569Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Matheus Castro Neves",
+      "contatoCliente": "+55 11 96607-5691 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24204,5 +24220,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T12:48:15.136Z"
+  "updatedAt": "2026-10-22T13:08:16.469Z"
 }
