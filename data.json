@@ -24312,6 +24312,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjk88gf9lc5hh",
+      "createdAt": "2026-10-22T13:11:36.399Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Toledo",
+      "contatoCliente": "+55 62 9160-2772 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24332,5 +24348,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T13:11:20.421Z"
+  "updatedAt": "2026-10-22T13:11:37.332Z"
 }
