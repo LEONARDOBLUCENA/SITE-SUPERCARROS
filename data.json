@@ -24739,6 +24739,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvjybklpq3jmja",
+      "createdAt": "2026-10-22T19:46:06.733Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Maria Luany",
+      "contatoCliente": "+55 84 9614-3139",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-22",
+      "valorVenda": "",
+      "numeroPedido": "20423",
+      "statusPagamento": "Pendente",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -24759,5 +24777,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T19:35:12.948Z"
+  "updatedAt": "2026-10-22T19:46:12.701Z"
 }
