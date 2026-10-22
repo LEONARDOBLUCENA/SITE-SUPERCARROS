@@ -21915,14 +21915,15 @@
       "nomeCliente": "galego",
       "contatoCliente": "+55 11 91236-1434",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-22T20:24:28.121Z"
     },
     {
       "id": "rmvbtcsc6ka5cju",
@@ -24776,5 +24777,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T20:13:09.251Z"
+  "updatedAt": "2026-10-22T20:24:28.121Z"
 }
