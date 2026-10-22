@@ -24658,6 +24658,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvjuh0ob67s7km",
+      "createdAt": "2026-10-22T17:58:22.379Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Lucas Grun",
+      "contatoCliente": "+55 51 9401-7856 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "137.00",
+      "numeroPedido": "20411",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24678,5 +24694,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T17:38:08.823Z"
+  "updatedAt": "2026-10-22T17:58:25.361Z"
 }
