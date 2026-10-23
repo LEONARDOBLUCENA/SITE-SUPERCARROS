@@ -10127,15 +10127,15 @@
       "nomeCliente": "Hyandra ",
       "contatoCliente": "+55 98 8800-8098",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
+      "observacao": "Tem voucher do Laçador também ",
       "vendedora": "bruna",
-      "updatedAt": "2026-09-21T14:00:29.963Z"
+      "updatedAt": "2026-10-23T17:44:10.479Z"
     },
     {
       "id": "rmubbdj4g7wbq8g",
@@ -25169,5 +25169,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T17:46:45.654Z"
+  "updatedAt": "2026-10-23T17:44:10.479Z"
 }
