@@ -20904,15 +20904,16 @@
       "dataAtendimento": "2026-10-15",
       "nomeCliente": "Paulo Henrique",
       "contatoCliente": "+55 62 9683-7549 ",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
+      "dataVenda": "2026-10-23",
+      "valorVenda": "879.00",
+      "numeroPedido": "20457",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-23T16:38:01.305Z"
     },
     {
       "id": "rmv9i70d84m67g7",
@@ -25117,5 +25118,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T15:43:58.944Z"
+  "updatedAt": "2026-10-23T16:38:01.305Z"
 }
