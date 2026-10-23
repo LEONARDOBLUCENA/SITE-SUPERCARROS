@@ -19950,14 +19950,15 @@
       "nomeCliente": "eike",
       "contatoCliente": "+55 51 9736-6727",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "ingressos para presente",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-23T17:48:23.812Z"
     },
     {
       "id": "rmv6z3u0fwksox8",
@@ -25170,5 +25171,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T17:48:15.330Z"
+  "updatedAt": "2026-10-23T17:48:23.812Z"
 }
