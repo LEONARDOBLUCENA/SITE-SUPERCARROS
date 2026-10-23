@@ -25031,6 +25031,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvkybfpyfl258k",
+      "createdAt": "2026-10-23T12:33:46.582Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "Renan Mattos",
+      "contatoCliente": "+55 21 97373-2791 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25051,5 +25067,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:33:30.622Z"
+  "updatedAt": "2026-10-23T12:33:48.062Z"
 }
