@@ -22961,14 +22961,15 @@
       "nomeCliente": "Fabrizio Negreiros",
       "contatoCliente": "+55 85 9735-5511 ",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
+      "dataVenda": "2026-10-23",
+      "valorVenda": "1869.00",
+      "numeroPedido": "20467",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-23T17:53:56.163Z"
     },
     {
       "id": "rmvf8n779zgvsg6",
@@ -25171,5 +25172,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T17:48:43.698Z"
+  "updatedAt": "2026-10-23T17:53:56.163Z"
 }
