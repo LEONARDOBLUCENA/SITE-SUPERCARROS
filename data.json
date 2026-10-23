@@ -24999,6 +24999,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvkyasawwp9qp9",
+      "createdAt": "2026-10-23T12:33:16.232Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "Jonathas Ribeiro",
+      "contatoCliente": "+55 61 9676-6416 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25019,5 +25035,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:33:06.185Z"
+  "updatedAt": "2026-10-23T12:33:18.020Z"
 }
