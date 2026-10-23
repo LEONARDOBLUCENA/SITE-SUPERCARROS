@@ -24292,14 +24292,15 @@
       "nomeCliente": "Michel Bastian",
       "contatoCliente": "+55 51 9775-6518 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-23",
+      "valorVenda": "267.15",
+      "numeroPedido": "20453  e 20451",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-23T14:13:59.676Z"
     },
     {
       "id": "rmvjk88gf9lc5hh",
@@ -25100,5 +25101,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T13:28:03.495Z"
+  "updatedAt": "2026-10-23T14:13:59.676Z"
 }
