@@ -25015,6 +25015,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvkyb2irl3hulf",
+      "createdAt": "2026-10-23T12:33:29.475Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "Tiago Renan",
+      "contatoCliente": "+55 51 8428-4869 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25035,5 +25051,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:33:18.020Z"
+  "updatedAt": "2026-10-23T12:33:30.622Z"
 }
