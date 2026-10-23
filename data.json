@@ -25132,6 +25132,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvl9dony9yjq5p",
+      "createdAt": "2026-10-23T17:43:27.262Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "Monteiro 神",
+      "contatoCliente": "+55 31 8671-4632 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25152,5 +25168,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T17:43:10.192Z"
+  "updatedAt": "2026-10-23T17:43:28.544Z"
 }
