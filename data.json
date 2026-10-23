@@ -24959,14 +24959,15 @@
       "nomeCliente": "Juan andrade",
       "contatoCliente": "+55 69 9293-8393 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "297.00",
+      "numeroPedido": "20449",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-23T13:28:03.495Z"
     },
     {
       "id": "rmvkya7qtaeozs1",
@@ -25099,5 +25100,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:34:15.495Z"
+  "updatedAt": "2026-10-23T13:28:03.495Z"
 }
