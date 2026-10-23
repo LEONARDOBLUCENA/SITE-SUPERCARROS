@@ -24919,6 +24919,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvky90lpyy39f4",
+      "createdAt": "2026-10-23T12:31:53.677Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "Bruno Teles",
+      "contatoCliente": "+55 79 9987-8483 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24939,5 +24955,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:31:22.477Z"
+  "updatedAt": "2026-10-23T12:31:54.646Z"
 }
