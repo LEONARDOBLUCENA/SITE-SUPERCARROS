@@ -25081,6 +25081,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvl540bds41bg3",
+      "createdAt": "2026-10-23T15:43:57.337Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "joseph",
+      "contatoCliente": "+55 98 8440-9216",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25101,5 +25117,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T14:13:59.676Z"
+  "updatedAt": "2026-10-23T15:43:58.944Z"
 }
