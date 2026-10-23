@@ -24731,17 +24731,17 @@
       "nomeCliente": "Maria Luany",
       "contatoCliente": "+55 84 9614-3139",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-22",
       "valorVenda": "340.00",
       "numeroPedido": "20423",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
-      "updatedAt": "2026-10-22T22:36:24.959Z"
+      "updatedAt": "2026-10-23T11:02:01.394Z"
     },
     {
       "id": "rmvjyw6ncxblf6y",
@@ -24891,5 +24891,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-22T22:37:29.565Z"
+  "updatedAt": "2026-10-23T11:02:01.395Z"
 }
