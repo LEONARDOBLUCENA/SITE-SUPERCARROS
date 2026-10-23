@@ -25183,6 +25183,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvlf5ewcoosf9o",
+      "createdAt": "2026-10-23T20:24:59.052Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "valeria",
+      "contatoCliente": "+598 95 148 038",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "drive california - hermano",
+      "dataVenda": "2026-10-23",
+      "valorVenda": "1570.00",
+      "numeroPedido": "#1587",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -25203,5 +25221,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T20:23:32.818Z"
+  "updatedAt": "2026-10-23T20:25:00.494Z"
 }
