@@ -21312,14 +21312,15 @@
       "nomeCliente": "Fzim vendas automotivas",
       "contatoCliente": "+55 38 9844-0827",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-23T17:45:48.000Z"
     },
     {
       "id": "rmv9z7hqgyumsv6",
@@ -25135,5 +25136,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T17:41:41.440Z"
+  "updatedAt": "2026-10-23T17:45:48.000Z"
 }
