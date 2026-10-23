@@ -24951,6 +24951,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvky9uynygumyi",
+      "createdAt": "2026-10-23T12:32:33.023Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "Juan andrade",
+      "contatoCliente": "+55 69 9293-8393 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24971,5 +24987,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:32:14.947Z"
+  "updatedAt": "2026-10-23T12:32:34.230Z"
 }
