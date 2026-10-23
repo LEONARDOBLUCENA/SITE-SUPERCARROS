@@ -25177,14 +25177,15 @@
       "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-10-23",
+      "valorVenda": "1570.00",
       "numeroPedido": "",
       "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-23T20:11:58.208Z"
     }
   ],
   "siteVendas": [
@@ -25205,5 +25206,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T20:11:28.600Z"
+  "updatedAt": "2026-10-23T20:11:58.208Z"
 }
