@@ -24935,6 +24935,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvky9gb114h4mx",
+      "createdAt": "2026-10-23T12:32:14.029Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "Natalia Figueiredo",
+      "contatoCliente": "+55 21 97584-2573 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24955,5 +24971,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:31:54.646Z"
+  "updatedAt": "2026-10-23T12:32:14.947Z"
 }
