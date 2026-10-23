@@ -24887,6 +24887,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvkxw2pemvpvm4",
+      "createdAt": "2026-10-23T12:21:49.874Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "Matheus Rodrigues Santana Silva",
+      "contatoCliente": "(31) 98927-0275",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "179.00",
+      "numeroPedido": "20441",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -24907,5 +24923,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:12:09.063Z"
+  "updatedAt": "2026-10-23T12:21:51.331Z"
 }
