@@ -25169,25 +25169,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmvleo10jeuz6ue",
-      "createdAt": "2026-10-23T20:11:27.907Z",
-      "dataAtendimento": "2026-10-23",
-      "nomeCliente": "Valeria ",
-      "contatoCliente": "+598 95 148 038",
-      "origem": "Evento",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-10-23",
-      "valorVenda": "1570.00",
-      "numeroPedido": "",
-      "statusPagamento": "Pago",
-      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
-      "vendedora": "bruna",
-      "vendedoraFinalizou": "gisele",
-      "compartilhado": true,
-      "updatedAt": "2026-10-23T20:11:58.208Z"
-    },
-    {
       "id": "rmvlf3ezmdcxm2u",
       "createdAt": "2026-10-23T20:23:25.858Z",
       "dataAtendimento": "2026-10-23",
@@ -25222,5 +25203,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T20:23:26.481Z"
+  "updatedAt": "2026-10-23T20:23:32.818Z"
 }
