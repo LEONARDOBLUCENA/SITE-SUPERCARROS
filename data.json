@@ -25063,6 +25063,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvkyc0q07h67a4",
+      "createdAt": "2026-10-23T12:34:13.800Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "Eros Ribeiro",
+      "contatoCliente": "+55 21 96579-3861 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25083,5 +25099,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:34:01.502Z"
+  "updatedAt": "2026-10-23T12:34:15.495Z"
 }
