@@ -20501,14 +20501,15 @@
       "nomeCliente": "madiel",
       "contatoCliente": "+55 62 9188-0997",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-23T17:48:15.330Z"
     },
     {
       "id": "rmv8c5owol310mf",
@@ -25169,5 +25170,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T17:44:10.479Z"
+  "updatedAt": "2026-10-23T17:48:15.330Z"
 }
