@@ -21507,14 +21507,15 @@
       "nomeCliente": "erlon",
       "contatoCliente": "+55 49 8876-0833",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "lancer",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-23T17:46:45.654Z"
     },
     {
       "id": "rmvb8h4dqak2i0x",
@@ -25168,5 +25169,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T17:43:28.544Z"
+  "updatedAt": "2026-10-23T17:46:45.654Z"
 }
