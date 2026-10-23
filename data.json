@@ -16749,7 +16749,7 @@
       "nomeCliente": "vitor",
       "contatoCliente": "+55 17 99113-4040",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
@@ -16757,7 +16757,7 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-06T15:29:06.445Z"
+      "updatedAt": "2026-10-23T17:48:43.698Z"
     },
     {
       "id": "rmuwu3sixtdteag",
@@ -25171,5 +25171,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T17:48:23.812Z"
+  "updatedAt": "2026-10-23T17:48:43.698Z"
 }
