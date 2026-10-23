@@ -24983,6 +24983,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvkyaj3ljy739v",
+      "createdAt": "2026-10-23T12:33:04.305Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "vitoria lincoln",
+      "contatoCliente": "+55 22 99977-4227 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25003,5 +25019,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T12:32:50.614Z"
+  "updatedAt": "2026-10-23T12:33:06.185Z"
 }
