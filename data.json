@@ -25218,6 +25218,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvlhsbybyfxj7p",
+      "createdAt": "2026-10-23T21:38:47.555Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "EDUARDO",
+      "contatoCliente": "+55 19 99254-1518",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25238,5 +25254,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T21:37:27.731Z"
+  "updatedAt": "2026-10-23T21:38:48.522Z"
 }
