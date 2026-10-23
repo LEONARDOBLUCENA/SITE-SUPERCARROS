@@ -24770,18 +24770,18 @@
       "id": "rmvk0y9zlu6hk7z",
       "createdAt": "2026-10-22T20:59:45.297Z",
       "dataAtendimento": "2026-10-22",
-      "nomeCliente": "janaina",
+      "nomeCliente": "Janaína",
       "contatoCliente": "+55 48 9966-8787",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "137.00",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
+      "dataVenda": "2026-10-23",
+      "valorVenda": "453.00",
+      "numeroPedido": "20471",
+      "statusPagamento": "Pago",
+      "observacao": "crédito pedido 20425",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-23T21:03:49.678Z"
+      "updatedAt": "2026-10-23T21:05:34.753Z"
     },
     {
       "id": "rmvk1tq26pjunqw",
@@ -25238,5 +25238,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T21:03:49.678Z"
+  "updatedAt": "2026-10-23T21:05:34.754Z"
 }
