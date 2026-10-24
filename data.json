@@ -25497,6 +25497,22 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmvmlltllm45lsw",
+      "createdAt": "2026-10-24T16:13:28.473Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "lucildo",
+      "contatoCliente": "+55 81 9966-8020",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25517,5 +25533,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T15:41:25.276Z"
+  "updatedAt": "2026-10-24T16:13:29.866Z"
 }
