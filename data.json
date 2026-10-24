@@ -25637,12 +25637,13 @@
       "origem": "",
       "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-10-24",
+      "valorVenda": "297.00",
       "numeroPedido": "20511",
       "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-24T21:17:49.931Z"
     },
     {
       "id": "rmvmwg4614hrqe2",
@@ -25682,5 +25683,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T21:17:25.208Z"
+  "updatedAt": "2026-10-24T21:17:49.931Z"
 }
