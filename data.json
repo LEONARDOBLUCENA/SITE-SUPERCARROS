@@ -25418,17 +25418,18 @@
       "id": "rmvmjfyn7u8hdt3",
       "createdAt": "2026-10-24T15:12:55.843Z",
       "dataAtendimento": "2026-10-24",
-      "nomeCliente": "m e g",
+      "nomeCliente": "Natália Costa Astolfe",
       "contatoCliente": "+55 14 99102-5597",
-      "origem": "",
-      "statusAtendimento": "Link enviado",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-24",
       "valorVenda": "369.00",
       "numeroPedido": "20491",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-24T15:24:27.231Z"
     },
     {
       "id": "rmvmjhpv2oxbzxe",
@@ -25465,5 +25466,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T15:14:18.560Z"
+  "updatedAt": "2026-10-24T15:24:27.231Z"
 }
