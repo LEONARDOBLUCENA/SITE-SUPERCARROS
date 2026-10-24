@@ -25413,6 +25413,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvmjfyn7u8hdt3",
+      "createdAt": "2026-10-24T15:12:55.843Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "m e g",
+      "contatoCliente": "+55 14 99102-5597",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-24",
+      "valorVenda": "369.00",
+      "numeroPedido": "20491",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25433,5 +25449,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T14:29:14.265Z"
+  "updatedAt": "2026-10-24T15:12:57.389Z"
 }
