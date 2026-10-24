@@ -23988,14 +23988,15 @@
       "nomeCliente": "Lana Beatriz Da Silva Lima",
       "contatoCliente": "+55 21 96953-4066",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-24",
+      "valorVenda": "137.00",
+      "numeroPedido": "20483",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-24T12:54:05.206Z"
     },
     {
       "id": "rmvi7oimp7jo0av",
@@ -25398,5 +25399,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T12:47:30.168Z"
+  "updatedAt": "2026-10-24T12:54:05.206Z"
 }
