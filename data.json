@@ -25546,6 +25546,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-24T16:32:36.347Z"
+    },
+    {
+      "id": "rmvmo4n3n6jh3fc",
+      "createdAt": "2026-10-24T17:24:05.747Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "Milena Kruger Eicholz",
+      "contatoCliente": "+55 53 9975-8675 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "99.00",
+      "numeroPedido": "20499",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25566,5 +25582,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T16:32:36.348Z"
+  "updatedAt": "2026-10-24T17:24:06.684Z"
 }
