@@ -25654,14 +25654,14 @@
       "statusAtendimento": "Link enviado",
       "produtoInteresse": "upgrade",
       "dataVenda": "2026-10-24",
-      "valorVenda": "",
+      "valorVenda": "250.00",
       "numeroPedido": "20507",
       "statusPagamento": "Pendente",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
-      "updatedAt": "2026-10-24T21:17:12.583Z"
+      "updatedAt": "2026-10-24T21:17:25.208Z"
     }
   ],
   "siteVendas": [
@@ -25682,5 +25682,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T21:17:12.583Z"
+  "updatedAt": "2026-10-24T21:17:25.208Z"
 }
