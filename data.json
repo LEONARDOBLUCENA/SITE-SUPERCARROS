@@ -25362,6 +25362,22 @@
       "statusPagamento": "",
       "observacao": "Tem passaporte Dreams\n",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvme8x65pf71vx",
+      "createdAt": "2026-10-24T12:47:29.261Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "Marcio ",
+      "contatoCliente": "+55 48 9866-5040",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25382,5 +25398,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T12:47:15.398Z"
+  "updatedAt": "2026-10-24T12:47:30.168Z"
 }
