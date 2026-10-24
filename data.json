@@ -25643,6 +25643,24 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvmwg4614hrqe2",
+      "createdAt": "2026-10-24T21:16:58.009Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "r3enan",
+      "contatoCliente": "+55 21 97373-2791",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "upgrade",
+      "dataVenda": "2026-10-24",
+      "valorVenda": "",
+      "numeroPedido": "20507",
+      "statusPagamento": "Pendente",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -25663,5 +25681,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T21:12:36.822Z"
+  "updatedAt": "2026-10-24T21:16:59.210Z"
 }
