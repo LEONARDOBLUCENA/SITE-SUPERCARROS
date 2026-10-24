@@ -25346,6 +25346,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvme8lozouvii3",
+      "createdAt": "2026-10-24T12:47:14.387Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "Dieniffer",
+      "contatoCliente": "+55 55 9121-0346 ",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Tem passaporte Dreams\n",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25366,5 +25382,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T12:45:23.170Z"
+  "updatedAt": "2026-10-24T12:47:15.398Z"
 }
