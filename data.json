@@ -25429,6 +25429,22 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvmjhpv2oxbzxe",
+      "createdAt": "2026-10-24T15:14:17.774Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "~Letícia Ourique",
+      "contatoCliente": "+55 51 8142-9180",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-24",
+      "valorVenda": "270.00",
+      "numeroPedido": "20487",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25449,5 +25465,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T15:12:57.389Z"
+  "updatedAt": "2026-10-24T15:14:18.560Z"
 }
