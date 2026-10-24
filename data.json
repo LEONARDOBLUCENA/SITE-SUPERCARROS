@@ -25396,6 +25396,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvmgh5g2a75egh",
+      "createdAt": "2026-10-24T13:49:52.466Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Laura Morales ",
+      "contatoCliente": "+57 3178255447",
+      "origem": "Evento",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-24",
+      "valorVenda": "980.00",
+      "numeroPedido": "1589",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25416,5 +25432,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T13:25:13.042Z"
+  "updatedAt": "2026-10-24T13:49:53.258Z"
 }
