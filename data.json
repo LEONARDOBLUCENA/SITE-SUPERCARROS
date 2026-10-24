@@ -25438,14 +25438,15 @@
       "nomeCliente": "~Letícia Ourique",
       "contatoCliente": "+55 51 8142-9180",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-24",
       "valorVenda": "270.00",
       "numeroPedido": "20487",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-24T15:36:07.407Z"
     },
     {
       "id": "rmvmjvpkh4ip90q",
@@ -25498,5 +25499,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T15:27:25.399Z"
+  "updatedAt": "2026-10-24T15:36:07.407Z"
 }
