@@ -25529,6 +25529,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvmlz4azmjyra0",
+      "createdAt": "2026-10-24T16:23:48.875Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "leticia",
+      "contatoCliente": "+55 51 8142-9180",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "upgrade ",
+      "dataVenda": "2026-10-24",
+      "valorVenda": "27.00",
+      "numeroPedido": "20497",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25549,5 +25565,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T16:23:16.540Z"
+  "updatedAt": "2026-10-24T16:23:50.372Z"
 }
