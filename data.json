@@ -25282,6 +25282,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvlscrt7zenuht",
+      "createdAt": "2026-10-24T02:34:37.387Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "~Léo",
+      "contatoCliente": "+55 81 7909-0468",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25302,5 +25318,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T02:34:15.800Z"
+  "updatedAt": "2026-10-24T02:34:38.206Z"
 }
