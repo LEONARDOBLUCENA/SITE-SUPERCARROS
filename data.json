@@ -25307,14 +25307,15 @@
       "nomeCliente": "Marco Aurélio Ritter",
       "contatoCliente": "+55 51 8930-0330 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "386.50",
+      "numeroPedido": "20485",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-24T13:11:00.156Z"
     },
     {
       "id": "rmvme5wplsaw3hx",
@@ -25399,5 +25400,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T12:54:05.206Z"
+  "updatedAt": "2026-10-24T13:11:00.157Z"
 }
