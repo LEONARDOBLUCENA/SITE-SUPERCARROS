@@ -25537,14 +25537,15 @@
       "nomeCliente": "leticia",
       "contatoCliente": "+55 51 8142-9180",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "upgrade ",
       "dataVenda": "2026-10-24",
       "valorVenda": "27.00",
       "numeroPedido": "20497",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-24T16:32:36.347Z"
     }
   ],
   "siteVendas": [
@@ -25565,5 +25566,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T16:23:50.372Z"
+  "updatedAt": "2026-10-24T16:32:36.348Z"
 }
