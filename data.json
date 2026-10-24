@@ -22978,14 +22978,15 @@
       "nomeCliente": "Kerollayne",
       "contatoCliente": "+55 94 8121-6609 ",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-24",
+      "valorVenda": "289.00",
+      "numeroPedido": "20503",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-24T18:58:46.793Z"
     },
     {
       "id": "rmvf8o1msn5gu0r",
@@ -25582,5 +25583,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T17:24:06.684Z"
+  "updatedAt": "2026-10-24T18:58:46.793Z"
 }
