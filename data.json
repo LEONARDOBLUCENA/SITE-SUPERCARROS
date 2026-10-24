@@ -25234,6 +25234,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvls2lpa2q6b0n",
+      "createdAt": "2026-10-24T02:26:42.910Z",
+      "dataAtendimento": "2026-10-23",
+      "nomeCliente": "roberto",
+      "contatoCliente": "+55 61 8154-4169",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25254,5 +25270,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-23T21:38:48.522Z"
+  "updatedAt": "2026-10-24T02:26:43.893Z"
 }
