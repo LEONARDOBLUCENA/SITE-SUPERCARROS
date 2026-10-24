@@ -25298,6 +25298,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvme5lt8gzbsvr",
+      "createdAt": "2026-10-24T12:44:54.572Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "Marco Aurélio Ritter",
+      "contatoCliente": "+55 51 8930-0330 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25318,5 +25334,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T02:34:38.206Z"
+  "updatedAt": "2026-10-24T12:44:56.321Z"
 }
