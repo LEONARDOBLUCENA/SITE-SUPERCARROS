@@ -25513,6 +25513,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvmlyej6jh53xi",
+      "createdAt": "2026-10-24T16:23:15.474Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "~Herick Cortes",
+      "contatoCliente": "+55 46 8813-2731",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25533,5 +25549,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T16:13:29.866Z"
+  "updatedAt": "2026-10-24T16:23:16.540Z"
 }
