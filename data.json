@@ -25330,6 +25330,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvme671jqxy5js",
+      "createdAt": "2026-10-24T12:45:22.087Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "Enio Pablo",
+      "contatoCliente": "+55 61 8530-2841 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -25350,5 +25366,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T12:45:10.838Z"
+  "updatedAt": "2026-10-24T12:45:23.170Z"
 }
