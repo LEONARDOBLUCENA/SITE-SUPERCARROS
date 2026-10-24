@@ -25462,6 +25462,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvmjyksjbypxcb",
+      "createdAt": "2026-10-24T15:27:24.355Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "Vitória Bredun",
+      "contatoCliente": "+55 84 9131-4056",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25482,5 +25498,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T15:25:11.946Z"
+  "updatedAt": "2026-10-24T15:27:25.399Z"
 }
