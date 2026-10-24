@@ -25192,7 +25192,7 @@
       "dataAtendimento": "2026-10-23",
       "nomeCliente": "valeria",
       "contatoCliente": "+598 95 148 038",
-      "origem": "WhatsApp",
+      "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "drive california - hermano",
       "dataVenda": "2026-10-23",
@@ -25202,7 +25202,8 @@
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-24T14:26:54.107Z"
     },
     {
       "id": "rmvlffsczrnviff",
@@ -25432,5 +25433,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T13:49:53.258Z"
+  "updatedAt": "2026-10-24T14:26:54.107Z"
 }
