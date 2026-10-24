@@ -25611,6 +25611,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvmte7l5lddwvj",
+      "createdAt": "2026-10-24T19:51:30.281Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "~jrenato cba",
+      "contatoCliente": "+55 66 9631-8080",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25631,5 +25647,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T19:48:53.581Z"
+  "updatedAt": "2026-10-24T19:51:31.552Z"
 }
