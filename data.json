@@ -25914,14 +25914,15 @@
       "nomeCliente": "‎Felipe Stetcar",
       "contatoCliente": "+55 15 99726-5709",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-10-25",
       "valorVenda": "1980.00",
       "numeroPedido": "20551",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-25T18:09:50.757Z"
     }
   ],
   "siteVendas": [
@@ -25942,5 +25943,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T18:01:57.489Z"
+  "updatedAt": "2026-10-25T18:09:50.757Z"
 }
