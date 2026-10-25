@@ -25684,7 +25684,7 @@
       "id": "rmvns9wo0l0bzcq",
       "createdAt": "2026-10-25T12:07:56.064Z",
       "dataAtendimento": "2026-10-25",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "analu",
       "contatoCliente": "+55 79 9823-9538",
       "origem": "WhatsApp",
       "statusAtendimento": "Pedido finalizado",
@@ -25695,7 +25695,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-25T17:15:05.874Z"
+      "updatedAt": "2026-10-25T17:16:18.927Z"
     },
     {
       "id": "rmvnsetr5amqorz",
@@ -25926,5 +25926,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T17:15:05.874Z"
+  "updatedAt": "2026-10-25T17:16:18.927Z"
 }
