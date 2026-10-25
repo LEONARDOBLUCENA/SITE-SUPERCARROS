@@ -25947,7 +25947,7 @@
       "dataAtendimento": "2026-10-25",
       "nomeCliente": "may",
       "contatoCliente": "+55 11 98153-4107",
-      "origem": "Upgrade Site",
+      "origem": "Cara de Mau",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -25955,7 +25955,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-25T18:46:28.999Z"
     }
   ],
   "siteVendas": [
@@ -25976,5 +25977,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T18:45:40.336Z"
+  "updatedAt": "2026-10-25T18:46:28.999Z"
 }
