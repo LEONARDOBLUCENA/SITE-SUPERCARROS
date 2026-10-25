@@ -25687,14 +25687,15 @@
       "nomeCliente": "Sem nome",
       "contatoCliente": "+55 79 9823-9538",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-25",
+      "valorVenda": "274.00",
+      "numeroPedido": "20545",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-25T17:15:05.874Z"
     },
     {
       "id": "rmvnsetr5amqorz",
@@ -25925,5 +25926,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T17:01:57.624Z"
+  "updatedAt": "2026-10-25T17:15:05.874Z"
 }
