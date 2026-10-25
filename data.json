@@ -25823,6 +25823,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvnucpzv9x1exi",
+      "createdAt": "2026-10-25T13:06:06.619Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "Thaissa Cunha",
+      "contatoCliente": "(41) 98734 2682",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25843,5 +25859,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T13:05:48.710Z"
+  "updatedAt": "2026-10-25T13:06:07.325Z"
 }
