@@ -25957,6 +25957,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-25T18:46:28.999Z"
+    },
+    {
+      "id": "rmvo6jwc9joi9d5",
+      "createdAt": "2026-10-25T18:47:36.825Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "~Wilcres Fagundes",
+      "contatoCliente": "+55 94 9239-2938",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25977,5 +25993,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T18:46:28.999Z"
+  "updatedAt": "2026-10-25T18:47:37.388Z"
 }
