@@ -25896,14 +25896,15 @@
       "nomeCliente": "claudio",
       "contatoCliente": "+55 21 98367-6878",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-25",
+      "valorVenda": "742.50",
+      "numeroPedido": "20541",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-25T17:01:48.091Z"
     }
   ],
   "siteVendas": [
@@ -25924,5 +25925,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T16:58:47.547Z"
+  "updatedAt": "2026-10-25T17:01:48.091Z"
 }
