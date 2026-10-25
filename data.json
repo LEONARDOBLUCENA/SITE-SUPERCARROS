@@ -25737,12 +25737,13 @@
       "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-10-25",
+      "valorVenda": "297.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-25T16:58:47.547Z"
     },
     {
       "id": "rmvntf4j4wef0zh",
@@ -25923,5 +25924,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T16:57:49.999Z"
+  "updatedAt": "2026-10-25T16:58:47.547Z"
 }
