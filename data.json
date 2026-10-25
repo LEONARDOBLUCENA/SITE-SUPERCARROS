@@ -25807,6 +25807,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvnucbpedwh68h",
+      "createdAt": "2026-10-25T13:05:48.098Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "Rafael Vinagre",
+      "contatoCliente": "(22) 98817 1756",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25827,5 +25843,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T13:05:33.378Z"
+  "updatedAt": "2026-10-25T13:05:48.710Z"
 }
