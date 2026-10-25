@@ -25743,6 +25743,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvntf4j4wef0zh",
+      "createdAt": "2026-10-25T12:39:59.152Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "~Pamela Garcia 🌻",
+      "contatoCliente": "+55 93 9137-3028",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25763,5 +25779,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T12:31:34.945Z"
+  "updatedAt": "2026-10-25T12:40:00.418Z"
 }
