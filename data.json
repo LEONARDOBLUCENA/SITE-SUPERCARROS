@@ -26027,6 +26027,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmvodu06fzmezv1",
+      "createdAt": "2026-10-25T22:11:25.671Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "~Maicon Oliveira",
+      "contatoCliente": "+55 48 9632-2444",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26047,5 +26063,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T21:55:54.562Z"
+  "updatedAt": "2026-10-25T22:11:27.007Z"
 }
