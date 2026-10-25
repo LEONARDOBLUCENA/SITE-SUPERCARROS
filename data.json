@@ -25663,6 +25663,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-10-24T21:17:25.208Z"
+    },
+    {
+      "id": "rmvns1tsutscc6n",
+      "createdAt": "2026-10-25T12:01:39.102Z",
+      "dataAtendimento": "2026-10-24",
+      "nomeCliente": "sem nome",
+      "contatoCliente": "+55 11 95500-2161",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25683,5 +25699,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-24T21:17:49.931Z"
+  "updatedAt": "2026-10-25T12:01:40.157Z"
 }
