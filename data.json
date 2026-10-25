@@ -25966,15 +25966,15 @@
       "nomeCliente": "~Wilcres Fagundes",
       "contatoCliente": "+55 94 9239-2938",
       "origem": "WhatsApp",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-10-25",
       "valorVenda": "799.00",
       "numeroPedido": "20557",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-25T19:43:09.802Z"
+      "updatedAt": "2026-10-25T21:47:48.538Z"
     },
     {
       "id": "rmvo7e3tcnlgw9p",
@@ -26029,5 +26029,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T20:22:43.950Z"
+  "updatedAt": "2026-10-25T21:47:48.538Z"
 }
