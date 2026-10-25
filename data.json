@@ -25839,6 +25839,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvnud3rvplhcxe",
+      "createdAt": "2026-10-25T13:06:24.475Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "Maria Brito",
+      "contatoCliente": "(88) 99944 0049",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25859,5 +25875,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T13:06:07.325Z"
+  "updatedAt": "2026-10-25T13:06:25.781Z"
 }
