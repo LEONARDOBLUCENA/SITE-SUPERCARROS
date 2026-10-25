@@ -25635,15 +25635,15 @@
       "nomeCliente": "janice",
       "contatoCliente": "+55 51 9556-6346",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-24",
       "valorVenda": "297.00",
       "numeroPedido": "20511",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-24T21:17:49.931Z"
+      "updatedAt": "2026-10-25T16:57:49.998Z"
     },
     {
       "id": "rmvmwg4614hrqe2",
@@ -25923,5 +25923,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T13:46:59.055Z"
+  "updatedAt": "2026-10-25T16:57:49.999Z"
 }
