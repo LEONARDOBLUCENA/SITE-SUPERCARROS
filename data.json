@@ -25488,16 +25488,17 @@
       "nomeCliente": "francis",
       "contatoCliente": "+55 11 96283-6227",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
-      "produtoInteresse": "",
+      "statusAtendimento": "Cliente desistiu",
+      "produtoInteresse": "cliente nao estava na cidade e achou que o sc era em SP",
       "dataVenda": "2026-10-24",
       "valorVenda": "980.00",
       "numeroPedido": "20495",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Cancelado",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-25T19:08:33.700Z"
     },
     {
       "id": "rmvmlltllm45lsw",
@@ -25993,5 +25994,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T18:47:37.388Z"
+  "updatedAt": "2026-10-25T19:08:33.700Z"
 }
