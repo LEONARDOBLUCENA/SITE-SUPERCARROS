@@ -25871,6 +25871,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvnufd9a3ocg8e",
+      "createdAt": "2026-10-25T13:08:10.078Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "rodrigo",
+      "contatoCliente": "+55 21 98443-2551",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25891,5 +25907,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T13:06:39.416Z"
+  "updatedAt": "2026-10-25T13:08:11.039Z"
 }
