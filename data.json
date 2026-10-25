@@ -26009,6 +26009,24 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmvoda0rpnh2czz",
+      "createdAt": "2026-10-25T21:55:53.317Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "Edvaldo Miranda Nery",
+      "contatoCliente": "+55 91 8496-4253",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-25",
+      "valorVenda": "1450.00",
+      "numeroPedido": "20565",
+      "statusPagamento": "Pendente",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -26029,5 +26047,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T21:48:33.437Z"
+  "updatedAt": "2026-10-25T21:55:54.562Z"
 }
