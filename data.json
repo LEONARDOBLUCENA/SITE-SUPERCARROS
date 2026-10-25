@@ -25931,15 +25931,15 @@
       "nomeCliente": "pedro antonio",
       "contatoCliente": "+55 81 9515-7580",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-25",
       "valorVenda": "137.00",
       "numeroPedido": "20555",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-25T18:30:32.731Z"
+      "updatedAt": "2026-10-25T18:38:45.643Z"
     }
   ],
   "siteVendas": [
@@ -25960,5 +25960,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T18:30:32.731Z"
+  "updatedAt": "2026-10-25T18:38:45.643Z"
 }
