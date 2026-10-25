@@ -25653,17 +25653,17 @@
       "nomeCliente": "Renan",
       "contatoCliente": "+55 21 97373-2791",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Link enviado",
-      "produtoInteresse": "upgrade",
+      "statusAtendimento": "Cliente desistiu",
+      "produtoInteresse": "utilizou apenas o voucher",
       "dataVenda": "2026-10-24",
       "valorVenda": "250.00",
       "numeroPedido": "20507",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Cancelado",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
-      "updatedAt": "2026-10-24T21:17:25.208Z"
+      "updatedAt": "2026-10-25T19:09:15.200Z"
     },
     {
       "id": "rmvns1tsutscc6n",
@@ -25994,5 +25994,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T19:08:33.700Z"
+  "updatedAt": "2026-10-25T19:09:15.200Z"
 }
