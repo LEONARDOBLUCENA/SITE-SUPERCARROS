@@ -25855,6 +25855,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvnude657e74wi",
+      "createdAt": "2026-10-25T13:06:37.949Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "Saulo Rocha",
+      "contatoCliente": "(98) 98402 8907",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -25875,5 +25891,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T13:06:25.781Z"
+  "updatedAt": "2026-10-25T13:06:39.416Z"
 }
