@@ -26058,6 +26058,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvpctajkf27xb6",
+      "createdAt": "2026-10-26T14:30:39.008Z",
+      "dataAtendimento": "2026-10-26",
+      "nomeCliente": "Eagle Comunicação",
+      "contatoCliente": "+55 22 99907-0454",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -26078,5 +26094,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-26T13:46:41.944Z"
+  "updatedAt": "2026-10-26T14:30:40.545Z"
 }
