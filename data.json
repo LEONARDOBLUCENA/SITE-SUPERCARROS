@@ -26017,16 +26017,17 @@
       "nomeCliente": "Edvaldo Miranda Nery",
       "contatoCliente": "+55 91 8496-4253",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-25",
-      "valorVenda": "1450.00",
-      "numeroPedido": "20565",
-      "statusPagamento": "Pendente",
+      "valorVenda": "1550.00",
+      "numeroPedido": "20569",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-26T01:08:07.847Z"
     },
     {
       "id": "rmvodu06fzmezv1",
@@ -26095,5 +26096,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-26T00:37:26.383Z"
+  "updatedAt": "2026-10-26T01:08:07.848Z"
 }
