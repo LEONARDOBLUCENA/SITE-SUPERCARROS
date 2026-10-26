@@ -26069,12 +26069,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-26",
-      "valorVenda": "98.94",
+      "valorVenda": "99.00",
       "numeroPedido": "20579",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna",
-      "updatedAt": "2026-10-26T14:57:13.335Z"
+      "updatedAt": "2026-10-26T14:57:29.887Z"
     },
     {
       "id": "rmvpcwi6dw6sksh",
@@ -26111,5 +26111,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-26T14:57:13.335Z"
+  "updatedAt": "2026-10-26T14:57:29.887Z"
 }
