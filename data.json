@@ -26131,14 +26131,15 @@
       "nomeCliente": "Acessoria VIP ",
       "contatoCliente": "+55 11 98712-0552",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "665.00",
+      "numeroPedido": "20587",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-26T18:41:53.170Z"
     }
   ],
   "siteVendas": [
@@ -26159,5 +26160,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-26T18:12:50.537Z"
+  "updatedAt": "2026-10-26T18:41:53.170Z"
 }
