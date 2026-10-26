@@ -26091,6 +26091,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvpdxvf43680rf",
+      "createdAt": "2026-10-26T15:02:12.304Z",
+      "dataAtendimento": "2026-10-26",
+      "nomeCliente": "Pat Marques",
+      "contatoCliente": "+55 11 99985-4428 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -26111,5 +26127,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-26T14:57:29.887Z"
+  "updatedAt": "2026-10-26T15:02:14.356Z"
 }
