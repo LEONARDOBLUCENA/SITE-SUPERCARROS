@@ -26059,6 +26059,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvoj1qvra781ki",
+      "createdAt": "2026-10-26T00:37:24.951Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "~Lucas Krachinski",
+      "contatoCliente": "+55 49 9935-2960",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26079,5 +26095,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-26T00:02:48.874Z"
+  "updatedAt": "2026-10-26T00:37:26.383Z"
 }
