@@ -26123,6 +26123,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvpkr0cvduknxw",
+      "createdAt": "2026-10-26T18:12:49.423Z",
+      "dataAtendimento": "2026-10-26",
+      "nomeCliente": "Acessoria VIP ",
+      "contatoCliente": "+55 11 98712-0552",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -26143,5 +26159,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-26T17:28:14.214Z"
+  "updatedAt": "2026-10-26T18:12:50.537Z"
 }
