@@ -26043,6 +26043,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvoht7ekn22soh",
+      "createdAt": "2026-10-26T00:02:46.844Z",
+      "dataAtendimento": "2026-10-25",
+      "nomeCliente": "lais",
+      "contatoCliente": "+55 21 96539-9283",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26063,5 +26079,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-25T22:11:27.007Z"
+  "updatedAt": "2026-10-26T00:02:48.874Z"
 }
