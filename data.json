@@ -26074,6 +26074,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvpcwi6dw6sksh",
+      "createdAt": "2026-10-26T14:33:08.869Z",
+      "dataAtendimento": "2026-10-26",
+      "nomeCliente": "Jefferson Gama",
+      "contatoCliente": "+55 11 95830-9658 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "550.00",
+      "numeroPedido": "20577",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -26094,5 +26110,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-26T14:30:40.545Z"
+  "updatedAt": "2026-10-26T14:33:10.628Z"
 }
