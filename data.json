@@ -26140,6 +26140,24 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-10-26T18:41:53.170Z"
+    },
+    {
+      "id": "rmvpslpmqfmsxcq",
+      "createdAt": "2026-10-26T21:52:39.170Z",
+      "dataAtendimento": "2026-10-26",
+      "nomeCliente": "Ana Carla Soares Dos Santos Rodrigues",
+      "contatoCliente": "(28) 99916-9824",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "655.00",
+      "numeroPedido": "20591",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -26160,5 +26178,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-26T18:41:53.170Z"
+  "updatedAt": "2026-10-26T21:52:40.841Z"
 }
