@@ -26062,18 +26062,19 @@
     {
       "id": "rmvpctajkf27xb6",
       "createdAt": "2026-10-26T14:30:39.008Z",
-      "dataAtendimento": "2026-10-26",
+      "dataAtendimento": "2026-08-31",
       "nomeCliente": "Eagle Comunicação",
       "contatoCliente": "+55 22 99907-0454",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-26",
+      "valorVenda": "98.94",
+      "numeroPedido": "20579",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-26T14:57:13.335Z"
     },
     {
       "id": "rmvpcwi6dw6sksh",
@@ -26110,5 +26111,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-26T14:33:10.628Z"
+  "updatedAt": "2026-10-26T14:57:13.335Z"
 }
