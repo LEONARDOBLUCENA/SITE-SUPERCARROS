@@ -25995,13 +25995,13 @@
     {
       "id": "rmvo9y7f5r99mjc",
       "createdAt": "2026-10-25T20:22:43.217Z",
-      "dataAtendimento": "2026-10-25",
+      "dataAtendimento": "2026-10-23",
       "nomeCliente": "PAULO ROBALLO",
       "contatoCliente": "+55 19 99826-7348",
       "origem": "Prime Gourmet",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "2026-10-23",
+      "dataVenda": "2026-10-25",
       "valorVenda": "879.00",
       "numeroPedido": "20457",
       "statusPagamento": "Pago",
@@ -26009,7 +26009,7 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true,
-      "updatedAt": "2026-10-26T12:09:07.435Z"
+      "updatedAt": "2026-10-26T12:09:29.499Z"
     },
     {
       "id": "rmvoda0rpnh2czz",
@@ -26097,5 +26097,5 @@
       "updatedAt": "2026-10-20T16:40:24.066Z"
     }
   ],
-  "updatedAt": "2026-10-26T12:09:07.435Z"
+  "updatedAt": "2026-10-26T12:09:29.499Z"
 }
