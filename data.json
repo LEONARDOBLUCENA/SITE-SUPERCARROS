@@ -26587,13 +26587,14 @@
       "contatoCliente": "+55 85 9927-6056",
       "origem": "Upgrade Site",
       "statusAtendimento": "Em negociação",
-      "produtoInteresse": "drive + 2 caronas california",
+      "produtoInteresse": "2100 drive e caronas calif e lancer , 1750,00 mustang conv. e lancer",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "2100.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-27T17:25:56.207Z"
     },
     {
       "id": "rmvqxdoo6zike9y",
@@ -26646,5 +26647,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T16:55:28.853Z"
+  "updatedAt": "2026-10-27T17:25:56.207Z"
 }
