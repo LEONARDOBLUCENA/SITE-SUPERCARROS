@@ -26159,6 +26159,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-10-27T12:11:57.692Z"
+    },
+    {
+      "id": "rmvqqmhu3cl6jih",
+      "createdAt": "2026-10-27T13:45:02.667Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "sem nome",
+      "contatoCliente": "+55 11 94074-4024",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-27",
+      "valorVenda": "5000.00",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26179,5 +26195,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T12:11:57.692Z"
+  "updatedAt": "2026-10-27T13:45:04.230Z"
 }
