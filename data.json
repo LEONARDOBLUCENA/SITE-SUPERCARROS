@@ -26272,6 +26272,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvqrtk4edjhs29",
+      "createdAt": "2026-10-27T14:18:31.838Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "DAVI",
+      "contatoCliente": "+55 21 98998-8940",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26292,5 +26308,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:18:20.828Z"
+  "updatedAt": "2026-10-27T14:18:32.815Z"
 }
