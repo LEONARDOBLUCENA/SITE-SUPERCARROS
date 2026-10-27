@@ -26556,11 +26556,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "5000.00",
+      "valorVenda": "12000",
       "numeroPedido": "",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-27T15:12:49.771Z"
     }
   ],
   "siteVendas": [
@@ -26581,5 +26582,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T15:12:39.637Z"
+  "updatedAt": "2026-10-27T15:12:49.771Z"
 }
