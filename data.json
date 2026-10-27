@@ -26529,6 +26529,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvqsap9024jqzl",
+      "createdAt": "2026-10-27T14:31:51.636Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "~Allexandra Praxedes",
+      "contatoCliente": "+55 62 9975-5436",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26549,5 +26565,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:29:26.528Z"
+  "updatedAt": "2026-10-27T14:31:52.716Z"
 }
