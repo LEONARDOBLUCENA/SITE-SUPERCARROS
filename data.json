@@ -26545,23 +26545,6 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
-    },
-    {
-      "id": "rmvqtr590tj6o37",
-      "createdAt": "2026-10-27T15:12:38.484Z",
-      "dataAtendimento": "2026-10-27",
-      "nomeCliente": "a",
-      "contatoCliente": "2",
-      "origem": "",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "12000",
-      "numeroPedido": "",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele",
-      "updatedAt": "2026-10-27T15:12:49.771Z"
     }
   ],
   "siteVendas": [
@@ -26582,5 +26565,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T15:12:49.771Z"
+  "updatedAt": "2026-10-27T15:12:57.341Z"
 }
