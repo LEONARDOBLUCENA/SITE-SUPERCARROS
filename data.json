@@ -26651,14 +26651,15 @@
       "nomeCliente": "Maria Laura",
       "contatoCliente": "+55 92 9149-2506",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-10-27",
+      "valorVenda": "99.00",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-27T17:45:31.599Z"
     }
   ],
   "siteVendas": [
@@ -26679,5 +26680,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T17:34:49.417Z"
+  "updatedAt": "2026-10-27T17:45:31.599Z"
 }
