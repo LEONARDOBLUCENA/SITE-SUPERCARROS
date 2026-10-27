@@ -20357,14 +20357,15 @@
       "nomeCliente": "carla",
       "contatoCliente": "+55 28 99916-9824",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "700.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-27T17:54:41.403Z"
     },
     {
       "id": "rmv8bzst8t3ae4f",
@@ -26680,5 +26681,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T17:53:00.571Z"
+  "updatedAt": "2026-10-27T17:54:41.403Z"
 }
