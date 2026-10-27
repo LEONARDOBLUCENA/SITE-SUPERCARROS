@@ -26256,6 +26256,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvqrtawn8s1rui",
+      "createdAt": "2026-10-27T14:18:19.895Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "JAQUELINE",
+      "contatoCliente": "+55 67 9202-9272",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26276,5 +26292,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:18:06.779Z"
+  "updatedAt": "2026-10-27T14:18:20.828Z"
 }
