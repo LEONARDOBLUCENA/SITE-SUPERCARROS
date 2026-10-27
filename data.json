@@ -26164,9 +26164,9 @@
       "id": "rmvqqmhu3cl6jih",
       "createdAt": "2026-10-27T13:45:02.667Z",
       "dataAtendimento": "2026-10-27",
-      "nomeCliente": "sem nome",
+      "nomeCliente": "Felipe Mota Santos",
       "contatoCliente": "+55 11 94074-4024",
-      "origem": "",
+      "origem": "WhatsApp",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-27",
@@ -26175,7 +26175,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-27T14:04:54.953Z"
+      "updatedAt": "2026-10-27T14:06:23.062Z"
     }
   ],
   "siteVendas": [
@@ -26196,5 +26196,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:04:54.953Z"
+  "updatedAt": "2026-10-27T14:06:23.062Z"
 }
