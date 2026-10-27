@@ -26500,22 +26500,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmvqs7kunfycnj2",
-      "createdAt": "2026-10-27T14:29:25.967Z",
-      "dataAtendimento": "2026-10-27",
-      "nomeCliente": "Sem nome",
-      "contatoCliente": "+55 81 9772-1944",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmvqsap9024jqzl",
       "createdAt": "2026-10-27T14:31:51.636Z",
       "dataAtendimento": "2026-10-27",
@@ -26664,5 +26648,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T17:54:55.641Z"
+  "updatedAt": "2026-10-27T17:55:46.539Z"
 }
