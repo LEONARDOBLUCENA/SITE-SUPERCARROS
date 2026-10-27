@@ -26337,6 +26337,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-27T14:19:36.043Z"
+    },
+    {
+      "id": "rmvqrvg3ooh9oyk",
+      "createdAt": "2026-10-27T14:19:59.940Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "SEM NOME",
+      "contatoCliente": "+55 44 9718-2894",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26357,5 +26373,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:19:36.043Z"
+  "updatedAt": "2026-10-27T14:20:00.635Z"
 }
