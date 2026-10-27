@@ -26304,6 +26304,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvqrubr19br27h",
+      "createdAt": "2026-10-27T14:19:07.646Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "CLEBIA",
+      "contatoCliente": "+55 84 9649-8831",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26324,5 +26340,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:18:47.070Z"
+  "updatedAt": "2026-10-27T14:19:08.430Z"
 }
