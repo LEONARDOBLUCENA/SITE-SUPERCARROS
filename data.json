@@ -26176,6 +26176,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-27T14:06:23.062Z"
+    },
+    {
+      "id": "rmvqrradmi6m4zn",
+      "createdAt": "2026-10-27T14:16:45.898Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "ELIZABETH ",
+      "contatoCliente": "+55 31 8519-6210",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26196,5 +26212,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:06:23.062Z"
+  "updatedAt": "2026-10-27T14:16:47.107Z"
 }
