@@ -26240,6 +26240,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvqrszr2r3al8p",
+      "createdAt": "2026-10-27T14:18:05.438Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "~Adv Dr. Victor Hugo ∴",
+      "contatoCliente": "+55 18 99702-0530",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26260,5 +26276,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:17:49.788Z"
+  "updatedAt": "2026-10-27T14:18:06.779Z"
 }
