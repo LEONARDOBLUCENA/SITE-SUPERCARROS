@@ -26577,6 +26577,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvqwmi2kr6frml",
+      "createdAt": "2026-10-27T16:33:00.668Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "richard",
+      "contatoCliente": "+55 85 9927-6056",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "drive + 2 caronas california",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26597,5 +26613,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T16:16:11.610Z"
+  "updatedAt": "2026-10-27T16:33:01.540Z"
 }
