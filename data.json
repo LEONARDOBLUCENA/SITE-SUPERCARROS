@@ -26320,6 +26320,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvqrupm2urjnst",
+      "createdAt": "2026-10-27T14:19:25.610Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "DAYSE",
+      "contatoCliente": "+55 21 98736-0078",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26340,5 +26356,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:19:08.430Z"
+  "updatedAt": "2026-10-27T14:19:26.959Z"
 }
