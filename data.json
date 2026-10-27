@@ -26208,6 +26208,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvqrsbnwnv7c0l",
+      "createdAt": "2026-10-27T14:17:34.220Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "FABIO SILVA",
+      "contatoCliente": "+55 71 9178-0674",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26228,5 +26244,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:17:07.926Z"
+  "updatedAt": "2026-10-27T14:17:35.217Z"
 }
