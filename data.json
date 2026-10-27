@@ -26328,14 +26328,15 @@
       "nomeCliente": "DAYSE",
       "contatoCliente": "+55 21 98736-0078",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-27T14:19:36.043Z"
     }
   ],
   "siteVendas": [
@@ -26356,5 +26357,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:19:26.959Z"
+  "updatedAt": "2026-10-27T14:19:36.043Z"
 }
