@@ -26692,6 +26692,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvr1mmkfqb2j4u",
+      "createdAt": "2026-10-27T18:53:04.575Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "angelo",
+      "contatoCliente": "+55 51 8065-0004",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "pacote para presentear colaboradores",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26712,5 +26728,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T18:49:55.693Z"
+  "updatedAt": "2026-10-27T18:53:05.424Z"
 }
