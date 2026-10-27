@@ -26224,6 +26224,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvqrsna4vpyl5u",
+      "createdAt": "2026-10-27T14:17:49.276Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "~Dyenifer Dos Santos",
+      "contatoCliente": "+55 54 9237-2511",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26244,5 +26260,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:17:35.217Z"
+  "updatedAt": "2026-10-27T14:17:49.788Z"
 }
