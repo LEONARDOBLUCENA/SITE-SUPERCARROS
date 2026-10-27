@@ -26758,6 +26758,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvr9n6m4tsyipz",
+      "createdAt": "2026-10-27T22:37:27.484Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "ítalo",
+      "contatoCliente": "+55 61 9138-7356",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-27",
+      "valorVenda": "396.00",
+      "numeroPedido": "20633",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26778,5 +26794,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T21:54:04.198Z"
+  "updatedAt": "2026-10-27T22:37:28.351Z"
 }
