@@ -26676,6 +26676,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvr1ik1sfzf98j",
+      "createdAt": "2026-10-27T18:49:54.688Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "marcella",
+      "contatoCliente": "+55 81 8872-2320",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "3 caronas portofino + 3 inrgessos",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26696,5 +26712,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T18:34:07.044Z"
+  "updatedAt": "2026-10-27T18:49:55.693Z"
 }
