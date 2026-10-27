@@ -26497,6 +26497,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvqs2fc2wlcnfr",
+      "createdAt": "2026-10-27T14:25:25.538Z",
+      "dataAtendimento": "2026-10-27",
+      "nomeCliente": "vivian marçal",
+      "contatoCliente": "+55 17 99721-9019",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26517,5 +26533,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-27T14:24:04.019Z"
+  "updatedAt": "2026-10-27T14:25:27.393Z"
 }
