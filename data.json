@@ -26873,6 +26873,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvs2joqisoain3",
+      "createdAt": "2026-10-28T12:06:33.210Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "sarah dantas",
+      "contatoCliente": "+55 84 9175-9873",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26893,5 +26909,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T12:05:42.589Z"
+  "updatedAt": "2026-10-28T12:06:34.685Z"
 }
