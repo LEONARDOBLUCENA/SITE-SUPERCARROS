@@ -27202,6 +27202,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-10-28T19:45:38.868Z"
+    },
+    {
+      "id": "rmvsiyqe0rbbxin",
+      "createdAt": "2026-10-28T19:46:09.048Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "JM",
+      "contatoCliente": "+55 88 9714-0056 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27222,5 +27238,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-28T19:45:38.868Z"
+  "updatedAt": "2026-10-28T19:46:10.124Z"
 }
