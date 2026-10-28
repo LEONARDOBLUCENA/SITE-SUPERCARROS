@@ -26915,14 +26915,15 @@
       "nomeCliente": "~Igor Halmenschlager",
       "contatoCliente": "+55 55 9670-6789",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-28",
-      "valorVenda": "550.00",
-      "numeroPedido": "",
-      "statusPagamento": "Pendente",
+      "valorVenda": "500.00",
+      "numeroPedido": "20653",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-28T14:46:32.588Z"
     },
     {
       "id": "rmvs30u9k72w8we",
@@ -27107,5 +27108,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T14:45:52.908Z"
+  "updatedAt": "2026-10-28T14:46:32.588Z"
 }
