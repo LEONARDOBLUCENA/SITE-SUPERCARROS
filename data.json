@@ -27153,6 +27153,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvsgwxufi25afb",
+      "createdAt": "2026-10-28T18:48:46.167Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "Eduardo Limeira",
+      "contatoCliente": "+55 61 8573-4607 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27173,5 +27189,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-28T18:43:30.064Z"
+  "updatedAt": "2026-10-28T18:48:48.011Z"
 }
