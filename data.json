@@ -27034,6 +27034,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvs5vmc6xhbrqv",
+      "createdAt": "2026-10-28T13:39:48.822Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "hella",
+      "contatoCliente": "+39 393 435 0215",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -27054,5 +27070,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T13:33:26.809Z"
+  "updatedAt": "2026-10-28T13:39:49.911Z"
 }
