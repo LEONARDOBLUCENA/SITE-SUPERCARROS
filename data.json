@@ -26839,6 +26839,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvs2frgsr2073s",
+      "createdAt": "2026-10-28T12:03:30.124Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "eduardo",
+      "contatoCliente": "+55 11 98155-3254",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-28",
+      "valorVenda": "2200.00",
+      "numeroPedido": "20647",
+      "statusPagamento": "Pendente",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -26859,5 +26877,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T11:40:53.191Z"
+  "updatedAt": "2026-10-28T12:03:30.996Z"
 }
