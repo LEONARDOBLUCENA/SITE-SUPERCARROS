@@ -26409,14 +26409,15 @@
       "nomeCliente": "JOSIANI",
       "contatoCliente": "+55 31 9982-0069",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-28",
+      "valorVenda": "137.00",
+      "numeroPedido": "20645",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-28T14:40:15.127Z"
     },
     {
       "id": "rmvqrz3ea27xpwb",
@@ -27104,5 +27105,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T14:25:19.875Z"
+  "updatedAt": "2026-10-28T14:40:15.127Z"
 }
