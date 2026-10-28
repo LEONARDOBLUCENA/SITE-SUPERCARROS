@@ -27018,6 +27018,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvs5neloczp0hj",
+      "createdAt": "2026-10-28T13:33:25.548Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "Elizabete Santos",
+      "contatoCliente": "+55 62 8573-9212",
+      "origem": "Outro",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -27038,5 +27054,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T13:31:28.202Z"
+  "updatedAt": "2026-10-28T13:33:26.809Z"
 }
