@@ -27088,6 +27088,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvs9sekmq7x8al",
+      "createdAt": "2026-10-28T15:29:17.254Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "Obr🌻 Aigo Beca Novaes ",
+      "contatoCliente": "+55 11 96072-9040 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27108,5 +27124,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T14:46:32.588Z"
+  "updatedAt": "2026-10-28T15:29:18.501Z"
 }
