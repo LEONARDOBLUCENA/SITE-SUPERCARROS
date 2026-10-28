@@ -26954,6 +26954,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvs4p7czwe0ax0",
+      "createdAt": "2026-10-28T13:06:49.859Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "fio flores",
+      "contatoCliente": "+595 991 367828",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26974,5 +26990,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T12:44:46.466Z"
+  "updatedAt": "2026-10-28T13:06:50.936Z"
 }
