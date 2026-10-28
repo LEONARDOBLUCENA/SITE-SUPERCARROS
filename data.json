@@ -26986,6 +26986,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvs4ymefqsks0l",
+      "createdAt": "2026-10-28T13:14:09.255Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "bernardo bandeira",
+      "contatoCliente": "+55 81 9348-0376",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -27006,5 +27022,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T13:07:32.954Z"
+  "updatedAt": "2026-10-28T13:14:10.484Z"
 }
