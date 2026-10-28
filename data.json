@@ -27068,6 +27068,22 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmvs7i1gdsp140a",
+      "createdAt": "2026-10-28T14:25:14.461Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "Alysson Bonacina Dornelles",
+      "contatoCliente": "+55 54 99635-6067",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27088,5 +27104,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T14:08:22.872Z"
+  "updatedAt": "2026-10-28T14:25:19.875Z"
 }
