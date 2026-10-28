@@ -27185,6 +27185,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvsix7fayva2s8",
+      "createdAt": "2026-10-28T19:44:57.814Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "+55 48 9176-6833 ",
+      "contatoCliente": "Samantha",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27205,5 +27221,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-28T19:01:37.278Z"
+  "updatedAt": "2026-10-28T19:44:59.337Z"
 }
