@@ -27121,6 +27121,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvsdmy19csr6pv",
+      "createdAt": "2026-10-28T17:17:01.005Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "Kerlley Cartaxo",
+      "contatoCliente": "+55 83 8766-3247 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27141,5 +27157,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T16:49:42.755Z"
+  "updatedAt": "2026-10-28T17:17:02.276Z"
 }
