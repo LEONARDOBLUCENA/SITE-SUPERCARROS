@@ -27012,14 +27012,15 @@
       "nomeCliente": "felipe",
       "contatoCliente": "+55 45 9854-8930",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-28",
+      "valorVenda": "297.00",
+      "numeroPedido": "20655",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-28T14:45:52.908Z"
     },
     {
       "id": "rmvs5neloczp0hj",
@@ -27106,5 +27107,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T14:44:41.766Z"
+  "updatedAt": "2026-10-28T14:45:52.908Z"
 }
