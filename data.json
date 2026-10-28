@@ -27137,6 +27137,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvsgp41h19a2pj",
+      "createdAt": "2026-10-28T18:42:40.949Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "Faqueco",
+      "contatoCliente": "+55 21 99913-3842 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27157,5 +27173,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-28T17:26:25.291Z"
+  "updatedAt": "2026-10-28T18:42:42.256Z"
 }
