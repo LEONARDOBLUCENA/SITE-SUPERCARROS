@@ -27190,8 +27190,8 @@
       "id": "rmvsix7fayva2s8",
       "createdAt": "2026-10-28T19:44:57.814Z",
       "dataAtendimento": "2026-10-28",
-      "nomeCliente": "+55 48 9176-6833 ",
-      "contatoCliente": "Samantha",
+      "nomeCliente": "Samantha",
+      "contatoCliente": "+55 48 9176-6833 ",
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
@@ -27200,7 +27200,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-28T19:45:38.868Z"
     }
   ],
   "siteVendas": [
@@ -27221,5 +27222,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-28T19:44:59.337Z"
+  "updatedAt": "2026-10-28T19:45:38.868Z"
 }
