@@ -26905,6 +26905,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvs2szkn9p9nm7",
+      "createdAt": "2026-10-28T12:13:47.159Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "~Igor Halmenschlager",
+      "contatoCliente": "+55 55 9670-6789",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-28",
+      "valorVenda": "550.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26925,5 +26941,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T12:07:16.016Z"
+  "updatedAt": "2026-10-28T12:13:47.918Z"
 }
