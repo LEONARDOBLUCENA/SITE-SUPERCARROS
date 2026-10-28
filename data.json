@@ -26889,6 +26889,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvs2kl91mxj0s9",
+      "createdAt": "2026-10-28T12:07:15.349Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "Gerson ",
+      "contatoCliente": "+55 54 9157-3075",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -26909,5 +26925,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T12:06:34.685Z"
+  "updatedAt": "2026-10-28T12:07:16.016Z"
 }
