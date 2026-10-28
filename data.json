@@ -27105,6 +27105,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvscnsfdwyac3z",
+      "createdAt": "2026-10-28T16:49:40.777Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "Giovanna Arantes",
+      "contatoCliente": "+55 35 9896-5090 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27125,5 +27141,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T16:03:40.289Z"
+  "updatedAt": "2026-10-28T16:49:42.755Z"
 }
