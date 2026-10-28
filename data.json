@@ -26979,14 +26979,15 @@
       "nomeCliente": "bruno",
       "contatoCliente": "+55 41 9646-8311",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-28",
+      "valorVenda": "500.00",
+      "numeroPedido": "20657",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-28T14:44:41.765Z"
     },
     {
       "id": "rmvs4ymefqsks0l",
@@ -27105,5 +27106,5 @@
       "updatedAt": "2026-10-26T13:46:41.944Z"
     }
   ],
-  "updatedAt": "2026-10-28T14:40:15.127Z"
+  "updatedAt": "2026-10-28T14:44:41.766Z"
 }
