@@ -27298,6 +27298,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti4aott297yb",
+      "createdAt": "2026-10-29T12:10:15.197Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Taciana Moura",
+      "contatoCliente": "+55 81 9896-8394 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27318,5 +27334,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:09:54.157Z"
+  "updatedAt": "2026-10-29T12:10:16.649Z"
 }
