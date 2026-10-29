@@ -27507,6 +27507,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvtk8r53x1ddqc",
+      "createdAt": "2026-10-29T13:09:42.375Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Rogerio Preczewski",
+      "contatoCliente": "(54) 99142 7228",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27527,5 +27543,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:03:28.911Z"
+  "updatedAt": "2026-10-29T13:09:43.337Z"
 }
