@@ -27524,6 +27524,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-10-29T13:14:08.852Z"
+    },
+    {
+      "id": "rmvtlsxqahxz6b6",
+      "createdAt": "2026-10-29T13:53:23.650Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 88 9616-0040",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27544,5 +27560,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:14:08.852Z"
+  "updatedAt": "2026-10-29T13:53:25.611Z"
 }
