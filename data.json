@@ -27475,6 +27475,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvtk062qnrhhb9",
+      "createdAt": "2026-10-29T13:03:01.826Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Matheus Rebel",
+      "contatoCliente": "+55 22 99982-9972 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27495,5 +27511,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:57:26.012Z"
+  "updatedAt": "2026-10-29T13:03:03.469Z"
 }
