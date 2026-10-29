@@ -27234,6 +27234,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti25p48t51vr",
+      "createdAt": "2026-10-29T12:08:35.416Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Thais",
+      "contatoCliente": "+55 27 99766-4883 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27254,5 +27270,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:08:12.904Z"
+  "updatedAt": "2026-10-29T12:08:37.395Z"
 }
