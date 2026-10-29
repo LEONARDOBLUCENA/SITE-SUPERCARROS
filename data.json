@@ -27434,15 +27434,16 @@
       "dataAtendimento": "2026-10-29",
       "nomeCliente": "Valdir",
       "contatoCliente": "+55 21 99709-2099 ",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "193.05",
+      "numeroPedido": "20683 e 20681",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-29T14:53:02.421Z"
     },
     {
       "id": "rmvtirb9670lr74",
@@ -27560,5 +27561,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:53:25.611Z"
+  "updatedAt": "2026-10-29T14:53:02.421Z"
 }
