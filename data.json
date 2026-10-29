@@ -27322,14 +27322,15 @@
       "nomeCliente": "Heider",
       "contatoCliente": "+55 54 9652-4097 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "130.15",
+      "numeroPedido": "20373",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-29T12:15:19.630Z"
     },
     {
       "id": "rmvti4zoekws8mg",
@@ -27462,5 +27463,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:12:35.240Z"
+  "updatedAt": "2026-10-29T12:15:19.630Z"
 }
