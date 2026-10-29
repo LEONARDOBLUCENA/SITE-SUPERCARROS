@@ -27607,6 +27607,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvtz8e192pmnq2",
+      "createdAt": "2026-10-29T20:09:19.629Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "~Claudio Oliveira",
+      "contatoCliente": "+55 79 9910-1116",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -27627,5 +27643,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T20:03:40.391Z"
+  "updatedAt": "2026-10-29T20:09:20.782Z"
 }
