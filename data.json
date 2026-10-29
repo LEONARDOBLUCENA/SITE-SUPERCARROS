@@ -27282,6 +27282,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti3sz9kjzv2q",
+      "createdAt": "2026-10-29T12:09:52.245Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Kerry Allyne",
+      "contatoCliente": "+55 63 8128-4704 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27302,5 +27318,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:09:37.966Z"
+  "updatedAt": "2026-10-29T12:09:54.157Z"
 }
