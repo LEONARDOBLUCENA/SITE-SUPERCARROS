@@ -27218,6 +27218,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti1mh69cqrv6",
+      "createdAt": "2026-10-29T12:08:10.506Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "Angelica Diniz",
+      "contatoCliente": "+55 62 9648-5842 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27238,5 +27254,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-28T19:46:10.124Z"
+  "updatedAt": "2026-10-29T12:08:12.904Z"
 }
