@@ -27459,6 +27459,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvtitf017t3scw",
+      "createdAt": "2026-10-29T12:29:47.185Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Suze",
+      "contatoCliente": "+55 45 9853-8906 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27479,5 +27495,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:28:10.974Z"
+  "updatedAt": "2026-10-29T12:29:48.080Z"
 }
