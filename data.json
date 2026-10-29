@@ -27314,6 +27314,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti4omobys0sb",
+      "createdAt": "2026-10-29T12:10:33.264Z",
+      "dataAtendimento": "2026-10-28",
+      "nomeCliente": "Heider",
+      "contatoCliente": "+55 54 9652-4097 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27334,5 +27350,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:10:16.649Z"
+  "updatedAt": "2026-10-29T12:10:34.134Z"
 }
