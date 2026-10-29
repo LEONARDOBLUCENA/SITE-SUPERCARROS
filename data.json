@@ -27484,14 +27484,15 @@
       "nomeCliente": "Matheus Rebel",
       "contatoCliente": "+55 22 99982-9972 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "540.00",
+      "numeroPedido": "20689",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-29T16:56:58.092Z"
     },
     {
       "id": "rmvtk0q37pc039l",
@@ -27577,5 +27578,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T15:29:17.717Z"
+  "updatedAt": "2026-10-29T16:56:58.092Z"
 }
