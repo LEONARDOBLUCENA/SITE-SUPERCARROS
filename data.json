@@ -27563,17 +27563,18 @@
       "id": "rmvtsfz6ck173np",
       "createdAt": "2026-10-29T16:59:16.308Z",
       "dataAtendimento": "2026-10-29",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Rafael Roberto Bento Silva",
       "contatoCliente": "+55 19 99922-4231",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
+      "valorVenda": "739.00",
+      "numeroPedido": "20699",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-29T18:54:13.200Z"
     }
   ],
   "siteVendas": [
@@ -27594,5 +27595,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T16:59:17.726Z"
+  "updatedAt": "2026-10-29T18:54:13.200Z"
 }
