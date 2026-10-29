@@ -27615,17 +27615,17 @@
       "nomeCliente": "rene",
       "contatoCliente": "+55 88 9616-0040",
       "origem": "",
-      "statusAtendimento": "Link enviado",
-      "produtoInteresse": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "paypal",
       "dataVenda": "2026-10-29",
       "valorVenda": "1100.00",
       "numeroPedido": "20701",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true,
-      "updatedAt": "2026-10-29T21:23:54.897Z"
+      "updatedAt": "2026-10-29T23:13:08.317Z"
     },
     {
       "id": "rmvu249g2npva0t",
@@ -27664,5 +27664,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T21:30:06.899Z"
+  "updatedAt": "2026-10-29T23:13:08.317Z"
 }
