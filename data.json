@@ -27266,6 +27266,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti3f8nh2qtmb",
+      "createdAt": "2026-10-29T12:09:34.439Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Vandressa",
+      "contatoCliente": "+55 43 9643-6889 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27286,5 +27302,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:08:53.572Z"
+  "updatedAt": "2026-10-29T12:09:37.966Z"
 }
