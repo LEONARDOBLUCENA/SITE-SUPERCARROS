@@ -27515,14 +27515,15 @@
       "nomeCliente": "Rogerio Preczewski",
       "contatoCliente": "(54) 99142 7228",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-29T13:14:08.852Z"
     }
   ],
   "siteVendas": [
@@ -27543,5 +27544,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T13:09:43.337Z"
+  "updatedAt": "2026-10-29T13:14:08.852Z"
 }
