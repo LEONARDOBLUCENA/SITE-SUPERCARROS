@@ -27426,6 +27426,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti78sdmqtmgb",
+      "createdAt": "2026-10-29T12:12:32.701Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Valdir",
+      "contatoCliente": "+55 21 99709-2099 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27446,5 +27462,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:12:13.365Z"
+  "updatedAt": "2026-10-29T12:12:35.240Z"
 }
