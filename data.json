@@ -27541,6 +27541,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvtp88tplyoh4j",
+      "createdAt": "2026-10-29T15:29:16.717Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Rafael Lima",
+      "contatoCliente": "+55 61 9689-7250 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "390.00",
+      "numeroPedido": "20687",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27561,5 +27577,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T14:53:02.421Z"
+  "updatedAt": "2026-10-29T15:29:17.717Z"
 }
