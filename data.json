@@ -27250,6 +27250,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti2hue69lu4l",
+      "createdAt": "2026-10-29T12:08:51.158Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Webert",
+      "contatoCliente": "+55 21 97375-1845 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27270,5 +27286,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:08:37.395Z"
+  "updatedAt": "2026-10-29T12:08:53.572Z"
 }
