@@ -27394,6 +27394,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti6i3oib6eap",
+      "createdAt": "2026-10-29T12:11:58.116Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Almeida Anthony",
+      "contatoCliente": "+55 79 9105-6989 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27414,5 +27430,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:11:45.653Z"
+  "updatedAt": "2026-10-29T12:11:59.198Z"
 }
