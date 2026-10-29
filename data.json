@@ -27330,6 +27330,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti4zoekws8mg",
+      "createdAt": "2026-10-29T12:10:47.582Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Beatriz Feitosa",
+      "contatoCliente": "+55 71 9360-0000 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27350,5 +27366,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:10:34.134Z"
+  "updatedAt": "2026-10-29T12:10:48.666Z"
 }
