@@ -27640,7 +27640,8 @@
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-29T21:23:43.663Z"
     }
   ],
   "siteVendas": [
@@ -27661,5 +27662,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T21:10:13.998Z"
+  "updatedAt": "2026-10-29T21:23:43.664Z"
 }
