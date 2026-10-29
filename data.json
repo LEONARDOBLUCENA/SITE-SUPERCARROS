@@ -27378,6 +27378,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti673hrc5w4k",
+      "createdAt": "2026-10-29T12:11:43.853Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Diones",
+      "contatoCliente": "+55 92 9977-0006 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27398,5 +27414,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:11:30.460Z"
+  "updatedAt": "2026-10-29T12:11:45.653Z"
 }
