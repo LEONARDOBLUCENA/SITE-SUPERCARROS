@@ -27410,6 +27410,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvti6sw4yzaf8x",
+      "createdAt": "2026-10-29T12:12:12.100Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Livio Oliveira",
+      "contatoCliente": "+55 62 9850-0802 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27430,5 +27446,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:11:59.198Z"
+  "updatedAt": "2026-10-29T12:12:13.365Z"
 }
