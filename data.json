@@ -27443,6 +27443,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvtirb9670lr74",
+      "createdAt": "2026-10-29T12:28:09.018Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Carolina",
+      "contatoCliente": "+55 31 8970-4965 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27463,5 +27479,5 @@
       "updatedAt": "2026-10-28T17:26:25.291Z"
     }
   ],
-  "updatedAt": "2026-10-29T12:15:19.630Z"
+  "updatedAt": "2026-10-29T12:28:10.974Z"
 }
