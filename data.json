@@ -27743,6 +27743,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvv03wqnjr3jjr",
+      "createdAt": "2026-10-30T13:21:36.383Z",
+      "dataAtendimento": "2026-10-30",
+      "nomeCliente": "Ana Costa",
+      "contatoCliente": "+55 12 98200-9616 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27763,5 +27779,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T02:28:41.808Z"
+  "updatedAt": "2026-10-30T13:21:38.036Z"
 }
