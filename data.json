@@ -27968,10 +27968,11 @@
       "produtoInteresse": "",
       "dataVenda": "2026-10-30",
       "valorVenda": "369.00",
-      "numeroPedido": "20757",
-      "statusPagamento": "Pendente",
+      "numeroPedido": "20759",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-30T21:13:13.656Z"
     }
   ],
   "siteVendas": [
@@ -27992,5 +27993,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T20:43:51.429Z"
+  "updatedAt": "2026-10-30T21:13:13.656Z"
 }
