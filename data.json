@@ -27759,6 +27759,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvv04s78ntmlv0",
+      "createdAt": "2026-10-30T13:22:17.156Z",
+      "dataAtendimento": "2026-10-30",
+      "nomeCliente": "Karine",
+      "contatoCliente": "+55 98 8451-1625 ",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Já tem o voucher do Site \n",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27779,5 +27795,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T13:21:38.036Z"
+  "updatedAt": "2026-10-30T13:22:17.913Z"
 }
