@@ -27716,7 +27716,7 @@
       "dataAtendimento": "2026-10-29",
       "nomeCliente": "patrick",
       "contatoCliente": "+55 13 99105-7101",
-      "origem": "Upgrade Site",
+      "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -27724,7 +27724,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-30T01:17:48.518Z"
     }
   ],
   "siteVendas": [
@@ -27745,5 +27746,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T01:17:40.756Z"
+  "updatedAt": "2026-10-30T01:17:48.518Z"
 }
