@@ -27855,6 +27855,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvv0bo4iztnk8j",
+      "createdAt": "2026-10-30T13:27:38.466Z",
+      "dataAtendimento": "2026-10-30",
+      "nomeCliente": "Doarda",
+      "contatoCliente": "+55 49 8404-4469 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27875,5 +27891,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T13:25:18.360Z"
+  "updatedAt": "2026-10-30T13:27:39.901Z"
 }
