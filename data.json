@@ -25653,17 +25653,18 @@
       "id": "rmvns1tsutscc6n",
       "createdAt": "2026-10-25T12:01:39.102Z",
       "dataAtendimento": "2026-10-24",
-      "nomeCliente": "sem nome",
+      "nomeCliente": "FRANCILEIDE",
       "contatoCliente": "+55 11 95500-2161",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-30",
+      "valorVenda": "887.00",
+      "numeroPedido": "20749",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-30T17:28:44.208Z"
     },
     {
       "id": "rmvns9wo0l0bzcq",
@@ -27974,5 +27975,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T17:00:50.048Z"
+  "updatedAt": "2026-10-30T17:28:44.208Z"
 }
