@@ -27956,6 +27956,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvvfwm0f5ckd1y",
+      "createdAt": "2026-10-30T20:43:49.743Z",
+      "dataAtendimento": "2026-10-30",
+      "nomeCliente": "daniel",
+      "contatoCliente": "+55 11 94544-4678",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-30",
+      "valorVenda": "369.00",
+      "numeroPedido": "20757",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -27976,5 +27992,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T18:27:06.217Z"
+  "updatedAt": "2026-10-30T20:43:51.429Z"
 }
