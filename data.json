@@ -27905,6 +27905,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvv4wrr56efcs2",
+      "createdAt": "2026-10-30T15:36:01.409Z",
+      "dataAtendimento": "2026-10-30",
+      "nomeCliente": "~Rildo Peres",
+      "contatoCliente": "+55 51 8111-7079",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-30",
+      "valorVenda": "799.00",
+      "numeroPedido": "20737",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -27925,5 +27941,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T14:51:38.306Z"
+  "updatedAt": "2026-10-30T15:36:02.292Z"
 }
