@@ -27799,14 +27799,15 @@
       "nomeCliente": "Tayane",
       "contatoCliente": "+55 21 95913-6718 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "137.00",
+      "numeroPedido": "20721",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-30T13:41:22.055Z"
     },
     {
       "id": "rmvv07s2j1mrjuy",
@@ -27891,5 +27892,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T13:27:39.901Z"
+  "updatedAt": "2026-10-30T13:41:22.055Z"
 }
