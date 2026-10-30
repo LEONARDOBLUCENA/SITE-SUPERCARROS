@@ -25656,15 +25656,15 @@
       "nomeCliente": "FRANCILEIDE",
       "contatoCliente": "+55 11 95500-2161",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-30",
       "valorVenda": "887.00",
       "numeroPedido": "20749",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-30T17:28:44.208Z"
+      "updatedAt": "2026-10-30T17:51:02.593Z"
     },
     {
       "id": "rmvns9wo0l0bzcq",
@@ -27976,5 +27976,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T17:35:47.331Z"
+  "updatedAt": "2026-10-30T17:51:02.593Z"
 }
