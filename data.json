@@ -27677,6 +27677,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvu92dezafk16k",
+      "createdAt": "2026-10-30T00:44:35.051Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Peterson ",
+      "contatoCliente": "+55 63 8148-9920",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -27697,5 +27713,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T00:44:04.282Z"
+  "updatedAt": "2026-10-30T00:44:35.894Z"
 }
