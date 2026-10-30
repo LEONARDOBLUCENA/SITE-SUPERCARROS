@@ -27568,14 +27568,15 @@
       "nomeCliente": "bruno",
       "contatoCliente": "+55 49 8885-9867",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-10-30",
+      "valorVenda": "1150.00",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-30T17:35:47.330Z"
     },
     {
       "id": "rmvtz135ypczupj",
@@ -27975,5 +27976,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T17:28:44.208Z"
+  "updatedAt": "2026-10-30T17:35:47.331Z"
 }
