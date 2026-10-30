@@ -27645,6 +27645,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-10-29T23:13:29.036Z"
+    },
+    {
+      "id": "rmvu90wqflsi7wy",
+      "createdAt": "2026-10-30T00:43:26.775Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "brenda",
+      "contatoCliente": "+55 21 97083-9689",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -27665,5 +27681,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-29T23:13:29.036Z"
+  "updatedAt": "2026-10-30T00:43:27.982Z"
 }
