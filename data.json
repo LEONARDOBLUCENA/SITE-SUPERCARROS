@@ -27653,15 +27653,15 @@
       "nomeCliente": "brenda",
       "contatoCliente": "+55 21 97083-9689",
       "origem": "WhatsApp",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-10-29",
       "valorVenda": "600.00",
-      "numeroPedido": "#20711",
-      "statusPagamento": "Pendente",
+      "numeroPedido": "20711",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-30T01:23:30.311Z"
+      "updatedAt": "2026-10-30T01:31:08.444Z"
     },
     {
       "id": "rmvu91oyefjdpdp",
@@ -27747,5 +27747,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T01:23:30.311Z"
+  "updatedAt": "2026-10-30T01:31:08.444Z"
 }
