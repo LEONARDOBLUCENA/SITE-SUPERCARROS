@@ -27775,6 +27775,22 @@
       "statusPagamento": "",
       "observacao": "Já tem o voucher do Site \n",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvv059jbpct065",
+      "createdAt": "2026-10-30T13:22:39.623Z",
+      "dataAtendimento": "2026-10-30",
+      "nomeCliente": "Bianca",
+      "contatoCliente": "+55 84 9900-8170 ",
+      "origem": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "Tem passaporte Dreams",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27795,5 +27811,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T13:22:17.913Z"
+  "updatedAt": "2026-10-30T13:22:40.598Z"
 }
