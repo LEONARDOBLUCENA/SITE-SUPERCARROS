@@ -27922,6 +27922,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvv7m72008sqib",
+      "createdAt": "2026-10-30T16:51:46.872Z",
+      "dataAtendimento": "2026-10-30",
+      "nomeCliente": "Souza, G",
+      "contatoCliente": "+55 21 98082-9122 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "282.15",
+      "numeroPedido": "20739",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -27942,5 +27958,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T16:48:52.507Z"
+  "updatedAt": "2026-10-30T16:51:48.372Z"
 }
