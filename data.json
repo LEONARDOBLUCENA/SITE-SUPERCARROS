@@ -27864,14 +27864,15 @@
       "nomeCliente": "Doarda",
       "contatoCliente": "+55 49 8404-4469 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "307.80",
+      "numeroPedido": "20723",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-10-30T14:12:59.833Z"
     },
     {
       "id": "rmvv1jxibpms664",
@@ -27908,5 +27909,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T14:02:04.716Z"
+  "updatedAt": "2026-10-30T14:12:59.836Z"
 }
