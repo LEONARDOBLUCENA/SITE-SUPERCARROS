@@ -27727,6 +27727,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-10-30T01:17:48.518Z"
+    },
+    {
+      "id": "rmvucs8gqd0n8l4",
+      "createdAt": "2026-10-30T02:28:40.538Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "mayara reis",
+      "contatoCliente": "+55 79 9810-6800",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -27747,5 +27763,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T01:31:08.444Z"
+  "updatedAt": "2026-10-30T02:28:41.808Z"
 }
