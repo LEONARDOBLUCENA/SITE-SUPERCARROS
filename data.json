@@ -27981,14 +27981,15 @@
       "nomeCliente": "Nicolas ",
       "contatoCliente": "+55 35 9829-4632",
       "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "3500.00",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-30T21:29:09.106Z"
     }
   ],
   "siteVendas": [
@@ -28009,5 +28010,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T21:28:29.920Z"
+  "updatedAt": "2026-10-30T21:29:09.106Z"
 }
