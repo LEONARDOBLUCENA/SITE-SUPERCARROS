@@ -28239,6 +28239,22 @@
       "vendedoraFinalizou": "bruna",
       "compartilhado": true,
       "updatedAt": "2026-10-31T16:44:23.474Z"
+    },
+    {
+      "id": "rmvwq3bnvvo6v3v",
+      "createdAt": "2026-10-31T18:16:45.259Z",
+      "dataAtendimento": "2026-10-31",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 79 9953-1937",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28259,5 +28275,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T16:44:23.474Z"
+  "updatedAt": "2026-10-31T18:16:46.258Z"
 }
