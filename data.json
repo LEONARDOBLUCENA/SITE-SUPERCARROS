@@ -28204,6 +28204,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvweascbse0b8i",
+      "createdAt": "2026-10-31T12:46:38.075Z",
+      "dataAtendimento": "2026-10-31",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 49 8836-2611",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -28224,5 +28240,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T12:28:36.997Z"
+  "updatedAt": "2026-10-31T12:46:39.182Z"
 }
