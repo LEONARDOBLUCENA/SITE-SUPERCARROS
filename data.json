@@ -28013,15 +28013,16 @@
       "dataAtendimento": "2026-10-30",
       "nomeCliente": "~Isadora Torquato",
       "contatoCliente": "+55 86 9829-8425",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-31T00:52:25.736Z"
     },
     {
       "id": "rmvvoqax7l2xhoo",
@@ -28090,5 +28091,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T00:52:01.678Z"
+  "updatedAt": "2026-10-31T00:52:25.736Z"
 }
