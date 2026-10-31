@@ -28071,6 +28071,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvvot617dcfpus",
+      "createdAt": "2026-10-31T00:53:05.611Z",
+      "dataAtendimento": "2026-10-30",
+      "nomeCliente": "joyce",
+      "contatoCliente": "+55 21 99425-3016",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -28091,5 +28107,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T00:52:25.736Z"
+  "updatedAt": "2026-10-31T00:53:07.111Z"
 }
