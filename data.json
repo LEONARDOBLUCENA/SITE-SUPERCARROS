@@ -26606,14 +26606,15 @@
       "nomeCliente": "Suzane Pereira da Silva",
       "contatoCliente": "+55 81 9772-1944",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "2026-10-27",
       "valorVenda": "137.00",
       "numeroPedido": "20623",
       "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-31T01:47:36.838Z"
     },
     {
       "id": "rmvqytyqmxzql4o",
@@ -28109,5 +28110,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T01:10:12.138Z"
+  "updatedAt": "2026-10-31T01:47:36.839Z"
 }
