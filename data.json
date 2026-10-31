@@ -28229,7 +28229,7 @@
       "contatoCliente": "+595 991 367828",
       "origem": "",
       "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
+      "produtoInteresse": "link externo",
       "dataVenda": "2026-10-31",
       "valorVenda": "188.50",
       "numeroPedido": "",
@@ -28237,7 +28237,8 @@
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-10-31T16:43:50.172Z"
     }
   ],
   "siteVendas": [
@@ -28258,5 +28259,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T16:43:27.053Z"
+  "updatedAt": "2026-10-31T16:43:50.172Z"
 }
