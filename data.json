@@ -28155,6 +28155,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvwdauzqtu9dm0",
+      "createdAt": "2026-10-31T12:18:41.894Z",
+      "dataAtendimento": "2026-10-31",
+      "nomeCliente": "junior",
+      "contatoCliente": "+55 55 9641-8323",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -28175,5 +28191,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T12:18:27.034Z"
+  "updatedAt": "2026-10-31T12:18:43.589Z"
 }
