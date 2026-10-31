@@ -28322,6 +28322,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmvwtn35l927lw4",
+      "createdAt": "2026-10-31T19:56:06.201Z",
+      "dataAtendimento": "2026-10-31",
+      "nomeCliente": "Bianca Costa",
+      "contatoCliente": "+55 27 99726-3248 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28342,5 +28358,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T19:28:10.358Z"
+  "updatedAt": "2026-10-31T19:56:07.184Z"
 }
