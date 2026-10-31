@@ -28232,13 +28232,13 @@
       "produtoInteresse": "link externo",
       "dataVenda": "2026-10-31",
       "valorVenda": "188.50",
-      "numeroPedido": "",
+      "numeroPedido": "#1591",
       "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true,
-      "updatedAt": "2026-10-31T16:43:50.172Z"
+      "updatedAt": "2026-10-31T16:44:23.474Z"
     }
   ],
   "siteVendas": [
@@ -28259,5 +28259,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T16:43:50.172Z"
+  "updatedAt": "2026-10-31T16:44:23.474Z"
 }
