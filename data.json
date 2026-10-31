@@ -27933,15 +27933,15 @@
       "nomeCliente": "santim",
       "contatoCliente": "+55 11 97953-9704",
       "origem": "",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "2313.00",
       "numeroPedido": "",
-      "statusPagamento": "Pago",
+      "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-31T18:50:46.329Z"
+      "updatedAt": "2026-10-31T18:50:57.528Z"
     },
     {
       "id": "rmvvfwm0f5ckd1y",
@@ -28324,5 +28324,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T18:50:46.329Z"
+  "updatedAt": "2026-10-31T18:50:57.528Z"
 }
