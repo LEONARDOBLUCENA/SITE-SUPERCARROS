@@ -28304,6 +28304,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvwsn57ho0cs9h",
+      "createdAt": "2026-10-31T19:28:09.245Z",
+      "dataAtendimento": "2026-10-22",
+      "nomeCliente": "Fernanda ",
+      "contatoCliente": "+55 18 97603-0266",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-31",
+      "valorVenda": "370.50",
+      "numeroPedido": "20799 ",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -28324,5 +28342,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T18:50:57.528Z"
+  "updatedAt": "2026-10-31T19:28:10.358Z"
 }
