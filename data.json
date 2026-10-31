@@ -28220,6 +28220,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvwmrbiuhnbrt5",
+      "createdAt": "2026-10-31T16:43:26.358Z",
+      "dataAtendimento": "2026-10-31",
+      "nomeCliente": "Fio flores",
+      "contatoCliente": "+595 991 367828",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-31",
+      "valorVenda": "188.50",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -28240,5 +28258,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T16:42:48.365Z"
+  "updatedAt": "2026-10-31T16:43:27.053Z"
 }
