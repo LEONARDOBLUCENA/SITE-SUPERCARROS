@@ -28098,14 +28098,15 @@
       "nomeCliente": "Lucas",
       "contatoCliente": "+55 31 9590-8634",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "240.00",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "numeroPedido": "20773",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-31T03:25:35.796Z"
     }
   ],
   "siteVendas": [
@@ -28126,5 +28127,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T02:52:30.612Z"
+  "updatedAt": "2026-10-31T03:25:35.796Z"
 }
