@@ -28338,6 +28338,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvwvecio10v4mq",
+      "createdAt": "2026-10-31T20:45:17.664Z",
+      "dataAtendimento": "2026-10-31",
+      "nomeCliente": "Nícolas",
+      "contatoCliente": "+55 35 9829-4632 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "47.50",
+      "numeroPedido": "20801",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28358,5 +28374,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T19:56:07.184Z"
+  "updatedAt": "2026-10-31T20:45:19.351Z"
 }
