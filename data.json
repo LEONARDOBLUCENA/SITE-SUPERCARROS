@@ -28102,11 +28102,11 @@
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "240.00",
-      "numeroPedido": "20773",
+      "numeroPedido": "20775",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-31T03:25:35.796Z"
+      "updatedAt": "2026-10-31T03:31:14.832Z"
     }
   ],
   "siteVendas": [
@@ -28127,5 +28127,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T03:25:35.796Z"
+  "updatedAt": "2026-10-31T03:31:14.832Z"
 }
