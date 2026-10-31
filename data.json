@@ -28147,15 +28147,15 @@
       "nomeCliente": "iran",
       "contatoCliente": "+55 22 98168-3155",
       "origem": "WhatsApp",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-10-31",
       "valorVenda": "186.50",
       "numeroPedido": "20779",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-31T12:25:48.259Z"
+      "updatedAt": "2026-10-31T16:18:43.266Z"
     },
     {
       "id": "rmvwdauzqtu9dm0",
@@ -28256,5 +28256,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T13:34:22.847Z"
+  "updatedAt": "2026-10-31T16:18:43.266Z"
 }
