@@ -28123,6 +28123,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvwda5yknrybia",
+      "createdAt": "2026-10-31T12:18:09.452Z",
+      "dataAtendimento": "2026-10-31",
+      "nomeCliente": "niro",
+      "contatoCliente": "+55 98 8440-6612",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -28143,5 +28159,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T12:17:51.028Z"
+  "updatedAt": "2026-10-31T12:18:11.046Z"
 }
