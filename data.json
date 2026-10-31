@@ -28064,14 +28064,15 @@
       "nomeCliente": "ariane",
       "contatoCliente": "+55 21 99271-2982",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-10-30",
+      "valorVenda": "99.00",
+      "numeroPedido": "20769",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-10-31T01:10:12.138Z"
     },
     {
       "id": "rmvvot617dcfpus",
@@ -28108,5 +28109,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T00:53:29.065Z"
+  "updatedAt": "2026-10-31T01:10:12.138Z"
 }
