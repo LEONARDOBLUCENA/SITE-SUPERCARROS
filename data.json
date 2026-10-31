@@ -26427,7 +26427,7 @@
       "nomeCliente": "lorran",
       "contatoCliente": "+55 82 9674-8710",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "2026-10-27",
       "valorVenda": "250.00",
@@ -26435,7 +26435,7 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-27T21:45:05.889Z"
+      "updatedAt": "2026-10-31T01:47:45.000Z"
     },
     {
       "id": "rmvqrzl3h8lc83q",
@@ -28110,5 +28110,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T01:47:36.839Z"
+  "updatedAt": "2026-10-31T01:47:45.000Z"
 }
