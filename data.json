@@ -28287,6 +28287,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvwq638p482ex8",
+      "createdAt": "2026-10-31T18:18:54.314Z",
+      "dataAtendimento": "2026-10-31",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 55 9914-7281",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28307,5 +28323,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-31T18:18:40.214Z"
+  "updatedAt": "2026-10-31T18:18:55.065Z"
 }
