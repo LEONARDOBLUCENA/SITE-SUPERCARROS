@@ -28006,6 +28006,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmvvopx4qifn60a",
+      "createdAt": "2026-10-31T00:50:34.106Z",
+      "dataAtendimento": "2026-10-30",
+      "nomeCliente": "~Isadora Torquato",
+      "contatoCliente": "+55 86 9829-8425",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -28026,5 +28042,5 @@
       "updatedAt": "2026-10-29T12:57:26.012Z"
     }
   ],
-  "updatedAt": "2026-10-30T22:21:01.570Z"
+  "updatedAt": "2026-10-31T00:50:35.176Z"
 }
