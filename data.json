@@ -28791,6 +28791,24 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-11-01T17:48:49.090Z"
+    },
+    {
+      "id": "rmvy4oosbdjjp5g",
+      "createdAt": "2026-11-01T17:53:02.843Z",
+      "dataAtendimento": "2026-10-30",
+      "nomeCliente": "Luca Delducas Santim",
+      "contatoCliente": "(11) 97953-9704",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-01",
+      "valorVenda": "2313.00",
+      "numeroPedido": "20853",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -28811,5 +28829,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:50:43.368Z"
+  "updatedAt": "2026-11-01T17:53:04.112Z"
 }
