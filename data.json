@@ -28362,14 +28362,15 @@
       "nomeCliente": "Amanda",
       "contatoCliente": "+55 21 99427-6865 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "640.00",
+      "numeroPedido": "20859",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-01T18:23:29.388Z"
     },
     {
       "id": "rmvy3w0khda8hld",
@@ -28845,5 +28846,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:57:40.800Z"
+  "updatedAt": "2026-11-01T18:23:29.388Z"
 }
