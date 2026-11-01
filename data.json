@@ -28522,14 +28522,15 @@
       "nomeCliente": "Willian Rosa",
       "contatoCliente": "+55 48 8457-7327 ",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-01T17:35:57.439Z"
     },
     {
       "id": "rmvy3zitco11dp7",
@@ -28678,5 +28679,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:35:48.490Z"
+  "updatedAt": "2026-11-01T17:35:57.439Z"
 }
