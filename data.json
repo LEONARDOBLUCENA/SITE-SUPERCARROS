@@ -28594,6 +28594,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvy41bn6rtubel",
+      "createdAt": "2026-11-01T17:34:52.722Z",
+      "dataAtendimento": "2026-11-01",
+      "nomeCliente": "Letícia Fecury",
+      "contatoCliente": "+55 98 8116-0044 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28614,5 +28630,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:34:25.538Z"
+  "updatedAt": "2026-11-01T17:34:53.935Z"
 }
