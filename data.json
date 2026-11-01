@@ -28675,6 +28675,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvy43l957ospcf",
+      "createdAt": "2026-11-01T17:36:38.489Z",
+      "dataAtendimento": "2026-11-01",
+      "nomeCliente": "Anna",
+      "contatoCliente": "+55 31 9163-2117 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28695,5 +28711,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:36:15.130Z"
+  "updatedAt": "2026-11-01T17:36:39.780Z"
 }
