@@ -28440,17 +28440,18 @@
       "id": "rmvy3xijojjqmdd",
       "createdAt": "2026-11-01T17:31:55.044Z",
       "dataAtendimento": "2026-11-01",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Tainá Pancotto",
       "contatoCliente": "+55 54 9627-0456",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "564.30",
+      "numeroPedido": "20861",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-01T19:00:11.537Z"
     },
     {
       "id": "rmvy3xt98stzv6m",
@@ -28846,5 +28847,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T18:23:29.388Z"
+  "updatedAt": "2026-11-01T19:00:11.538Z"
 }
