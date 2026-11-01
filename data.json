@@ -28780,14 +28780,15 @@
       "nomeCliente": "Guilherme Herbert",
       "contatoCliente": "+55 49 8804-9845 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "297.00",
+      "numeroPedido": "20857",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-01T17:48:49.090Z"
     }
   ],
   "siteVendas": [
@@ -28808,5 +28809,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:44:33.987Z"
+  "updatedAt": "2026-11-01T17:48:49.090Z"
 }
