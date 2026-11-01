@@ -28514,6 +28514,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvy3z67bv1ldsq",
+      "createdAt": "2026-11-01T17:33:12.359Z",
+      "dataAtendimento": "2026-11-01",
+      "nomeCliente": "Willian Rosa",
+      "contatoCliente": "+55 48 8457-7327 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28534,5 +28550,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:32:57.266Z"
+  "updatedAt": "2026-11-01T17:33:14.429Z"
 }
