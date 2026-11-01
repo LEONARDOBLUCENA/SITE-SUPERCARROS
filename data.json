@@ -28578,6 +28578,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvy40pyes01dve",
+      "createdAt": "2026-11-01T17:34:24.614Z",
+      "dataAtendimento": "2026-11-01",
+      "nomeCliente": "Gustavo",
+      "contatoCliente": "+55 41 9924-2992 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28598,5 +28614,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:34:09.036Z"
+  "updatedAt": "2026-11-01T17:34:25.538Z"
 }
