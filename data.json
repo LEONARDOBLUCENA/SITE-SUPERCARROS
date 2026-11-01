@@ -28354,6 +28354,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvy3vdmwel7sjl",
+      "createdAt": "2026-11-01T17:30:15.368Z",
+      "dataAtendimento": "2026-11-01",
+      "nomeCliente": "Amanda",
+      "contatoCliente": "+55 21 99427-6865 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28374,5 +28390,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T13:46:19.584Z"
+  "updatedAt": "2026-11-01T17:30:16.391Z"
 }
