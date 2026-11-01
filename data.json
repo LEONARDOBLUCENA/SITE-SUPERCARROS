@@ -28698,17 +28698,18 @@
       "id": "rmvy440gqywmzd0",
       "createdAt": "2026-11-01T17:36:58.202Z",
       "dataAtendimento": "2026-11-01",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Joel Spagnollo",
       "contatoCliente": "+55 54 9906-0729",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "177.17",
+      "numeroPedido": "20851",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-01T17:50:43.368Z"
     },
     {
       "id": "rmvy44j951er6be",
@@ -28810,5 +28811,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:49:46.492Z"
+  "updatedAt": "2026-11-01T17:50:43.368Z"
 }
