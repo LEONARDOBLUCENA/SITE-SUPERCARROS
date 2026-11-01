@@ -28562,6 +28562,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvy40d1eazrgje",
+      "createdAt": "2026-11-01T17:34:07.874Z",
+      "dataAtendimento": "2026-11-01",
+      "nomeCliente": "Caroline Matsunaga",
+      "contatoCliente": "+55 11 96434-1804 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28582,5 +28598,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:33:50.507Z"
+  "updatedAt": "2026-11-01T17:34:09.036Z"
 }
