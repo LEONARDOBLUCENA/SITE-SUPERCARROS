@@ -28809,6 +28809,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmvy4ume3cw4cya",
+      "createdAt": "2026-11-01T17:57:39.675Z",
+      "dataAtendimento": "2026-11-01",
+      "nomeCliente": "Ana Carolina Dos Santos",
+      "contatoCliente": "+55 51 98037-4202",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28829,5 +28845,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:53:04.112Z"
+  "updatedAt": "2026-11-01T17:57:40.800Z"
 }
