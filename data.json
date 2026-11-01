@@ -28587,14 +28587,15 @@
       "nomeCliente": "Gustavo",
       "contatoCliente": "+55 41 9924-2992 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "190.00",
+      "numeroPedido": "20843",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-01T17:44:33.987Z"
     },
     {
       "id": "rmvy41bn6rtubel",
@@ -28807,5 +28808,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T17:41:30.204Z"
+  "updatedAt": "2026-11-01T17:44:33.987Z"
 }
