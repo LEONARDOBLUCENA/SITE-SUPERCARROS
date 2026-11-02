@@ -24252,14 +24252,15 @@
       "nomeCliente": "Tilda",
       "contatoCliente": "+55 54 9605-0256 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-02",
+      "valorVenda": "130.15",
+      "numeroPedido": "20897",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-02T13:24:09.053Z"
     },
     {
       "id": "rmvjk7v9zoy6f5v",
@@ -28847,5 +28848,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-01T19:00:11.538Z"
+  "updatedAt": "2026-11-02T13:24:09.053Z"
 }
