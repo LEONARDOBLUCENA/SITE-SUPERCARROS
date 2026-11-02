@@ -28910,6 +28910,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvzde7sileab66",
+      "createdAt": "2026-11-02T14:44:36.978Z",
+      "dataAtendimento": "2026-11-02",
+      "nomeCliente": "Flavia",
+      "contatoCliente": "+55 37 9864-9231 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28930,5 +28946,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T14:44:22.759Z"
+  "updatedAt": "2026-11-02T14:44:41.304Z"
 }
