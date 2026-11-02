@@ -29182,6 +29182,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvzpiscky51lmf",
+      "createdAt": "2026-11-02T20:24:05.636Z",
+      "dataAtendimento": "2026-11-02",
+      "nomeCliente": "Beatriz De Jesus",
+      "contatoCliente": "+55 11 98336-7978 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "551.00",
+      "numeroPedido": "20931",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -29202,5 +29218,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T20:08:15.899Z"
+  "updatedAt": "2026-11-02T20:24:06.587Z"
 }
