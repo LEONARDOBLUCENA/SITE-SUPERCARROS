@@ -28926,6 +28926,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvzdeja1q5chty",
+      "createdAt": "2026-11-02T14:44:51.865Z",
+      "dataAtendimento": "2026-11-02",
+      "nomeCliente": "Renan Rufino",
+      "contatoCliente": "+55 47 9105-7973 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28946,5 +28962,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T14:44:41.304Z"
+  "updatedAt": "2026-11-02T14:44:55.411Z"
 }
