@@ -28846,6 +28846,22 @@
       "observacao": "Tem voucher Porsche ",
       "vendedora": "bruna",
       "updatedAt": "2026-11-02T14:42:24.582Z"
+    },
+    {
+      "id": "rmvzdch319hqd7x",
+      "createdAt": "2026-11-02T14:43:15.709Z",
+      "dataAtendimento": "2026-11-02",
+      "nomeCliente": "Antônio Marcos",
+      "contatoCliente": "+55 37 9122-2333 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28866,5 +28882,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T14:42:24.582Z"
+  "updatedAt": "2026-11-02T14:43:17.384Z"
 }
