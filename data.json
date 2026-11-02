@@ -28837,14 +28837,15 @@
       "nomeCliente": "Sem nome ",
       "contatoCliente": "+55 85 8809-2825",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "bruna"
+      "observacao": "Tem voucher Porsche ",
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-02T14:42:24.582Z"
     }
   ],
   "siteVendas": [
@@ -28865,5 +28866,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T14:40:16.532Z"
+  "updatedAt": "2026-11-02T14:42:24.582Z"
 }
