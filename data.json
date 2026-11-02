@@ -28958,6 +28958,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvzdfwr6iljlic",
+      "createdAt": "2026-11-02T14:45:55.986Z",
+      "dataAtendimento": "2026-11-02",
+      "nomeCliente": "Rodrigo Cavalcante",
+      "contatoCliente": "+55 82 9914-2772 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28978,5 +28994,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T14:45:32.672Z"
+  "updatedAt": "2026-11-02T14:45:57.624Z"
 }
