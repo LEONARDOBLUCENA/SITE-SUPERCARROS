@@ -28862,6 +28862,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvzdd4tcuwm22j",
+      "createdAt": "2026-11-02T14:43:46.464Z",
+      "dataAtendimento": "2026-11-02",
+      "nomeCliente": "Fernanda Albuquerque",
+      "contatoCliente": "+55 31 8697-9594 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -28882,5 +28898,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T14:43:17.384Z"
+  "updatedAt": "2026-11-02T14:43:48.111Z"
 }
