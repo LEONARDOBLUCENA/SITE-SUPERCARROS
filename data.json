@@ -29118,6 +29118,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvzdjvmu6m5bzw",
+      "createdAt": "2026-11-02T14:49:01.158Z",
+      "dataAtendimento": "2026-11-02",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 83 92145-7725",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -29138,5 +29154,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T14:48:43.349Z"
+  "updatedAt": "2026-11-02T14:49:02.961Z"
 }
