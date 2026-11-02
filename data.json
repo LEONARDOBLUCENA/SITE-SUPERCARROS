@@ -28734,17 +28734,18 @@
       "id": "rmvy44tijhmihzy",
       "createdAt": "2026-11-01T17:37:35.851Z",
       "dataAtendimento": "2026-11-01",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Vinicius ",
       "contatoCliente": "+55 31 9773-8523",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-02",
+      "valorVenda": "594.00",
+      "numeroPedido": "20911",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-02T13:55:25.591Z"
     },
     {
       "id": "rmvy45phwt1rjx5",
@@ -28848,5 +28849,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T13:24:09.053Z"
+  "updatedAt": "2026-11-02T13:55:25.591Z"
 }
