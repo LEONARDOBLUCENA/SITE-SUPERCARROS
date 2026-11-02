@@ -29150,6 +29150,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmvzhjalq7mmsjt",
+      "createdAt": "2026-11-02T16:40:32.366Z",
+      "dataAtendimento": "2026-10-29",
+      "nomeCliente": "Fernanda Loreto",
+      "contatoCliente": "+55 85 8752-2220 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-02",
+      "valorVenda": "47.50",
+      "numeroPedido": "20921",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -29170,5 +29186,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T14:49:19.639Z"
+  "updatedAt": "2026-11-02T16:40:33.746Z"
 }
