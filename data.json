@@ -29359,6 +29359,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw0uvxn9ugoike",
+      "createdAt": "2026-11-03T15:42:03.285Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "Tamires",
+      "contatoCliente": "+55 88 9775-6585",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29386,5 +29402,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-03T15:09:00.416Z"
+  "updatedAt": "2026-11-03T15:42:04.154Z"
 }
