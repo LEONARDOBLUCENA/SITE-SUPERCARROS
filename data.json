@@ -29473,6 +29473,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw143yw1k614e5",
+      "createdAt": "2026-11-03T20:00:14.689Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "yago",
+      "contatoCliente": "+55 69 9914-7112",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-03",
+      "valorVenda": "297.00",
+      "numeroPedido": "20959",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29500,5 +29516,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-03T18:57:13.139Z"
+  "updatedAt": "2026-11-03T20:00:15.446Z"
 }
