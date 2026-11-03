@@ -29283,17 +29283,18 @@
       "id": "rmw0r1btck0ly3j",
       "createdAt": "2026-11-03T13:54:16.464Z",
       "dataAtendimento": "2026-11-03",
-      "nomeCliente": "renaly",
+      "nomeCliente": "Renally",
       "contatoCliente": "+55 83 9814-2124",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-03T13:54:28.055Z"
     }
   ],
   "siteVendas": [
@@ -29314,5 +29315,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-03T13:54:17.494Z"
+  "updatedAt": "2026-11-03T13:54:28.055Z"
 }
