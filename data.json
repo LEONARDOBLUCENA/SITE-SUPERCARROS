@@ -29490,6 +29490,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-03T20:00:38.542Z"
+    },
+    {
+      "id": "rmw14fht4ycmjdh",
+      "createdAt": "2026-11-03T20:09:12.424Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "wanderson",
+      "contatoCliente": "+55 32 8445-7226",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29517,5 +29533,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-03T20:00:38.542Z"
+  "updatedAt": "2026-11-03T20:09:13.616Z"
 }
