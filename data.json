@@ -29408,6 +29408,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw0zyg1uaawiuu",
+      "createdAt": "2026-11-03T18:03:58.530Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "~Emanuela Silva",
+      "contatoCliente": "+55 84 8822-3323",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29435,5 +29451,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-03T17:30:57.306Z"
+  "updatedAt": "2026-11-03T18:03:59.582Z"
 }
