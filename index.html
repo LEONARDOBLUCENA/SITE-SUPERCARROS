@@ -1299,7 +1299,7 @@
             '<select class="dash-filters-select" data-role="fixed-commission-filter-month"></select>' +
           '</div>' +
         '</div>' +
-        '<p class="commission-note">Comissão fixa, sem participação no Site Direto: Thabata 3,2% e André 2,4% sobre o Faturamento total do mês (mesmo valor cadastrado abaixo em "Vendas do Site"). Modelo aprovado (planilha v11, aba Regras).</p>' +
+        '<p class="commission-note">Comissão fixa, sem participação no Site Direto: Thabata 3,2% e André 2,4% sobre o Faturamento total do mês (venda própria Bruna + venda própria Gisele + Site Direto — mesma composição da aba Simulador da planilha). Modelo aprovado (planilha v11, aba Regras).</p>' +
         '<div class="commission-body" data-role="fixed-commission-body"></div>' +
       '</div>'
     );
@@ -1339,11 +1339,11 @@
     var now = new Date();
     var isCurrentMonth = (year === now.getFullYear() && month === now.getMonth() + 1);
 
-    var faturamentoTotal = siteVendaTotal(year, month);
+    var faturamentoTotal = monthFaturamentoTotal(year, month);
 
     var statusMsg = '<div class="commission-next">' +
       (isCurrentMonth ? 'Acompanhamento em tempo real de ' : 'Mês encerrado — valores finais de ') +
-      MESES_LONG[month-1] + '/' + year + '. Faturamento total do mês: <strong>' + fmtBRL(faturamentoTotal) + '</strong>' +
+      MESES_LONG[month-1] + '/' + year + '. Faturamento total do mês (venda própria Bruna + venda própria Gisele + Site Direto): <strong>' + fmtBRL(faturamentoTotal) + '</strong>' +
       (faturamentoTotal <= 0 ? ' — confira se o cadastro de "Vendas do Site" deste mês já foi feito.' : '.') +
       '</div>';
 
@@ -1735,6 +1735,22 @@
     var outros = vendorOutrosTotals(year, month);
     var outrosSum = VENDORS.reduce(function(sum, v){ return sum + outros[v.key]; }, 0);
     return siteTotal - outrosSum;
+  }
+  // "Faturamento total" do mês (base da comissão fixa de Thabata e André) =
+  // Venda própria da Bruna (Pago, todas as origens) + Venda própria da
+  // Gisele (Pago, todas as origens) + Site Direto do mês — mesma composição
+  // da aba "Simulador" da planilha v11 (D4:E6: Bruna + Gisele + "Venda
+  // direta do site" = Faturamento total). NÃO é o mesmo número bruto
+  // cadastrado em "Vendas do Site": esse valor inclui vendas de origem
+  // "Evento" da Bruna/Gisele, que entram na venda própria delas mas são
+  // excluídas do cálculo de Site Direto — por isso os dois números diferem.
+  // Confirmado com dados reais de Out/2026 (Leonardo, 03/11/2026): Bruna
+  // 52.656,47 + Gisele 61.448,42 + Site Direto 71.159,81 = 185.264,70,
+  // batendo com o B4 "Faturamento total FIXO" da planilha.
+  function monthFaturamentoTotal(year, month){
+    return vendorMonthSalesTotal("bruna", year, month) +
+      vendorMonthSalesTotal("gisele", year, month) +
+      monthSiteDireto(year, month);
   }
 
   function vendorRecordsPeriod(key, opts){
