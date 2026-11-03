@@ -29278,6 +29278,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw0r1btck0ly3j",
+      "createdAt": "2026-11-03T13:54:16.464Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "renaly",
+      "contatoCliente": "+55 83 9814-2124",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29298,5 +29314,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-03T13:44:00.487Z"
+  "updatedAt": "2026-11-03T13:54:17.494Z"
 }
