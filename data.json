@@ -29477,7 +29477,7 @@
     {
       "id": "rmw143yw1k614e5",
       "createdAt": "2026-11-03T20:00:14.689Z",
-      "dataAtendimento": "2026-11-03",
+      "dataAtendimento": "2026-10-27",
       "nomeCliente": "yago",
       "contatoCliente": "+55 69 9914-7112",
       "origem": "Upgrade Site",
@@ -29488,7 +29488,8 @@
       "numeroPedido": "20959",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-03T20:00:38.542Z"
     }
   ],
   "siteVendas": [
@@ -29516,5 +29517,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-03T20:00:15.446Z"
+  "updatedAt": "2026-11-03T20:00:38.542Z"
 }
