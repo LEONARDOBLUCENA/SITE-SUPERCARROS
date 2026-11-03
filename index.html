@@ -693,6 +693,7 @@
     filters: {}, // vendorKey -> { year, month, origem }
     originMetric: {}, // vendorKey -> "count" | "valor"
     commissionFilters: {}, // vendorKey -> { year, month } (seção de Comissão do mês)
+    fixedCommissionFilter: {}, // { year, month } (seção de Comissão fixa — Thabata e André)
     dashFilters: { year: "", month: "" } // filtro selecionado no dashboard (para os novos KPIs)
   };
 
@@ -1175,6 +1176,7 @@
           '</div>' +
         '</form>' +
         (COMMISSION_VENDORS.indexOf(v.key) !== -1 ? commissionSectionHtml(v) : "") +
+        (v.key === "thabata" ? fixedCommissionSectionHtml() : "") +
         (v.key === "thabata" ? siteVendasSectionHtml() : "") +
         '<div class="vendor-layout">' +
           '<div class="vendor-main">' +
@@ -1256,6 +1258,115 @@
         '<div class="commission-body" data-role="commission-body"></div>' +
       '</div>'
     );
+  }
+
+  // ---------------------------------------------------------------------
+  // Seção de comissão fixa — Thabata e André (aba Thabata)
+  // Regra fixa (planilha "Simulador v11" / aba "Regras"): % fixo sobre o
+  // "Faturamento total" do mês, sem participação no Site Direto (coluna
+  // "Participa site?" = NÃO na planilha). "Faturamento total" = o mesmo
+  // valor que a Thabata cadastra em "Vendas do Site" (campo "Venda Total"),
+  // que já alimenta o KPI do Dashboard — não é um novo dado a cadastrar.
+  // Aprovado por Leonardo em 03/11/2026, revertendo a exclusão anterior de
+  // André/Thabata do acompanhamento de comissão no app.
+  // ---------------------------------------------------------------------
+  var FIXED_COMMISSION_PEOPLE = [
+    { key: "thabata", name: "Thabata", rate: 0.032, varc: "--thabata" },
+    { key: "andre",   name: "André",   rate: 0.024, varc: "--accent"  }
+  ];
+
+  function computeFixedCommission(faturamentoTotal, rate){
+    faturamentoTotal = Number(faturamentoTotal) || 0;
+    return faturamentoTotal * rate;
+  }
+
+  function siteVendasAvailableYears(){
+    var years = {};
+    state.siteVendas.forEach(function(sv){ if(sv.ano) years[String(sv.ano)] = true; });
+    var arr = Object.keys(years);
+    var currentYear = String(new Date().getFullYear());
+    if(arr.indexOf(currentYear) === -1) arr.push(currentYear);
+    return arr.sort();
+  }
+
+  function fixedCommissionSectionHtml(){
+    return (
+      '<div class="card commission-card" data-role="fixed-commission-card">' +
+        '<div class="list-head" style="margin-bottom:4px;">' +
+          '<h2>💰 Comissão — Thabata e André</h2>' +
+          '<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">' +
+            '<select class="dash-filters-select" data-role="fixed-commission-filter-year"></select>' +
+            '<select class="dash-filters-select" data-role="fixed-commission-filter-month"></select>' +
+          '</div>' +
+        '</div>' +
+        '<p class="commission-note">Comissão fixa, sem participação no Site Direto: Thabata 3,2% e André 2,4% sobre o Faturamento total do mês (mesmo valor cadastrado abaixo em "Vendas do Site"). Modelo aprovado (planilha v11, aba Regras).</p>' +
+        '<div class="commission-body" data-role="fixed-commission-body"></div>' +
+      '</div>'
+    );
+  }
+
+  function populateFixedCommissionFilters(){
+    var panel = document.getElementById("panel-thabata");
+    if(!panel) return;
+    var yearSel = panel.querySelector('[data-role="fixed-commission-filter-year"]');
+    var monthSel = panel.querySelector('[data-role="fixed-commission-filter-month"]');
+    if(!yearSel || !monthSel) return;
+
+    var now = new Date();
+    var cf = state.fixedCommissionFilter;
+    if(!cf.year || !cf.month){
+      cf.year = String(now.getFullYear());
+      cf.month = String(now.getMonth() + 1);
+    }
+
+    var years = siteVendasAvailableYears();
+    yearSel.innerHTML = years.map(function(y){ return '<option value="'+y+'">'+y+'</option>'; }).join("");
+    monthSel.innerHTML = MESES_LONG.map(function(m,i){ return '<option value="'+(i+1)+'">'+m+'</option>'; }).join("");
+    yearSel.value = cf.year;
+    monthSel.value = cf.month;
+  }
+
+  function renderFixedCommissionSection(){
+    var panel = document.getElementById("panel-thabata");
+    if(!panel) return;
+    var host = panel.querySelector('[data-role="fixed-commission-body"]');
+    if(!host) return;
+
+    populateFixedCommissionFilters();
+    var cf = state.fixedCommissionFilter;
+    var year = Number(cf.year);
+    var month = Number(cf.month);
+    var now = new Date();
+    var isCurrentMonth = (year === now.getFullYear() && month === now.getMonth() + 1);
+
+    var faturamentoTotal = siteVendaTotal(year, month);
+
+    var statusMsg = '<div class="commission-next">' +
+      (isCurrentMonth ? 'Acompanhamento em tempo real de ' : 'Mês encerrado — valores finais de ') +
+      MESES_LONG[month-1] + '/' + year + '. Faturamento total do mês: <strong>' + fmtBRL(faturamentoTotal) + '</strong>' +
+      (faturamentoTotal <= 0 ? ' — confira se o cadastro de "Vendas do Site" deste mês já foi feito.' : '.') +
+      '</div>';
+
+    var maxValor = Math.max.apply(null, FIXED_COMMISSION_PEOPLE.map(function(p){
+      return computeFixedCommission(faturamentoTotal, p.rate);
+    }).concat([1]));
+
+    var brackets = FIXED_COMMISSION_PEOPLE.map(function(p){
+      var valor = computeFixedCommission(faturamentoTotal, p.rate);
+      var pct = valor > 0 ? Math.max((valor / maxValor) * 100, 3) : 0;
+      return (
+        '<div class="commission-bracket' + (valor > 0 ? ' active' : '') + '">' +
+          '<div class="top">' +
+            '<span class="label">' + escapeHtml(p.name) + '</span>' +
+            '<span class="value num">' + fmtBRL(valor) + '</span>' +
+          '</div>' +
+          '<div class="commission-bar-track"><div class="commission-bar-fill" style="width:' + pct + '%;background:var(' + p.varc + ')"></div></div>' +
+          '<div class="sub">' + (p.rate*100).toFixed(1).replace(".",",") + '% sobre o Faturamento total (' + fmtBRL(faturamentoTotal) + ')</div>' +
+        '</div>'
+      );
+    }).join("");
+
+    host.innerHTML = statusMsg + '<div class="commission-brackets">' + brackets + '</div>';
   }
 
   // Cadastro de vendas do site (aba Vendas Thabata)
@@ -1909,6 +2020,7 @@
     renderStatusSummary(v);
     renderOriginChart(v);
     renderCommissionSection(v);
+    if(v.key === "thabata") renderFixedCommissionSection();
     var list = recordsForVendor(v.key);
     panel.querySelector('[data-role="count"]').textContent =
       list.length + (list.length === 1 ? " lançamento" : " lançamentos");
@@ -2163,6 +2275,19 @@
           state.commissionFilters[v.key] = state.commissionFilters[v.key] || {};
           state.commissionFilters[v.key].month = ev.target.value;
           renderCommissionSection(v);
+        });
+      }
+
+      var fixedCommYearSel = panel.querySelector('[data-role="fixed-commission-filter-year"]');
+      var fixedCommMonthSel = panel.querySelector('[data-role="fixed-commission-filter-month"]');
+      if(fixedCommYearSel && fixedCommMonthSel){
+        fixedCommYearSel.addEventListener("change", function(ev){
+          state.fixedCommissionFilter.year = ev.target.value;
+          renderFixedCommissionSection();
+        });
+        fixedCommMonthSel.addEventListener("change", function(ev){
+          state.fixedCommissionFilter.month = ev.target.value;
+          renderFixedCommissionSection();
         });
       }
 
