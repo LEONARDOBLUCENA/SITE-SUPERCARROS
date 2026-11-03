@@ -29415,15 +29415,16 @@
       "dataAtendimento": "2026-11-03",
       "nomeCliente": "~Emanuela Silva",
       "contatoCliente": "+55 84 8822-3323",
-      "origem": "Cara de Mau",
-      "statusAtendimento": "Dúvidas",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-03",
+      "valorVenda": "99.00",
+      "numeroPedido": "20955",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-03T18:40:57.072Z"
     },
     {
       "id": "rmw10ur9syhxxh4",
@@ -29467,5 +29468,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-03T18:29:07.126Z"
+  "updatedAt": "2026-11-03T18:40:57.072Z"
 }
