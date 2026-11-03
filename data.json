@@ -29246,6 +29246,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw0ot902ytfdzx",
+      "createdAt": "2026-11-03T12:52:00.338Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "abreu",
+      "contatoCliente": "+55 21 96855-9469",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29266,5 +29282,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-03T12:51:35.868Z"
+  "updatedAt": "2026-11-03T12:52:01.186Z"
 }
