@@ -29214,6 +29214,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw0os4lbdkipi8",
+      "createdAt": "2026-11-03T12:51:07.967Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "Lidia",
+      "contatoCliente": "+55 85 9649-1940",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29234,5 +29250,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-03T12:50:48.349Z"
+  "updatedAt": "2026-11-03T12:51:08.772Z"
 }
