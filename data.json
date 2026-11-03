@@ -29198,6 +29198,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw0orof2ikbuub",
+      "createdAt": "2026-11-03T12:50:47.006Z",
+      "dataAtendimento": "2026-10-31",
+      "nomeCliente": "carmen",
+      "contatoCliente": "+55 81 9930-9036",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29218,5 +29234,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-02T20:24:06.587Z"
+  "updatedAt": "2026-11-03T12:50:48.349Z"
 }
