@@ -29335,14 +29335,15 @@
       "nomeCliente": "alan",
       "contatoCliente": "+55 65 9297-9164",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-03",
+      "valorVenda": "490.00",
+      "numeroPedido": "20947",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-03T16:00:38.084Z"
     },
     {
       "id": "rmw0tpf41i57xdf",
@@ -29402,5 +29403,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-03T15:42:04.154Z"
+  "updatedAt": "2026-11-03T16:00:38.084Z"
 }
