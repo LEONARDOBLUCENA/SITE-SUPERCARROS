@@ -29311,6 +29311,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw0savmbmgk4ah",
+      "createdAt": "2026-11-03T14:29:41.651Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "~T’amai Treichel",
+      "contatoCliente": "+55 51 9357-4081",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29331,5 +29347,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-03T14:24:50.746Z"
+  "updatedAt": "2026-11-03T14:29:42.527Z"
 }
