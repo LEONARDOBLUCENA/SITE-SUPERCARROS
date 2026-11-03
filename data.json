@@ -29295,6 +29295,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-03T13:54:28.055Z"
+    },
+    {
+      "id": "rmw0s4mhhzowpw0",
+      "createdAt": "2026-11-03T14:24:49.877Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "Cristiano seabra",
+      "contatoCliente": "+55 34 9979-9174",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29315,5 +29331,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-03T13:54:28.055Z"
+  "updatedAt": "2026-11-03T14:24:50.746Z"
 }
