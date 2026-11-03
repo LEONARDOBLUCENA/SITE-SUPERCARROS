@@ -29262,6 +29262,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw0qo3edbgepz9",
+      "createdAt": "2026-11-03T13:43:59.029Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "Amanda",
+      "contatoCliente": "+55 33 9878-6358",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29282,5 +29298,5 @@
       "updatedAt": "2026-11-01T13:46:19.584Z"
     }
   ],
-  "updatedAt": "2026-11-03T12:52:01.186Z"
+  "updatedAt": "2026-11-03T13:44:00.487Z"
 }
