@@ -29522,6 +29522,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw14twhswfqqeg",
+      "createdAt": "2026-11-03T20:20:24.640Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "victor",
+      "contatoCliente": "+971 58 696 4299",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29549,5 +29565,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-03T20:20:07.003Z"
+  "updatedAt": "2026-11-03T20:20:25.512Z"
 }
