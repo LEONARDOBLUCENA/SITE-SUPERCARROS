@@ -29546,15 +29546,15 @@
       "nomeCliente": "Eduarda",
       "contatoCliente": "+55 51 8440-6095",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-03",
       "valorVenda": "396.00",
       "numeroPedido": "20961",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-04T01:22:55.224Z"
+      "updatedAt": "2026-11-04T01:38:08.399Z"
     },
     {
       "id": "rmw1e826tfdef86",
@@ -29630,5 +29630,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T01:24:00.275Z"
+  "updatedAt": "2026-11-04T01:38:08.399Z"
 }
