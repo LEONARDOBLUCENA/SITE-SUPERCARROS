@@ -29643,7 +29643,7 @@
       "id": "rmw225ymg14tu4d",
       "createdAt": "2026-11-04T11:53:34.600Z",
       "dataAtendimento": "2026-11-04",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "liz",
       "contatoCliente": "+51 953 790 490",
       "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
@@ -29654,7 +29654,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-04T12:57:40.110Z"
+      "updatedAt": "2026-11-04T12:57:53.422Z"
     },
     {
       "id": "rmw22qenxo89bq7",
@@ -29698,5 +29698,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T12:57:40.110Z"
+  "updatedAt": "2026-11-04T12:57:53.422Z"
 }
