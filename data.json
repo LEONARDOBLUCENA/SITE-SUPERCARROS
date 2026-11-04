@@ -29465,15 +29465,15 @@
       "nomeCliente": "andressa",
       "contatoCliente": "+55 47 9652-0260",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-04",
       "valorVenda": "240.00",
       "numeroPedido": "20977",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-04T18:26:52.467Z"
+      "updatedAt": "2026-11-04T19:48:42.616Z"
     },
     {
       "id": "rmw143yw1k614e5",
@@ -29779,5 +29779,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T19:02:09.899Z"
+  "updatedAt": "2026-11-04T19:48:42.616Z"
 }
