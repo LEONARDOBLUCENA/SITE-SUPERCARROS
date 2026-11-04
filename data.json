@@ -29603,6 +29603,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw1gfpn7vka2tb",
+      "createdAt": "2026-11-04T01:45:17.971Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "Liliana Aguiar",
+      "contatoCliente": "+55 22 99927-3009",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "drive camaro ss#2 prime",
+      "dataVenda": "2026-11-03",
+      "valorVenda": "538.50",
+      "numeroPedido": "",
+      "statusPagamento": "Pendente",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -29630,5 +29648,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T01:44:16.861Z"
+  "updatedAt": "2026-11-04T01:45:19.025Z"
 }
