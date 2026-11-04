@@ -29645,15 +29645,16 @@
       "dataAtendimento": "2026-11-04",
       "nomeCliente": "Sem nome",
       "contatoCliente": "+51 953 790 490",
-      "origem": "",
-      "statusAtendimento": "Em negociação",
+      "origem": "Evento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-04",
       "valorVenda": "137.00",
       "numeroPedido": "",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-04T12:57:40.110Z"
     },
     {
       "id": "rmw22qenxo89bq7",
@@ -29697,5 +29698,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T12:09:29.264Z"
+  "updatedAt": "2026-11-04T12:57:40.110Z"
 }
