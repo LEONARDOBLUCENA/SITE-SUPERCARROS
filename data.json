@@ -29611,16 +29611,17 @@
       "nomeCliente": "Liliana Aguiar",
       "contatoCliente": "+55 22 99927-3009",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "drive camaro ss#2 prime",
       "dataVenda": "2026-11-03",
       "valorVenda": "538.50",
-      "numeroPedido": "",
-      "statusPagamento": "Pendente",
+      "numeroPedido": "20963",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-11-04T01:48:28.024Z"
     }
   ],
   "siteVendas": [
@@ -29648,5 +29649,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T01:45:19.025Z"
+  "updatedAt": "2026-11-04T01:48:28.024Z"
 }
