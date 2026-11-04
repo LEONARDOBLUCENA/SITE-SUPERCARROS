@@ -29671,6 +29671,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw29i8wn848076",
+      "createdAt": "2026-11-04T15:19:05.111Z",
+      "dataAtendimento": "2026-11-04",
+      "nomeCliente": "Cláudia Villar",
+      "contatoCliente": "+55 21 96517-6706 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "137.00",
+      "numeroPedido": "20969",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -29698,5 +29714,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T12:57:53.422Z"
+  "updatedAt": "2026-11-04T15:19:06.107Z"
 }
