@@ -29687,6 +29687,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw2e0rsvq0lxce",
+      "createdAt": "2026-11-04T17:25:27.871Z",
+      "dataAtendimento": "2026-11-04",
+      "nomeCliente": "laysla",
+      "contatoCliente": "+55 81 9942-3783",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29714,5 +29730,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T15:19:06.107Z"
+  "updatedAt": "2026-11-04T17:25:29.293Z"
 }
