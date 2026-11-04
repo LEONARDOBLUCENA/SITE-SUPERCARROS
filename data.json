@@ -29543,17 +29543,18 @@
       "id": "rmw1e5wkwx0564x",
       "createdAt": "2026-11-04T00:41:41.168Z",
       "dataAtendimento": "2026-11-03",
-      "nomeCliente": "sem nome",
+      "nomeCliente": "Eduarda",
       "contatoCliente": "+55 51 8440-6095",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-03",
+      "valorVenda": "396.00",
+      "numeroPedido": "20961",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-04T01:22:55.224Z"
     },
     {
       "id": "rmw1e826tfdef86",
@@ -29613,5 +29614,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T00:43:50.093Z"
+  "updatedAt": "2026-11-04T01:22:55.224Z"
 }
