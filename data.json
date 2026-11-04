@@ -29603,6 +29603,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw1ge0h4xvud2j",
+      "createdAt": "2026-11-04T01:43:58.696Z",
+      "dataAtendimento": "2026-11-03",
+      "nomeCliente": "Liliana aguiar",
+      "contatoCliente": "+55 22 99927-3009",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-03",
+      "valorVenda": "538.50",
+      "numeroPedido": "20963",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29630,5 +29646,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T01:38:08.399Z"
+  "updatedAt": "2026-11-04T01:43:59.891Z"
 }
