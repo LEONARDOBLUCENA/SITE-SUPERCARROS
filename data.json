@@ -29469,11 +29469,11 @@
       "produtoInteresse": "",
       "dataVenda": "2026-11-04",
       "valorVenda": "240.00",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "numeroPedido": "20977",
+      "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-04T18:26:31.624Z"
+      "updatedAt": "2026-11-04T18:26:52.467Z"
     },
     {
       "id": "rmw143yw1k614e5",
@@ -29747,5 +29747,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T18:26:31.624Z"
+  "updatedAt": "2026-11-04T18:26:52.467Z"
 }
