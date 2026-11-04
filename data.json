@@ -29654,6 +29654,22 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw22qenxo89bq7",
+      "createdAt": "2026-11-04T12:09:28.509Z",
+      "dataAtendimento": "2026-11-04",
+      "nomeCliente": "sem nome",
+      "contatoCliente": "+55 31 9820-7947",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29681,5 +29697,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T11:53:36.203Z"
+  "updatedAt": "2026-11-04T12:09:29.264Z"
 }
