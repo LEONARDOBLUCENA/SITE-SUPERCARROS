@@ -29963,6 +29963,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw400slgr224f0",
+      "createdAt": "2026-11-05T20:29:06.628Z",
+      "dataAtendimento": "2026-11-05",
+      "nomeCliente": "pamela",
+      "contatoCliente": "+55 84 9929-0980",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29991,5 +30007,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-05T20:28:47.309Z"
+  "updatedAt": "2026-11-05T20:29:07.307Z"
 }
