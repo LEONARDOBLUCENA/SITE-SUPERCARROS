@@ -29753,6 +29753,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-11-04T20:51:08.684Z"
+    },
+    {
+      "id": "rmw3il9jbvr5b4p",
+      "createdAt": "2026-11-05T12:21:08.615Z",
+      "dataAtendimento": "2026-11-05",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 69 8455-3959",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -29780,5 +29796,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-04T20:51:08.685Z"
+  "updatedAt": "2026-11-05T12:21:10.480Z"
 }
