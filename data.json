@@ -29867,6 +29867,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw3m7h1s8dq5wp",
+      "createdAt": "2026-11-05T14:02:23.632Z",
+      "dataAtendimento": "2026-11-05",
+      "nomeCliente": "Joana Eccel",
+      "contatoCliente": "+55 27 99988-4390",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "340.10",
+      "numeroPedido": "20991",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -29894,5 +29910,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-05T14:01:33.439Z"
+  "updatedAt": "2026-11-05T14:02:25.467Z"
 }
