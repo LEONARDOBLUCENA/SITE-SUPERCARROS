@@ -29883,6 +29883,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw3sz7pkljtpfa",
+      "createdAt": "2026-11-05T17:11:55.592Z",
+      "dataAtendimento": "2026-11-05",
+      "nomeCliente": "Matheus Vinícius Menezes Corrêa",
+      "contatoCliente": "+55 98 98483-1586",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -29911,5 +29927,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-05T16:30:05.731Z"
+  "updatedAt": "2026-11-05T17:11:56.424Z"
 }
