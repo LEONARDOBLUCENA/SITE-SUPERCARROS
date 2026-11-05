@@ -30011,6 +30011,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw4034sauec4vw",
+      "createdAt": "2026-11-05T20:30:55.738Z",
+      "dataAtendimento": "2026-11-05",
+      "nomeCliente": "camila",
+      "contatoCliente": "+55 51 9545-9805",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30039,5 +30055,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-05T20:30:37.433Z"
+  "updatedAt": "2026-11-05T20:30:57.001Z"
 }
