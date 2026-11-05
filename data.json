@@ -28887,7 +28887,7 @@
       "nomeCliente": "Suzana Alencar ",
       "contatoCliente": "+55 21 98383-3675",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-05",
       "valorVenda": "1180.00",
@@ -28895,7 +28895,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna",
-      "updatedAt": "2026-11-05T12:42:27.193Z"
+      "updatedAt": "2026-11-05T14:01:33.439Z"
     },
     {
       "id": "rmvzddu08thf0hz",
@@ -29894,5 +29894,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-05T12:42:27.193Z"
+  "updatedAt": "2026-11-05T14:01:33.439Z"
 }
