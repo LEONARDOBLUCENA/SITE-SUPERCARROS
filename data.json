@@ -30076,6 +30076,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-05T21:35:00.276Z"
+    },
+    {
+      "id": "rmw43mb794tfj5k",
+      "createdAt": "2026-11-05T22:09:49.365Z",
+      "dataAtendimento": "2026-11-05",
+      "nomeCliente": "Natalia rosa",
+      "contatoCliente": "+55 62 9545-6116",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30104,5 +30120,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-05T21:35:00.276Z"
+  "updatedAt": "2026-11-05T22:09:50.932Z"
 }
