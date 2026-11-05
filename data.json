@@ -30067,14 +30067,15 @@
       "nomeCliente": "SAMELA",
       "contatoCliente": "+55 93 9200-5667",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-05",
       "valorVenda": "238.85",
       "numeroPedido": "21003",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-05T21:35:00.276Z"
     }
   ],
   "siteVendas": [
@@ -30103,5 +30104,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-05T21:34:41.456Z"
+  "updatedAt": "2026-11-05T21:35:00.276Z"
 }
