@@ -29834,6 +29834,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw3iyec8xmoap0",
+      "createdAt": "2026-11-05T12:31:21.368Z",
+      "dataAtendimento": "2026-10-04",
+      "nomeCliente": "Samara ",
+      "contatoCliente": "+55 28 99996-3205",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-03",
+      "valorVenda": "236.00",
+      "numeroPedido": "20943",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -29861,5 +29877,5 @@
       "createdAt": "2026-11-03T14:42:08.433Z"
     }
   ],
-  "updatedAt": "2026-11-05T12:27:34.880Z"
+  "updatedAt": "2026-11-05T12:31:22.362Z"
 }
