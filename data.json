@@ -29899,6 +29899,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw3zz74qg08xly",
+      "createdAt": "2026-11-05T20:27:52.154Z",
+      "dataAtendimento": "2026-11-04",
+      "nomeCliente": "lurdes",
+      "contatoCliente": "+55 74 9130-3205",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -29927,5 +29943,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-05T17:11:56.424Z"
+  "updatedAt": "2026-11-05T20:27:52.901Z"
 }
