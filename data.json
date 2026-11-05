@@ -30100,16 +30100,17 @@
       "nomeCliente": "mayane",
       "contatoCliente": "+55 64 9980-8606",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "upgrade",
       "dataVenda": "2026-11-05",
       "valorVenda": "107.00",
       "numeroPedido": "21005",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-11-05T22:39:42.954Z"
     }
   ],
   "siteVendas": [
@@ -30138,5 +30139,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-05T22:22:33.756Z"
+  "updatedAt": "2026-11-05T22:39:42.954Z"
 }
