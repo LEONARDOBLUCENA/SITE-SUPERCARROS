@@ -29995,6 +29995,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw402pjtqknx0b",
+      "createdAt": "2026-11-05T20:30:35.993Z",
+      "dataAtendimento": "2026-11-05",
+      "nomeCliente": "tamara",
+      "contatoCliente": "+55 64 9606-7288",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30023,5 +30039,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-05T20:29:25.757Z"
+  "updatedAt": "2026-11-05T20:30:37.433Z"
 }
