@@ -30231,14 +30231,15 @@
       "nomeCliente": "Andréa Polido",
       "contatoCliente": "+55 27 99718-2231 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "179.00",
+      "numeroPedido": "21019",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-06T12:27:23.682Z"
     }
   ],
   "siteVendas": [
@@ -30267,5 +30268,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-06T12:25:15.789Z"
+  "updatedAt": "2026-11-06T12:27:23.682Z"
 }
