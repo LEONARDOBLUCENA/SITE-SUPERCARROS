@@ -30127,6 +30127,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw4y1mm71uhs8d",
+      "createdAt": "2026-11-06T12:21:32.479Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "Flavia Gomes Stechman",
+      "contatoCliente": "(41) 99514-0600",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "300.00",
+      "numeroPedido": "21021",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -30155,5 +30171,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-06T01:58:31.167Z"
+  "updatedAt": "2026-11-06T12:21:33.375Z"
 }
