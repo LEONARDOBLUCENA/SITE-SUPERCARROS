@@ -30175,6 +30175,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw4y54fgd4kznk",
+      "createdAt": "2026-11-06T12:24:15.532Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "Maryane Martins",
+      "contatoCliente": "+55 35 9107-3206 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -30203,5 +30219,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-06T12:23:06.438Z"
+  "updatedAt": "2026-11-06T12:24:16.526Z"
 }
