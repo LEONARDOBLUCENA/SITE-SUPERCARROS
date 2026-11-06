@@ -30304,6 +30304,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw5cp5mxm088wv",
+      "createdAt": "2026-11-06T19:11:44.841Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "Bryan Zanardi",
+      "contatoCliente": "+55 41 9751-4005",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30332,5 +30348,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-06T18:55:23.036Z"
+  "updatedAt": "2026-11-06T19:11:45.396Z"
 }
