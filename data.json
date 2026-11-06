@@ -30320,6 +30320,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw5msat2t8qdtz",
+      "createdAt": "2026-11-06T23:54:07.670Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "carina bats",
+      "contatoCliente": "+55 51 9597-2005",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-06",
+      "valorVenda": "356.00",
+      "numeroPedido": "21041",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30348,5 +30364,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-06T19:11:45.396Z"
+  "updatedAt": "2026-11-06T23:54:08.409Z"
 }
