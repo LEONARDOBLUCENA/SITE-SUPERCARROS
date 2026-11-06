@@ -30223,6 +30223,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw4y6e2k4sgwkc",
+      "createdAt": "2026-11-06T12:25:14.684Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "Andréa Polido",
+      "contatoCliente": "+55 27 99718-2231 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -30251,5 +30267,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-06T12:24:57.850Z"
+  "updatedAt": "2026-11-06T12:25:15.789Z"
 }
