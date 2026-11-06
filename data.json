@@ -30111,6 +30111,22 @@
       "vendedoraFinalizou": "bruna",
       "compartilhado": true,
       "updatedAt": "2026-11-05T22:39:42.954Z"
+    },
+    {
+      "id": "rmw4bsdu0t5lsnt",
+      "createdAt": "2026-11-06T01:58:29.640Z",
+      "dataAtendimento": "2026-11-05",
+      "nomeCliente": "André ",
+      "contatoCliente": "+55 51 9326-8241",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "combo de carros",
+      "dataVenda": "",
+      "valorVenda": "2300",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30139,5 +30155,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-05T22:39:42.954Z"
+  "updatedAt": "2026-11-06T01:58:31.167Z"
 }
