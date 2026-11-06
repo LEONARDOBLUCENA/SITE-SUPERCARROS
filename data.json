@@ -30256,6 +30256,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw53hd2kr26667",
+      "createdAt": "2026-11-06T14:53:44.684Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "Isabele Leocadio",
+      "contatoCliente": "+55 43 9151-7607 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "475.77",
+      "numeroPedido": "21029",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -30284,5 +30300,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-06T12:34:38.149Z"
+  "updatedAt": "2026-11-06T14:53:46.471Z"
 }
