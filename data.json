@@ -30272,6 +30272,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw56ckftjzudnw",
+      "createdAt": "2026-11-06T16:13:59.801Z",
+      "dataAtendimento": "2026-11-05",
+      "nomeCliente": "carina bats",
+      "contatoCliente": "+55 51 9597-2005",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30300,5 +30316,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-06T14:53:46.471Z"
+  "updatedAt": "2026-11-06T16:14:01.125Z"
 }
