@@ -30143,6 +30143,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw4y2eq0kb8gre",
+      "createdAt": "2026-11-06T12:22:08.904Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "Alexandre Guimaraes",
+      "contatoCliente": "+55 28 99957-4032 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -30171,5 +30187,5 @@
       "updatedAt": "2026-11-05T16:30:05.731Z"
     }
   ],
-  "updatedAt": "2026-11-06T12:21:33.375Z"
+  "updatedAt": "2026-11-06T12:22:11.057Z"
 }
