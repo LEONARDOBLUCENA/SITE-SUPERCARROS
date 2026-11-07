@@ -30757,6 +30757,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw5sb1c5lclmgm",
+      "createdAt": "2026-11-07T02:28:39.941Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "~Wallacy Corretor",
+      "contatoCliente": "+55 32 8859-6910",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30785,5 +30801,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T02:28:14.404Z"
+  "updatedAt": "2026-11-07T02:28:41.523Z"
 }
