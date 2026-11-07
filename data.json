@@ -30360,14 +30360,15 @@
       "nomeCliente": "thiago",
       "contatoCliente": "+55 98 8767-0314",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-06",
       "valorVenda": "137.00",
       "numeroPedido": "21037",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-07T01:09:00.647Z"
     }
   ],
   "siteVendas": [
@@ -30396,5 +30397,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T00:13:47.304Z"
+  "updatedAt": "2026-11-07T01:09:00.647Z"
 }
