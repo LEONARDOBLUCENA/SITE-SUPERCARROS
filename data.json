@@ -30976,6 +30976,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-11-07T19:10:40.310Z"
+    },
+    {
+      "id": "rmw6s4s5yhuduao",
+      "createdAt": "2026-11-07T19:11:34.294Z",
+      "dataAtendimento": "2026-11-07",
+      "nomeCliente": "Marco Aurélio Morais Lima",
+      "contatoCliente": "(81) 99929-0084",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-07",
+      "valorVenda": "727.00",
+      "numeroPedido": "21081",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31004,5 +31020,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T19:10:40.310Z"
+  "updatedAt": "2026-11-07T19:11:36.112Z"
 }
