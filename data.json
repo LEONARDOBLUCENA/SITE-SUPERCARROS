@@ -30984,14 +30984,15 @@
       "nomeCliente": "ana",
       "contatoCliente": "+55 67 9934-8532",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-07",
       "valorVenda": "137.00",
-      "numeroPedido": "21093",
-      "statusPagamento": "Pendente",
+      "numeroPedido": "21095",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-07T22:32:07.917Z"
     }
   ],
   "siteVendas": [
@@ -31020,5 +31021,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T22:31:22.500Z"
+  "updatedAt": "2026-11-07T22:32:07.917Z"
 }
