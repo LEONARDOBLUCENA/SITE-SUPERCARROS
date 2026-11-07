@@ -30628,6 +30628,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw5s3c9ihrsn6z",
+      "createdAt": "2026-11-07T02:22:40.854Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "~Maycon Martins",
+      "contatoCliente": "+55 91 8488-5631",
+      "origem": "",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30656,5 +30672,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T02:22:25.078Z"
+  "updatedAt": "2026-11-07T02:22:42.139Z"
 }
