@@ -30596,6 +30596,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-07T02:21:25.042Z"
+    },
+    {
+      "id": "rmw5s28kjmhg9eu",
+      "createdAt": "2026-11-07T02:21:49.411Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "rubia",
+      "contatoCliente": "+55 11 97423-5238",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30624,5 +30640,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T02:21:25.042Z"
+  "updatedAt": "2026-11-07T02:21:50.420Z"
 }
