@@ -30941,7 +30941,7 @@
       "id": "rmw6n1nyr79s95y",
       "createdAt": "2026-11-07T16:49:10.803Z",
       "dataAtendimento": "2026-11-07",
-      "nomeCliente": "rafael",
+      "nomeCliente": "RAFAEL STAVINSK",
       "contatoCliente": "+55 42 9801-5977",
       "origem": "Upgrade Site",
       "statusAtendimento": "Em negociação",
@@ -30951,7 +30951,8 @@
       "numeroPedido": "",
       "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-07T16:53:50.730Z"
     }
   ],
   "siteVendas": [
@@ -30980,5 +30981,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T16:49:11.912Z"
+  "updatedAt": "2026-11-07T16:53:50.730Z"
 }
