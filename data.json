@@ -30449,6 +30449,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw5rs71yklhjau",
+      "createdAt": "2026-11-07T02:14:00.886Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "~Jalrene Leitao",
+      "contatoCliente": "+55 85 9813-4079",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30477,5 +30493,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T02:13:43.345Z"
+  "updatedAt": "2026-11-07T02:14:02.109Z"
 }
