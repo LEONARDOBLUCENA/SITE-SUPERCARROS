@@ -30955,6 +30955,24 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmw6rvnd7houvyy",
+      "createdAt": "2026-11-07T19:04:28.171Z",
+      "dataAtendimento": "2026-11-07",
+      "nomeCliente": "herick cortes",
+      "contatoCliente": "+55 46 8813-2731",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-07",
+      "valorVenda": "380.00",
+      "numeroPedido": "21081",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -30983,5 +31001,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T19:01:22.677Z"
+  "updatedAt": "2026-11-07T19:04:29.794Z"
 }
