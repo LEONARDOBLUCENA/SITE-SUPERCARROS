@@ -30805,6 +30805,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw6d653f83kfbq",
+      "createdAt": "2026-11-07T12:12:43.467Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "emely",
+      "contatoCliente": "+55 16 99785-5855",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30833,5 +30849,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T02:29:25.520Z"
+  "updatedAt": "2026-11-07T12:12:44.884Z"
 }
