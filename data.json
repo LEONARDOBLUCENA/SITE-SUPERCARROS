@@ -30644,6 +30644,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw5s3yl3nlquz6",
+      "createdAt": "2026-11-07T02:23:09.783Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 84 9665-7739",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "viagem em agosto 2027",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30672,5 +30688,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T02:22:42.139Z"
+  "updatedAt": "2026-11-07T02:23:11.009Z"
 }
