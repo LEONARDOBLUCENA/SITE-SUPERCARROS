@@ -30313,14 +30313,15 @@
       "nomeCliente": "Matheus Henrique",
       "contatoCliente": "+55 49 9116-1089",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-06",
       "valorVenda": "360.00",
       "numeroPedido": "21047",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-07T23:24:39.424Z"
     },
     {
       "id": "rmw5nhk1oc2gasx",
@@ -31041,5 +31042,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T23:23:06.034Z"
+  "updatedAt": "2026-11-07T23:24:39.424Z"
 }
