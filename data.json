@@ -30969,12 +30969,13 @@
       "produtoInteresse": "",
       "dataVenda": "2026-11-07",
       "valorVenda": "380.00",
-      "numeroPedido": "21081",
+      "numeroPedido": "21085",
       "statusPagamento": "Pago",
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-11-07T19:10:40.310Z"
     }
   ],
   "siteVendas": [
@@ -31003,5 +31004,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T19:08:32.079Z"
+  "updatedAt": "2026-11-07T19:10:40.310Z"
 }
