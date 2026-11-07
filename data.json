@@ -30996,6 +30996,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-11-07T23:06:14.666Z"
+    },
+    {
+      "id": "rmw70usvtoetbic",
+      "createdAt": "2026-11-07T23:15:45.209Z",
+      "dataAtendimento": "2026-11-07",
+      "nomeCliente": "camylla",
+      "contatoCliente": "+55 83 9963-2990",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-07",
+      "valorVenda": "150.00",
+      "numeroPedido": "21105",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31024,5 +31040,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T23:06:14.666Z"
+  "updatedAt": "2026-11-07T23:15:46.303Z"
 }
