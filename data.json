@@ -30942,24 +30942,6 @@
       "updatedAt": "2026-11-07T17:12:16.224Z"
     },
     {
-      "id": "rmw6q4zzg5kn7nl",
-      "createdAt": "2026-11-07T18:15:45.196Z",
-      "dataAtendimento": "2026-11-07",
-      "nomeCliente": "gustavo",
-      "contatoCliente": "+55 11 95938-1799",
-      "origem": "",
-      "statusAtendimento": "Link enviado",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "1450.00",
-      "numeroPedido": "21087",
-      "statusPagamento": "Pendente",
-      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
-      "vendedora": "gisele",
-      "vendedoraFinalizou": "bruna",
-      "compartilhado": true
-    },
-    {
       "id": "rmw6rvnd7houvyy",
       "createdAt": "2026-11-07T19:04:28.171Z",
       "dataAtendimento": "2026-11-07",
@@ -31039,5 +31021,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T19:20:06.759Z"
+  "updatedAt": "2026-11-07T19:23:47.266Z"
 }
