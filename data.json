@@ -31008,10 +31008,11 @@
       "produtoInteresse": "",
       "dataVenda": "2026-11-07",
       "valorVenda": "150.00",
-      "numeroPedido": "21105",
+      "numeroPedido": "21107",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-07T23:23:06.034Z"
     }
   ],
   "siteVendas": [
@@ -31040,5 +31041,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T23:15:46.303Z"
+  "updatedAt": "2026-11-07T23:23:06.034Z"
 }
