@@ -30862,14 +30862,15 @@
       "nomeCliente": "franklin",
       "contatoCliente": "+55 79 9916-9375",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-07",
       "valorVenda": "1350.00",
       "numeroPedido": "",
       "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-07T19:08:10.107Z"
     },
     {
       "id": "rmw6howqpc1b66m",
@@ -31001,5 +31002,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T19:04:29.794Z"
+  "updatedAt": "2026-11-07T19:08:10.108Z"
 }
