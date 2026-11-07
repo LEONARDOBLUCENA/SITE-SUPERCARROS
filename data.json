@@ -30693,6 +30693,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw5s60jf90v6g3",
+      "createdAt": "2026-11-07T02:24:45.627Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "~Filipe Oliveira 🐺",
+      "contatoCliente": "+55 61 8460-9687",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30721,5 +30737,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T02:24:30.517Z"
+  "updatedAt": "2026-11-07T02:24:46.447Z"
 }
