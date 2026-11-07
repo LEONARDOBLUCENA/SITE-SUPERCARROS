@@ -30886,6 +30886,22 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw6howqpc1b66m",
+      "createdAt": "2026-11-07T14:19:17.569Z",
+      "dataAtendimento": "2026-11-07",
+      "nomeCliente": "Franklin",
+      "contatoCliente": "+55 79 9916-9375",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "drive de 911s + 2 caronas + ingressos para todos e coloco duas fotos digitais e 2 simuladores de f1 estatico de brinde para os pequenos",
+      "dataVenda": "2026-11-07",
+      "valorVenda": "1350.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30914,5 +30930,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T14:17:31.640Z"
+  "updatedAt": "2026-11-07T14:19:19.091Z"
 }
