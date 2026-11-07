@@ -30944,15 +30944,15 @@
       "nomeCliente": "RAFAEL STAVINSK",
       "contatoCliente": "+55 42 9801-5977",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-07",
       "valorVenda": "270.00",
-      "numeroPedido": "",
-      "statusPagamento": "Pendente",
+      "numeroPedido": "21083",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-07T16:53:50.730Z"
+      "updatedAt": "2026-11-07T17:12:16.224Z"
     }
   ],
   "siteVendas": [
@@ -30981,5 +30981,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T16:53:50.730Z"
+  "updatedAt": "2026-11-07T17:12:16.225Z"
 }
