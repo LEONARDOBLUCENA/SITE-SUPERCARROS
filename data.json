@@ -30621,14 +30621,15 @@
       "nomeCliente": "andre",
       "contatoCliente": "+55 51 9326-8241",
       "origem": "",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-11-07",
+      "valorVenda": "2440.00",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-07T12:40:10.194Z"
     },
     {
       "id": "rmw5s3c9ihrsn6z",
@@ -30897,5 +30898,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T12:15:49.568Z"
+  "updatedAt": "2026-11-07T12:40:10.194Z"
 }
