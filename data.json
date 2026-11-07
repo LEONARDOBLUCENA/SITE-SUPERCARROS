@@ -30902,6 +30902,24 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw6ip936i5y5iz",
+      "createdAt": "2026-11-07T14:47:33.186Z",
+      "dataAtendimento": "2026-11-07",
+      "nomeCliente": "webert",
+      "contatoCliente": "+55 21 97375-1845",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-07",
+      "valorVenda": "434.00",
+      "numeroPedido": "21075",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -30930,5 +30948,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T14:19:19.091Z"
+  "updatedAt": "2026-11-07T14:47:34.354Z"
 }
