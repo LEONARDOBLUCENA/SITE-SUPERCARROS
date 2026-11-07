@@ -30913,14 +30913,15 @@
       "nomeCliente": "kauane",
       "contatoCliente": "+55 41 9174-9945",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-07",
       "valorVenda": "289.00",
       "numeroPedido": "21079",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-07T19:08:32.079Z"
     },
     {
       "id": "rmw6n1nyr79s95y",
@@ -31002,5 +31003,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T19:08:10.108Z"
+  "updatedAt": "2026-11-07T19:08:32.079Z"
 }
