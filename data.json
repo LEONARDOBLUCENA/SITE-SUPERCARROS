@@ -30513,6 +30513,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw5rustfj3zib9",
+      "createdAt": "2026-11-07T02:16:02.403Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "~Play Sound Som E Acessori",
+      "contatoCliente": "+55 83 8890-2389",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -30541,5 +30557,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-07T02:15:47.949Z"
+  "updatedAt": "2026-11-07T02:16:03.346Z"
 }
