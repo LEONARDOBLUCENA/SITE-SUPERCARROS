@@ -31233,6 +31233,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-08T20:00:09.273Z"
+    },
+    {
+      "id": "rmw8ebrcx6saca9",
+      "createdAt": "2026-11-08T22:20:37.569Z",
+      "dataAtendimento": "2026-11-08",
+      "nomeCliente": "~Bauher Araújo",
+      "contatoCliente": "+55 33 8849-9362",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "10000.00",
+      "numeroPedido": "21173",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31261,5 +31277,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T20:00:09.273Z"
+  "updatedAt": "2026-11-08T22:20:38.594Z"
 }
