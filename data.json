@@ -31094,12 +31094,13 @@
       "origem": "",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-11-08",
       "valorVenda": "137.00",
       "numeroPedido": "21147",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-08T18:56:30.927Z"
     },
     {
       "id": "rmw85l09fh17u7k",
@@ -31162,5 +31163,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T18:55:31.528Z"
+  "updatedAt": "2026-11-08T18:56:30.927Z"
 }
