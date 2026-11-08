@@ -31124,15 +31124,16 @@
       "dataAtendimento": "2026-11-08",
       "nomeCliente": "daniel",
       "contatoCliente": "+598 92 071 405",
-      "origem": "Upgrade Site",
+      "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
+      "produtoInteresse": "estrangeiro",
       "dataVenda": "2026-11-08",
       "valorVenda": "1770.00",
-      "numeroPedido": "",
+      "numeroPedido": "#1593",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-08T18:46:12.368Z"
     }
   ],
   "siteVendas": [
@@ -31161,5 +31162,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T18:23:23.642Z"
+  "updatedAt": "2026-11-08T18:46:12.368Z"
 }
