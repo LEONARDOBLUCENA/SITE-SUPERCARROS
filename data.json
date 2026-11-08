@@ -31135,6 +31135,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-08T18:46:12.368Z"
+    },
+    {
+      "id": "rmw87c7lyy531vd",
+      "createdAt": "2026-11-08T19:05:01.318Z",
+      "dataAtendimento": "2026-11-08",
+      "nomeCliente": "~Dhalton C.",
+      "contatoCliente": "+55 41 8877-6467",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31163,5 +31179,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T18:56:30.927Z"
+  "updatedAt": "2026-11-08T19:05:02.423Z"
 }
