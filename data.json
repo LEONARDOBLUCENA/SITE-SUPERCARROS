@@ -31075,15 +31075,15 @@
       "nomeCliente": "jhordana",
       "contatoCliente": "+55 62 9830-4344",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-08",
-      "valorVenda": "670.0",
+      "valorVenda": "800.00",
       "numeroPedido": "21135",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-08T13:53:58.010Z"
+      "updatedAt": "2026-11-08T15:20:13.415Z"
     }
   ],
   "siteVendas": [
@@ -31112,5 +31112,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T13:53:58.010Z"
+  "updatedAt": "2026-11-08T15:20:13.416Z"
 }
