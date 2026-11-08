@@ -31049,6 +31049,24 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmw7vjmm66dvv05",
+      "createdAt": "2026-11-08T13:34:51.966Z",
+      "dataAtendimento": "2026-11-08",
+      "nomeCliente": "Viviane",
+      "contatoCliente": "+55 51 9291-8470",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-08",
+      "valorVenda": "137.00",
+      "numeroPedido": "21127",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -31077,5 +31095,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T13:34:26.204Z"
+  "updatedAt": "2026-11-08T13:34:53.762Z"
 }
