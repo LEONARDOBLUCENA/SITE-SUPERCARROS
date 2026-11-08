@@ -31215,6 +31215,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw8849ajvhuvmp",
+      "createdAt": "2026-11-08T19:26:49.867Z",
+      "dataAtendimento": "2026-11-08",
+      "nomeCliente": "~Kauan",
+      "contatoCliente": "+55 71 9159-9018",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "drive+ carona portofino",
+      "dataVenda": "2026-11-08",
+      "valorVenda": "2950.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31243,5 +31259,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T19:16:48.054Z"
+  "updatedAt": "2026-11-08T19:26:51.323Z"
 }
