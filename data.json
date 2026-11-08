@@ -31027,9 +31027,10 @@
       "dataVenda": "2026-11-08",
       "valorVenda": "526.35",
       "numeroPedido": "21119",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-08T04:41:43.413Z"
     }
   ],
   "siteVendas": [
@@ -31058,5 +31059,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T03:50:14.318Z"
+  "updatedAt": "2026-11-08T04:41:43.413Z"
 }
