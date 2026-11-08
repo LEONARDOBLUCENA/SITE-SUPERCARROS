@@ -31183,6 +31183,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw87k57ot15h6t",
+      "createdAt": "2026-11-08T19:11:11.460Z",
+      "dataAtendimento": "2026-11-08",
+      "nomeCliente": "gisele",
+      "contatoCliente": "+55 83 9189-0358",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31211,5 +31227,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T19:10:44.348Z"
+  "updatedAt": "2026-11-08T19:11:12.858Z"
 }
