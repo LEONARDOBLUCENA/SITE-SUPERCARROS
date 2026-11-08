@@ -31100,6 +31100,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw85l09fh17u7k",
+      "createdAt": "2026-11-08T18:15:52.467Z",
+      "dataAtendimento": "2026-11-08",
+      "nomeCliente": "suzana",
+      "contatoCliente": "+55 82 8887-7690",
+      "origem": "",
+      "statusAtendimento": "Recuperação",
+      "produtoInteresse": "laçador",
+      "dataVenda": "2026-11-08",
+      "valorVenda": "220.00",
+      "numeroPedido": "21149",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31128,5 +31144,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T18:13:24.441Z"
+  "updatedAt": "2026-11-08T18:15:53.980Z"
 }
