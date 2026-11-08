@@ -31108,7 +31108,7 @@
       "nomeCliente": "suzana",
       "contatoCliente": "+55 82 8887-7690",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Recuperação",
       "produtoInteresse": "laçador",
       "dataVenda": "2026-11-08",
       "valorVenda": "220.00",
@@ -31116,7 +31116,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-08T18:16:25.978Z"
+      "updatedAt": "2026-11-08T18:16:54.272Z"
     }
   ],
   "siteVendas": [
@@ -31145,5 +31145,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T18:16:25.979Z"
+  "updatedAt": "2026-11-08T18:16:54.273Z"
 }
