@@ -31067,6 +31067,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmw7vv9pjm4kd4k",
+      "createdAt": "2026-11-08T13:43:55.111Z",
+      "dataAtendimento": "2026-11-08",
+      "nomeCliente": "jhordana",
+      "contatoCliente": "+55 62 9830-4344",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-08",
+      "valorVenda": "670.0",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31095,5 +31111,5 @@
       "updatedAt": "2026-11-06T17:29:27.689Z"
     }
   ],
-  "updatedAt": "2026-11-08T13:34:53.762Z"
+  "updatedAt": "2026-11-08T13:43:56.214Z"
 }
