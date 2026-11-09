@@ -30183,14 +30183,15 @@
       "nomeCliente": "Romeu",
       "contatoCliente": "+55 83 9824-0322 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "130.15",
+      "numeroPedido": "21043",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-09T13:10:54.230Z"
     },
     {
       "id": "rmw4y6e2k4sgwkc",
@@ -31277,5 +31278,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T12:26:55.857Z"
+  "updatedAt": "2026-11-09T13:10:54.230Z"
 }
