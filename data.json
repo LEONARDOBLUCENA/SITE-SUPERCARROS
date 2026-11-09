@@ -31466,6 +31466,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9qi1k6djg5ez",
+      "createdAt": "2026-11-09T20:49:12.294Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Mayara Fernandes",
+      "contatoCliente": "+55 83 9910-7944 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31494,5 +31510,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T20:48:55.091Z"
+  "updatedAt": "2026-11-09T20:49:13.459Z"
 }
