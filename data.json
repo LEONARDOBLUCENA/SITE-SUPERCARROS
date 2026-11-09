@@ -31399,6 +31399,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9qedw6vbyj2n",
+      "createdAt": "2026-11-09T20:46:21.654Z",
+      "dataAtendimento": "2026-11-06",
+      "nomeCliente": "Bryan Henrique Costa Zanardi",
+      "contatoCliente": "(41) 99751-4005",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-09",
+      "valorVenda": "689.00",
+      "numeroPedido": "21203",
+      "statusPagamento": "Pendente",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -31427,5 +31445,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T20:45:13.451Z"
+  "updatedAt": "2026-11-09T20:46:24.343Z"
 }
