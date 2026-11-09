@@ -31610,6 +31610,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9ts93kuktm1o",
+      "createdAt": "2026-11-09T22:21:07.472Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Graziela",
+      "contatoCliente": "+55 16 99103-4447 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31638,5 +31654,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T22:20:45.155Z"
+  "updatedAt": "2026-11-09T22:21:08.455Z"
 }
