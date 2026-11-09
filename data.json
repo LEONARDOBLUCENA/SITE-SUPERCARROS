@@ -31594,6 +31594,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9trr5dnry3va",
+      "createdAt": "2026-11-09T22:20:44.209Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Lucemar Júnior",
+      "contatoCliente": "+55 62 9921-0825 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31622,5 +31638,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T22:20:26.343Z"
+  "updatedAt": "2026-11-09T22:20:45.155Z"
 }
