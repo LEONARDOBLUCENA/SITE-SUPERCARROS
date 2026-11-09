@@ -31417,6 +31417,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmw9qfzbudsmgb1",
+      "createdAt": "2026-11-09T20:47:36.090Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 21 97090-7491",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31445,5 +31461,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T20:46:24.343Z"
+  "updatedAt": "2026-11-09T20:47:37.561Z"
 }
