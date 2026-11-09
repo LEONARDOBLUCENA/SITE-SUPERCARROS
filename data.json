@@ -24350,14 +24350,15 @@
       "nomeCliente": "Eduarda Mascarenhas",
       "contatoCliente": "+55 81 9962-5614 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-07",
+      "valorVenda": "177.17",
+      "numeroPedido": "21057",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-09T13:13:36.426Z"
     },
     {
       "id": "rmvjkadq6m07ary",
@@ -31278,5 +31279,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T13:10:54.230Z"
+  "updatedAt": "2026-11-09T13:13:36.426Z"
 }
