@@ -31383,6 +31383,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9qcvbw0cc5mr",
+      "createdAt": "2026-11-09T20:45:10.940Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Filype ",
+      "contatoCliente": "+ 55 51 9204- 0484",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31411,5 +31427,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T20:44:33.473Z"
+  "updatedAt": "2026-11-09T20:45:13.451Z"
 }
