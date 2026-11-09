@@ -31530,6 +31530,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9tpyhs89ymkl",
+      "createdAt": "2026-11-09T22:19:20.416Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Victor Garcia",
+      "contatoCliente": "+55 31 9279-6681 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31558,5 +31574,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T22:18:55.167Z"
+  "updatedAt": "2026-11-09T22:19:23.168Z"
 }
