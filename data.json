@@ -31434,6 +31434,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9qgup5x9zgau",
+      "createdAt": "2026-11-09T20:48:16.745Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Lore",
+      "contatoCliente": "+55 71 9169-0138 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31462,5 +31478,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T20:47:48.295Z"
+  "updatedAt": "2026-11-09T20:48:18.015Z"
 }
