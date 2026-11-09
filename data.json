@@ -31482,6 +31482,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9qjorwi80vhb",
+      "createdAt": "2026-11-09T20:50:29.036Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Yuri",
+      "contatoCliente": "+55 31 8334-1890 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31510,5 +31526,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T20:49:13.459Z"
+  "updatedAt": "2026-11-09T20:50:35.397Z"
 }
