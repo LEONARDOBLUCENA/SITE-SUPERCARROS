@@ -31351,6 +31351,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9qbgmrxbvnbr",
+      "createdAt": "2026-11-09T20:44:05.235Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Rejane Passos",
+      "contatoCliente": "+55 79 9915-7762 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31379,5 +31395,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T20:43:28.013Z"
+  "updatedAt": "2026-11-09T20:44:07.719Z"
 }
