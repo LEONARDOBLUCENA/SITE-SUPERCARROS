@@ -31299,9 +31299,10 @@
       "dataVenda": "",
       "valorVenda": "539.00",
       "numeroPedido": "21197",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-09T18:06:26.488Z"
     }
   ],
   "siteVendas": [
@@ -31330,5 +31331,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T18:06:02.512Z"
+  "updatedAt": "2026-11-09T18:06:26.488Z"
 }
