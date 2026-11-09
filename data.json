@@ -31514,6 +31514,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9tpbqu1xg35a",
+      "createdAt": "2026-11-09T22:18:50.934Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Plinio",
+      "contatoCliente": "+55 37 8825-7777 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31542,5 +31558,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T22:18:08.499Z"
+  "updatedAt": "2026-11-09T22:18:55.167Z"
 }
