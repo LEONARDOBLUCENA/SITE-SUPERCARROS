@@ -31802,6 +31802,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9tydii0kfk4t",
+      "createdAt": "2026-11-09T22:25:53.130Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Magson Rocha",
+      "contatoCliente": "+55 61 8532-0252 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31830,5 +31846,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T22:25:39.438Z"
+  "updatedAt": "2026-11-09T22:25:55.523Z"
 }
