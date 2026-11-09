@@ -31267,6 +31267,24 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9bxag4jipl6o",
+      "createdAt": "2026-11-09T14:01:09.412Z",
+      "dataAtendimento": "2026-11-08",
+      "nomeCliente": "Ivanise",
+      "contatoCliente": "+55 51 9155-4096 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "260.30",
+      "numeroPedido": "21191",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -31295,5 +31313,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T13:31:52.536Z"
+  "updatedAt": "2026-11-09T14:01:10.934Z"
 }
