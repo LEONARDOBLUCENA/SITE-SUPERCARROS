@@ -31407,7 +31407,7 @@
       "nomeCliente": "Bryan Henrique Costa Zanardi",
       "contatoCliente": "(41) 99751-4005",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-09",
       "valorVenda": "689.00",
@@ -31416,7 +31416,8 @@
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-11-09T20:47:48.295Z"
     },
     {
       "id": "rmw9qfzbudsmgb1",
@@ -31461,5 +31462,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T20:47:37.561Z"
+  "updatedAt": "2026-11-09T20:47:48.295Z"
 }
