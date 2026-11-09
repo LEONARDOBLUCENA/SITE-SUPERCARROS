@@ -31674,6 +31674,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9ttzxkpxqmbs",
+      "createdAt": "2026-11-09T22:22:28.904Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Isadora Cruz",
+      "contatoCliente": "+55 53 9165-9220 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31702,5 +31718,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T22:22:15.393Z"
+  "updatedAt": "2026-11-09T22:22:29.961Z"
 }
