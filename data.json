@@ -31251,6 +31251,22 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmw9avm5pioot7d",
+      "createdAt": "2026-11-09T13:31:51.661Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Elaine Bennert",
+      "contatoCliente": "(47) 98905-1382",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "396.00",
+      "numeroPedido": "21189",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31279,5 +31295,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T13:13:36.426Z"
+  "updatedAt": "2026-11-09T13:31:52.536Z"
 }
