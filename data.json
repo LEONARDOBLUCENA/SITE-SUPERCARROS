@@ -31303,6 +31303,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-11-09T18:06:26.488Z"
+    },
+    {
+      "id": "rmw9m2uvn1hv090",
+      "createdAt": "2026-11-09T18:45:25.331Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Anna Clara Monteiro Maximo",
+      "contatoCliente": "(47) 99161-6573",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "589.00",
+      "numeroPedido": "21201",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31331,5 +31347,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T18:06:26.488Z"
+  "updatedAt": "2026-11-09T18:45:27.976Z"
 }
