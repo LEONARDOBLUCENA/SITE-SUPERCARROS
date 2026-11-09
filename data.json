@@ -31706,6 +31706,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9tus47h3a5lq",
+      "createdAt": "2026-11-09T22:23:05.431Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Leandro Mattos",
+      "contatoCliente": "+55 51 9749-4743 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31734,5 +31750,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T22:22:47.750Z"
+  "updatedAt": "2026-11-09T22:23:06.696Z"
 }
