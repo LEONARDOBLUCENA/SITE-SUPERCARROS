@@ -31562,6 +31562,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmw9tqvzbxlw69j",
+      "createdAt": "2026-11-09T22:20:03.815Z",
+      "dataAtendimento": "2026-11-09",
+      "nomeCliente": "Érica Cecília Noronha",
+      "contatoCliente": "+55 51 9566-1357 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -31590,5 +31606,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T22:19:41.188Z"
+  "updatedAt": "2026-11-09T22:20:05.579Z"
 }
