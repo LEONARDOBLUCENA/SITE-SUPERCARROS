@@ -31898,6 +31898,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwamifq62v7yd6",
+      "createdAt": "2026-11-10T11:45:18.366Z",
+      "dataAtendimento": "2026-11-10",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 35 9103-0983",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31926,5 +31942,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-10T11:44:39.172Z"
+  "updatedAt": "2026-11-10T11:45:19.351Z"
 }
