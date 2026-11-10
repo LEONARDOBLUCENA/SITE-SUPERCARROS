@@ -31962,6 +31962,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwan310kdnzsfh",
+      "createdAt": "2026-11-10T12:01:19.076Z",
+      "dataAtendimento": "2026-11-10",
+      "nomeCliente": "isa",
+      "contatoCliente": "+55 22 98152-7757",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31990,5 +32006,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-10T11:54:05.034Z"
+  "updatedAt": "2026-11-10T12:01:19.992Z"
 }
