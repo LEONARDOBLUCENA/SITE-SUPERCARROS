@@ -32026,6 +32026,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwaq8fjec32z0h",
+      "createdAt": "2026-11-10T13:29:30.026Z",
+      "dataAtendimento": "2026-11-10",
+      "nomeCliente": "~Walkiria Pitanga",
+      "contatoCliente": "+55 82 9957-6623",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32054,5 +32070,5 @@
       "updatedAt": "2026-11-10T13:21:48.705Z"
     }
   ],
-  "updatedAt": "2026-11-10T13:21:48.705Z"
+  "updatedAt": "2026-11-10T13:29:30.973Z"
 }
