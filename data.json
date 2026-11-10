@@ -31978,6 +31978,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwan4shrnwkjb3",
+      "createdAt": "2026-11-10T12:02:41.343Z",
+      "dataAtendimento": "2026-11-10",
+      "nomeCliente": "taynara",
+      "contatoCliente": "+55 77 9150-3667",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32006,5 +32022,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-10T12:01:19.992Z"
+  "updatedAt": "2026-11-10T12:02:42.302Z"
 }
