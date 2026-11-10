@@ -32074,6 +32074,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwb2ip9ailm4rt",
+      "createdAt": "2026-11-10T19:13:24.574Z",
+      "dataAtendimento": "2026-11-10",
+      "nomeCliente": "saulo moura",
+      "contatoCliente": "+55 98 8402-8907",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-10",
+      "valorVenda": "1680.00",
+      "numeroPedido": "21241",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32102,5 +32118,5 @@
       "updatedAt": "2026-11-10T18:17:56.903Z"
     }
   ],
-  "updatedAt": "2026-11-10T18:17:56.903Z"
+  "updatedAt": "2026-11-10T19:13:25.876Z"
 }
