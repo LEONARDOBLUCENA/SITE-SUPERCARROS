@@ -31834,6 +31834,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwam6k1ynnqx0b",
+      "createdAt": "2026-11-10T11:36:04.102Z",
+      "dataAtendimento": "2026-11-10",
+      "nomeCliente": "saulo",
+      "contatoCliente": "+55 98 8402-8907",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -31862,5 +31878,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-09T22:26:11.019Z"
+  "updatedAt": "2026-11-10T11:36:05.494Z"
 }
