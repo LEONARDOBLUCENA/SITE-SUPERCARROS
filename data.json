@@ -32010,6 +32010,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwaps291146u6v",
+      "createdAt": "2026-11-10T13:16:46.309Z",
+      "dataAtendimento": "2026-11-10",
+      "nomeCliente": "nunes",
+      "contatoCliente": "+55 48 9175-7950",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-10",
+      "valorVenda": "1800.00",
+      "numeroPedido": "21203",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32038,5 +32054,5 @@
       "updatedAt": "2026-11-09T12:26:55.857Z"
     }
   ],
-  "updatedAt": "2026-11-10T12:40:42.540Z"
+  "updatedAt": "2026-11-10T13:16:47.752Z"
 }
