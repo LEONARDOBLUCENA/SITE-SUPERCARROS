@@ -32400,6 +32400,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwchnsljzgutgw",
+      "createdAt": "2026-11-11T19:05:02.599Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "Gustavo Gaio Murad",
+      "contatoCliente": "+55 44 98812-4993",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32428,5 +32444,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:59:22.204Z"
+  "updatedAt": "2026-11-11T19:05:07.333Z"
 }
