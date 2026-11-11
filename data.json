@@ -32285,6 +32285,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwcegqfpwdk11g",
+      "createdAt": "2026-11-11T17:35:34.357Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "Weverton Regis",
+      "contatoCliente": "+55 31 9590-1115 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32313,5 +32329,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:35:12.611Z"
+  "updatedAt": "2026-11-11T17:35:36.089Z"
 }
