@@ -32187,6 +32187,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwc5ycxsf23wa0",
+      "createdAt": "2026-11-11T13:37:20.128Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "mateus",
+      "contatoCliente": "+55 93 8127-6450",
+      "origem": "",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32215,5 +32231,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T13:37:01.332Z"
+  "updatedAt": "2026-11-11T13:37:21.120Z"
 }
