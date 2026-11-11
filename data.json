@@ -32171,6 +32171,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwc5xxrztk2fxf",
+      "createdAt": "2026-11-11T13:37:00.479Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "renata",
+      "contatoCliente": "+55 51 9653-9359",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32199,5 +32215,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T13:36:47.189Z"
+  "updatedAt": "2026-11-11T13:37:01.332Z"
 }
