@@ -32189,6 +32189,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-11T13:49:44.956Z"
+    },
+    {
+      "id": "rmwc9fpbkfqj2o8",
+      "createdAt": "2026-11-11T15:14:48.176Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "Tamara ",
+      "contatoCliente": "+55 64 9606-7288",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32217,5 +32233,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T13:59:32.421Z"
+  "updatedAt": "2026-11-11T15:14:48.865Z"
 }
