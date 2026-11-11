@@ -32296,11 +32296,12 @@
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
+      "valorVenda": "186.50",
+      "numeroPedido": "21271",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-11T17:38:05.028Z"
     },
     {
       "id": "rmwceh1pfs537cd",
@@ -32377,5 +32378,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:36:25.437Z"
+  "updatedAt": "2026-11-11T17:38:05.028Z"
 }
