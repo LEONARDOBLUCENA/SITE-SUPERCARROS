@@ -32090,6 +32090,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwbi4tr7g29umo",
+      "createdAt": "2026-11-11T02:30:31.075Z",
+      "dataAtendimento": "2026-11-10",
+      "nomeCliente": "Sabrina cortes",
+      "contatoCliente": "  (71) 99101-6081",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-10",
+      "valorVenda": "979.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32118,5 +32134,5 @@
       "updatedAt": "2026-11-10T18:17:56.903Z"
     }
   ],
-  "updatedAt": "2026-11-10T19:13:25.876Z"
+  "updatedAt": "2026-11-11T02:30:32.588Z"
 }
