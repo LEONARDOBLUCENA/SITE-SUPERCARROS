@@ -32098,14 +32098,15 @@
       "nomeCliente": "Nadia",
       "contatoCliente": "+55 47 9159-7855",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-11",
       "valorVenda": "980.00",
       "numeroPedido": "",
       "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-11T13:19:49.619Z"
     },
     {
       "id": "rmwc59zr7d4xuma",
@@ -32166,5 +32167,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T13:19:34.419Z"
+  "updatedAt": "2026-11-11T13:19:49.619Z"
 }
