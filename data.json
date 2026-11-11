@@ -32111,7 +32111,7 @@
     {
       "id": "rmwc59zr7d4xuma",
       "createdAt": "2026-11-11T13:18:23.299Z",
-      "dataAtendimento": "2026-11-11",
+      "dataAtendimento": "2026-11-10",
       "nomeCliente": "Daniel ",
       "contatoCliente": "+55 48 9153-6237",
       "origem": "",
@@ -32122,7 +32122,8 @@
       "numeroPedido": "21259",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-11T13:43:52.722Z"
     },
     {
       "id": "rmwc5bhwk62yfsu",
@@ -32232,5 +32233,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T13:43:43.348Z"
+  "updatedAt": "2026-11-11T13:43:52.722Z"
 }
