@@ -32237,6 +32237,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwcefkn6vbjs8d",
+      "createdAt": "2026-11-11T17:34:40.194Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "Gabriela Pereira",
+      "contatoCliente": "+55 18 99140-6088 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32265,5 +32281,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:33:09.815Z"
+  "updatedAt": "2026-11-11T17:34:43.234Z"
 }
