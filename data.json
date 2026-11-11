@@ -31342,14 +31342,15 @@
       "nomeCliente": "Rejane Passos",
       "contatoCliente": "+55 79 9915-7762 ",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-11",
+      "valorVenda": "186.50",
+      "numeroPedido": "21269",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-11T17:39:06.105Z"
     },
     {
       "id": "rmw9qc0hx0p3h3r",
@@ -32378,5 +32379,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:38:17.212Z"
+  "updatedAt": "2026-11-11T17:39:06.105Z"
 }
