@@ -32221,6 +32221,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwcedkzjk9avso",
+      "createdAt": "2026-11-11T17:33:07.328Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 53 8425-6629",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32249,5 +32265,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T16:37:36.079Z"
+  "updatedAt": "2026-11-11T17:33:09.815Z"
 }
