@@ -32368,6 +32368,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwcf8axs3zol50",
+      "createdAt": "2026-11-11T17:57:00.640Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "Thiago Souza De Carvalho",
+      "contatoCliente": "+55 31 98429-2023",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32396,5 +32412,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:56:05.546Z"
+  "updatedAt": "2026-11-11T17:57:01.785Z"
 }
