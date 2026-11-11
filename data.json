@@ -32384,6 +32384,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwcfb8epeknexp",
+      "createdAt": "2026-11-11T17:59:17.329Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "Peterson Stalone Prata Ventura",
+      "contatoCliente": "+55 95 99173-6227 ",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32412,5 +32428,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:57:01.785Z"
+  "updatedAt": "2026-11-11T17:59:22.204Z"
 }
