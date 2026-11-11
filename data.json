@@ -32197,14 +32197,15 @@
       "nomeCliente": "mateus",
       "contatoCliente": "+55 93 8127-6450",
       "origem": "",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-11",
+      "valorVenda": "297.00",
+      "numeroPedido": "21267",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-11T13:49:44.956Z"
     }
   ],
   "siteVendas": [
@@ -32233,5 +32234,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T13:43:52.722Z"
+  "updatedAt": "2026-11-11T13:49:44.957Z"
 }
