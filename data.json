@@ -27898,23 +27898,6 @@
       "vendedora": "bruna"
     },
     {
-      "id": "rmvv7xswuxdfvo4",
-      "createdAt": "2026-10-30T17:00:48.414Z",
-      "dataAtendimento": "2026-10-30",
-      "nomeCliente": "santim",
-      "contatoCliente": "+55 11 97953-9704",
-      "origem": "",
-      "statusAtendimento": "Em negociação",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "2313.00",
-      "numeroPedido": "",
-      "statusPagamento": "Pendente",
-      "observacao": "",
-      "vendedora": "gisele",
-      "updatedAt": "2026-10-31T18:50:57.528Z"
-    },
-    {
       "id": "rmvvfwm0f5ckd1y",
       "createdAt": "2026-10-30T20:43:49.743Z",
       "dataAtendimento": "2026-10-30",
@@ -32234,5 +32217,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T13:49:44.957Z"
+  "updatedAt": "2026-11-11T13:58:46.008Z"
 }
