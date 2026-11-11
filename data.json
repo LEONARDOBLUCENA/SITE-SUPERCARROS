@@ -32333,6 +32333,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwcehsrohouwbq",
+      "createdAt": "2026-11-11T17:36:24.036Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "Letícia Pizatto",
+      "contatoCliente": "+55 14 99633-7523 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32361,5 +32377,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:36:05.545Z"
+  "updatedAt": "2026-11-11T17:36:25.437Z"
 }
