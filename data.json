@@ -28774,14 +28774,15 @@
       "nomeCliente": "Ana Carolina Dos Santos",
       "contatoCliente": "+55 51 98037-4202",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-10",
+      "valorVenda": "396.00",
+      "numeroPedido": "21217",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-11T17:47:56.986Z"
     },
     {
       "id": "rmvzd8lkegydmss",
@@ -32379,5 +32380,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:39:06.105Z"
+  "updatedAt": "2026-11-11T17:47:56.986Z"
 }
