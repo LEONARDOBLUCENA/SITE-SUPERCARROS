@@ -32293,15 +32293,15 @@
       "nomeCliente": "Weverton Regis",
       "contatoCliente": "+55 31 9590-1115 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "186.50",
       "numeroPedido": "21271",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna",
-      "updatedAt": "2026-11-11T17:38:05.028Z"
+      "updatedAt": "2026-11-11T17:38:17.212Z"
     },
     {
       "id": "rmwceh1pfs537cd",
@@ -32378,5 +32378,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:38:05.028Z"
+  "updatedAt": "2026-11-11T17:38:17.212Z"
 }
