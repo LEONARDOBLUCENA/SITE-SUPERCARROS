@@ -32352,6 +32352,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwcf73d9eyjdmx",
+      "createdAt": "2026-11-11T17:56:04.173Z",
+      "dataAtendimento": "2026-11-11",
+      "nomeCliente": "Bruno Moreira",
+      "contatoCliente": "+55 12 99256-7224",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32380,5 +32396,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:47:56.986Z"
+  "updatedAt": "2026-11-11T17:56:05.546Z"
 }
