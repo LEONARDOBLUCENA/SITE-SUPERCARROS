@@ -30072,14 +30072,15 @@
       "nomeCliente": "André ",
       "contatoCliente": "+55 51 9326-8241",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "combo de carros",
       "dataVenda": "",
       "valorVenda": "2300",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "numeroPedido": "21061",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-12T21:43:35.298Z"
     },
     {
       "id": "rmw4y1mm71uhs8d",
@@ -32976,5 +32977,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T21:41:09.139Z"
+  "updatedAt": "2026-11-12T21:43:35.298Z"
 }
