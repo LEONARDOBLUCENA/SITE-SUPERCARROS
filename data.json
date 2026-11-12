@@ -30833,7 +30833,7 @@
       "nomeCliente": "Franklin",
       "contatoCliente": "+55 79 9916-9375",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "drive de 911s + 2 caronas + ingressos para todos e coloco duas fotos digitais e 2 simuladores de f1 estatico de brinde para os pequenos",
       "dataVenda": "2026-11-07",
       "valorVenda": "1421.00",
@@ -30841,7 +30841,7 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-07T19:20:06.759Z"
+      "updatedAt": "2026-11-12T18:38:30.182Z"
     },
     {
       "id": "rmw6ip936i5y5iz",
@@ -32840,5 +32840,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T18:38:22.191Z"
+  "updatedAt": "2026-11-12T18:38:30.182Z"
 }
