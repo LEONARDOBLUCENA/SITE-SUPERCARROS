@@ -32726,6 +32726,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwdqp4kew0yapk",
+      "createdAt": "2026-11-12T16:05:47.486Z",
+      "dataAtendimento": "2026-10-02",
+      "nomeCliente": "Jean Magno Pereira",
+      "contatoCliente": "(47) 99964-0907",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-12",
+      "valorVenda": "1235.00",
+      "numeroPedido": "21305",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -32754,5 +32772,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T16:04:36.235Z"
+  "updatedAt": "2026-11-12T16:05:48.493Z"
 }
