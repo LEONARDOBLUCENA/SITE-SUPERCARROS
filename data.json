@@ -32448,6 +32448,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwdjlnvrhrxp9i",
+      "createdAt": "2026-11-12T12:47:08.583Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "Juliana Vieira",
+      "contatoCliente": "+55 22 99732-3079 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32476,5 +32492,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-12T12:46:51.670Z"
+  "updatedAt": "2026-11-12T12:47:09.722Z"
 }
