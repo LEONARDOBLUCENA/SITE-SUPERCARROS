@@ -32496,6 +32496,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwdjn4fhcrzw9t",
+      "createdAt": "2026-11-12T12:48:16.685Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "Katia ",
+      "contatoCliente": "+55 11 98118-4760 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32524,5 +32540,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-12T12:47:57.061Z"
+  "updatedAt": "2026-11-12T12:48:17.967Z"
 }
