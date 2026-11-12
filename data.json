@@ -32692,6 +32692,24 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmwdpnpinc6z03w",
+      "createdAt": "2026-11-12T15:36:41.711Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "~Tâmara",
+      "contatoCliente": "+55 64 9606-7288",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "997.00",
+      "numeroPedido": "21281",
+      "statusPagamento": "Pendente",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -32720,5 +32738,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T15:32:04.161Z"
+  "updatedAt": "2026-11-12T15:36:42.943Z"
 }
