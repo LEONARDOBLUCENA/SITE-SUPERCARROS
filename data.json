@@ -32750,7 +32750,7 @@
       "id": "rmwdr483xdbpso7",
       "createdAt": "2026-11-12T16:17:31.917Z",
       "dataAtendimento": "2026-11-12",
-      "nomeCliente": "Miriam ",
+      "nomeCliente": "Cintia",
       "contatoCliente": "+55 43 8462-0298",
       "origem": "WhatsApp",
       "statusAtendimento": "Pedido finalizado",
@@ -32760,7 +32760,8 @@
       "numeroPedido": "21309",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-12T16:55:08.876Z"
     }
   ],
   "siteVendas": [
@@ -32789,5 +32790,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T16:44:00.768Z"
+  "updatedAt": "2026-11-12T16:55:08.876Z"
 }
