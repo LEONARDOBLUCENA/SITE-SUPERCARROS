@@ -32812,6 +32812,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-12T18:35:41.814Z"
+    },
+    {
+      "id": "rmwdx68evkyjirs",
+      "createdAt": "2026-11-12T19:07:03.319Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "Raphael diniz",
+      "contatoCliente": "+55 31 9382-8662",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32840,5 +32856,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T18:38:30.182Z"
+  "updatedAt": "2026-11-12T19:07:04.509Z"
 }
