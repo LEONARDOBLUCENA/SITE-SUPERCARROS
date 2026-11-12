@@ -32682,7 +32682,7 @@
       "nomeCliente": "~Joicy",
       "contatoCliente": "+55 34 9984-9433",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-11",
       "valorVenda": "289.00",
@@ -32691,7 +32691,8 @@
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-11-12T16:06:10.398Z"
     },
     {
       "id": "rmwdpnpinc6z03w",
@@ -32772,5 +32773,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T16:05:48.493Z"
+  "updatedAt": "2026-11-12T16:06:10.398Z"
 }
