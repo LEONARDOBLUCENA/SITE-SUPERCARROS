@@ -32408,14 +32408,15 @@
       "nomeCliente": "Gustavo Gaio Murad",
       "contatoCliente": "+55 44 98812-4993",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "711.00",
+      "numeroPedido": "21275",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-12T13:07:17.525Z"
     },
     {
       "id": "rmwcikfxgdq6kyu",
@@ -32700,5 +32701,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-12T13:00:34.872Z"
+  "updatedAt": "2026-11-12T13:07:17.525Z"
 }
