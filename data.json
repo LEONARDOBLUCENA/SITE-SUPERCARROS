@@ -32656,6 +32656,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwdk2vuoba4uqe",
+      "createdAt": "2026-11-12T13:00:32.064Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "Adriana Amorim Pereira",
+      "contatoCliente": " +55 16 99261-2363",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32684,5 +32700,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-12T12:58:33.376Z"
+  "updatedAt": "2026-11-12T13:00:34.872Z"
 }
