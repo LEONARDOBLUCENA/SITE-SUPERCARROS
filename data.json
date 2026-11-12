@@ -27987,7 +27987,7 @@
       "nomeCliente": "silvana",
       "contatoCliente": "+55 71 9188-4206",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
@@ -27995,7 +27995,7 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-31T00:53:29.065Z"
+      "updatedAt": "2026-11-12T21:41:09.138Z"
     },
     {
       "id": "rmvvors2dha4rub",
@@ -32976,5 +32976,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T21:40:40.129Z"
+  "updatedAt": "2026-11-12T21:41:09.139Z"
 }
