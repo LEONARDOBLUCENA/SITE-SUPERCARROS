@@ -32464,6 +32464,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwdjm2oocbhjxj",
+      "createdAt": "2026-11-12T12:47:27.768Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "Raquel",
+      "contatoCliente": "+55 46 8825-6937 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32492,5 +32508,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-12T12:47:09.722Z"
+  "updatedAt": "2026-11-12T12:47:29.168Z"
 }
