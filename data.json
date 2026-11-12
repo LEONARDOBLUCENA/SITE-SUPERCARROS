@@ -32679,24 +32679,6 @@
       "updatedAt": "2026-11-12T16:06:10.398Z"
     },
     {
-      "id": "rmwdpnpinc6z03w",
-      "createdAt": "2026-11-12T15:36:41.711Z",
-      "dataAtendimento": "2026-11-12",
-      "nomeCliente": "~Tâmara",
-      "contatoCliente": "+55 64 9606-7288",
-      "origem": "",
-      "statusAtendimento": "Link enviado",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "997.00",
-      "numeroPedido": "21281",
-      "statusPagamento": "Pendente",
-      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
-      "vendedora": "bruna",
-      "vendedoraFinalizou": "gisele",
-      "compartilhado": true
-    },
-    {
       "id": "rmwdq5303gdrczb",
       "createdAt": "2026-11-12T15:50:12.339Z",
       "dataAtendimento": "2026-11-12",
@@ -32857,5 +32839,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T18:35:41.814Z"
+  "updatedAt": "2026-11-12T18:38:01.565Z"
 }
