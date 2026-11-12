@@ -32726,6 +32726,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwdqn5vec6ak7i",
+      "createdAt": "2026-11-12T16:04:15.866Z",
+      "dataAtendimento": "2026-07-28",
+      "nomeCliente": "Jean Magno Pereira",
+      "contatoCliente": "(47) 99964-0907",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-12",
+      "valorVenda": "1235.00",
+      "numeroPedido": "21305",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32754,5 +32770,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T15:50:13.738Z"
+  "updatedAt": "2026-11-12T16:04:18.067Z"
 }
