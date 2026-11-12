@@ -32862,6 +32862,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwdyx25sxat6sf",
+      "createdAt": "2026-11-12T19:55:54.544Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "daniel",
+      "contatoCliente": "+55 91 9221-6841",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32890,5 +32906,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T19:51:38.937Z"
+  "updatedAt": "2026-11-12T19:55:56.588Z"
 }
