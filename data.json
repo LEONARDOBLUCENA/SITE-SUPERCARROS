@@ -32278,15 +32278,16 @@
       "dataAtendimento": "2026-11-11",
       "nomeCliente": "Martin",
       "contatoCliente": "+598 99 282 939 ",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Evento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-12",
+      "valorVenda": "260.00",
+      "numeroPedido": "Online 1597",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-12T14:59:07.836Z"
     },
     {
       "id": "rmwcegqfpwdk11g",
@@ -32701,5 +32702,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T13:49:09.586Z"
+  "updatedAt": "2026-11-12T14:59:07.836Z"
 }
