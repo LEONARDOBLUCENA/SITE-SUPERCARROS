@@ -32819,15 +32819,16 @@
       "dataAtendimento": "2026-11-12",
       "nomeCliente": "Gustavo",
       "contatoCliente": "+55 51 9397-1680",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
+      "dataVenda": "2026-11-12",
+      "valorVenda": "1300.00",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-12T18:23:14.816Z"
     }
   ],
   "siteVendas": [
@@ -32856,5 +32857,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T18:22:57.584Z"
+  "updatedAt": "2026-11-12T18:23:14.816Z"
 }
