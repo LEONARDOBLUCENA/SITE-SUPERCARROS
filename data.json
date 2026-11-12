@@ -19928,22 +19928,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmv6wboboesfnp4",
-      "createdAt": "2026-10-13T16:29:12.036Z",
-      "dataAtendimento": "2026-10-13",
-      "nomeCliente": "~Débora",
-      "contatoCliente": "+55 32 8855-2123",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele"
-    },
-    {
       "id": "rmv6xks5nfp77si",
       "createdAt": "2026-10-13T17:04:16.523Z",
       "dataAtendimento": "2026-10-13",
@@ -32960,5 +32944,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T21:44:01.947Z"
+  "updatedAt": "2026-11-12T22:06:58.787Z"
 }
