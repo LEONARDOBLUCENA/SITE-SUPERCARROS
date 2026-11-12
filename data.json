@@ -32794,6 +32794,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwdv70n0nbszdw",
+      "createdAt": "2026-11-12T18:11:40.668Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "Cintia Renata Schuch",
+      "contatoCliente": "(51) 99554-5775",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "153.00",
+      "numeroPedido": "21311",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -32822,5 +32840,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T18:04:30.692Z"
+  "updatedAt": "2026-11-12T18:11:41.732Z"
 }
