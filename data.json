@@ -32753,14 +32753,15 @@
       "nomeCliente": "ligia",
       "contatoCliente": "+55 87 9608-4005",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-12T19:56:14.648Z"
     },
     {
       "id": "rmwduxrrlysa8um",
@@ -32906,5 +32907,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T19:55:56.588Z"
+  "updatedAt": "2026-11-12T19:56:14.648Z"
 }
