@@ -31228,14 +31228,15 @@
       "nomeCliente": "~Bauher Araújo",
       "contatoCliente": "+55 33 8849-9362",
       "origem": "",
-      "statusAtendimento": "Link enviado",
-      "produtoInteresse": "",
+      "statusAtendimento": "Outros",
+      "produtoInteresse": "veio direto ao salão ",
       "dataVenda": "",
       "valorVenda": "10000.00",
-      "numeroPedido": "21173",
+      "numeroPedido": "",
       "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-12T18:38:22.191Z"
     },
     {
       "id": "rmw9avm5pioot7d",
@@ -32839,5 +32840,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T18:38:01.565Z"
+  "updatedAt": "2026-11-12T18:38:22.191Z"
 }
