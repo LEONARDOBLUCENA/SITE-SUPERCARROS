@@ -32879,6 +32879,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwdztxzbb9sk8q",
+      "createdAt": "2026-11-12T20:21:28.775Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "debora",
+      "contatoCliente": "+55 32 8855-2123",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-12",
+      "valorVenda": "1070.00",
+      "numeroPedido": "21327",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -32907,5 +32925,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T19:56:14.648Z"
+  "updatedAt": "2026-11-12T20:21:30.395Z"
 }
