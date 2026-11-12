@@ -32608,6 +32608,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwdjqg95xqegpj",
+      "createdAt": "2026-11-12T12:50:51.977Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "Jaqueline ",
+      "contatoCliente": "+55 51 8174-3261",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32636,5 +32652,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-12T12:50:35.036Z"
+  "updatedAt": "2026-11-12T12:50:53.748Z"
 }
