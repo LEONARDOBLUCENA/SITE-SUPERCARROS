@@ -32528,6 +32528,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwdjo25j16qbwb",
+      "createdAt": "2026-11-12T12:49:00.391Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "Pablo Cunha",
+      "contatoCliente": "+55 83 9861-4846 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -32556,5 +32572,5 @@
       "updatedAt": "2026-11-11T12:19:00.730Z"
     }
   ],
-  "updatedAt": "2026-11-12T12:48:38.436Z"
+  "updatedAt": "2026-11-12T12:49:01.732Z"
 }
