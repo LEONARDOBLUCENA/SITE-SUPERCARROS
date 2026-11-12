@@ -32820,15 +32820,15 @@
       "nomeCliente": "Gustavo",
       "contatoCliente": "+55 51 9397-1680",
       "origem": "WhatsApp",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-12",
       "valorVenda": "1300.00",
       "numeroPedido": "",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-12T18:23:14.816Z"
+      "updatedAt": "2026-11-12T18:35:41.814Z"
     }
   ],
   "siteVendas": [
@@ -32857,5 +32857,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T18:23:14.816Z"
+  "updatedAt": "2026-11-12T18:35:41.814Z"
 }
