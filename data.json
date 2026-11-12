@@ -27954,7 +27954,7 @@
       "nomeCliente": "~Isadora Torquato",
       "contatoCliente": "+55 86 9829-8425",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
@@ -27962,7 +27962,7 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-10-31T00:52:25.736Z"
+      "updatedAt": "2026-11-12T21:40:40.129Z"
     },
     {
       "id": "rmvvoqax7l2xhoo",
@@ -32976,5 +32976,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T21:39:52.100Z"
+  "updatedAt": "2026-11-12T21:40:40.129Z"
 }
