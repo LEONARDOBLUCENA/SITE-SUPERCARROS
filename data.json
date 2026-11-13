@@ -32999,6 +32999,24 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-11-13T18:24:14.543Z"
+    },
+    {
+      "id": "rmwfda4lkzrh8xp",
+      "createdAt": "2026-11-13T19:25:45.032Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "matheus",
+      "contatoCliente": "+55 75 9109-4468",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "ferrari",
+      "dataVenda": "2026-11-13",
+      "valorVenda": "1250.00",
+      "numeroPedido": "21343",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -33027,5 +33045,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T18:24:14.543Z"
+  "updatedAt": "2026-11-13T19:25:45.756Z"
 }
