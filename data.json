@@ -32993,11 +32993,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "346.50",
+      "valorVenda": "311.85",
       "numeroPedido": "21337",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-13T18:24:14.543Z"
     }
   ],
   "siteVendas": [
@@ -33026,5 +33027,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T18:08:54.661Z"
+  "updatedAt": "2026-11-13T18:24:14.543Z"
 }
