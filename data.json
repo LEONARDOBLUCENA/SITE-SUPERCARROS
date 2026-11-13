@@ -33162,6 +33162,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwffezl07w7x04",
+      "createdAt": "2026-11-13T20:25:31.044Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "Wellington",
+      "contatoCliente": "+55 31 9713-2308 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33190,5 +33206,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:25:12.049Z"
+  "updatedAt": "2026-11-13T20:25:34.806Z"
 }
