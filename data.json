@@ -33050,6 +33050,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwffccx1dz2h1w",
+      "createdAt": "2026-11-13T20:23:28.357Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "Henry Silva",
+      "contatoCliente": "+55 51 9415-9025 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33078,5 +33094,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:23:12.020Z"
+  "updatedAt": "2026-11-13T20:23:29.346Z"
 }
