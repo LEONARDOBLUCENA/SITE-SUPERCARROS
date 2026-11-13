@@ -32967,6 +32967,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwf12b85kin3gr",
+      "createdAt": "2026-11-13T13:43:44.981Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "andressa",
+      "contatoCliente": "+55 11 97500-1278",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "pagar barato",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32995,5 +33011,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T13:14:30.040Z"
+  "updatedAt": "2026-11-13T13:43:46.167Z"
 }
