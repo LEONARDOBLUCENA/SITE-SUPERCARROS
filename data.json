@@ -33098,6 +33098,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwffdgt8v9wbvx",
+      "createdAt": "2026-11-13T20:24:20.060Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "Cris Marchioro",
+      "contatoCliente": "+55 54 9939-7895 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33126,5 +33142,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:24:03.098Z"
+  "updatedAt": "2026-11-13T20:24:23.746Z"
 }
