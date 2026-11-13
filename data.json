@@ -33226,6 +33226,24 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwfgencklip78f",
+      "createdAt": "2026-11-13T20:53:14.804Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "giulia",
+      "contatoCliente": "+55 51 9343-3682",
+      "origem": "Evento",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "500.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -33254,5 +33272,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:28:27.217Z"
+  "updatedAt": "2026-11-13T20:53:15.735Z"
 }
