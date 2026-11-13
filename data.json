@@ -33146,6 +33146,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwffejg83k1la6",
+      "createdAt": "2026-11-13T20:25:10.136Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "Bruna Gratão",
+      "contatoCliente": "+55 62 8577-8578 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33174,5 +33190,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:24:57.407Z"
+  "updatedAt": "2026-11-13T20:25:12.049Z"
 }
