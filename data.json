@@ -32932,7 +32932,8 @@
       "numeroPedido": "21333",
       "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-13T13:14:30.040Z"
     },
     {
       "id": "rmweytlulh61gmv",
@@ -32994,5 +32995,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T13:13:09.976Z"
+  "updatedAt": "2026-11-13T13:14:30.040Z"
 }
