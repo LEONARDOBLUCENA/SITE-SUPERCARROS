@@ -33194,6 +33194,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwffftce0mrsp6",
+      "createdAt": "2026-11-13T20:26:09.614Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "Natalia Ribeiro",
+      "contatoCliente": "+55 34 9168-5428 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33222,5 +33238,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:25:56.212Z"
+  "updatedAt": "2026-11-13T20:26:12.078Z"
 }
