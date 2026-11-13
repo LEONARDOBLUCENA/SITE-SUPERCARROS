@@ -32942,15 +32942,15 @@
       "nomeCliente": "karine",
       "contatoCliente": "+55 31 9963-1423",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "274.00",
       "numeroPedido": "21335",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-13T12:41:18.868Z"
+      "updatedAt": "2026-11-13T18:08:12.149Z"
     },
     {
       "id": "rmwezyyazxtfx3i",
@@ -33043,5 +33043,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T15:24:58.352Z"
+  "updatedAt": "2026-11-13T18:08:12.149Z"
 }
