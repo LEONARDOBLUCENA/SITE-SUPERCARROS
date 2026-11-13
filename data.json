@@ -32830,7 +32830,8 @@
       "numeroPedido": "21319",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-13T12:38:49.809Z"
     },
     {
       "id": "rmwdyx25sxat6sf",
@@ -32944,5 +32945,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-12T22:06:58.787Z"
+  "updatedAt": "2026-11-13T12:38:49.810Z"
 }
