@@ -32999,6 +32999,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwf4ogsf0fp888",
+      "createdAt": "2026-11-13T15:24:57.471Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "Alex Montenegro Francisco",
+      "contatoCliente": "(11) 97442-1985",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "346.50",
+      "numeroPedido": "21337",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33027,5 +33043,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T14:39:41.517Z"
+  "updatedAt": "2026-11-13T15:24:58.352Z"
 }
