@@ -33114,6 +33114,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwffdxrypmt9ad",
+      "createdAt": "2026-11-13T20:24:42.046Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "Jennifer Camargo",
+      "contatoCliente": "+55 11 99992-3325 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33142,5 +33158,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:24:23.746Z"
+  "updatedAt": "2026-11-13T20:24:43.140Z"
 }
