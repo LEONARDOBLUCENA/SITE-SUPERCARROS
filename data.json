@@ -32983,6 +32983,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwf328cpzmhvvu",
+      "createdAt": "2026-11-13T14:39:40.489Z",
+      "dataAtendimento": "2026-11-12",
+      "nomeCliente": "Ricardo Simon Da Silva",
+      "contatoCliente": "+55 48 9162-3278",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-12",
+      "valorVenda": "650.00",
+      "numeroPedido": "21319",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33011,5 +33027,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T13:43:46.167Z"
+  "updatedAt": "2026-11-13T14:39:41.517Z"
 }
