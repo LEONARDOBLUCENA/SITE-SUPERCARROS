@@ -33018,6 +33018,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-11-13T20:18:06.097Z"
+    },
+    {
+      "id": "rmwff65g9ve1o8k",
+      "createdAt": "2026-11-13T20:18:38.745Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "Diogo Helano",
+      "contatoCliente": "+55 91 8564-2877 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "750.00",
+      "numeroPedido": "21349",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33046,5 +33062,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:18:06.098Z"
+  "updatedAt": "2026-11-13T20:18:39.705Z"
 }
