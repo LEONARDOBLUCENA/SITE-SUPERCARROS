@@ -32950,6 +32950,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-13T12:41:18.868Z"
+    },
+    {
+      "id": "rmwezyyazxtfx3i",
+      "createdAt": "2026-11-13T13:13:08.651Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "nice",
+      "contatoCliente": "+55 47 8912-1226",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32978,5 +32994,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T12:56:23.837Z"
+  "updatedAt": "2026-11-13T13:13:09.976Z"
 }
