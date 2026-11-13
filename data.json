@@ -32917,6 +32917,22 @@
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
       "updatedAt": "2026-11-12T21:39:52.100Z"
+    },
+    {
+      "id": "rmweyrf75wj2jbm",
+      "createdAt": "2026-11-13T12:39:17.681Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "~Dayane Ameno",
+      "contatoCliente": "+55 31 7543-6584",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "434.00",
+      "numeroPedido": "21333",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -32945,5 +32961,5 @@
       "updatedAt": "2026-11-12T13:49:09.586Z"
     }
   ],
-  "updatedAt": "2026-11-13T12:38:49.810Z"
+  "updatedAt": "2026-11-13T12:39:18.667Z"
 }
