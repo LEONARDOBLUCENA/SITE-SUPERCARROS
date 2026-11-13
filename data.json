@@ -33066,6 +33066,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwffcpiw6nmy8q",
+      "createdAt": "2026-11-13T20:23:44.696Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "Marina",
+      "contatoCliente": "+55 31 9828-8860 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33094,5 +33110,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:23:29.346Z"
+  "updatedAt": "2026-11-13T20:23:46.071Z"
 }
