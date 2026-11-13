@@ -33210,6 +33210,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwffiqvgglw2cx",
+      "createdAt": "2026-11-13T20:28:26.380Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "Ana Carolina Gomes Da Silva Borges",
+      "contatoCliente": "(61) 99598-0719",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "47.02",
+      "numeroPedido": "21347",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33238,5 +33254,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:26:12.078Z"
+  "updatedAt": "2026-11-13T20:28:27.217Z"
 }
