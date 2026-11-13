@@ -33004,8 +33004,8 @@
       "id": "rmwfda4lkzrh8xp",
       "createdAt": "2026-11-13T19:25:45.032Z",
       "dataAtendimento": "2026-11-13",
-      "nomeCliente": "matheus",
-      "contatoCliente": "+55 75 9109-4468",
+      "nomeCliente": "João Carlos",
+      "contatoCliente": "+55 11 94726-9738 ~",
       "origem": "",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "ferrari",
@@ -33017,7 +33017,7 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true,
-      "updatedAt": "2026-11-13T20:18:06.097Z"
+      "updatedAt": "2026-11-13T20:20:02.894Z"
     },
     {
       "id": "rmwff65g9ve1o8k",
@@ -33062,5 +33062,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T20:18:39.705Z"
+  "updatedAt": "2026-11-13T20:20:02.894Z"
 }
