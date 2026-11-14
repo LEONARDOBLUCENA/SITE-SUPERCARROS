@@ -33399,6 +33399,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwgrqasgqchgtl",
+      "createdAt": "2026-11-14T18:58:00.352Z",
+      "dataAtendimento": "2026-11-14",
+      "nomeCliente": "tamiris",
+      "contatoCliente": "+55 31 9543-1762",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -33427,5 +33443,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T18:55:57.700Z"
+  "updatedAt": "2026-11-14T18:58:01.517Z"
 }
