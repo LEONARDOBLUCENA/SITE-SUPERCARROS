@@ -33335,24 +33335,6 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
-    },
-    {
-      "id": "rmwgovcd4ehvryu",
-      "createdAt": "2026-11-14T17:37:56.824Z",
-      "dataAtendimento": "2026-11-14",
-      "nomeCliente": "leonardo",
-      "contatoCliente": "+55 11 95551-9447",
-      "origem": "Cara de Mau",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "250.00",
-      "numeroPedido": "21395",
-      "statusPagamento": "Pago",
-      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
-      "vendedora": "gisele",
-      "vendedoraFinalizou": "bruna",
-      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -33381,5 +33363,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T17:37:58.369Z"
+  "updatedAt": "2026-11-14T17:38:15.240Z"
 }
