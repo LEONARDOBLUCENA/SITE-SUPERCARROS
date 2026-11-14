@@ -33383,6 +33383,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwgrnnertf8nps",
+      "createdAt": "2026-11-14T18:55:56.739Z",
+      "dataAtendimento": "2026-11-14",
+      "nomeCliente": "tuani",
+      "contatoCliente": "+55 54 9942-4142",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -33411,5 +33427,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T18:55:44.297Z"
+  "updatedAt": "2026-11-14T18:55:57.700Z"
 }
