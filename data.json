@@ -33263,6 +33263,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmwgd6s90qil3u5",
+      "createdAt": "2026-11-14T12:10:55.236Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "fabio",
+      "contatoCliente": "+55 65 8459-4582",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-14",
+      "valorVenda": "297.00",
+      "numeroPedido": "21371",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -33291,5 +33307,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-13T23:40:10.535Z"
+  "updatedAt": "2026-11-14T12:10:56.853Z"
 }
