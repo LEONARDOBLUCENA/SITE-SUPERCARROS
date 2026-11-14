@@ -33383,6 +33383,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwgrmwdwuyozq3",
+      "createdAt": "2026-11-14T18:55:21.716Z",
+      "dataAtendimento": "2026-11-14",
+      "nomeCliente": "thalles",
+      "contatoCliente": "+55 35 9846-1159",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -33411,5 +33427,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T18:55:10.637Z"
+  "updatedAt": "2026-11-14T18:55:23.308Z"
 }
