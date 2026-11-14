@@ -33560,6 +33560,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwgrzm2jnrg5ib",
+      "createdAt": "2026-11-14T19:05:14.875Z",
+      "dataAtendimento": "2026-11-14",
+      "nomeCliente": "emely",
+      "contatoCliente": "+55 84 9431-9596",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -33588,5 +33604,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T19:04:51.233Z"
+  "updatedAt": "2026-11-14T19:05:15.893Z"
 }
