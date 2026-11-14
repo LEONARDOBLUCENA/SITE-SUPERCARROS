@@ -33544,6 +33544,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwgrz3d6oklcsq",
+      "createdAt": "2026-11-14T19:04:50.634Z",
+      "dataAtendimento": "2026-11-14",
+      "nomeCliente": "anderson",
+      "contatoCliente": "+55 22 99222-5995",
+      "origem": "Hard Rock",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -33572,5 +33588,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T19:04:38.218Z"
+  "updatedAt": "2026-11-14T19:04:51.233Z"
 }
