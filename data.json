@@ -32586,14 +32586,15 @@
       "nomeCliente": "Nathália Oliveira",
       "contatoCliente": "+55 21 96569-0177",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-13",
+      "valorVenda": "300.20",
+      "numeroPedido": "21359",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-14T14:23:25.521Z"
     },
     {
       "id": "rmwdk2vuoba4uqe",
@@ -33308,5 +33309,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T12:29:30.678Z"
+  "updatedAt": "2026-11-14T14:23:25.522Z"
 }
