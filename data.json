@@ -33367,6 +33367,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwgrmmhvopbnfd",
+      "createdAt": "2026-11-14T18:55:08.899Z",
+      "dataAtendimento": "2026-11-13",
+      "nomeCliente": "~Thaynara Nutricionista",
+      "contatoCliente": "+55 61 9187-1742",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -33395,5 +33411,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T18:54:40.514Z"
+  "updatedAt": "2026-11-14T18:55:10.637Z"
 }
