@@ -33648,14 +33648,15 @@
       "nomeCliente": "fernando",
       "contatoCliente": "+55 15 99185-4277",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-14T19:07:43.195Z"
     }
   ],
   "siteVendas": [
@@ -33684,5 +33685,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T19:07:33.467Z"
+  "updatedAt": "2026-11-14T19:07:43.195Z"
 }
