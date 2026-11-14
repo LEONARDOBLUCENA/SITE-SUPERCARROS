@@ -33271,14 +33271,15 @@
       "nomeCliente": "fabio",
       "contatoCliente": "+55 65 8459-4582",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-14",
       "valorVenda": "297.00",
       "numeroPedido": "21371",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-14T12:29:30.677Z"
     }
   ],
   "siteVendas": [
@@ -33307,5 +33308,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T12:10:56.853Z"
+  "updatedAt": "2026-11-14T12:29:30.678Z"
 }
