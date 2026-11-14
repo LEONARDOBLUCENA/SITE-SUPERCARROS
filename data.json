@@ -33673,6 +33673,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwgs407tow9d1p",
+      "createdAt": "2026-11-14T19:08:39.833Z",
+      "dataAtendimento": "2026-11-14",
+      "nomeCliente": "leandro",
+      "contatoCliente": "+55 49 9841-6642",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -33701,5 +33717,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T19:08:05.528Z"
+  "updatedAt": "2026-11-14T19:08:40.774Z"
 }
