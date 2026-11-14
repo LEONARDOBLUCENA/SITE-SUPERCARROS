@@ -33423,14 +33423,15 @@
       "nomeCliente": "pedro",
       "contatoCliente": "+55 11 97061-9700",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "590.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-14T19:00:17.589Z"
     },
     {
       "id": "rmwgrsqit6n23ua",
@@ -33475,5 +33476,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T18:59:54.644Z"
+  "updatedAt": "2026-11-14T19:00:17.589Z"
 }
