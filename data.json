@@ -33059,14 +33059,15 @@
       "nomeCliente": "Henry Silva",
       "contatoCliente": "+55 51 9415-9025 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "190.00",
+      "numeroPedido": "21351",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-14T14:24:51.291Z"
     },
     {
       "id": "rmwffcpiw6nmy8q",
@@ -33309,5 +33310,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T14:23:25.522Z"
+  "updatedAt": "2026-11-14T14:24:51.291Z"
 }
