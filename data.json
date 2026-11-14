@@ -33592,6 +33592,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwgs12ammarej4",
+      "createdAt": "2026-11-14T19:06:22.558Z",
+      "dataAtendimento": "2026-11-14",
+      "nomeCliente": "jaqueline",
+      "contatoCliente": "+55 84 9483-4334",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -33620,5 +33636,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T19:05:35.719Z"
+  "updatedAt": "2026-11-14T19:06:23.293Z"
 }
