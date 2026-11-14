@@ -9699,17 +9699,18 @@
       "id": "rmu9v9kx0gkxcid",
       "createdAt": "2026-09-20T13:43:10.884Z",
       "dataAtendimento": "2026-09-20",
-      "nomeCliente": "Sem nome ",
+      "nomeCliente": "Renata Kelle Pereira",
       "contatoCliente": "+55 62 9299-1786",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-14",
+      "valorVenda": "228.50",
+      "numeroPedido": "21389",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-14T15:28:11.381Z"
     },
     {
       "id": "rmu9xqjc2f68d7z",
@@ -33310,5 +33311,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T14:24:51.291Z"
+  "updatedAt": "2026-11-14T15:28:11.381Z"
 }
