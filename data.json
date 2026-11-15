@@ -33785,6 +33785,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwhuua6m333sx0",
+      "createdAt": "2026-11-15T13:12:51.214Z",
+      "dataAtendimento": "2026-11-14",
+      "nomeCliente": "Ana Clara Gome",
+      "contatoCliente": "+55 62 9171-9488 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-15",
+      "valorVenda": "490.00",
+      "numeroPedido": "21417",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33813,5 +33829,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-15T13:12:08.476Z"
+  "updatedAt": "2026-11-15T13:12:52.793Z"
 }
