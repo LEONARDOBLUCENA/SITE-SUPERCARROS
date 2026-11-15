@@ -33881,6 +33881,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwhuyhgbvx0880",
+      "createdAt": "2026-11-15T13:16:07.259Z",
+      "dataAtendimento": "2026-11-14",
+      "nomeCliente": "Mikael Eduardo Borges Lindholz",
+      "contatoCliente": "(54) 98115-7099 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-14",
+      "valorVenda": "282.15",
+      "numeroPedido": "21403",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33909,5 +33925,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-15T13:15:08.518Z"
+  "updatedAt": "2026-11-15T13:16:08.622Z"
 }
