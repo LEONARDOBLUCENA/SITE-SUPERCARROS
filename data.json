@@ -33801,6 +33801,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwhuuu5yybd72x",
+      "createdAt": "2026-11-15T13:13:17.110Z",
+      "dataAtendimento": "2026-11-15",
+      "nomeCliente": "Arthur Rodrigo",
+      "contatoCliente": "+55 84 9666-9036 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33829,5 +33845,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-15T13:12:52.793Z"
+  "updatedAt": "2026-11-15T13:13:19.936Z"
 }
