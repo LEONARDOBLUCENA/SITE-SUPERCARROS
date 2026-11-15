@@ -33721,6 +33721,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwhusboe01036d",
+      "createdAt": "2026-11-15T13:11:19.838Z",
+      "dataAtendimento": "2026-11-15",
+      "nomeCliente": "Leonardo Cust",
+      "contatoCliente": "+55 35 9713-9640 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33749,5 +33765,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-14T19:10:29.463Z"
+  "updatedAt": "2026-11-15T13:11:21.069Z"
 }
