@@ -33753,6 +33753,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwhuszv3jtthe5",
+      "createdAt": "2026-11-15T13:11:51.183Z",
+      "dataAtendimento": "2026-11-15",
+      "nomeCliente": "Thais Cunha ",
+      "contatoCliente": "+55 21 99510-1871",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33781,5 +33797,5 @@
       "updatedAt": "2026-11-13T12:56:23.837Z"
     }
   ],
-  "updatedAt": "2026-11-15T13:11:37.726Z"
+  "updatedAt": "2026-11-15T13:11:52.588Z"
 }
