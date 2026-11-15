@@ -33897,6 +33897,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwi8wvglq829of",
+      "createdAt": "2026-11-15T19:46:46.725Z",
+      "dataAtendimento": "2026-11-08",
+      "nomeCliente": "Anderson Oliveira",
+      "contatoCliente": "+55 11 93802-0557 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-15",
+      "valorVenda": "557.00",
+      "numeroPedido": "21433",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33925,5 +33941,5 @@
       "updatedAt": "2026-11-15T13:41:20.586Z"
     }
   ],
-  "updatedAt": "2026-11-15T13:41:20.586Z"
+  "updatedAt": "2026-11-15T19:46:48.281Z"
 }
