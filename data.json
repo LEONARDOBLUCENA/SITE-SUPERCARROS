@@ -34174,6 +34174,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr370xiaouyl",
+      "createdAt": "2026-11-16T21:03:20.913Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Werllyson Sousa",
+      "contatoCliente": "+55 98 8811-3488 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34202,5 +34218,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:03:04.381Z"
+  "updatedAt": "2026-11-16T21:03:24.957Z"
 }
