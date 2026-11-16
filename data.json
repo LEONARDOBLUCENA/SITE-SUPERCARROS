@@ -34286,6 +34286,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr8fcibheouf",
+      "createdAt": "2026-11-16T21:07:24.978Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Cleo Souza",
+      "contatoCliente": "+55 37 9181-5676 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34314,5 +34330,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:06:54.349Z"
+  "updatedAt": "2026-11-16T21:07:29.372Z"
 }
