@@ -34014,6 +34014,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjqyyh4kd1a7c",
+      "createdAt": "2026-11-16T21:00:03.208Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 73 9914-4455",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34042,5 +34058,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T19:36:30.071Z"
+  "updatedAt": "2026-11-16T21:00:06.298Z"
 }
