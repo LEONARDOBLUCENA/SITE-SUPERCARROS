@@ -34270,6 +34270,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr7o90rx6tlj",
+      "createdAt": "2026-11-16T21:06:49.860Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Sabrina Nobre",
+      "contatoCliente": "+55 83 9661-5496 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34298,5 +34314,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:06:22.664Z"
+  "updatedAt": "2026-11-16T21:06:54.349Z"
 }
