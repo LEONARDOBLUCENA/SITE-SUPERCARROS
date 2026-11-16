@@ -33157,14 +33157,15 @@
       "nomeCliente": "Bruna Gratão",
       "contatoCliente": "+55 62 8577-8578 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-15",
+      "valorVenda": "167.85",
+      "numeroPedido": "21417",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-16T19:11:02.326Z"
     },
     {
       "id": "rmwffezl07w7x04",
@@ -33959,5 +33960,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T14:17:35.853Z"
+  "updatedAt": "2026-11-16T19:11:02.326Z"
 }
