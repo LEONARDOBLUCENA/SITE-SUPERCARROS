@@ -34142,6 +34142,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr2ggqw35oy0",
+      "createdAt": "2026-11-16T21:02:46.490Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Ivína",
+      "contatoCliente": "+55 85 9114-6950",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34170,5 +34186,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:02:27.450Z"
+  "updatedAt": "2026-11-16T21:02:48.924Z"
 }
