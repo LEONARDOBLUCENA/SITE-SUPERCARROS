@@ -34302,6 +34302,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr8smrz4ab5d",
+      "createdAt": "2026-11-16T21:07:42.195Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Alice",
+      "contatoCliente": "+55 22 98815-4741 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34330,5 +34346,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:07:29.372Z"
+  "updatedAt": "2026-11-16T21:07:44.882Z"
 }
