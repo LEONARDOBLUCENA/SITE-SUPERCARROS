@@ -34254,6 +34254,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr706x6drpec",
+      "createdAt": "2026-11-16T21:06:18.681Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Rodrigo Garcia",
+      "contatoCliente": "+55 11 98228-9858 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34282,5 +34298,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:05:27.982Z"
+  "updatedAt": "2026-11-16T21:06:22.664Z"
 }
