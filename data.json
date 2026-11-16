@@ -33998,6 +33998,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjnzh2n3mff8m",
+      "createdAt": "2026-11-16T19:36:28.463Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Maria Eduarda Oliveira Corrêa",
+      "contatoCliente": "(77) 99211-4755",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "702.05",
+      "numeroPedido": "21483",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34026,5 +34042,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T19:35:21.973Z"
+  "updatedAt": "2026-11-16T19:36:30.071Z"
 }
