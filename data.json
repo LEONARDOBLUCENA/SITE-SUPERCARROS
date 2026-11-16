@@ -34030,6 +34030,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjqzjf9nubtli",
+      "createdAt": "2026-11-16T21:00:30.357Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "ALISSON SOARES",
+      "contatoCliente": "+55 83 9927-8358 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34058,5 +34074,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:00:06.298Z"
+  "updatedAt": "2026-11-16T21:00:33.631Z"
 }
