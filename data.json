@@ -34398,6 +34398,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjrb5qae36crc",
+      "createdAt": "2026-11-16T21:09:32.482Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Luciana Labarba",
+      "contatoCliente": "+55 21 98825-9019 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34426,5 +34442,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:09:18.171Z"
+  "updatedAt": "2026-11-16T21:09:37.180Z"
 }
