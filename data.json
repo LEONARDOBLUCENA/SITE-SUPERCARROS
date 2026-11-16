@@ -34334,6 +34334,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr9pfwfl80bh",
+      "createdAt": "2026-11-16T21:08:24.716Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Rotson",
+      "contatoCliente": "+55 81 9825-1546 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34362,5 +34378,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:08:02.733Z"
+  "updatedAt": "2026-11-16T21:08:28.218Z"
 }
