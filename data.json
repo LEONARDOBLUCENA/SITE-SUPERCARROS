@@ -33964,6 +33964,24 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjnvqv4vbmivx",
+      "createdAt": "2026-11-16T19:33:34.528Z",
+      "dataAtendimento": "2026-11-14",
+      "nomeCliente": "Daniel Loureiro Lima",
+      "contatoCliente": "(27) 98155-7597",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-16",
+      "valorVenda": "1970.00",
+      "numeroPedido": "21469",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -33992,5 +34010,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T19:31:58.341Z"
+  "updatedAt": "2026-11-16T19:33:35.601Z"
 }
