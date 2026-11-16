@@ -34206,6 +34206,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr4jzlqaav37",
+      "createdAt": "2026-11-16T21:04:24.369Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Roger",
+      "contatoCliente": "+55 11 98338-6214 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34234,5 +34250,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:04:05.479Z"
+  "updatedAt": "2026-11-16T21:04:27.556Z"
 }
