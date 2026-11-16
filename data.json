@@ -34126,6 +34126,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr1z6mn8aruv",
+      "createdAt": "2026-11-16T21:02:24.094Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Mari Salum",
+      "contatoCliente": "+55 11 98390-9027 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34154,5 +34170,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:02:06.190Z"
+  "updatedAt": "2026-11-16T21:02:27.450Z"
 }
