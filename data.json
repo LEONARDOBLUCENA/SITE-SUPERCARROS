@@ -34190,6 +34190,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr42raywl8be",
+      "createdAt": "2026-11-16T21:04:02.038Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Laís",
+      "contatoCliente": "+55 65 9624-6608 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34218,5 +34234,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:03:24.957Z"
+  "updatedAt": "2026-11-16T21:04:05.479Z"
 }
