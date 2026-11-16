@@ -34238,6 +34238,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr5ue5msgyhe",
+      "createdAt": "2026-11-16T21:05:24.509Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Pedro Seles",
+      "contatoCliente": "+55 11 94259-3870 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34266,5 +34282,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:04:47.852Z"
+  "updatedAt": "2026-11-16T21:05:27.982Z"
 }
