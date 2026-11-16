@@ -33948,6 +33948,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjntn4srozhwc",
+      "createdAt": "2026-11-16T19:31:56.380Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "João Vitor Delfino Gonçalves",
+      "contatoCliente": "(49) 99175-6007",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "513.00",
+      "numeroPedido": "21467",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -33976,5 +33992,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T19:14:57.722Z"
+  "updatedAt": "2026-11-16T19:31:58.341Z"
 }
