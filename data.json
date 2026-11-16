@@ -34110,6 +34110,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwjr1gp2f4nx2w",
+      "createdAt": "2026-11-16T21:02:00.134Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "Mirella Paes",
+      "contatoCliente": "+55 87 8101-5916 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34138,5 +34154,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-16T21:01:41.070Z"
+  "updatedAt": "2026-11-16T21:02:06.190Z"
 }
