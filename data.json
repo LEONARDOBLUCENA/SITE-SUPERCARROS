@@ -34679,17 +34679,18 @@
       "id": "rmwl3902l2qvbsi",
       "createdAt": "2026-11-17T19:31:33.405Z",
       "dataAtendimento": "2026-11-17",
-      "nomeCliente": "cesar",
+      "nomeCliente": "Clement Emile Izard",
       "contatoCliente": "+55 21 98888-0420",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-17",
       "valorVenda": "677.00",
       "numeroPedido": "21521",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-17T20:19:16.396Z"
     }
   ],
   "siteVendas": [
@@ -34718,5 +34719,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T19:31:34.034Z"
+  "updatedAt": "2026-11-17T20:19:16.397Z"
 }
