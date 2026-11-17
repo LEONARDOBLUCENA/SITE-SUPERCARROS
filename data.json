@@ -34481,6 +34481,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwl0vem3tch2ac",
+      "createdAt": "2026-11-17T18:24:59.835Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "Vinicius ",
+      "contatoCliente": "+55 19 99620-9604",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-17",
+      "valorVenda": "99.00",
+      "numeroPedido": "21519",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34509,5 +34525,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T18:02:55.624Z"
+  "updatedAt": "2026-11-17T18:25:00.672Z"
 }
