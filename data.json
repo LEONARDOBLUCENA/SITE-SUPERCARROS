@@ -34578,6 +34578,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwl2lxf3mosp4s",
+      "createdAt": "2026-11-17T19:13:36.879Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "~Natália Braga",
+      "contatoCliente": "+55 21 99999-6790",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34606,5 +34622,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T19:12:06.360Z"
+  "updatedAt": "2026-11-17T19:13:38.730Z"
 }
