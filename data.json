@@ -34465,6 +34465,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwl03059xfydw5",
+      "createdAt": "2026-11-17T18:02:54.717Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "cleide",
+      "contatoCliente": "+55 73 9153-8674",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-17",
+      "valorVenda": "99.00",
+      "numeroPedido": "21517",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34493,5 +34509,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T17:20:10.502Z"
+  "updatedAt": "2026-11-17T18:02:55.624Z"
 }
