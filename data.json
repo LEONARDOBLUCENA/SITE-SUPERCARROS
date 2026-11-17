@@ -29943,12 +29943,13 @@
       "origem": "Upgrade Site",
       "statusAtendimento": "Dúvidas",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-17",
+      "valorVenda": "274.00",
+      "numeroPedido": "21511",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-17T17:20:10.501Z"
     },
     {
       "id": "rmw4034sauec4vw",
@@ -34492,5 +34493,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T16:54:34.851Z"
+  "updatedAt": "2026-11-17T17:20:10.502Z"
 }
