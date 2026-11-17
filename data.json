@@ -34562,6 +34562,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwl2jyf0awbsjo",
+      "createdAt": "2026-11-17T19:12:04.860Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "~Jane Suelen",
+      "contatoCliente": "+55 11 97679-0396",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34590,5 +34606,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T19:09:32.107Z"
+  "updatedAt": "2026-11-17T19:12:06.360Z"
 }
