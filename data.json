@@ -34642,6 +34642,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwl2o7mnmmb6oc",
+      "createdAt": "2026-11-17T19:15:23.423Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "Dra. Silvana Pastro Mendes",
+      "contatoCliente": "+55 19 99174-4259",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34670,5 +34686,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T19:15:09.734Z"
+  "updatedAt": "2026-11-17T19:15:24.956Z"
 }
