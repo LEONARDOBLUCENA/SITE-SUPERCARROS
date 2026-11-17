@@ -29941,7 +29941,7 @@
       "nomeCliente": "tamara",
       "contatoCliente": "+55 64 9606-7288",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-17",
       "valorVenda": "274.00",
@@ -29949,7 +29949,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-17T17:20:10.501Z"
+      "updatedAt": "2026-11-17T21:39:19.615Z"
     },
     {
       "id": "rmw4034sauec4vw",
@@ -34736,5 +34736,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T21:39:08.670Z"
+  "updatedAt": "2026-11-17T21:39:19.615Z"
 }
