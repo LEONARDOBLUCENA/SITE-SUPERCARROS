@@ -34473,14 +34473,15 @@
       "nomeCliente": "cleide",
       "contatoCliente": "+55 73 9153-8674",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-17",
       "valorVenda": "99.00",
       "numeroPedido": "21517",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-17T21:39:08.670Z"
     },
     {
       "id": "rmwl0vem3tch2ac",
@@ -34735,5 +34736,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T21:17:25.101Z"
+  "updatedAt": "2026-11-17T21:39:08.670Z"
 }
