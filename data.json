@@ -34610,6 +34610,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwl2nibv18ujj3",
+      "createdAt": "2026-11-17T19:14:50.635Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "leda",
+      "contatoCliente": "+55 43 9620-5207",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34638,5 +34654,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T19:14:37.955Z"
+  "updatedAt": "2026-11-17T19:14:51.475Z"
 }
