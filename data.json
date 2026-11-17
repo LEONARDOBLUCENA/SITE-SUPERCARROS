@@ -34498,6 +34498,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-17T18:40:57.451Z"
+    },
+    {
+      "id": "rmwl2dtmg2zbvaj",
+      "createdAt": "2026-11-17T19:07:18.712Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "~Nicolly Welber",
+      "contatoCliente": "+55 11 91625-5583",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34526,5 +34542,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T18:40:57.451Z"
+  "updatedAt": "2026-11-17T19:07:19.867Z"
 }
