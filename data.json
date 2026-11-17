@@ -34492,11 +34492,12 @@
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-17",
-      "valorVenda": "99.00",
+      "valorVenda": "49.50",
       "numeroPedido": "21519",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-17T18:40:57.451Z"
     }
   ],
   "siteVendas": [
@@ -34525,5 +34526,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T18:25:00.672Z"
+  "updatedAt": "2026-11-17T18:40:57.451Z"
 }
