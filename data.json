@@ -34430,6 +34430,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwkt1su3zz2lfa",
+      "createdAt": "2026-11-17T14:46:01.275Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "Vitoria",
+      "contatoCliente": "+55 51 9342-6675",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-17",
+      "valorVenda": "220.00",
+      "numeroPedido": "21501",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34458,5 +34474,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T12:23:53.952Z"
+  "updatedAt": "2026-11-17T14:46:02.202Z"
 }
