@@ -34437,7 +34437,7 @@
       "createdAt": "2026-11-17T14:52:07.862Z",
       "dataAtendimento": "2026-11-13",
       "nomeCliente": "Marina",
-      "contatoCliente": "+55 51 9342-6675",
+      "contatoCliente": "+55 31 9828-8860",
       "origem": "WhatsApp",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
@@ -34449,7 +34449,7 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true,
-      "updatedAt": "2026-11-17T21:40:49.765Z"
+      "updatedAt": "2026-11-17T21:41:36.184Z"
     },
     {
       "id": "rmwkxn3g80yo472",
@@ -34737,5 +34737,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T21:40:49.765Z"
+  "updatedAt": "2026-11-17T21:41:36.184Z"
 }
