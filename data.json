@@ -34514,6 +34514,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwl2erhmbaufut",
+      "createdAt": "2026-11-17T19:08:02.602Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "~Natanael Carsous",
+      "contatoCliente": "~Nicolly Welber",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34542,5 +34558,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T19:07:19.867Z"
+  "updatedAt": "2026-11-17T19:08:04.135Z"
 }
