@@ -34658,6 +34658,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwl2rifn6momz3",
+      "createdAt": "2026-11-17T19:17:57.395Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "~Danubio Ribeiro",
+      "contatoCliente": "+55 62 9681-0780",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34686,5 +34702,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-17T19:15:24.956Z"
+  "updatedAt": "2026-11-17T19:17:58.560Z"
 }
