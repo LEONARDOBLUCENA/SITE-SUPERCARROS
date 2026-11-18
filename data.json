@@ -34940,6 +34940,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmi6ol5evrlbb",
+      "createdAt": "2026-11-18T19:17:25.625Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Dick Farney Lima De Paula",
+      "contatoCliente": " +55 92 98155-2306",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34968,5 +34984,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:17:00.552Z"
+  "updatedAt": "2026-11-18T19:17:26.687Z"
 }
