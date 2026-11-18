@@ -34146,22 +34146,6 @@
       "vendedora": "bruna"
     },
     {
-      "id": "rmwjr2rrpbts61a",
-      "createdAt": "2026-11-16T21:03:01.141Z",
-      "dataAtendimento": "2026-11-16",
-      "nomeCliente": "Larissa Dimas",
-      "contatoCliente": "+55 47 9197-7699 ",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "bruna"
-    },
-    {
       "id": "rmwjr370xiaouyl",
       "createdAt": "2026-11-16T21:03:20.913Z",
       "dataAtendimento": "2026-11-16",
@@ -34854,5 +34838,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T18:45:39.900Z"
+  "updatedAt": "2026-11-18T18:46:51.792Z"
 }
