@@ -34876,6 +34876,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmhvvxuicyu51",
+      "createdAt": "2026-11-18T19:09:01.939Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Andre Alves",
+      "contatoCliente": "+55 61 98447-9645",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34904,5 +34920,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:06:42.332Z"
+  "updatedAt": "2026-11-18T19:09:04.067Z"
 }
