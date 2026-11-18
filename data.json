@@ -34743,6 +34743,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmwm62eeby84tho",
+      "createdAt": "2026-11-18T13:38:10.403Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "facu pereira ",
+      "contatoCliente": "+598 92 750 494",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "combo de 137,00 paypal",
+      "dataVenda": "2026-11-18",
+      "valorVenda": "137.00",
+      "numeroPedido": "",
+      "statusPagamento": "Pendente",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -34771,5 +34787,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T12:47:39.868Z"
+  "updatedAt": "2026-11-18T13:38:11.600Z"
 }
