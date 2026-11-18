@@ -34810,6 +34810,24 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwmh4ikmukw8jo",
+      "createdAt": "2026-11-18T18:47:44.902Z",
+      "dataAtendimento": "2026-11-15",
+      "nomeCliente": "Larissa Dimas",
+      "contatoCliente": "+55 47 9197-7699 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "548.00",
+      "numeroPedido": "21539",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -34838,5 +34856,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T18:46:51.792Z"
+  "updatedAt": "2026-11-18T18:47:46.281Z"
 }
