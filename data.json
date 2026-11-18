@@ -34852,14 +34852,15 @@
       "nomeCliente": "Anny Kariny De Castro Aguiar Andrade",
       "contatoCliente": "+55 85 98219-9464",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "137.00",
+      "numeroPedido": "21551",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-18T19:58:07.275Z"
     },
     {
       "id": "rmwmhsuvjpzg877",
@@ -35080,5 +35081,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:54:46.637Z"
+  "updatedAt": "2026-11-18T19:58:07.275Z"
 }
