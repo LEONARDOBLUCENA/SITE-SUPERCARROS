@@ -35020,6 +35020,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmji13rdrgtri",
+      "createdAt": "2026-11-18T19:54:14.679Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Mayara Guimarães",
+      "contatoCliente": "+55 21 99224-1112 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35048,5 +35064,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:54:03.447Z"
+  "updatedAt": "2026-11-18T19:54:16.505Z"
 }
