@@ -856,6 +856,51 @@
     };
   }
 
+  // ---------------------------------------------------------------------
+  // CORREÇÃO CRÍTICA (18/11/2026): a API padrão do GitHub só devolve o
+  // conteúdo do arquivo (campo "content", em base64) quando ele tem até
+  // 1 MB. Quando data.json passou desse tamanho, a resposta continuava
+  // vindo com status 200 (sem erro!), mas sem "content" — e o código
+  // antigo interpretava isso silenciosamente como "nenhum lançamento
+  // ainda", fazendo a próxima gravação apagar TODO o histórico. Esse bug
+  // zerou a base de dados em 18/11/2026 (dados recuperados manualmente
+  // do histórico de commits do GitHub). Correção: (1) se "content" não
+  // vier, busca de novo usando o media type "raw" do GitHub, que não tem
+  // esse limite de 1 MB; (2) se mesmo assim não for possível interpretar
+  // o conteúdo como JSON válido, a função agora LANÇA ERRO em vez de
+  // devolver uma lista vazia — isso impede que saveMutation() grave por
+  // cima com uma base vazia, preferindo falhar visivelmente a apagar
+  // dados em silêncio.
+  // ---------------------------------------------------------------------
+  function parseLatestPayload(text){
+    var parsed;
+    try{ parsed = JSON.parse(text); } catch(e){ return null; }
+    if(!parsed || typeof parsed !== "object") return null;
+    return {
+      records: Array.isArray(parsed.records) ? parsed.records : [],
+      siteVendas: Array.isArray(parsed.siteVendas) ? parsed.siteVendas : []
+    };
+  }
+
+  function fetchLatestRaw(sha){
+    return fetch(API + "?ref=" + GH.branch + "&t=" + Date.now(), {
+      headers: Object.assign({}, ghHeaders(), { "Accept": "application/vnd.github.raw+json" })
+    }).then(function(rawRes){
+      if(!rawRes.ok){
+        var err = new Error("Não foi possível buscar o conteúdo completo do data.json no GitHub (status " + rawRes.status + "). Gravação cancelada para não arriscar apagar dados — tente novamente.");
+        err.status = rawRes.status;
+        throw err;
+      }
+      return rawRes.text().then(function(text){
+        var parsed = parseLatestPayload(text);
+        if(!parsed){
+          throw new Error("data.json veio vazio ou corrompido do GitHub. Gravação cancelada para não arriscar apagar dados — avise o Leonardo antes de tentar de novo.");
+        }
+        return { records: parsed.records, siteVendas: parsed.siteVendas, sha: sha };
+      });
+    });
+  }
+
   function fetchLatest(){
     setSync("busy", "Sincronizando…");
     return fetch(API + "?ref=" + GH.branch + "&t=" + Date.now(), { headers: ghHeaders() })
@@ -871,14 +916,18 @@
           });
         }
         return res.json().then(function(body){
-          var text = b64DecodeUnicode(body.content || "");
-          var parsed;
-          try{ parsed = JSON.parse(text); } catch(e){ parsed = { records: [], siteVendas: [] }; }
-          return {
-            records: Array.isArray(parsed.records) ? parsed.records : [],
-            siteVendas: Array.isArray(parsed.siteVendas) ? parsed.siteVendas : [],
-            sha: body.sha
-          };
+          if(!body.content){
+            // Arquivo maior que 1 MB — busca via media type "raw".
+            return fetchLatestRaw(body.sha);
+          }
+          var text = b64DecodeUnicode(body.content);
+          var parsed = parseLatestPayload(text);
+          if(!parsed){
+            // "content" veio, mas não é um JSON válido — tenta a rota raw
+            // como segunda chance antes de desistir.
+            return fetchLatestRaw(body.sha);
+          }
+          return { records: parsed.records, siteVendas: parsed.siteVendas, sha: body.sha };
         });
       });
   }
@@ -920,6 +969,21 @@
     setSync("busy", "Salvando…");
     disableForms(true);
     return fetchLatest().then(function(latest){
+      // Trava de segurança extra (18/11/2026): se o que acabamos de buscar do
+      // GitHub tem muito menos lançamentos do que o que já estava carregado
+      // na tela, algo deu errado na leitura — NÃO deixa a gravação seguir e
+      // sobrescrever o arquivo com uma base incompleta. Só dispara quando já
+      // havia uma quantidade razoável de dados carregados, para não travar o
+      // primeiro uso do app (base vazia de propósito).
+      if(state.loaded && state.records.length >= 10 && latest.records.length < state.records.length * 0.5){
+        var err = new Error(
+          "A versão mais recente do data.json no GitHub tem " + latest.records.length +
+          " lançamento(s), bem menos que os " + state.records.length + " que já estavam carregados aqui. " +
+          "Gravação cancelada para não arriscar apagar dados — recarregue a página e confira antes de tentar de novo."
+        );
+        err.isDataShrinkGuard = true;
+        throw err;
+      }
       var result = mutatorFn({ records: latest.records.slice(), siteVendas: latest.siteVendas.slice() });
       var newRecords = result.records;
       var newSiteVendas = result.siteVendas;
