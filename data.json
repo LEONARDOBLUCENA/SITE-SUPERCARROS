@@ -34924,6 +34924,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmi640o73yasd",
+      "createdAt": "2026-11-18T19:16:58.968Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Sabrina",
+      "contatoCliente": "+55 51 9172-7209 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34952,5 +34968,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:11:49.779Z"
+  "updatedAt": "2026-11-18T19:17:00.552Z"
 }
