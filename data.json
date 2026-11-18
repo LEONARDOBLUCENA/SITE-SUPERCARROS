@@ -34908,6 +34908,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmhzgixzfsupn",
+      "createdAt": "2026-11-18T19:11:48.585Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Aline Santana Ferreira Dos Santos",
+      "contatoCliente": "+55 11 98425-6393",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34936,5 +34952,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:10:31.142Z"
+  "updatedAt": "2026-11-18T19:11:49.779Z"
 }
