@@ -35036,6 +35036,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmjio0aamqq5w",
+      "createdAt": "2026-11-18T19:54:44.362Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Laís Valdevite",
+      "contatoCliente": "+55 16 99242-7176 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35064,5 +35080,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:54:16.505Z"
+  "updatedAt": "2026-11-18T19:54:46.637Z"
 }
