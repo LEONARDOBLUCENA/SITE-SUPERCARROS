@@ -34972,6 +34972,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmjh674qy8qcr",
+      "createdAt": "2026-11-18T19:53:34.624Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Allan Rodrigues",
+      "contatoCliente": "+55 87 8815-5155 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35000,5 +35016,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:53:01.053Z"
+  "updatedAt": "2026-11-18T19:53:36.920Z"
 }
