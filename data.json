@@ -32476,14 +32476,15 @@
       "nomeCliente": "Pablo Cunha",
       "contatoCliente": "+55 83 9861-4846 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-16",
+      "valorVenda": "1400.00",
+      "numeroPedido": "21473",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-18T14:21:20.235Z"
     },
     {
       "id": "rmwdjooybslwblp",
@@ -34787,5 +34788,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T13:38:11.600Z"
+  "updatedAt": "2026-11-18T14:21:20.235Z"
 }
