@@ -34860,6 +34860,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmhsuvjpzg877",
+      "createdAt": "2026-11-18T19:06:40.591Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Danyllo Bueno De Camargo",
+      "contatoCliente": "+55 48 99605-7562",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34888,5 +34904,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:04:56.918Z"
+  "updatedAt": "2026-11-18T19:06:42.332Z"
 }
