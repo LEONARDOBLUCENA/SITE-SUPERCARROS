@@ -34892,6 +34892,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmhxrehnzolal",
+      "createdAt": "2026-11-18T19:10:29.369Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Lucas Santos De Souza",
+      "contatoCliente": "+55 32 98801-1941",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34920,5 +34936,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:09:04.067Z"
+  "updatedAt": "2026-11-18T19:10:31.142Z"
 }
