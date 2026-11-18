@@ -35004,6 +35004,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmjhr73yy4ybq",
+      "createdAt": "2026-11-18T19:54:01.839Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "João Vitor",
+      "contatoCliente": "+55 61 8564-6442 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35032,5 +35048,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:53:51.192Z"
+  "updatedAt": "2026-11-18T19:54:03.447Z"
 }
