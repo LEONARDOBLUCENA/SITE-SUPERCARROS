@@ -34794,6 +34794,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwmgzbhbeybbot",
+      "createdAt": "2026-11-18T18:43:42.431Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Vitória Dourado",
+      "contatoCliente": "+55 88 9223-3078 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "597.50",
+      "numeroPedido": "21545",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34822,5 +34838,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T18:34:32.107Z"
+  "updatedAt": "2026-11-18T18:43:44.157Z"
 }
