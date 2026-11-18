@@ -34844,6 +34844,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwmhqm12qdx0tu",
+      "createdAt": "2026-11-18T19:04:55.814Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Anny Kariny De Castro Aguiar Andrade",
+      "contatoCliente": "+55 85 98219-9464",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -34872,5 +34888,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:04:01.342Z"
+  "updatedAt": "2026-11-18T19:04:56.918Z"
 }
