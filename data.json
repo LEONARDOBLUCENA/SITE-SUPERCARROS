@@ -2774,14 +2774,14 @@
       "nomeCliente": "Fabricia ",
       "contatoCliente": "+ 55 11 95230-9935",
       "origem": "Carrinho Abandonado",
-      "statusAtendimento": "Recuperação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-17",
+      "valorVenda": "476.00",
+      "numeroPedido": "21507",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "updatedAt": "2026-09-09T19:51:38.852Z"
+      "updatedAt": "2026-11-18T18:57:25.686Z"
     },
     {
       "id": "rmtuhtwknryf6kd",
@@ -34856,5 +34856,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T18:47:46.281Z"
+  "updatedAt": "2026-11-18T18:57:25.686Z"
 }
