@@ -35120,6 +35120,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwnkkezx647giq",
+      "createdAt": "2026-11-19T13:11:51.789Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Leonardo Facunery",
+      "contatoCliente": "(91) 98183-0627",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "297.00",
+      "numeroPedido": "21577",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35148,5 +35164,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T12:51:58.984Z"
+  "updatedAt": "2026-11-19T13:11:53.847Z"
 }
