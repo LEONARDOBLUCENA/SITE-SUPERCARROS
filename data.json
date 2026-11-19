@@ -35265,6 +35265,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwnsdv067p2ja8",
+      "createdAt": "2026-11-19T16:50:42.870Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Lorena",
+      "contatoCliente": "+55 93 8430-3400 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35293,5 +35309,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T16:50:31.154Z"
+  "updatedAt": "2026-11-19T16:50:44.943Z"
 }
