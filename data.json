@@ -35153,6 +35153,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwns8u5pu8hj8c",
+      "createdAt": "2026-11-19T16:46:48.493Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Karoline Rocha ",
+      "contatoCliente": "+55 94 9205-9650",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35181,5 +35197,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T16:46:11.826Z"
+  "updatedAt": "2026-11-19T16:46:50.011Z"
 }
