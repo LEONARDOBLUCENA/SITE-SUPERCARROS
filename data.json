@@ -8253,13 +8253,14 @@
       "contatoCliente": "+55 27 99809-8642",
       "origem": "Prime Gourmet",
       "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
+      "produtoInteresse": "21567",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "130.15",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-19T12:43:53.664Z"
     },
     {
       "id": "rmu5ixe6oy6hqqs",
@@ -35146,5 +35147,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T12:42:20.020Z"
+  "updatedAt": "2026-11-19T12:43:53.664Z"
 }
