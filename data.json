@@ -35162,14 +35162,15 @@
       "nomeCliente": "Karoline Rocha ",
       "contatoCliente": "+55 94 9205-9650",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "735.30",
+      "numeroPedido": "21599",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-19T18:52:29.344Z"
     },
     {
       "id": "rmwns9hx9opwk1j",
@@ -35342,5 +35343,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T18:08:34.842Z"
+  "updatedAt": "2026-11-19T18:52:29.344Z"
 }
