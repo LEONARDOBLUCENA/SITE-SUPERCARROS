@@ -34934,14 +34934,15 @@
       "nomeCliente": "Sabrina",
       "contatoCliente": "+55 51 9172-7209 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-19",
+      "valorVenda": "370.50",
+      "numeroPedido": "21591",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-19T15:09:21.049Z"
     },
     {
       "id": "rmwmi6ol5evrlbb",
@@ -35164,5 +35165,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T13:11:53.847Z"
+  "updatedAt": "2026-11-19T15:09:21.049Z"
 }
