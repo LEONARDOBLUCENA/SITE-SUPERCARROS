@@ -34965,14 +34965,15 @@
       "nomeCliente": "Bernardo Terra",
       "contatoCliente": "+55 53 9995-3589 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "476.00",
+      "numeroPedido": "20561",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-19T12:25:37.904Z"
     },
     {
       "id": "rmwmjh674qy8qcr",
@@ -35081,5 +35082,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-18T19:58:07.275Z"
+  "updatedAt": "2026-11-19T12:25:37.906Z"
 }
