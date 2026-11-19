@@ -8252,15 +8252,15 @@
       "nomeCliente": "Rebeca Romilly ",
       "contatoCliente": "+55 27 99809-8642",
       "origem": "Prime Gourmet",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "21567",
       "dataVenda": "",
       "valorVenda": "130.15",
       "numeroPedido": "",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna",
-      "updatedAt": "2026-11-19T12:43:53.664Z"
+      "updatedAt": "2026-11-19T12:44:07.010Z"
     },
     {
       "id": "rmu5ixe6oy6hqqs",
@@ -35147,5 +35147,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T12:43:53.664Z"
+  "updatedAt": "2026-11-19T12:44:07.010Z"
 }
