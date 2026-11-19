@@ -35298,6 +35298,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwnv5ysg61nmoj",
+      "createdAt": "2026-11-19T18:08:33.376Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Mauricio Rodrigues",
+      "contatoCliente": "+55 19 99205-9154 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35326,5 +35342,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T18:00:12.120Z"
+  "updatedAt": "2026-11-19T18:08:34.842Z"
 }
