@@ -34377,14 +34377,15 @@
       "nomeCliente": "Luciana Labarba",
       "contatoCliente": "+55 21 98825-9019 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-19",
+      "valorVenda": "636.50",
+      "numeroPedido": "21597",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-19T18:00:12.120Z"
     },
     {
       "id": "rmwknz0cyy6kq6q",
@@ -35325,5 +35326,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T16:51:00.338Z"
+  "updatedAt": "2026-11-19T18:00:12.120Z"
 }
