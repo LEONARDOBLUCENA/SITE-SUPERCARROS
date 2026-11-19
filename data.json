@@ -35054,6 +35054,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwnjheffcm7jj9",
+      "createdAt": "2026-11-19T12:41:31.467Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Amanda Loucatelli Reis",
+      "contatoCliente": "+55 11 97561-5557 ",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35082,5 +35098,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T12:25:37.906Z"
+  "updatedAt": "2026-11-19T12:41:33.156Z"
 }
