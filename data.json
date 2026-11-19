@@ -35137,6 +35137,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwns7zi22m1z0s",
+      "createdAt": "2026-11-19T16:46:08.762Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Talita Araújo",
+      "contatoCliente": "+55 81 9680-2555 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35165,5 +35181,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T15:27:33.790Z"
+  "updatedAt": "2026-11-19T16:46:11.826Z"
 }
