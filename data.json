@@ -35201,6 +35201,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwnsb9lv9hunvm",
+      "createdAt": "2026-11-19T16:48:41.827Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Lucas Victor",
+      "contatoCliente": "+55 67 9969-2444 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35229,5 +35245,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T16:47:51.060Z"
+  "updatedAt": "2026-11-19T16:48:42.807Z"
 }
