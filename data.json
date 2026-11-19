@@ -35079,14 +35079,15 @@
       "nomeCliente": "Gabriela Castro",
       "contatoCliente": "+55 33 9841-7778 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "440.00",
+      "numeroPedido": "21575",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-19T12:51:58.984Z"
     },
     {
       "id": "rmwnji3hmnxyuxy",
@@ -35147,5 +35148,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T12:44:07.010Z"
+  "updatedAt": "2026-11-19T12:51:58.984Z"
 }
