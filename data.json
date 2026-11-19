@@ -35070,6 +35070,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwnjhpop16mnje",
+      "createdAt": "2026-11-19T12:41:46.057Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Gabriela Castro",
+      "contatoCliente": "+55 33 9841-7778 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35098,5 +35114,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T12:41:33.156Z"
+  "updatedAt": "2026-11-19T12:41:47.519Z"
 }
