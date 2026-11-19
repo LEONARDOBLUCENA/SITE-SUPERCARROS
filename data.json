@@ -35281,6 +35281,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwnse6y2v0evp4",
+      "createdAt": "2026-11-19T16:50:58.346Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Caio",
+      "contatoCliente": "+55 21 98384-6957 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35309,5 +35325,5 @@
       "updatedAt": "2026-11-16T14:17:35.853Z"
     }
   ],
-  "updatedAt": "2026-11-19T16:50:44.943Z"
+  "updatedAt": "2026-11-19T16:51:00.338Z"
 }
