@@ -35379,6 +35379,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp207n4cw2pj9",
+      "createdAt": "2026-11-20T14:07:48.400Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "william maisonette",
+      "contatoCliente": "+55 51 8492-7860 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35407,5 +35423,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:07:29.829Z"
+  "updatedAt": "2026-11-20T14:07:49.785Z"
 }
