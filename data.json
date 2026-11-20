@@ -35372,14 +35372,15 @@
       "nomeCliente": "Amanda Barros",
       "contatoCliente": "+55 21 97276-7575 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "348.30",
+      "numeroPedido": "21649",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-20T18:50:50.029Z"
     },
     {
       "id": "rmwp207n4cw2pj9",
@@ -36114,5 +36115,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T18:24:58.469Z"
+  "updatedAt": "2026-11-20T18:50:50.030Z"
 }
