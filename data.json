@@ -35459,6 +35459,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp24cmzqjg2w7",
+      "createdAt": "2026-11-20T14:11:01.499Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "Franciele Gonçalves Milbradt",
+      "contatoCliente": "(51) 98518-6646",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "137.00",
+      "numeroPedido": "21617",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35487,5 +35503,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:09:06.234Z"
+  "updatedAt": "2026-11-20T14:11:02.958Z"
 }
