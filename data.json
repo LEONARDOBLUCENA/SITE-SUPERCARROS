@@ -35395,6 +35395,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp20h385apul6",
+      "createdAt": "2026-11-20T14:08:00.644Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 27 99508-8604",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35423,5 +35439,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:07:49.785Z"
+  "updatedAt": "2026-11-20T14:08:01.882Z"
 }
