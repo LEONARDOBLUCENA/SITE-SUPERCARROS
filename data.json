@@ -36021,6 +36021,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp81z40lmvd6h",
+      "createdAt": "2026-11-20T16:57:08.352Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "samara",
+      "contatoCliente": "+55 92 9444-6612",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36049,5 +36065,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T16:53:43.429Z"
+  "updatedAt": "2026-11-20T16:57:09.514Z"
 }
