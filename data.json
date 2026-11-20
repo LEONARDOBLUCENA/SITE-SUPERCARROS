@@ -35411,6 +35411,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp210sittakof",
+      "createdAt": "2026-11-20T14:08:26.178Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "Kauan Pinheiro",
+      "contatoCliente": "+55 55 9903-1316 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35439,5 +35455,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:08:01.882Z"
+  "updatedAt": "2026-11-20T14:08:28.247Z"
 }
