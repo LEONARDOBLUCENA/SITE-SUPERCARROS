@@ -35572,6 +35572,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp43n6yuck5gu",
+      "createdAt": "2026-11-20T15:06:27.754Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "mateus",
+      "contatoCliente": "+55 55 9720-9562",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Recuperação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35600,5 +35616,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:06:06.244Z"
+  "updatedAt": "2026-11-20T15:06:28.652Z"
 }
