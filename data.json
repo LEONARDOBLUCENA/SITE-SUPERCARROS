@@ -36199,6 +36199,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwpmrdizc6u52g",
+      "createdAt": "2026-11-20T23:48:48.059Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "mayara",
+      "contatoCliente": "+55 11 99660-3972",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36227,5 +36243,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T23:46:07.757Z"
+  "updatedAt": "2026-11-20T23:48:49.759Z"
 }
