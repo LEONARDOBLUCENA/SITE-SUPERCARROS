@@ -35716,6 +35716,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp4dgc1qnrgzd",
+      "createdAt": "2026-11-20T15:14:05.425Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "lidiane",
+      "contatoCliente": "+55 87 8829-7444",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35744,5 +35760,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:13:43.991Z"
+  "updatedAt": "2026-11-20T15:14:08.136Z"
 }
