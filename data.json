@@ -35620,6 +35620,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp457genflt54",
+      "createdAt": "2026-11-20T15:07:40.670Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "sem nome",
+      "contatoCliente": "+55 51 9598-1970",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Recuperação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35648,5 +35664,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:07:15.800Z"
+  "updatedAt": "2026-11-20T15:07:41.966Z"
 }
