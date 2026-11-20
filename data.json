@@ -35732,6 +35732,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp4dvhty6lotm",
+      "createdAt": "2026-11-20T15:14:25.073Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "debora",
+      "contatoCliente": "+55 47 9722-7332",
+      "origem": "",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35760,5 +35776,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:14:08.136Z"
+  "updatedAt": "2026-11-20T15:14:27.273Z"
 }
