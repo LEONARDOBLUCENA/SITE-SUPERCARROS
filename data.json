@@ -35636,6 +35636,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp45sjrfcp9hm",
+      "createdAt": "2026-11-20T15:08:08.007Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 94 9136-2113",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Recuperação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35664,5 +35680,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:07:41.966Z"
+  "updatedAt": "2026-11-20T15:08:09.830Z"
 }
