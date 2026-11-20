@@ -35972,6 +35972,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp6i9b04lbcby",
+      "createdAt": "2026-11-20T16:13:48.828Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "Maria Luisa Beckman Brandão 057.412.323-70",
+      "contatoCliente": "(98) 98307 4427",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Recuperação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36000,5 +36016,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:35:06.186Z"
+  "updatedAt": "2026-11-20T16:13:50.517Z"
 }
