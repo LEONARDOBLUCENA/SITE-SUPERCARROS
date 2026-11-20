@@ -35900,7 +35900,7 @@
       "dataAtendimento": "2026-11-19",
       "nomeCliente": "~CESAR",
       "contatoCliente": "+55 54 9644-4845",
-      "origem": "",
+      "origem": "Upgrade Site",
       "statusAtendimento": "Outros",
       "produtoInteresse": "",
       "dataVenda": "",
@@ -35908,7 +35908,8 @@
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-20T18:15:25.031Z"
     },
     {
       "id": "rmwp4m35fc9lvi3",
@@ -36097,5 +36098,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T17:02:59.581Z"
+  "updatedAt": "2026-11-20T18:15:25.031Z"
 }
