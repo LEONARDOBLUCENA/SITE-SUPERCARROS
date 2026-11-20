@@ -35476,6 +35476,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp3d5t6r1dmoz",
+      "createdAt": "2026-11-20T14:45:52.170Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "ana clara",
+      "contatoCliente": "+55 79 9810-0735",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-10-20",
+      "valorVenda": "464.00",
+      "numeroPedido": "21631",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35504,5 +35520,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:42:56.729Z"
+  "updatedAt": "2026-11-20T14:45:53.072Z"
 }
