@@ -35748,6 +35748,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp4eunw4bvgyn",
+      "createdAt": "2026-11-20T15:15:10.652Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "deivid",
+      "contatoCliente": "+55 62 9434-4685",
+      "origem": "",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35776,5 +35792,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:14:27.273Z"
+  "updatedAt": "2026-11-20T15:15:11.940Z"
 }
