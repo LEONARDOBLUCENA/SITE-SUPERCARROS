@@ -35524,6 +35524,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp425cy4h23v3",
+      "createdAt": "2026-11-20T15:05:17.986Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "~BIANCA",
+      "contatoCliente": "+55 11 99195-9650",
+      "origem": "",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35552,5 +35568,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:04:42.443Z"
+  "updatedAt": "2026-11-20T15:05:19.043Z"
 }
