@@ -35516,14 +35516,15 @@
       "nomeCliente": "~Franciele Stein 🧿",
       "contatoCliente": "+55 51 9696-9860",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-20",
+      "valorVenda": "297.00",
+      "numeroPedido": "21643",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-20T16:53:43.429Z"
     },
     {
       "id": "rmwp425cy4h23v3",
@@ -36048,5 +36049,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T16:52:42.399Z"
+  "updatedAt": "2026-11-20T16:53:43.429Z"
 }
