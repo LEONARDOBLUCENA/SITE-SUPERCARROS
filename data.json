@@ -35347,6 +35347,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp1z2nr6fjwq3",
+      "createdAt": "2026-11-20T14:06:55.287Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "Renan GS",
+      "contatoCliente": "+55 11 99799-3383 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35375,5 +35391,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:06:41.934Z"
+  "updatedAt": "2026-11-20T14:06:56.520Z"
 }
