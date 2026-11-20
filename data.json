@@ -35988,6 +35988,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp6iqqk02spgz",
+      "createdAt": "2026-11-20T16:14:11.420Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "Débora Inácio",
+      "contatoCliente": "(27) 99817 5590",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Recuperação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36016,5 +36032,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T16:13:50.517Z"
+  "updatedAt": "2026-11-20T16:14:12.975Z"
 }
