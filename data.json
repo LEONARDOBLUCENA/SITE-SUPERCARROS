@@ -35924,6 +35924,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp4mtatya924r",
+      "createdAt": "2026-11-20T15:21:22.133Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "~Marcele fernandes",
+      "contatoCliente": "+55 51 8926-2643",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35952,5 +35968,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:20:50.500Z"
+  "updatedAt": "2026-11-20T15:21:23.619Z"
 }
