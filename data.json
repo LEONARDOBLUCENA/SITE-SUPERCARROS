@@ -35828,6 +35828,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp4iln8q0pde9",
+      "createdAt": "2026-11-20T15:18:05.588Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "~Daniela Scanagatta",
+      "contatoCliente": "+55 54 9642-5258",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35856,5 +35872,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:17:49.302Z"
+  "updatedAt": "2026-11-20T15:18:06.814Z"
 }
