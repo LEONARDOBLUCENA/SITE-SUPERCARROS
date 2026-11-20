@@ -35668,6 +35668,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp48oyzf86c96",
+      "createdAt": "2026-11-20T15:10:23.339Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "thalita",
+      "contatoCliente": "+55 11 96892-8686",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35696,5 +35712,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:08:41.822Z"
+  "updatedAt": "2026-11-20T15:10:24.481Z"
 }
