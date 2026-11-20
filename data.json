@@ -36167,6 +36167,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwphstf9wx3s0y",
+      "createdAt": "2026-11-20T21:29:57.237Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "~Milene Fredes 😌",
+      "contatoCliente": "+55 53 9131-5645",
+      "origem": "Hard Rock",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36195,5 +36211,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T21:18:21.636Z"
+  "updatedAt": "2026-11-20T21:29:58.923Z"
 }
