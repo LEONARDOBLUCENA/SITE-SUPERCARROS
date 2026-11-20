@@ -35363,6 +35363,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp1zse1ve576j",
+      "createdAt": "2026-11-20T14:07:28.633Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "Amanda Barros",
+      "contatoCliente": "+55 21 97276-7575 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35391,5 +35407,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:06:56.520Z"
+  "updatedAt": "2026-11-20T14:07:29.829Z"
 }
