@@ -35331,6 +35331,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp1yr7408be55",
+      "createdAt": "2026-11-20T14:06:40.432Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "Isadora Barbosa",
+      "contatoCliente": "+55 11 99969-6442 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35359,5 +35375,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:06:17.403Z"
+  "updatedAt": "2026-11-20T14:06:41.934Z"
 }
