@@ -35315,6 +35315,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp1y8m8asg948",
+      "createdAt": "2026-11-20T14:06:16.352Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "Ícaro Tavares Pereira De Oliveira",
+      "contatoCliente": " (21) 97649-2350",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "267.30",
+      "numeroPedido": "21619",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35343,5 +35359,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T12:28:45.831Z"
+  "updatedAt": "2026-11-20T14:06:17.403Z"
 }
