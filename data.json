@@ -35508,6 +35508,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp41czyyd33n2",
+      "createdAt": "2026-11-20T15:04:41.230Z",
+      "dataAtendimento": "2026-11-17",
+      "nomeCliente": "~Franciele Stein 🧿",
+      "contatoCliente": "+55 51 9696-9860",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35536,5 +35552,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:04:17.487Z"
+  "updatedAt": "2026-11-20T15:04:42.443Z"
 }
