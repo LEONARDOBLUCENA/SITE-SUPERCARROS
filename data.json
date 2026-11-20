@@ -35492,6 +35492,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp40tkbsvxj2s",
+      "createdAt": "2026-11-20T15:04:16.043Z",
+      "dataAtendimento": "2026-11-16",
+      "nomeCliente": "~Gabriela Moscatini",
+      "contatoCliente": "+55 19 98248-4440",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35520,5 +35536,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:45:53.072Z"
+  "updatedAt": "2026-11-20T15:04:17.487Z"
 }
