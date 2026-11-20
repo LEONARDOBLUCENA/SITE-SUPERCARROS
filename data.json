@@ -35443,6 +35443,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwp21u6xmamwnh",
+      "createdAt": "2026-11-20T14:09:04.281Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "Cibele",
+      "contatoCliente": "+55 91 9182-4242 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -35471,5 +35487,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:08:48.135Z"
+  "updatedAt": "2026-11-20T14:09:06.234Z"
 }
