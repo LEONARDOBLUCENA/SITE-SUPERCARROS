@@ -35355,14 +35355,15 @@
       "nomeCliente": "Renan GS",
       "contatoCliente": "+55 11 99799-3383 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "236.00",
+      "numeroPedido": "21625",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-20T14:42:56.729Z"
     },
     {
       "id": "rmwp1zse1ve576j",
@@ -35503,5 +35504,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T14:11:02.958Z"
+  "updatedAt": "2026-11-20T14:42:56.729Z"
 }
