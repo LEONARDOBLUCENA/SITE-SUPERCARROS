@@ -35588,6 +35588,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwp445kstlfdpy",
+      "createdAt": "2026-11-20T15:06:51.580Z",
+      "dataAtendimento": "2026-11-19",
+      "nomeCliente": "Cristal",
+      "contatoCliente": "+55 22 99876-2300",
+      "origem": "",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -35616,5 +35632,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T15:06:28.652Z"
+  "updatedAt": "2026-11-20T15:06:52.621Z"
 }
