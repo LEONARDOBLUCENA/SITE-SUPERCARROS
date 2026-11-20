@@ -36070,6 +36070,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwpb6wgon0q6lr",
+      "createdAt": "2026-11-20T18:24:57.048Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "almir",
+      "contatoCliente": "+55 21 96432-0481",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36098,5 +36114,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T18:15:25.031Z"
+  "updatedAt": "2026-11-20T18:24:58.469Z"
 }
