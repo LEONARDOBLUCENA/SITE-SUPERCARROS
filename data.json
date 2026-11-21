@@ -36427,6 +36427,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwqf83qag791yt",
+      "createdAt": "2026-11-21T13:05:37.762Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "renata",
+      "contatoCliente": "+55 67 9229-2658",
+      "origem": "Outro",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "alteração de horário agendamento ",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36455,5 +36471,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T13:02:38.529Z"
+  "updatedAt": "2026-11-21T13:05:39.514Z"
 }
