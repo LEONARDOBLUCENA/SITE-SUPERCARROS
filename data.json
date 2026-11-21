@@ -36609,6 +36609,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-11-21T15:19:52.280Z"
+    },
+    {
+      "id": "rmwqk2lvkbu4m1a",
+      "createdAt": "2026-11-21T15:21:19.424Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "Fernanda ",
+      "contatoCliente": "(53) 91594533",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -36637,5 +36653,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T15:19:52.280Z"
+  "updatedAt": "2026-11-21T15:21:20.825Z"
 }
