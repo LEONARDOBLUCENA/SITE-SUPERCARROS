@@ -36509,6 +36509,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwqj9y02jx0l45",
+      "createdAt": "2026-11-21T14:59:02.114Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "ana",
+      "contatoCliente": "(47) 99214-1127",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-21",
+      "valorVenda": "529.50",
+      "numeroPedido": "21701",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36537,5 +36553,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T14:57:54.441Z"
+  "updatedAt": "2026-11-21T14:59:03.626Z"
 }
