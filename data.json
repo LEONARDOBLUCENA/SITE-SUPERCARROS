@@ -36625,6 +36625,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwqlpe1b7qltvt",
+      "createdAt": "2026-11-21T16:07:01.967Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "gab",
+      "contatoCliente": "+55 49 9919-9204 ",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "180.50",
+      "numeroPedido": "21715",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -36653,5 +36669,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T15:21:20.825Z"
+  "updatedAt": "2026-11-21T16:07:03.672Z"
 }
