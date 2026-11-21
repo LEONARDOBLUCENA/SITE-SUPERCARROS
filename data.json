@@ -35743,14 +35743,15 @@
       "nomeCliente": "debora",
       "contatoCliente": "+55 47 9722-7332",
       "origem": "",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-20",
+      "valorVenda": "360.00",
+      "numeroPedido": "21675",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-21T01:08:56.314Z"
     },
     {
       "id": "rmwp4eunw4bvgyn",
@@ -36260,5 +36261,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T00:32:53.071Z"
+  "updatedAt": "2026-11-21T01:08:56.314Z"
 }
