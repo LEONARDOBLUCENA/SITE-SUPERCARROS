@@ -36558,6 +36558,22 @@
       "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwqjhxlgyekrnt",
+      "createdAt": "2026-11-21T15:05:14.836Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "Marcel Ribeiro Mendonça",
+      "contatoCliente": "(88) 99701-2527",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-21",
+      "valorVenda": "450.00",
+      "numeroPedido": "21693",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36586,5 +36602,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T15:03:39.707Z"
+  "updatedAt": "2026-11-21T15:05:16.298Z"
 }
