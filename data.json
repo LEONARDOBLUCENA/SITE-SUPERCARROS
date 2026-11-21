@@ -36550,14 +36550,15 @@
       "nomeCliente": "tatiana",
       "contatoCliente": "+55 47 9934-0171",
       "origem": "",
-      "statusAtendimento": "Link enviado",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-21",
       "valorVenda": "600.00",
       "numeroPedido": "21709",
-      "statusPagamento": "Pendente",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-21T15:10:47.475Z"
     },
     {
       "id": "rmwqjhxlgyekrnt",
@@ -36602,5 +36603,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T15:05:16.298Z"
+  "updatedAt": "2026-11-21T15:10:47.475Z"
 }
