@@ -36378,6 +36378,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwqewpkikuncgo",
+      "createdAt": "2026-11-21T12:56:46.194Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "ldino",
+      "contatoCliente": "+55 19 99362-0806",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36406,5 +36422,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T11:57:42.685Z"
+  "updatedAt": "2026-11-21T12:56:48.198Z"
 }
