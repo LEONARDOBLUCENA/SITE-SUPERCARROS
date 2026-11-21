@@ -25265,14 +25265,15 @@
       "nomeCliente": "~Léo",
       "contatoCliente": "+55 81 7909-0468",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-20",
+      "valorVenda": "650.00",
+      "numeroPedido": "21667",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-21T00:28:25.942Z"
     },
     {
       "id": "rmvme5lt8gzbsvr",
@@ -36243,5 +36244,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-20T23:48:49.759Z"
+  "updatedAt": "2026-11-21T00:28:25.942Z"
 }
