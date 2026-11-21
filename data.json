@@ -36737,6 +36737,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwqqhcld5h9b3r",
+      "createdAt": "2026-11-21T18:20:44.929Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "aurilene",
+      "contatoCliente": "+55 84 9403-4609",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-21",
+      "valorVenda": "396.00",
+      "numeroPedido": "21729",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36765,5 +36781,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T18:12:45.689Z"
+  "updatedAt": "2026-11-21T18:20:46.605Z"
 }
