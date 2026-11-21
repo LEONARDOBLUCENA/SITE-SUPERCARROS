@@ -36161,14 +36161,15 @@
       "nomeCliente": "Sem nome",
       "contatoCliente": "+55 88 9701-2527",
       "origem": "WhatsApp",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-20",
+      "valorVenda": "450.00",
+      "numeroPedido": "21693",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-21T14:56:10.499Z"
     },
     {
       "id": "rmwphstf9wx3s0y",
@@ -36520,5 +36521,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T13:41:52.610Z"
+  "updatedAt": "2026-11-21T14:56:10.499Z"
 }
