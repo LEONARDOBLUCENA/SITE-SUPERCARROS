@@ -36673,6 +36673,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwqopypk2vq6q1",
+      "createdAt": "2026-11-21T17:31:27.608Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "~Milena Machado",
+      "contatoCliente": "+55 75 8250-6091",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36701,5 +36717,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T17:23:25.449Z"
+  "updatedAt": "2026-11-21T17:31:28.765Z"
 }
