@@ -36605,9 +36605,10 @@
       "dataVenda": "",
       "valorVenda": "1282.50",
       "numeroPedido": "21711",
-      "statusPagamento": "",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-21T15:19:52.280Z"
     }
   ],
   "siteVendas": [
@@ -36636,5 +36637,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T15:19:42.773Z"
+  "updatedAt": "2026-11-21T15:19:52.280Z"
 }
