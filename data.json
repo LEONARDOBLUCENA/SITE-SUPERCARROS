@@ -36266,6 +36266,22 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-21T01:29:36.800Z"
+    },
+    {
+      "id": "rmwpqnkhnqi3ygf",
+      "createdAt": "2026-11-21T01:37:48.923Z",
+      "dataAtendimento": "2026-11-20",
+      "nomeCliente": "~Francisco D'Castro Filho",
+      "contatoCliente": "+55 91 8297-3537",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36294,5 +36310,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T01:29:36.800Z"
+  "updatedAt": "2026-11-21T01:37:50.855Z"
 }
