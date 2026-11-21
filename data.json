@@ -36525,6 +36525,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwqjb72mw3k993",
+      "createdAt": "2026-11-21T15:00:00.526Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "Carol ÁvilaCarol Ávila",
+      "contatoCliente": "+55 21 99778-8738",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-21",
+      "valorVenda": "297.00",
+      "numeroPedido": "21703",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36553,5 +36569,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T14:59:03.626Z"
+  "updatedAt": "2026-11-21T15:00:02.059Z"
 }
