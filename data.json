@@ -36641,6 +36641,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwqnztm5naciz8",
+      "createdAt": "2026-11-21T17:11:07.949Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "Helton Batista Da Silva",
+      "contatoCliente": "+55 88 9297-2504",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "555.75",
+      "numeroPedido": "21721",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -36669,5 +36685,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T16:07:03.672Z"
+  "updatedAt": "2026-11-21T17:11:09.480Z"
 }
