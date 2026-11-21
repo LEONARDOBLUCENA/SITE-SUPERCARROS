@@ -36314,6 +36314,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwqbq7m30c0y32",
+      "createdAt": "2026-11-21T11:27:44.139Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "drederdepaula",
+      "contatoCliente": "+55 34 9171-8472",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -36342,5 +36358,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T11:26:56.008Z"
+  "updatedAt": "2026-11-21T11:27:45.029Z"
 }
