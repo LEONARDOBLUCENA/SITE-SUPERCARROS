@@ -36584,13 +36584,14 @@
       "contatoCliente": "+55 48 9952-1801",
       "origem": "WhatsApp",
       "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
+      "produtoInteresse": "supra",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-21T15:19:46.726Z"
     }
   ],
   "siteVendas": [
@@ -36619,5 +36620,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T15:19:13.618Z"
+  "updatedAt": "2026-11-21T15:19:46.727Z"
 }
