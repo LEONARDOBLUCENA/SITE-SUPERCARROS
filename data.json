@@ -36400,17 +36400,18 @@
       "id": "rmwqexv38rem2e7",
       "createdAt": "2026-11-21T12:57:40.004Z",
       "dataAtendimento": "2026-11-21",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "Davi",
       "contatoCliente": "+55 11 94175-1194",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "upgrade",
+      "dataVenda": "2026-11-21",
+      "valorVenda": "1030",
+      "numeroPedido": "21691",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-21T13:13:48.879Z"
     },
     {
       "id": "rmwqf483uzo2zv9",
@@ -36471,5 +36472,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T13:05:39.514Z"
+  "updatedAt": "2026-11-21T13:13:48.879Z"
 }
