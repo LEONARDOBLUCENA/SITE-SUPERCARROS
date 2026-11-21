@@ -36256,7 +36256,7 @@
       "dataAtendimento": "2026-11-19",
       "nomeCliente": "giovanni",
       "contatoCliente": "+55 54 9946-8041",
-      "origem": "",
+      "origem": "Evento",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-19",
@@ -36264,7 +36264,8 @@
       "numeroPedido": "",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-21T01:29:36.800Z"
     }
   ],
   "siteVendas": [
@@ -36293,5 +36294,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T01:29:12.743Z"
+  "updatedAt": "2026-11-21T01:29:36.800Z"
 }
