@@ -36158,7 +36158,7 @@
       "id": "rmwphdvfnrzzxcu",
       "createdAt": "2026-11-20T21:18:20.003Z",
       "dataAtendimento": "2026-11-20",
-      "nomeCliente": "Sem nome",
+      "nomeCliente": "marcele",
       "contatoCliente": "+55 88 9701-2527",
       "origem": "WhatsApp",
       "statusAtendimento": "Pedido finalizado",
@@ -36169,7 +36169,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-21T14:56:10.499Z"
+      "updatedAt": "2026-11-21T14:56:54.069Z"
     },
     {
       "id": "rmwphstf9wx3s0y",
@@ -36521,5 +36521,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-21T14:56:10.499Z"
+  "updatedAt": "2026-11-21T14:56:54.069Z"
 }
