@@ -37193,6 +37193,22 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmwsclaqosqanq3",
+      "createdAt": "2026-11-22T21:27:26.880Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "joelza",
+      "contatoCliente": "+55 85 9925-5715",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37221,5 +37237,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T21:25:54.382Z"
+  "updatedAt": "2026-11-22T21:27:29.004Z"
 }
