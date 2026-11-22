@@ -37011,6 +37011,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwrqkniuk05yfg",
+      "createdAt": "2026-11-22T11:11:05.238Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "Gislaine Balbinotti",
+      "contatoCliente": "+55 42 8832-6314 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37039,5 +37055,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T11:10:23.820Z"
+  "updatedAt": "2026-11-22T11:11:06.710Z"
 }
