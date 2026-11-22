@@ -37086,14 +37086,15 @@
       "nomeCliente": "elenice",
       "contatoCliente": "+55 21 97224-5589",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Dúvidas",
-      "produtoInteresse": "lambo - up",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "Carona lambo + 1 ingresso",
       "dataVenda": "",
-      "valorVenda": "",
+      "valorVenda": "689.00",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-22T16:45:40.356Z"
     },
     {
       "id": "rmws19cxxd3b028",
@@ -37202,5 +37203,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T16:30:14.316Z"
+  "updatedAt": "2026-11-22T16:45:40.356Z"
 }
