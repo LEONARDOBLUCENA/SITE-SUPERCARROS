@@ -37093,6 +37093,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmws19cxxd3b028",
+      "createdAt": "2026-11-22T16:10:14.085Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "amanda",
+      "contatoCliente": "+55 31 8594-7333",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37121,5 +37137,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T16:10:03.012Z"
+  "updatedAt": "2026-11-22T16:10:15.107Z"
 }
