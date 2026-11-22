@@ -36979,6 +36979,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwrqishwx8kg7h",
+      "createdAt": "2026-11-22T11:09:38.372Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "Rafael Abdalla",
+      "contatoCliente": "+55 16 99192-0568 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37007,5 +37023,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T11:08:21.581Z"
+  "updatedAt": "2026-11-22T11:09:39.787Z"
 }
