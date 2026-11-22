@@ -36819,6 +36819,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwrqcmp7ag2pi8",
+      "createdAt": "2026-11-22T11:04:50.923Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 33 8708-7115",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -36847,5 +36863,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T11:04:38.739Z"
+  "updatedAt": "2026-11-22T11:04:52.398Z"
 }
