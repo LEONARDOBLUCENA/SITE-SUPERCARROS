@@ -36963,6 +36963,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwrqh4fo22bflv",
+      "createdAt": "2026-11-22T11:08:20.532Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "CARDOSO",
+      "contatoCliente": "+55 11 96502-2186 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -36991,5 +37007,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T11:07:52.347Z"
+  "updatedAt": "2026-11-22T11:08:21.581Z"
 }
