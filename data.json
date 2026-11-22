@@ -37209,6 +37209,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwscs26v2kt335",
+      "createdAt": "2026-11-22T21:32:42.391Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "Lucas ayres",
+      "contatoCliente": "+55 98 8347-0140",
+      "origem": "Outro",
+      "statusAtendimento": "Outros",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37237,5 +37253,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T21:27:29.004Z"
+  "updatedAt": "2026-11-22T21:32:43.807Z"
 }
