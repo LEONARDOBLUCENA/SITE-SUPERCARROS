@@ -37142,6 +37142,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmws1sfou7pb3my",
+      "createdAt": "2026-11-22T16:25:04.110Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "helder",
+      "contatoCliente": "+55 83 8871-6126",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37170,5 +37186,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T16:12:20.296Z"
+  "updatedAt": "2026-11-22T16:25:05.122Z"
 }
