@@ -36899,6 +36899,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwrqeozz1fr5ud",
+      "createdAt": "2026-11-22T11:06:27.215Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "Neto",
+      "contatoCliente": "+55 34 8809-3520 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -36927,5 +36943,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T11:06:11.076Z"
+  "updatedAt": "2026-11-22T11:06:29.097Z"
 }
