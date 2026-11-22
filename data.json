@@ -37077,6 +37077,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmws1930cojxinx",
+      "createdAt": "2026-11-22T16:10:01.212Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "elenice",
+      "contatoCliente": "+55 21 97224-5589",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "lambo - up",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37105,5 +37121,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T16:04:13.212Z"
+  "updatedAt": "2026-11-22T16:10:03.012Z"
 }
