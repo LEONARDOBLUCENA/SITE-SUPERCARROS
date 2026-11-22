@@ -36883,6 +36883,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwrqebc0jvz27z",
+      "createdAt": "2026-11-22T11:06:09.504Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "Lidiane",
+      "contatoCliente": "+55 21 96443-8735 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -36911,5 +36927,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T11:05:38.276Z"
+  "updatedAt": "2026-11-22T11:06:11.076Z"
 }
