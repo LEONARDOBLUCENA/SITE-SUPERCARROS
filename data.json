@@ -36947,6 +36947,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwrqghm5fv570o",
+      "createdAt": "2026-11-22T11:07:50.957Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "Ricardo Menezes",
+      "contatoCliente": "+55 79 9900-9840 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -36975,5 +36991,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T11:07:29.448Z"
+  "updatedAt": "2026-11-22T11:07:52.347Z"
 }
