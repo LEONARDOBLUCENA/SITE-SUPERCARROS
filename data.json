@@ -37035,14 +37035,15 @@
       "nomeCliente": "Jefferson",
       "contatoCliente": "+55 33 9156-4036",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-22T16:10:42.834Z"
     },
     {
       "id": "rmwrxgtckugxum6",
@@ -37137,5 +37138,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T16:10:15.107Z"
+  "updatedAt": "2026-11-22T16:10:42.834Z"
 }
