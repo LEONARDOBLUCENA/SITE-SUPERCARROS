@@ -37175,6 +37175,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwscj9x7sx69q8",
+      "createdAt": "2026-11-22T21:25:52.507Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "Leandro",
+      "contatoCliente": "+55 49 9841-6642",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-22",
+      "valorVenda": "1170.00",
+      "numeroPedido": "21777",
+      "statusPagamento": "",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -37203,5 +37221,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T16:45:40.356Z"
+  "updatedAt": "2026-11-22T21:25:54.382Z"
 }
