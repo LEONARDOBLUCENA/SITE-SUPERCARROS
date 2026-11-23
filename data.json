@@ -37350,12 +37350,13 @@
       "origem": "",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "2026-11-09",
+      "dataVenda": "2026-11-08",
       "valorVenda": "260.00",
       "numeroPedido": "21165",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-23T04:29:14.385Z"
     },
     {
       "id": "rmwsqwud3b4bc93",
@@ -37400,5 +37401,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T04:08:22.101Z"
+  "updatedAt": "2026-11-23T04:29:14.385Z"
 }
