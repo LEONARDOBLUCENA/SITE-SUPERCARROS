@@ -37421,6 +37421,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwtbaqmkcc829l",
+      "createdAt": "2026-11-23T13:39:00.812Z",
+      "dataAtendimento": "2026-11-23",
+      "nomeCliente": "Taline",
+      "contatoCliente": "+55 21 98846-9971 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37449,5 +37465,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T13:38:47.429Z"
+  "updatedAt": "2026-11-23T13:39:02.574Z"
 }
