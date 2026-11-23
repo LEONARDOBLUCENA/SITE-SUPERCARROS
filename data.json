@@ -37405,6 +37405,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwtbaexsmwqubm",
+      "createdAt": "2026-11-23T13:38:45.664Z",
+      "dataAtendimento": "2026-11-23",
+      "nomeCliente": "Thawainy Calcagno",
+      "contatoCliente": "+55 28 99915-2231 ",
+      "origem": "Prime Gourmet",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37433,5 +37449,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T13:38:29.826Z"
+  "updatedAt": "2026-11-23T13:38:47.429Z"
 }
