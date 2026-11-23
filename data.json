@@ -37570,6 +37570,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwtnjdi1r5afcy",
+      "createdAt": "2026-11-23T19:21:39.097Z",
+      "dataAtendimento": "2026-10-21",
+      "nomeCliente": "Raphael Oliveira De Carvalho",
+      "contatoCliente": " (21) 98783-3773",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-20",
+      "valorVenda": "137.00",
+      "numeroPedido": "21647",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37598,5 +37614,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-23T15:53:12.645Z"
+  "updatedAt": "2026-11-23T19:21:40.622Z"
 }
