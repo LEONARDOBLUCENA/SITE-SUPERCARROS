@@ -37520,6 +37520,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwtehtxl2cxoep",
+      "createdAt": "2026-11-23T15:08:30.537Z",
+      "dataAtendimento": "2026-11-23",
+      "nomeCliente": "Jéssica",
+      "contatoCliente": "+55 13 99701-0087 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37548,5 +37564,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-23T14:24:48.481Z"
+  "updatedAt": "2026-11-23T15:08:32.012Z"
 }
