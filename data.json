@@ -34761,12 +34761,13 @@
       "origem": "",
       "statusAtendimento": "Primeiro atendimento",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "3",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-18",
+      "valorVenda": "360.00",
+      "numeroPedido": "21549",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-23T03:45:51.205Z"
     },
     {
       "id": "rmwmgzbhbeybbot",
@@ -37335,5 +37336,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T03:43:50.238Z"
+  "updatedAt": "2026-11-23T03:45:51.205Z"
 }
