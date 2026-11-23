@@ -37504,6 +37504,22 @@
       "observacao": "",
       "vendedora": "bruna",
       "updatedAt": "2026-11-23T13:57:55.513Z"
+    },
+    {
+      "id": "rmwtcxlffui3hch",
+      "createdAt": "2026-11-23T14:24:46.779Z",
+      "dataAtendimento": "2026-11-23",
+      "nomeCliente": "Joyce Nayara🌸",
+      "contatoCliente": "+55 85 9161-0055 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37532,5 +37548,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-23T13:57:55.513Z"
+  "updatedAt": "2026-11-23T14:24:48.481Z"
 }
