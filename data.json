@@ -37373,6 +37373,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwtb9q0sd4ic9e",
+      "createdAt": "2026-11-23T13:38:13.372Z",
+      "dataAtendimento": "2026-11-23",
+      "nomeCliente": "Paula",
+      "contatoCliente": "+55 99 9224-1516 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37401,5 +37417,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T04:29:14.385Z"
+  "updatedAt": "2026-11-23T13:38:14.932Z"
 }
