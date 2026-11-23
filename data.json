@@ -37305,6 +37305,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwsimtefztrocs",
+      "createdAt": "2026-11-23T00:16:35.415Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "~Neto Salobo",
+      "contatoCliente": "+55 75 9979-4906",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37333,5 +37349,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T00:16:09.626Z"
+  "updatedAt": "2026-11-23T00:16:37.463Z"
 }
