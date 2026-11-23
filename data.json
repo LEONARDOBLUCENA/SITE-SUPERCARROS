@@ -37336,6 +37336,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwsljs54mz8k3l",
+      "createdAt": "2026-11-23T01:38:12.664Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "~Larissa Carpejani",
+      "contatoCliente": "+55 19 98421-7120",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "99",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37364,5 +37380,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T01:19:06.928Z"
+  "updatedAt": "2026-11-23T01:38:14.046Z"
 }
