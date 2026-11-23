@@ -37306,22 +37306,6 @@
       "observacao": "",
       "vendedora": "gisele",
       "updatedAt": "2026-11-23T02:24:08.094Z"
-    },
-    {
-      "id": "rmwsq0ge6197ibm",
-      "createdAt": "2026-11-23T03:43:09.054Z",
-      "dataAtendimento": "2026-11-19",
-      "nomeCliente": "debora",
-      "contatoCliente": "+55 47 9722-7332",
-      "origem": "Upgrade Site",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-11-20",
-      "valorVenda": "340.00",
-      "numeroPedido": "21673",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37350,5 +37334,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T03:43:35.651Z"
+  "updatedAt": "2026-11-23T03:43:39.345Z"
 }
