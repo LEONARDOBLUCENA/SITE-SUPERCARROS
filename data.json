@@ -37455,6 +37455,22 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmwtbim5uy297ym",
+      "createdAt": "2026-11-23T13:45:08.274Z",
+      "dataAtendimento": "2026-11-07",
+      "nomeCliente": "Natália Braga Ferreira",
+      "contatoCliente": " (21) 99999-6790",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "418.95",
+      "numeroPedido": "21779",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37483,5 +37499,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T13:42:28.829Z"
+  "updatedAt": "2026-11-23T13:45:10.002Z"
 }
