@@ -35733,11 +35733,11 @@
       "produtoInteresse": "",
       "dataVenda": "2026-11-20",
       "valorVenda": "340.00",
-      "numeroPedido": "21675",
+      "numeroPedido": "21673",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-21T01:27:13.991Z"
+      "updatedAt": "2026-11-23T03:43:35.651Z"
     },
     {
       "id": "rmwp4eunw4bvgyn",
@@ -37350,5 +37350,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T03:43:10.451Z"
+  "updatedAt": "2026-11-23T03:43:35.651Z"
 }
