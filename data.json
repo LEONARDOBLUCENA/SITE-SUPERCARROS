@@ -37337,6 +37337,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwskt7n9yzjtzt",
+      "createdAt": "2026-11-23T01:17:33.045Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "maduh",
+      "contatoCliente": "+55 61 9117-2542",
+      "origem": "Outro",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "2027",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37365,5 +37381,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T01:14:23.881Z"
+  "updatedAt": "2026-11-23T01:17:35.529Z"
 }
