@@ -36141,23 +36141,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmwphdvfnrzzxcu",
-      "createdAt": "2026-11-20T21:18:20.003Z",
-      "dataAtendimento": "2026-11-20",
-      "nomeCliente": "marcele",
-      "contatoCliente": "+55 88 9701-2527",
-      "origem": "WhatsApp",
-      "statusAtendimento": "Pedido finalizado",
-      "produtoInteresse": "",
-      "dataVenda": "2026-11-20",
-      "valorVenda": "450.00",
-      "numeroPedido": "21693",
-      "statusPagamento": "Pago",
-      "observacao": "",
-      "vendedora": "gisele",
-      "updatedAt": "2026-11-21T14:56:54.069Z"
-    },
-    {
       "id": "rmwphstf9wx3s0y",
       "createdAt": "2026-11-20T21:29:57.237Z",
       "dataAtendimento": "2026-11-20",
@@ -37351,5 +37334,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T02:26:36.006Z"
+  "updatedAt": "2026-11-23T03:40:18.961Z"
 }
