@@ -37340,6 +37340,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwsqolxqexb9vi",
+      "createdAt": "2026-11-23T04:01:55.982Z",
+      "dataAtendimento": "2026-11-08",
+      "nomeCliente": "enzo gabriel",
+      "contatoCliente": "+55 83 9825-1775",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-09",
+      "valorVenda": "260.00",
+      "numeroPedido": "21165",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37368,5 +37384,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T03:58:36.794Z"
+  "updatedAt": "2026-11-23T04:01:57.091Z"
 }
