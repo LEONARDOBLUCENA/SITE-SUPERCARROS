@@ -36215,10 +36215,11 @@
       "produtoInteresse": "",
       "dataVenda": "2026-11-20",
       "valorVenda": "20.00",
-      "numeroPedido": "",
+      "numeroPedido": "21673",
       "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-23T03:43:50.238Z"
     },
     {
       "id": "rmwpqchcaku1vrb",
@@ -37334,5 +37335,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T03:43:39.345Z"
+  "updatedAt": "2026-11-23T03:43:50.238Z"
 }
