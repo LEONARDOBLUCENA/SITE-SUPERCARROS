@@ -37586,6 +37586,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwts0dmjbm6qwi",
+      "createdAt": "2026-11-23T21:26:50.875Z",
+      "dataAtendimento": "2026-11-23",
+      "nomeCliente": "Edgarick silva Martínez",
+      "contatoCliente": "(56) 94953-5273",
+      "origem": "Evento",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "323.50",
+      "numeroPedido": "1600 Online ",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37614,5 +37630,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-23T19:21:40.622Z"
+  "updatedAt": "2026-11-23T21:26:53.448Z"
 }
