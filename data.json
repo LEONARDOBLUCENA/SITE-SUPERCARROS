@@ -37225,6 +37225,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwsik0lq7vmi1e",
+      "createdAt": "2026-11-23T00:14:24.782Z",
+      "dataAtendimento": "2026-11-21",
+      "nomeCliente": "moni",
+      "contatoCliente": "+55 41 8721-3939",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37253,5 +37269,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-22T21:32:43.807Z"
+  "updatedAt": "2026-11-23T00:14:26.712Z"
 }
