@@ -37273,6 +37273,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwsils993q4vb2",
+      "createdAt": "2026-11-23T00:15:47.277Z",
+      "dataAtendimento": "2026-11-22",
+      "nomeCliente": "~Matheus Carnier",
+      "contatoCliente": "+55 47 9261-8938",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37301,5 +37317,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T00:15:32.736Z"
+  "updatedAt": "2026-11-23T00:15:48.988Z"
 }
