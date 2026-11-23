@@ -34759,7 +34759,7 @@
       "nomeCliente": "Lucas Oliveira",
       "contatoCliente": "+55 21 96910-2348",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-18",
       "valorVenda": "360.00",
@@ -34767,7 +34767,7 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-23T03:45:51.205Z"
+      "updatedAt": "2026-11-23T03:46:02.847Z"
     },
     {
       "id": "rmwmgzbhbeybbot",
@@ -37336,5 +37336,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T03:45:51.205Z"
+  "updatedAt": "2026-11-23T03:46:02.847Z"
 }
