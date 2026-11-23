@@ -37495,14 +37495,15 @@
       "nomeCliente": "Jayane",
       "contatoCliente": "+55 98 8457-7045 ",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "476.00",
+      "numeroPedido": "21795",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-23T13:57:55.513Z"
     }
   ],
   "siteVendas": [
@@ -37531,5 +37532,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-23T13:49:56.520Z"
+  "updatedAt": "2026-11-23T13:57:55.513Z"
 }
