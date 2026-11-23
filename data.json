@@ -37437,6 +37437,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwtbf5t1obw47j",
+      "createdAt": "2026-11-23T13:42:27.109Z",
+      "dataAtendimento": "2026-06-04",
+      "nomeCliente": "Leandro Giu Perozzo",
+      "contatoCliente": "(49) 99841-6642",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-22",
+      "valorVenda": "1111.50",
+      "numeroPedido": "21777",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
+      "vendedora": "bruna",
+      "vendedoraFinalizou": "gisele",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -37465,5 +37483,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T13:39:02.574Z"
+  "updatedAt": "2026-11-23T13:42:28.829Z"
 }
