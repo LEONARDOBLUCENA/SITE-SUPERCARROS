@@ -37487,6 +37487,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwtborofaci577",
+      "createdAt": "2026-11-23T13:49:55.359Z",
+      "dataAtendimento": "2026-11-23",
+      "nomeCliente": "Jayane",
+      "contatoCliente": "+55 98 8457-7045 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -37515,5 +37531,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-23T13:50:31.904Z"
+  "updatedAt": "2026-11-23T13:49:56.520Z"
 }
