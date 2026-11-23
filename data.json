@@ -36762,8 +36762,8 @@
       "nomeCliente": "liliam",
       "contatoCliente": "+55 15 97404-6159",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Link enviado",
-      "produtoInteresse": "",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "foi direto ao salão",
       "dataVenda": "2026-11-21",
       "valorVenda": "1780.00",
       "numeroPedido": "#21731",
@@ -36771,7 +36771,8 @@
       "observacao": "[Compartilhado] Bruna iniciou; Gisele finalizou.",
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-11-23T02:24:24.028Z"
     },
     {
       "id": "rmwqsxgflj4d4ao",
@@ -37381,5 +37382,5 @@
       "updatedAt": "2026-11-20T12:28:45.831Z"
     }
   ],
-  "updatedAt": "2026-11-23T02:24:08.094Z"
+  "updatedAt": "2026-11-23T02:24:24.028Z"
 }
