@@ -37832,6 +37832,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwv3wr5ezougs6",
+      "createdAt": "2026-11-24T19:47:43.346Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "roberto vianna",
+      "contatoCliente": "+55 11 97358-7765",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37860,5 +37876,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-24T19:44:22.428Z"
+  "updatedAt": "2026-11-24T19:47:45.029Z"
 }
