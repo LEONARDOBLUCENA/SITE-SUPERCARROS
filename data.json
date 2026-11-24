@@ -37767,6 +37767,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwv11cvtptflyd",
+      "createdAt": "2026-11-24T18:27:19.289Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "telma",
+      "contatoCliente": "+55 21 97906-9297",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37795,5 +37811,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-24T18:25:10.558Z"
+  "updatedAt": "2026-11-24T18:27:20.430Z"
 }
