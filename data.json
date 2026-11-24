@@ -4875,14 +4875,15 @@
       "dataAtendimento": "2026-09-11",
       "nomeCliente": "Roberto Socca da Rosa",
       "contatoCliente": " 55 99601-4850",
-      "origem": "Evento",
+      "origem": "WhatsApp",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-09-01",
       "valorVenda": "1450.00",
       "numeroPedido": "",
       "statusPagamento": "Pago",
-      "observacao": ""
+      "observacao": "",
+      "updatedAt": "2026-11-24T20:53:50.300Z"
     },
     {
       "id": "rmtxacds18f8lmm",
@@ -37924,5 +37925,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-24T20:38:32.067Z"
+  "updatedAt": "2026-11-24T20:53:50.301Z"
 }
