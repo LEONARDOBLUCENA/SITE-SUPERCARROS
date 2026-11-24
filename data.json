@@ -37618,6 +37618,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwutjkd8494s7r",
+      "createdAt": "2026-11-24T14:57:31.868Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "Casimiro",
+      "contatoCliente": "+55 41 9863-6386",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "agendamento",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37646,5 +37662,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-24T14:47:18.885Z"
+  "updatedAt": "2026-11-24T14:57:33.321Z"
 }
