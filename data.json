@@ -37848,6 +37848,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwv3z6tcdr9gd2",
+      "createdAt": "2026-11-24T19:49:36.960Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "~Gabriella Manetti",
+      "contatoCliente": "+55 92 9479-6471",
+      "origem": "",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37876,5 +37892,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-24T19:47:45.029Z"
+  "updatedAt": "2026-11-24T19:49:37.836Z"
 }
