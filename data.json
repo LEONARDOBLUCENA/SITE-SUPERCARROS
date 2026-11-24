@@ -37602,6 +37602,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwut6e3z546sv4",
+      "createdAt": "2026-11-24T14:47:17.231Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "nathi",
+      "contatoCliente": "+55 48 9609-3706",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37630,5 +37646,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-23T21:26:53.448Z"
+  "updatedAt": "2026-11-24T14:47:18.885Z"
 }
