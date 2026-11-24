@@ -37703,6 +37703,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwuzz5oiv8b6oc",
+      "createdAt": "2026-11-24T17:57:37.026Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "Júlio Freire ",
+      "contatoCliente": "+55 38 8431-4775",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37731,5 +37747,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-24T17:57:18.056Z"
+  "updatedAt": "2026-11-24T17:57:38.319Z"
 }
