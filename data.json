@@ -37106,15 +37106,16 @@
       "dataAtendimento": "2026-11-22",
       "nomeCliente": "bruno",
       "contatoCliente": "+55 54 8125-1932",
-      "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-24",
+      "valorVenda": "700.00",
+      "numeroPedido": "21819",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-24T17:26:15.206Z"
     },
     {
       "id": "rmwsclaqosqanq3",
@@ -37697,5 +37698,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-24T16:56:20.303Z"
+  "updatedAt": "2026-11-24T17:26:15.206Z"
 }
