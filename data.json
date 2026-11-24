@@ -37864,6 +37864,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwv5o0k8oxg4r1",
+      "createdAt": "2026-11-24T20:36:54.872Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "José Godoi Imóveis",
+      "contatoCliente": "+55 31 9911-9274",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37892,5 +37908,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-24T19:49:37.836Z"
+  "updatedAt": "2026-11-24T20:36:56.274Z"
 }
