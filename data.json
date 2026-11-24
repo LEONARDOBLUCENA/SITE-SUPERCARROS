@@ -37800,6 +37800,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwv3rgt40f8ikr",
+      "createdAt": "2026-11-24T19:43:36.664Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "~C. 👩‍💻",
+      "contatoCliente": "+55 21 97955-3256",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37828,5 +37844,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-24T18:40:48.350Z"
+  "updatedAt": "2026-11-24T19:43:38.099Z"
 }
