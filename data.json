@@ -37687,6 +37687,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwuzypy1j4x6zy",
+      "createdAt": "2026-11-24T17:57:16.633Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "~Erick Schneider",
+      "contatoCliente": "+55 51 9765-2965",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37715,5 +37731,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-24T17:39:55.535Z"
+  "updatedAt": "2026-11-24T17:57:18.056Z"
 }
