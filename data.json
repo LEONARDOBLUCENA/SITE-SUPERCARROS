@@ -37880,6 +37880,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwv5q2hhogba3h",
+      "createdAt": "2026-11-24T20:38:30.677Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "Taize",
+      "contatoCliente": "+55 41 9684-1571",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37908,5 +37924,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-24T20:36:56.274Z"
+  "updatedAt": "2026-11-24T20:38:32.067Z"
 }
