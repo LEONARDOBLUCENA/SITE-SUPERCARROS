@@ -37719,6 +37719,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwv0cfrl6ctm3y",
+      "createdAt": "2026-11-24T18:07:56.625Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "Cinthya ",
+      "contatoCliente": "+55 98 9154-3459",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37747,5 +37763,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-24T17:57:38.319Z"
+  "updatedAt": "2026-11-24T18:07:57.625Z"
 }
