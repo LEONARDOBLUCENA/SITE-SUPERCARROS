@@ -37138,15 +37138,16 @@
       "dataAtendimento": "2026-11-22",
       "nomeCliente": "Lucas ayres",
       "contatoCliente": "+55 98 8347-0140",
-      "origem": "Outro",
+      "origem": "Prime Gourmet",
       "statusAtendimento": "Outros",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-24",
+      "valorVenda": "589.00",
+      "numeroPedido": "21827",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-24T16:56:11.351Z"
     },
     {
       "id": "rmwsik0lq7vmi1e",
@@ -37696,5 +37697,5 @@
       "updatedAt": "2026-11-23T13:50:31.904Z"
     }
   ],
-  "updatedAt": "2026-11-24T16:22:31.016Z"
+  "updatedAt": "2026-11-24T16:56:11.351Z"
 }
