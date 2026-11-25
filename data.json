@@ -38303,6 +38303,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwwf52u896m3qa",
+      "createdAt": "2026-11-25T17:49:53.696Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Eduardo Rizi Masetto",
+      "contatoCliente": "+55 11 97778-0045 ",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38331,5 +38347,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:48:44.842Z"
+  "updatedAt": "2026-11-25T17:49:55.697Z"
 }
