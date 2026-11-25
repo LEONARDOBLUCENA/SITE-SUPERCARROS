@@ -38143,6 +38143,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwwdrpkkhopfnp",
+      "createdAt": "2026-11-25T17:11:30.356Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Arq. Mateus Bernardes",
+      "contatoCliente": "+55 51 9832-8675 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38171,5 +38187,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:10:57.383Z"
+  "updatedAt": "2026-11-25T17:11:33.371Z"
 }
