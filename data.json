@@ -30338,14 +30338,15 @@
       "nomeCliente": "~Paula Cruz",
       "contatoCliente": "+55 37 8406-3632",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Sem retorno/perdido",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-25T18:29:54.855Z"
     },
     {
       "id": "rmw5rrst98d9ee2",
@@ -38363,5 +38364,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T18:29:22.431Z"
+  "updatedAt": "2026-11-25T18:29:54.855Z"
 }
