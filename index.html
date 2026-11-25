@@ -161,6 +161,10 @@
   .field{ display:flex; flex-direction:column; gap:5px; min-width:0; }
   .field.span-2{ grid-column:span 2; }
   .field.span-4{ grid-column:span 4; }
+  .duplicate-warning{
+    background:var(--pending-soft); border:1px solid var(--pending); color:var(--pending-ink);
+    border-radius:8px; padding:9px 12px; font-size:12.5px; font-weight:600; line-height:1.4;
+  }
   .shared-block{ background:var(--surface-2); border:1px solid var(--border); border-radius:10px; padding:11px 14px; }
   .shared-block .checkbox-label{
     display:flex; align-items:center; gap:8px; font-size:13px; font-weight:700; color:var(--text);
@@ -342,6 +346,14 @@
     background:var(--surface); border:1px solid var(--border-strong); border-radius:8px; padding:7px 10px; cursor:pointer; white-space:nowrap;
   }
   .shared-only-label input[type="checkbox"]{ width:13px; height:13px; accent-color:var(--accent); cursor:pointer; }
+  .date-range-label{
+    display:flex; align-items:center; gap:6px; font-size:12px; font-weight:600; color:var(--text-soft);
+    background:var(--surface); border:1px solid var(--border-strong); border-radius:8px; padding:5px 10px; white-space:nowrap;
+  }
+  .date-range-label input[type="date"]{
+    border:none; background:transparent; color:var(--text-soft); font-size:12px; font-weight:600; font-family:inherit;
+  }
+  .date-range-label input[type="date"]:focus{ outline:none; }
 
   .empty{
     text-align:center; padding:38px 20px; color:var(--text-muted); font-size:13px;
@@ -1200,6 +1212,7 @@
             field("Data de atendimento", "dataAtendimento", "date", true) +
             field("Nome do cliente", "nomeCliente", "text", true, "Ex: Marcos Ribeiro", "span-2") +
             field("Contato do cliente", "contatoCliente", "text", true, "(54) 9 9999-0000") +
+            '<div class="duplicate-warning" data-role="duplicate-warning" style="display:none;grid-column:1 / -1;"></div>' +
             selectField("Origem", "origem", ORIGENS, false, "span-2") +
             selectField("Status do atendimento", "statusAtendimento", STATUS_ATENDIMENTO, false, "span-2") +
             field("Produto de interesse", "produtoInteresse", "text", false, "Ex: HB20 2022", "span-2") +
@@ -1251,6 +1264,8 @@
                 '<span class="list-count" data-role="count"></span>' +
                 '<select class="dash-filters-select" data-role="filter-year"><option value="">Todo o período</option></select>' +
                 '<select class="dash-filters-select" data-role="filter-month"><option value="">Todos os meses</option></select>' +
+                '<label class="date-range-label">De <input type="date" class="dash-filters-select" data-role="filter-date-from"></label>' +
+                '<label class="date-range-label">Até <input type="date" class="dash-filters-select" data-role="filter-date-to"></label>' +
                 '<select class="dash-filters-select" data-role="filter-origem"><option value="">Todas as origens</option></select>' +
                 '<select class="dash-filters-select" data-role="filter-status-pagamento"><option value="">Todos os status</option></select>' +
                 '<label class="shared-only-label"><input type="checkbox" data-role="filter-shared-only"> Somente compartilhados</label>' +
@@ -1744,6 +1759,45 @@
   }
 
   // ---------------------------------------------------------------------
+  // Aviso de cadastro duplicado por telefone (aprovado por Leonardo em
+  // 25/11/2026) — ao digitar o "Contato do cliente" no formulário, avisa se
+  // esse telefone já aparece em outro lançamento da MESMA aba (vendedora).
+  // Não bloqueia o salvamento, só avisa — pode ser cliente recorrente de
+  // propósito. Exige pelo menos 8 dígitos para evitar falso positivo com
+  // número ainda incompleto.
+  // ---------------------------------------------------------------------
+  function findDuplicateByPhone(key, phone, excludeId){
+    var digits = onlyDigits(phone);
+    if(!digits || digits.length < 8) return null;
+    var match = null;
+    state.records.some(function(r){
+      if(excludeId && r.id === excludeId) return false;
+      if(!belongsToVendor(r, key)) return false;
+      if(onlyDigits(r.contatoCliente) !== digits) return false;
+      match = r;
+      return true;
+    });
+    return match;
+  }
+  function updateDuplicateWarning(v, form, warningEl){
+    if(!warningEl) return;
+    var contatoInput = form.elements.namedItem("contatoCliente");
+    var phone = contatoInput ? contatoInput.value : "";
+    var excludeId = state.editing[v.key];
+    var dup = findDuplicateByPhone(v.key, phone, excludeId);
+    if(dup){
+      var quando = dup.dataVenda || dup.dataAtendimento || "";
+      warningEl.style.display = "block";
+      warningEl.textContent = "⚠ Já existe um lançamento de " + (dup.nomeCliente || "um cliente") +
+        " com esse telefone nesta aba" + (quando ? " (" + quando + ")" : "") +
+        ". Confira se não é o mesmo cliente antes de salvar de novo.";
+    } else {
+      warningEl.style.display = "none";
+      warningEl.textContent = "";
+    }
+  }
+
+  // ---------------------------------------------------------------------
   // Comissão — modelo "venda própria + participação no site" (aprovado por
   // Leonardo, baseado na planilha "Simulador — Venda Própria + Participação
   // no Site" / aba "Regras", v11 — substitui o modelo progressivo marginal
@@ -1829,6 +1883,15 @@
       if(f.month){
         if(!d || parseInt(d.slice(5,7),10) !== Number(f.month)) return false;
       }
+      // Filtro por período (De/Até) — cumulativo com Ano/Mês, caso ambos
+      // estejam preenchidos. Compara como string "AAAA-MM-DD", que ordena
+      // corretamente igual a uma data real.
+      if(f.dateFrom){
+        if(!d || d < f.dateFrom) return false;
+      }
+      if(f.dateTo){
+        if(!d || d > f.dateTo) return false;
+      }
       if(f.origem){
         if((r.origem || "") !== f.origem) return false;
       }
@@ -1891,6 +1954,8 @@
     var statusSel = panel.querySelector('[data-role="filter-status-pagamento"]');
     var sharedChk = panel.querySelector('[data-role="filter-shared-only"]');
     var phoneInput = panel.querySelector('[data-role="filter-phone"]');
+    var dateFromInput = panel.querySelector('[data-role="filter-date-from"]');
+    var dateToInput = panel.querySelector('[data-role="filter-date-to"]');
     var f = state.filters[v.key] || {};
     var years = vendorAvailableYears(v.key);
 
@@ -1912,6 +1977,8 @@
     statusSel.value = f.statusPagamento || "";
     sharedChk.checked = !!f.sharedOnly;
     if(phoneInput && phoneInput.value !== (f.phone || "")) phoneInput.value = f.phone || "";
+    if(dateFromInput && dateFromInput.value !== (f.dateFrom || "")) dateFromInput.value = f.dateFrom || "";
+    if(dateToInput && dateToInput.value !== (f.dateTo || "")) dateToInput.value = f.dateTo || "";
   }
 
   function statusClass(s){
@@ -2187,6 +2254,12 @@
       var sharedFields = form.querySelector('[data-role="shared-fields"]');
       var papelSel = form.elements.namedItem("papelCompartilhado");
       var outraSel = form.elements.namedItem("outraVendedora");
+      var duplicateWarningEl = form.querySelector('[data-role="duplicate-warning"]');
+      var contatoInput = form.elements.namedItem("contatoCliente");
+
+      contatoInput.addEventListener("input", function(){
+        updateDuplicateWarning(v, form, duplicateWarningEl);
+      });
 
       sharedCheckbox.addEventListener("change", function(){
         var on = sharedCheckbox.checked;
@@ -2232,6 +2305,7 @@
             sharedBlock.style.display = "";
             resetForm(form);
             setFormDefaults(form);
+            updateDuplicateWarning(v, form, duplicateWarningEl);
           });
         } else {
           if(isShared && (!otherKey || !papel)){
@@ -2263,6 +2337,7 @@
           }, "Nova venda de " + v.name + " (" + (data.nomeCliente||"") + ")").then(function(){
             resetForm(form);
             setFormDefaults(form);
+            updateDuplicateWarning(v, form, duplicateWarningEl);
           });
         }
       });
@@ -2275,6 +2350,7 @@
         sharedBlock.style.display = "";
         resetForm(form);
         setFormDefaults(form);
+        updateDuplicateWarning(v, form, duplicateWarningEl);
       });
 
       panel.querySelector('[data-role="records"]').addEventListener("click", function(ev){
@@ -2296,6 +2372,7 @@
           editOrderLabel.textContent = record.nomeCliente || record.numeroPedido || "";
           cancelBtn.style.display = "inline-flex";
           submitBtn.innerHTML = submitIcon() + "Salvar alterações";
+          updateDuplicateWarning(v, form, duplicateWarningEl);
           form.scrollIntoView({ behavior:"smooth", block:"start" });
         }
         if(btn.dataset.action === "delete"){
@@ -2340,6 +2417,16 @@
       panel.querySelector('[data-role="filter-phone"]').addEventListener("input", function(ev){
         state.filters[v.key] = state.filters[v.key] || {};
         state.filters[v.key].phone = ev.target.value;
+        renderVendorPanel(v);
+      });
+      panel.querySelector('[data-role="filter-date-from"]').addEventListener("change", function(ev){
+        state.filters[v.key] = state.filters[v.key] || {};
+        state.filters[v.key].dateFrom = ev.target.value;
+        renderVendorPanel(v);
+      });
+      panel.querySelector('[data-role="filter-date-to"]').addEventListener("change", function(ev){
+        state.filters[v.key] = state.filters[v.key] || {};
+        state.filters[v.key].dateTo = ev.target.value;
         renderVendorPanel(v);
       });
 
