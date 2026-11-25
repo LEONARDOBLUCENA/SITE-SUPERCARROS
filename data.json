@@ -38091,6 +38091,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmww594mwuxfpyk",
+      "createdAt": "2026-11-25T13:13:06.488Z",
+      "dataAtendimento": "2026-11-24",
+      "nomeCliente": "rianne",
+      "contatoCliente": "+55 31 8777-7982",
+      "origem": "Outro",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "laçador",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -38119,5 +38135,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T12:49:09.954Z"
+  "updatedAt": "2026-11-25T13:13:07.948Z"
 }
