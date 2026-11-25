@@ -37913,6 +37913,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmww1553fq4bwcg",
+      "createdAt": "2026-11-25T11:18:01.995Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "bruna nogueira",
+      "contatoCliente": "+55 48 9944-4772",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37941,5 +37957,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T11:17:20.586Z"
+  "updatedAt": "2026-11-25T11:18:02.898Z"
 }
