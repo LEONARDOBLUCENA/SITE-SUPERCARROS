@@ -38319,6 +38319,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwwj162cye9kx7",
+      "createdAt": "2026-11-25T19:38:49.716Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Gabriel Lucas Naziazeno De Oliveira",
+      "contatoCliente": "(31) 97571-8594",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "931.00",
+      "numeroPedido": "21859",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38347,5 +38363,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T19:22:05.076Z"
+  "updatedAt": "2026-11-25T19:38:51.375Z"
 }
