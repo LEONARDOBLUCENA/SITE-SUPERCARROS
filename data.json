@@ -38159,6 +38159,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwwds42vn56mgf",
+      "createdAt": "2026-11-25T17:11:49.159Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Batista",
+      "contatoCliente": "+55 11 98584-5495 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38187,5 +38203,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:11:33.371Z"
+  "updatedAt": "2026-11-25T17:11:51.814Z"
 }
