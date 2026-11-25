@@ -38223,6 +38223,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwwduqyjleexb5",
+      "createdAt": "2026-11-25T17:13:52.123Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Rafael De Oliveira Ostermann",
+      "contatoCliente": "v",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38251,5 +38267,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:12:51.295Z"
+  "updatedAt": "2026-11-25T17:14:04.068Z"
 }
