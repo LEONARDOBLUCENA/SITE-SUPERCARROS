@@ -38073,6 +38073,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmww4ebgqky29rl",
+      "createdAt": "2026-11-25T12:49:09.002Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Karina Mercadante V4",
+      "contatoCliente": "+55 11 99490-4256",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "100.00",
+      "numeroPedido": "100,00",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -38101,5 +38119,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T12:45:04.973Z"
+  "updatedAt": "2026-11-25T12:49:09.954Z"
 }
