@@ -34188,14 +34188,15 @@
       "nomeCliente": "Ponto Zen Massagem ",
       "contatoCliente": "+55 21 98065-1588",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-25",
+      "valorVenda": "931.00",
+      "numeroPedido": "21855",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-25T17:06:23.668Z"
     },
     {
       "id": "rmwjr5ue5msgyhe",
@@ -38154,5 +38155,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:04:35.493Z"
+  "updatedAt": "2026-11-25T17:06:23.668Z"
 }
