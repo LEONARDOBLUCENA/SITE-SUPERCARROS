@@ -30495,23 +30495,6 @@
       "vendedora": "gisele"
     },
     {
-      "id": "rmw5s1ciynhl87d",
-      "createdAt": "2026-11-07T02:21:07.882Z",
-      "dataAtendimento": "2026-11-06",
-      "nomeCliente": "marina",
-      "contatoCliente": "+55 81 9806-0867",
-      "origem": "",
-      "statusAtendimento": "Em negociação",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
-      "observacao": "",
-      "vendedora": "gisele",
-      "updatedAt": "2026-11-07T02:21:25.042Z"
-    },
-    {
       "id": "rmw5s28kjmhg9eu",
       "createdAt": "2026-11-07T02:21:49.411Z",
       "dataAtendimento": "2026-11-06",
@@ -38364,5 +38347,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T18:29:54.855Z"
+  "updatedAt": "2026-11-25T18:30:53.738Z"
 }
