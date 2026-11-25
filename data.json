@@ -37961,6 +37961,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmww17cioibi5bf",
+      "createdAt": "2026-11-25T11:19:44.928Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "~Maycon Felipe",
+      "contatoCliente": "+55 44 9836-6533",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -37989,5 +38005,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T11:19:23.404Z"
+  "updatedAt": "2026-11-25T11:19:46.379Z"
 }
