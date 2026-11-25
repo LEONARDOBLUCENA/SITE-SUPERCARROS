@@ -38127,6 +38127,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwwdqysa12faq9",
+      "createdAt": "2026-11-25T17:10:55.642Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Bicho Mimado",
+      "contatoCliente": "+55 48 8808-6446 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38155,5 +38171,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:06:23.668Z"
+  "updatedAt": "2026-11-25T17:10:57.383Z"
 }
