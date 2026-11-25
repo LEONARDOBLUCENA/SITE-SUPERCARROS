@@ -37993,6 +37993,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmww1d2n0cjlkt3",
+      "createdAt": "2026-11-25T11:24:12.060Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "~Vinícius Palmeira",
+      "contatoCliente": "+55 83 9900-0205",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -38021,5 +38037,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T11:23:34.688Z"
+  "updatedAt": "2026-11-25T11:24:13.596Z"
 }
