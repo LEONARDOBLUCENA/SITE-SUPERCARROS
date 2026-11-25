@@ -38033,14 +38033,15 @@
       "nomeCliente": "Lilian",
       "contatoCliente": "+55 71 8487-5022",
       "origem": "",
-      "statusAtendimento": "Dúvidas",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-25",
+      "valorVenda": "1070.00",
+      "numeroPedido": "21853",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-25T17:04:35.493Z"
     },
     {
       "id": "rmww4925pjjj12k",
@@ -38153,5 +38154,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T15:56:45.765Z"
+  "updatedAt": "2026-11-25T17:04:35.493Z"
 }
