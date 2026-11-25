@@ -37272,15 +37272,15 @@
       "nomeCliente": "~Larissa Carpejani",
       "contatoCliente": "+55 19 98421-7120",
       "origem": "",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-22",
-      "valorVenda": "99.00",
-      "numeroPedido": "21787",
-      "statusPagamento": "Pago",
+      "valorVenda": "1299.00",
+      "numeroPedido": "21787 e 21839",
+      "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-25T17:50:46.836Z"
+      "updatedAt": "2026-11-25T18:22:28.584Z"
     },
     {
       "id": "rmwsq6rck2foxmm",
@@ -38347,5 +38347,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:50:46.836Z"
+  "updatedAt": "2026-11-25T18:22:28.584Z"
 }
