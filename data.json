@@ -38271,6 +38271,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwweym2fk5z1xx",
+      "createdAt": "2026-11-25T17:44:52.023Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Lilian ",
+      "contatoCliente": "71 8487-5022",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-25",
+      "valorVenda": "1470.00",
+      "numeroPedido": "21853",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -38299,5 +38315,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:19:43.658Z"
+  "updatedAt": "2026-11-25T17:44:53.250Z"
 }
