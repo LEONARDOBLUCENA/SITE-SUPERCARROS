@@ -38191,6 +38191,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwwdt3pshtc836",
+      "createdAt": "2026-11-25T17:12:35.344Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Sem nome ",
+      "contatoCliente": "+55 38 9931-0454",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38219,5 +38235,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:12:11.225Z"
+  "updatedAt": "2026-11-25T17:12:37.412Z"
 }
