@@ -38319,6 +38319,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwwgbz63fckvup",
+      "createdAt": "2026-11-25T18:23:15.147Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Matheus",
+      "contatoCliente": "+55 79 9806-5907",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -38347,5 +38363,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T18:22:28.584Z"
+  "updatedAt": "2026-11-25T18:23:16.586Z"
 }
