@@ -38287,6 +38287,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwwf3ko9zkxwju",
+      "createdAt": "2026-11-25T17:48:43.497Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Eduarda Caroline Almeida Silva",
+      "contatoCliente": "+55 42 99906-0681",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38315,5 +38331,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:44:53.250Z"
+  "updatedAt": "2026-11-25T17:48:44.842Z"
 }
