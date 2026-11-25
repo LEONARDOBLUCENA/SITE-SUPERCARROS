@@ -38239,6 +38239,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwwdvjpwfxiitb",
+      "createdAt": "2026-11-25T17:14:29.396Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Felipe Miyashiro Ferreira",
+      "contatoCliente": "+55 41 99623-0188",
+      "origem": "Carrinho Abandonado",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38267,5 +38283,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T17:14:04.068Z"
+  "updatedAt": "2026-11-25T17:14:41.974Z"
 }
