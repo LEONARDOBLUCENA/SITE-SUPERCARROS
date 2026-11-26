@@ -38310,15 +38310,16 @@
       "dataAtendimento": "2026-11-25",
       "nomeCliente": "Matheus",
       "contatoCliente": "+55 79 9806-5907",
-      "origem": "",
-      "statusAtendimento": "Em negociação",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "origem": "Outro",
+      "statusAtendimento": "Recuperação",
+      "produtoInteresse": "recuperação laçador",
+      "dataVenda": "2026-11-25",
+      "valorVenda": "649.00",
+      "numeroPedido": "21867",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-26T00:24:44.294Z"
     },
     {
       "id": "rmwwj162cye9kx7",
@@ -38363,5 +38364,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-25T19:38:51.375Z"
+  "updatedAt": "2026-11-26T00:24:44.294Z"
 }
