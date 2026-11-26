@@ -38339,6 +38339,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxj8ympep2jc5",
+      "createdAt": "2026-11-26T12:32:39.505Z",
+      "dataAtendimento": "2026-11-18",
+      "nomeCliente": "Franchesco Murilo Dos Reis Ferreira",
+      "contatoCliente": "(34) 98842-4394",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "120.00",
+      "numeroPedido": "21871",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38367,5 +38383,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T01:17:24.127Z"
+  "updatedAt": "2026-11-26T12:32:41.029Z"
 }
