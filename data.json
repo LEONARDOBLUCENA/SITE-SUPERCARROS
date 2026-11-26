@@ -38387,6 +38387,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxk7bnczeu3m9",
+      "createdAt": "2026-11-26T12:59:22.680Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "Wilian Jorge",
+      "contatoCliente": "+55 48 9640-4181 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38415,5 +38431,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T12:59:06.913Z"
+  "updatedAt": "2026-11-26T12:59:24.406Z"
 }
