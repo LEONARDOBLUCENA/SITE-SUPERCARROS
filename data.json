@@ -38371,6 +38371,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxk6y52e2o4gc",
+      "createdAt": "2026-11-26T12:59:05.174Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "Jennerson",
+      "contatoCliente": "+55 61 8475-6237 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38399,5 +38415,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T12:58:17.026Z"
+  "updatedAt": "2026-11-26T12:59:06.913Z"
 }
