@@ -14524,14 +14524,15 @@
       "nomeCliente": "~Matheus Maia",
       "contatoCliente": "+55 75 9109-4468",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
-      "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "statusAtendimento": "Recuperação",
+      "produtoInteresse": "valor para cobrir laçador",
+      "dataVenda": "2026-11-25",
+      "valorVenda": "450.00",
+      "numeroPedido": "21869",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-26T01:17:24.126Z"
     },
     {
       "id": "rmuo8musz51c7gn",
@@ -38366,5 +38367,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T00:40:17.891Z"
+  "updatedAt": "2026-11-26T01:17:24.127Z"
 }
