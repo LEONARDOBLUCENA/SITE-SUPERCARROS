@@ -38565,6 +38565,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmwxxlehk2ihxee",
+      "createdAt": "2026-11-26T19:14:14.552Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "addyson",
+      "contatoCliente": "+55 32 8889-6082",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -38593,5 +38609,5 @@
       "updatedAt": "2026-11-26T13:13:06.805Z"
     }
   ],
-  "updatedAt": "2026-11-26T18:30:06.241Z"
+  "updatedAt": "2026-11-26T19:14:16.586Z"
 }
