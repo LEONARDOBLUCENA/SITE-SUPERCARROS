@@ -38264,14 +38264,15 @@
       "nomeCliente": "Lilian ",
       "contatoCliente": "71 8487-5022",
       "origem": "Upgrade Site",
-      "statusAtendimento": "Pedido finalizado",
+      "statusAtendimento": "Cliente desistiu",
       "produtoInteresse": "",
       "dataVenda": "2026-11-25",
       "valorVenda": "1470.00",
       "numeroPedido": "21853",
-      "statusPagamento": "Pago",
+      "statusPagamento": "Cancelado",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-26T00:36:28.889Z"
     },
     {
       "id": "rmwwf3ko9zkxwju",
@@ -38365,5 +38366,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T00:29:14.106Z"
+  "updatedAt": "2026-11-26T00:36:28.889Z"
 }
