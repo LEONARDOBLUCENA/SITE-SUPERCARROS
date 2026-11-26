@@ -37586,13 +37586,13 @@
       "origem": "Cara de Mau",
       "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
+      "dataVenda": "2026-11-25",
       "valorVenda": "99.00",
       "numeroPedido": "21833",
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-26T00:29:14.106Z"
+      "updatedAt": "2026-11-26T00:40:17.891Z"
     },
     {
       "id": "rmwutjkd8494s7r",
@@ -38366,5 +38366,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T00:36:28.889Z"
+  "updatedAt": "2026-11-26T00:40:17.891Z"
 }
