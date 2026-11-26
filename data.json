@@ -38499,6 +38499,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxka97bzunfl4",
+      "createdAt": "2026-11-26T13:01:39.479Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "Thayssa Manoela",
+      "contatoCliente": "+55 12 98837-0363 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38527,5 +38543,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T13:01:27.711Z"
+  "updatedAt": "2026-11-26T13:01:40.985Z"
 }
