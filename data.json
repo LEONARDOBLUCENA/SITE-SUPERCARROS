@@ -38355,6 +38355,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxk5vmzu21sqf",
+      "createdAt": "2026-11-26T12:58:15.275Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Matheus Henrique De Jesus Silva",
+      "contatoCliente": " (38) 99931-0454",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-26",
+      "valorVenda": "227.52",
+      "numeroPedido": "21879 e 21877",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38383,5 +38399,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T12:32:41.029Z"
+  "updatedAt": "2026-11-26T12:58:17.026Z"
 }
