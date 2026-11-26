@@ -38467,6 +38467,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxk9nwgwvedtg",
+      "createdAt": "2026-11-26T13:01:11.872Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "Alisson",
+      "contatoCliente": "+55 48 9607-7440 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38495,5 +38511,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T13:00:50.058Z"
+  "updatedAt": "2026-11-26T13:01:13.100Z"
 }
