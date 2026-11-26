@@ -38547,6 +38547,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxw0lr71mwnsy",
+      "createdAt": "2026-11-26T18:30:04.579Z",
+      "dataAtendimento": "2026-10-10",
+      "nomeCliente": "Augustinha Martins Calero",
+      "contatoCliente": "(11) 96473-1969",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-26",
+      "valorVenda": "1377.50",
+      "numeroPedido": "21893",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -38575,5 +38593,5 @@
       "updatedAt": "2026-11-26T13:13:06.805Z"
     }
   ],
-  "updatedAt": "2026-11-26T17:12:55.894Z"
+  "updatedAt": "2026-11-26T18:30:06.241Z"
 }
