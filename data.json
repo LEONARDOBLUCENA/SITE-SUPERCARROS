@@ -38661,6 +38661,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwy1mkyjvu5p99",
+      "createdAt": "2026-11-26T21:07:08.059Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "felipe",
+      "contatoCliente": "+55 37 9875-7083",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "modena",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -38689,5 +38705,5 @@
       "updatedAt": "2026-11-26T13:13:06.805Z"
     }
   ],
-  "updatedAt": "2026-11-26T20:48:06.557Z"
+  "updatedAt": "2026-11-26T21:07:09.070Z"
 }
