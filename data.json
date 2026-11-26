@@ -38515,6 +38515,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxkaovykcwqbn",
+      "createdAt": "2026-11-26T13:01:59.806Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "Renata",
+      "contatoCliente": "+55 55 9989-1178 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38543,5 +38559,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T13:01:40.985Z"
+  "updatedAt": "2026-11-26T13:02:01.177Z"
 }
