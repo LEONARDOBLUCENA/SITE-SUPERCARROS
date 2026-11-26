@@ -38531,6 +38531,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxkbov5jf7oml",
+      "createdAt": "2026-11-26T13:02:46.433Z",
+      "dataAtendimento": "2026-11-25",
+      "nomeCliente": "Dra.Gabrielly",
+      "contatoCliente": "+55 19 98300-5704 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38559,5 +38575,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T13:02:01.177Z"
+  "updatedAt": "2026-11-26T13:02:47.752Z"
 }
