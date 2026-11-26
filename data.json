@@ -38693,6 +38693,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwy2kcangsh9q2",
+      "createdAt": "2026-11-26T21:33:23.135Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "~Afrânio Figueiredo",
+      "contatoCliente": "+55 31 9638-9232",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -38721,5 +38737,5 @@
       "updatedAt": "2026-11-26T13:13:06.805Z"
     }
   ],
-  "updatedAt": "2026-11-26T21:10:50.525Z"
+  "updatedAt": "2026-11-26T21:33:23.951Z"
 }
