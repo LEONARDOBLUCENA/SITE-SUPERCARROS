@@ -38677,6 +38677,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwy1rbgtsggly7",
+      "createdAt": "2026-11-26T21:10:49.037Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "Wenderson",
+      "contatoCliente": "+55 81 8185-6595",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -38705,5 +38721,5 @@
       "updatedAt": "2026-11-26T13:13:06.805Z"
     }
   ],
-  "updatedAt": "2026-11-26T21:07:09.070Z"
+  "updatedAt": "2026-11-26T21:10:50.525Z"
 }
