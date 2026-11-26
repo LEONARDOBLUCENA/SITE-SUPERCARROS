@@ -37584,14 +37584,15 @@
       "nomeCliente": "nathi",
       "contatoCliente": "+55 48 9609-3706",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Em negociação",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "valorVenda": "99.00",
+      "numeroPedido": "21833",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-26T00:29:14.106Z"
     },
     {
       "id": "rmwutjkd8494s7r",
@@ -38364,5 +38365,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T00:24:44.294Z"
+  "updatedAt": "2026-11-26T00:29:14.106Z"
 }
