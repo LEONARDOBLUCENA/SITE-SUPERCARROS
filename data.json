@@ -38483,6 +38483,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxk9zbbynm7db",
+      "createdAt": "2026-11-26T13:01:26.663Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "Denylson Lopes",
+      "contatoCliente": "+55 62 8228-7086 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38511,5 +38527,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T13:01:13.100Z"
+  "updatedAt": "2026-11-26T13:01:27.711Z"
 }
