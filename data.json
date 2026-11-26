@@ -38403,6 +38403,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxk7pygswf0lm",
+      "createdAt": "2026-11-26T12:59:41.224Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "Amanda Lobo",
+      "contatoCliente": "+55 18 98144-4596 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38431,5 +38447,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T12:59:24.406Z"
+  "updatedAt": "2026-11-26T12:59:42.741Z"
 }
