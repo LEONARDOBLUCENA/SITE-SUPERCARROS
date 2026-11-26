@@ -38419,6 +38419,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwxk87i0kkly4l",
+      "createdAt": "2026-11-26T13:00:03.960Z",
+      "dataAtendimento": "2026-11-26",
+      "nomeCliente": "Gleyson",
+      "contatoCliente": "+55 31 9286-8297 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38447,5 +38463,5 @@
       "updatedAt": "2026-11-24T18:14:34.522Z"
     }
   ],
-  "updatedAt": "2026-11-26T12:59:42.741Z"
+  "updatedAt": "2026-11-26T13:00:05.142Z"
 }
