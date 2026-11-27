@@ -39301,6 +39301,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwzkbynae6sq3p",
+      "createdAt": "2026-11-27T22:38:31.462Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "Mateus Alves",
+      "contatoCliente": "+55 62 8279-3017",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39329,5 +39345,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T22:33:19.319Z"
+  "updatedAt": "2026-11-27T22:38:32.631Z"
 }
