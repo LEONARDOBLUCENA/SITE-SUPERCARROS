@@ -38855,6 +38855,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwyzb4eoceayqe",
+      "createdAt": "2026-11-27T12:50:00.336Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "Elaine",
+      "contatoCliente": "+55 11 97963-5021 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38883,5 +38899,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T12:49:47.261Z"
+  "updatedAt": "2026-11-27T12:50:01.710Z"
 }
