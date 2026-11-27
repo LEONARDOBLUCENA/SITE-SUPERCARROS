@@ -26337,14 +26337,15 @@
       "nomeCliente": "JOAO",
       "contatoCliente": "+55 33 8855-6059",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-27",
+      "valorVenda": "1070.00",
+      "numeroPedido": "21963",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-27T23:01:00.143Z"
     },
     {
       "id": "rmvqrxt8vzm5y5e",
@@ -39345,5 +39346,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T22:38:32.631Z"
+  "updatedAt": "2026-11-27T23:01:00.143Z"
 }
