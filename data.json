@@ -39141,7 +39141,7 @@
       "nomeCliente": "Gilliard",
       "contatoCliente": "+55 19 99442-3710",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
       "dataVenda": "2026-11-27",
       "valorVenda": "274.00",
@@ -39150,7 +39150,8 @@
       "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
-      "compartilhado": true
+      "compartilhado": true,
+      "updatedAt": "2026-11-27T18:54:38.344Z"
     },
     {
       "id": "rmwzc7z8tv9cl48",
@@ -39195,5 +39196,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T18:51:30.986Z"
+  "updatedAt": "2026-11-27T18:54:38.344Z"
 }
