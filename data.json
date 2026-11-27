@@ -39318,6 +39318,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwzmqbimb9qdob",
+      "createdAt": "2026-11-27T23:45:40.558Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "~Ramires Bittencourt",
+      "contatoCliente": "+55 48 8862-1881",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39346,5 +39362,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T23:06:38.818Z"
+  "updatedAt": "2026-11-27T23:45:41.526Z"
 }
