@@ -38911,14 +38911,15 @@
       "nomeCliente": "Julio Bertaco",
       "contatoCliente": "+55 11 94151-1100 ",
       "origem": "Cara de Mau",
-      "statusAtendimento": "Sem retorno/perdido",
+      "statusAtendimento": "Pedido finalizado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-27",
+      "valorVenda": "1091.41",
+      "numeroPedido": "21933",
+      "statusPagamento": "Pago",
       "observacao": "",
-      "vendedora": "bruna"
+      "vendedora": "bruna",
+      "updatedAt": "2026-11-27T14:27:59.149Z"
     },
     {
       "id": "rmwyzcouq9848uv",
@@ -39013,5 +39014,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T13:23:54.785Z"
+  "updatedAt": "2026-11-27T14:27:59.149Z"
 }
