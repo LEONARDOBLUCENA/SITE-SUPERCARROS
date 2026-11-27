@@ -39018,6 +39018,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwz3th6r95yk3h",
+      "createdAt": "2026-11-27T14:56:15.171Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "Arthur Costa",
+      "contatoCliente": "+55 73 9800-5556",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "1300.00",
+      "numeroPedido": "21937",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -39046,5 +39062,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T14:32:57.054Z"
+  "updatedAt": "2026-11-27T14:56:17.340Z"
 }
