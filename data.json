@@ -38903,6 +38903,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwyzcayk519en0",
+      "createdAt": "2026-11-27T12:50:55.484Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "Julio Bertaco",
+      "contatoCliente": "+55 11 94151-1100 ",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Sem retorno/perdido",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38931,5 +38947,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T12:50:39.154Z"
+  "updatedAt": "2026-11-27T12:50:58.402Z"
 }
