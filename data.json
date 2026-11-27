@@ -39133,6 +39133,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwzb768nrok51j",
+      "createdAt": "2026-11-27T18:22:51.479Z",
+      "dataAtendimento": "2026-09-30",
+      "nomeCliente": "Gilliard",
+      "contatoCliente": "+55 19 99442-3710",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-27",
+      "valorVenda": "274.00",
+      "numeroPedido": "21947 e 21949",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -39161,5 +39179,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T18:21:55.717Z"
+  "updatedAt": "2026-11-27T18:22:52.512Z"
 }
