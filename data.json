@@ -39268,6 +39268,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwzg77xg2h8f8a",
+      "createdAt": "2026-11-27T20:42:51.748Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "Priscila",
+      "contatoCliente": "+55 81 9587-4981",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39296,5 +39312,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T20:38:38.639Z"
+  "updatedAt": "2026-11-27T20:42:53.595Z"
 }
