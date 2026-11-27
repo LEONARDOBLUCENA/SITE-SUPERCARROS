@@ -38986,6 +38986,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwz2vzysrdc7n8",
+      "createdAt": "2026-11-27T14:30:13.204Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "~Victor Varjão",
+      "contatoCliente": "+55 79 8115-5338",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39014,5 +39030,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T14:27:59.149Z"
+  "updatedAt": "2026-11-27T14:30:14.260Z"
 }
