@@ -38969,6 +38969,22 @@
       "vendedora": "gisele",
       "vendedoraFinalizou": "bruna",
       "compartilhado": true
+    },
+    {
+      "id": "rmwz0ip1rgznel6",
+      "createdAt": "2026-11-27T13:23:53.295Z",
+      "dataAtendimento": "2026-11-23",
+      "nomeCliente": "Bruna Dias",
+      "contatoCliente": "+55 84 9101-4910",
+      "origem": "Cara de Mau",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-27",
+      "valorVenda": "332.50",
+      "numeroPedido": "21929",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38997,5 +39013,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T12:59:10.747Z"
+  "updatedAt": "2026-11-27T13:23:54.785Z"
 }
