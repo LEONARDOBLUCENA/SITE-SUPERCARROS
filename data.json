@@ -38741,6 +38741,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwyf5ati3p2imt",
+      "createdAt": "2026-11-27T03:25:36.390Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "Kerolen",
+      "contatoCliente": "51) 99644-1736",
+      "origem": "",
+      "statusAtendimento": "Link enviado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-27",
+      "valorVenda": "346.50",
+      "numeroPedido": "51) 99644-1736",
+      "statusPagamento": "Pendente",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -38769,5 +38787,5 @@
       "updatedAt": "2026-11-26T13:13:06.805Z"
     }
   ],
-  "updatedAt": "2026-11-26T22:08:25.549Z"
+  "updatedAt": "2026-11-27T03:25:38.517Z"
 }
