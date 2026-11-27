@@ -38004,14 +38004,15 @@
       "nomeCliente": "barbara",
       "contatoCliente": "+55 48 8847-0066",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Link enviado",
       "produtoInteresse": "",
-      "dataVenda": "",
-      "valorVenda": "",
-      "numeroPedido": "",
-      "statusPagamento": "",
+      "dataVenda": "2026-11-27",
+      "valorVenda": "297.00",
+      "numeroPedido": "21941 ",
+      "statusPagamento": "Pendente",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-27T16:07:36.902Z"
     },
     {
       "id": "rmww1nzemeqbw37",
@@ -39112,5 +39113,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T15:55:19.059Z"
+  "updatedAt": "2026-11-27T16:07:36.902Z"
 }
