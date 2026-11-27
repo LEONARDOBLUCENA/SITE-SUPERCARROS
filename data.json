@@ -38839,6 +38839,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwyzasxarxgkga",
+      "createdAt": "2026-11-27T12:49:45.454Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "Fernando Ramos",
+      "contatoCliente": "+55 31 9689-7843 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38867,5 +38883,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T12:49:30.301Z"
+  "updatedAt": "2026-11-27T12:49:47.261Z"
 }
