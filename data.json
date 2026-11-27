@@ -38951,6 +38951,24 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwyzmw3ogwo096",
+      "createdAt": "2026-11-27T12:59:09.444Z",
+      "dataAtendimento": "2026-11-10",
+      "nomeCliente": "Wenderson Da Silva Alves",
+      "contatoCliente": "(81) 98185-6595",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-27",
+      "valorVenda": "2185.00",
+      "numeroPedido": "21921 e 21919",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -38979,5 +38997,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T12:51:29.823Z"
+  "updatedAt": "2026-11-27T12:59:10.747Z"
 }
