@@ -26342,10 +26342,10 @@
       "dataVenda": "2026-11-27",
       "valorVenda": "1070.00",
       "numeroPedido": "21963",
-      "statusPagamento": "Pago",
+      "statusPagamento": "Pendente",
       "observacao": "",
       "vendedora": "gisele",
-      "updatedAt": "2026-11-27T23:01:00.143Z"
+      "updatedAt": "2026-11-27T23:06:26.085Z"
     },
     {
       "id": "rmvqrxt8vzm5y5e",
@@ -39346,5 +39346,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T23:01:00.143Z"
+  "updatedAt": "2026-11-27T23:06:26.086Z"
 }
