@@ -39285,6 +39285,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwzk58pzzh3cpq",
+      "createdAt": "2026-11-27T22:33:17.927Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "maicon",
+      "contatoCliente": "+55 61 9271-7938",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39313,5 +39329,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T22:07:20.517Z"
+  "updatedAt": "2026-11-27T22:33:19.319Z"
 }
