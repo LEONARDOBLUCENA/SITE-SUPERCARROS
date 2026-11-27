@@ -39202,6 +39202,24 @@
       "vendedora": "bruna",
       "vendedoraFinalizou": "gisele",
       "compartilhado": true
+    },
+    {
+      "id": "rmwzev7t5moln6w",
+      "createdAt": "2026-11-27T20:05:32.105Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "~Financeiro Sinodal Prado",
+      "contatoCliente": "+55 51 9730-9495",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-27",
+      "valorVenda": "1222.50",
+      "numeroPedido": "21881",
+      "statusPagamento": "Pago",
+      "observacao": "[Compartilhado] Gisele iniciou; Bruna finalizou.",
+      "vendedora": "gisele",
+      "vendedoraFinalizou": "bruna",
+      "compartilhado": true
     }
   ],
   "siteVendas": [
@@ -39230,5 +39248,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T19:40:57.229Z"
+  "updatedAt": "2026-11-27T20:05:33.174Z"
 }
