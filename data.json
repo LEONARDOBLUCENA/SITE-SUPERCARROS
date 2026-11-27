@@ -38887,6 +38887,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwyzbx04zfm04o",
+      "createdAt": "2026-11-27T12:50:37.396Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "Instrutor Luiz Junior",
+      "contatoCliente": "+55 34 9274-2478 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38915,5 +38931,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T12:50:19.160Z"
+  "updatedAt": "2026-11-27T12:50:39.154Z"
 }
