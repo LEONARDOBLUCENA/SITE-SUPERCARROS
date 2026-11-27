@@ -38823,6 +38823,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "bruna"
+    },
+    {
+      "id": "rmwyzag0xn920sj",
+      "createdAt": "2026-11-27T12:49:28.737Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "Jessica Carneiro",
+      "contatoCliente": "+55 19 99686-6386 ",
+      "origem": "",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "bruna"
     }
   ],
   "siteVendas": [
@@ -38851,5 +38867,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T12:49:09.305Z"
+  "updatedAt": "2026-11-27T12:49:30.301Z"
 }
