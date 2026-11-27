@@ -39252,6 +39252,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwzg1rkokvt0bu",
+      "createdAt": "2026-11-27T20:38:37.272Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "~Luis Eduardo Provenzano",
+      "contatoCliente": "+55 11 98326-3003",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39280,5 +39296,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T20:27:03.569Z"
+  "updatedAt": "2026-11-27T20:38:38.639Z"
 }
