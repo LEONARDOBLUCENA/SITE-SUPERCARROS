@@ -39236,6 +39236,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwzfmvad2343wk",
+      "createdAt": "2026-11-27T20:27:02.245Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "deliane",
+      "contatoCliente": "+55 86 9988-3874",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39264,5 +39280,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T20:07:04.002Z"
+  "updatedAt": "2026-11-27T20:27:03.569Z"
 }
