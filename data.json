@@ -39463,6 +39463,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmx0elgfpity96g",
+      "createdAt": "2026-11-28T12:45:42.901Z",
+      "dataAtendimento": "2026-11-28",
+      "nomeCliente": "Juan Carlos Silveira Marpa",
+      "contatoCliente": "+1 (774) 474-7044",
+      "origem": "",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-28",
+      "valorVenda": "483.50",
+      "numeroPedido": "21987",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39491,5 +39507,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-28T12:22:07.317Z"
+  "updatedAt": "2026-11-28T12:45:44.082Z"
 }
