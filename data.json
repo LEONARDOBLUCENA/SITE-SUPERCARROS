@@ -39342,14 +39342,15 @@
       "nomeCliente": "igor",
       "contatoCliente": "+55 21 99134-6450",
       "origem": "",
-      "statusAtendimento": "Primeiro atendimento",
+      "statusAtendimento": "Em negociação",
       "produtoInteresse": "",
       "dataVenda": "",
       "valorVenda": "",
       "numeroPedido": "",
       "statusPagamento": "",
       "observacao": "",
-      "vendedora": "gisele"
+      "vendedora": "gisele",
+      "updatedAt": "2026-11-28T00:23:11.513Z"
     },
     {
       "id": "rmwznzk6bq4zq62",
@@ -39394,5 +39395,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-28T00:20:52.515Z"
+  "updatedAt": "2026-11-28T00:23:11.513Z"
 }
