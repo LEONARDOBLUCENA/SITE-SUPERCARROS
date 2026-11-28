@@ -39350,6 +39350,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwznzk6bq4zq62",
+      "createdAt": "2026-11-28T00:20:51.299Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "bg",
+      "contatoCliente": "+55 11 95891-7160",
+      "origem": "",
+      "statusAtendimento": "Em negociação",
+      "produtoInteresse": "master",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39378,5 +39394,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-27T23:48:13.662Z"
+  "updatedAt": "2026-11-28T00:20:52.515Z"
 }
