@@ -39479,6 +39479,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmx0elp59almtb2",
+      "createdAt": "2026-11-28T12:45:54.189Z",
+      "dataAtendimento": "2026-11-28",
+      "nomeCliente": "claudia",
+      "contatoCliente": "+55 27 99969-9590",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39507,5 +39523,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-28T12:45:44.082Z"
+  "updatedAt": "2026-11-28T12:45:55.656Z"
 }
