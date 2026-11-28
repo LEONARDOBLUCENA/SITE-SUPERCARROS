@@ -39367,6 +39367,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwzoqliraykjd3",
+      "createdAt": "2026-11-28T00:41:52.755Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "FLAVIA",
+      "contatoCliente": "+55 41 9749-9255",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Pedido finalizado",
+      "produtoInteresse": "",
+      "dataVenda": "2026-11-27",
+      "valorVenda": "220.00",
+      "numeroPedido": "21971",
+      "statusPagamento": "Pago",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39395,5 +39411,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-28T00:23:11.513Z"
+  "updatedAt": "2026-11-28T00:41:54.472Z"
 }
