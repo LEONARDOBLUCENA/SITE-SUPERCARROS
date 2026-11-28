@@ -39495,6 +39495,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmx0enx62rj9klj",
+      "createdAt": "2026-11-28T12:47:37.898Z",
+      "dataAtendimento": "2026-11-28",
+      "nomeCliente": "everton",
+      "contatoCliente": "+55 51 9633-5141",
+      "origem": "WhatsApp",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39523,5 +39539,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-28T12:45:55.656Z"
+  "updatedAt": "2026-11-28T12:47:39.542Z"
 }
