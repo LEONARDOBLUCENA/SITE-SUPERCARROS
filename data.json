@@ -39511,6 +39511,22 @@
       "statusPagamento": "",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmx0exqabnpzuor",
+      "createdAt": "2026-11-28T12:55:15.539Z",
+      "dataAtendimento": "2026-11-28",
+      "nomeCliente": "Sem nome",
+      "contatoCliente": "+55 69 8477-6610",
+      "origem": "Voucher Cotas",
+      "statusAtendimento": "Dúvidas",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39539,5 +39555,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-28T12:47:39.542Z"
+  "updatedAt": "2026-11-28T12:55:17.596Z"
 }
