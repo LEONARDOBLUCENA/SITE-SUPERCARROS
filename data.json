@@ -39383,6 +39383,22 @@
       "statusPagamento": "Pago",
       "observacao": "",
       "vendedora": "gisele"
+    },
+    {
+      "id": "rmwzp7e8unrptve",
+      "createdAt": "2026-11-28T00:54:56.478Z",
+      "dataAtendimento": "2026-11-27",
+      "nomeCliente": "Eder",
+      "contatoCliente": "+55 31 9907-8870",
+      "origem": "Upgrade Site",
+      "statusAtendimento": "Primeiro atendimento",
+      "produtoInteresse": "",
+      "dataVenda": "",
+      "valorVenda": "137.00",
+      "numeroPedido": "",
+      "statusPagamento": "",
+      "observacao": "",
+      "vendedora": "gisele"
     }
   ],
   "siteVendas": [
@@ -39411,5 +39427,5 @@
       "updatedAt": "2026-11-27T12:20:47.010Z"
     }
   ],
-  "updatedAt": "2026-11-28T00:41:54.472Z"
+  "updatedAt": "2026-11-28T00:54:58.294Z"
 }
